@@ -1,0 +1,7 @@
+requests
+anthropic
+python-docx
+pydantic
+python-dotenv
+streamlit
+notion-client
