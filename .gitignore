@@ -2,10 +2,16 @@
 .env
 .env.*
 
-# Outputs gerados
-output/
-*.docx
-*.pdf
+# Outputs gerados (exceto template e placeholder)
+output/*.docx
+output/*.pdf
+output/*.json
+output/*.jsonl
+!output/.gitkeep
+# Relatórios gerados (não o template)
+!templates/template_abes.docx
+relatorio_*.docx
+relatorio_*.pdf
 
 # Python
 __pycache__/
