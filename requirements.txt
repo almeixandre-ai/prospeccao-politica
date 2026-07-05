@@ -5,3 +5,5 @@ pydantic
 python-dotenv
 streamlit
 notion-client
+matplotlib
+numpy
