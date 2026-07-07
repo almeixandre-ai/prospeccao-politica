@@ -10,7 +10,7 @@ class ProposicaoInfo(BaseModel):
     numero: int
     ano: int
     ementa: str
-    situacao_atual: str
+    situacao_atual: Optional[str] = "Não informada"
     ultimo_evento: Optional[str] = None
     ultimo_evento_data: Optional[str] = None
     autor: Optional[str] = None
