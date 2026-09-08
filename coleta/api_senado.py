@@ -55,6 +55,43 @@ def _buscar_processo(sigla: str, numero: int, ano: int) -> dict | None:
     return None
 
 
+def _buscar_relator(codigo_materia: int | str) -> str | None:
+    """Retorna o nome do relator atual via /materia/relatorias/{codigoMateria}.
+
+    O endpoint legado ainda está ativo apesar da depreciação formal.
+    Retorna o relator sem data de destituição (ativo), ou o mais recente.
+    """
+    try:
+        data = _get(f"{BASE}/materia/relatorias/{codigo_materia}")
+        relators = (
+            data.get("RelatoriaMateria", {})
+            .get("Materia", {})
+            .get("HistoricoRelatoria", {})
+            .get("Relator", [])
+        )
+        if isinstance(relators, dict):
+            relators = [relators]
+        if not relators:
+            return None
+        # Preferir relator sem data de destituição (ainda ativo)
+        ativos = [r for r in relators if not r.get("DataDestituicao")]
+        candidatos = ativos or relators
+        ultimo = candidatos[-1]
+        nome = _safe(ultimo, "IdentificacaoParlamentar", "NomeParlamentar")
+        tratamento = _safe(ultimo, "IdentificacaoParlamentar", "FormaTratamento", default="")
+        comissao = _safe(ultimo, "IdentificacaoComissao", "SiglaComissao", default="")
+        partes = []
+        if tratamento:
+            partes.append(tratamento)
+        if nome:
+            partes.append(nome)
+        if comissao:
+            partes.append(f"({comissao})")
+        return " ".join(partes) if partes else None
+    except Exception:
+        return None
+
+
 def buscar_proposicao(sigla: str, numero: int, ano: int) -> dict:
     """Retorna dados padronizados de uma matéria do Senado.
 
@@ -107,8 +144,11 @@ def buscar_proposicao(sigla: str, numero: int, ano: int) -> dict:
             raw_data = last.get("data", "")
             ultimo_evento_data = raw_data[:10] if raw_data else None
 
-    # Relator — campo não presente no /processo; pode ser adicionado via futura expansão
+    # Relator — via endpoint de relatorias da matéria (ainda ativo)
     relator = None
+    codigo_materia = detalhe.get("codigoMateria") or resumo.get("codigoMateria")
+    if codigo_materia:
+        relator = _buscar_relator(codigo_materia)
 
     # Autor original da iniciativa
     autor = None
@@ -118,14 +158,20 @@ def buscar_proposicao(sigla: str, numero: int, ano: int) -> dict:
     if not autor:
         autor = _safe(detalhe, "documento", "resumoAutoria") or resumo.get("autoria")
 
-    # Comissão/local atual
+    # Comissão/local atual — última situação registrada (mais recente)
     comissoes_pendentes: list[str] = []
     if autuacoes:
         situacoes_list = _safe(autuacoes, 0, "situacoes", default=[])
         if isinstance(situacoes_list, list) and situacoes_list:
-            colegiado_sigla = _safe(situacoes_list, 0, "colegiado", "sigla")
+            # Usar a última situação (mais recente) e também capturar o local atual
+            ultima_sit = situacoes_list[-1]
+            colegiado_sigla = _safe(ultima_sit, "colegiado", "sigla")
+            colegiado_nome = _safe(ultima_sit, "colegiado", "nome")
             if colegiado_sigla:
-                comissoes_pendentes.append(colegiado_sigla)
+                label = f"{colegiado_sigla}"
+                if colegiado_nome and colegiado_nome != colegiado_sigla:
+                    label = f"{colegiado_sigla} – {colegiado_nome}"
+                comissoes_pendentes.append(label)
 
     # Regime de tramitação — não exposto diretamente no novo endpoint
     regime = None
