@@ -1,0 +1,109 @@
+{
+  "parlamentar_chave": "camara_SP_250002537943",
+  "data_geracao": "2026-10-05",
+  "temas": [
+    {
+      "tema_id": "ia",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "dados",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "tributacao",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "incentivos_pd",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "ciberseguranca",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "infra_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "governo_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "talentos",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "propriedade_intelectual",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "plataformas",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "startups",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    }
+  ],
+  "historico_legislativo": [
+    "PL 349/2024 [ia]: Institui campanha de prevenção e combate aos crimes digitais contra crianças, adolescentes e pessoas com deficiência praticados com o suporte de ferramentas de inteligência artificial.",
+    "PLP 81/2025 [tributacao]: Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para modificar regras relativas ao regime diferenciado do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) aplicável aos",
+    "PL 1011/2026 [plataformas]: Institui a Lei Trajeto Seguro, que estabelece mecanismos obrigatórios de segurança preventiva em aplicativos de transporte individual de passageiros e cria protocolos tecnológicos de proteção a usuárias, especialmente mu"
+  ],
+  "perfil_resumo": "",
+  "pesos": {
+    "ia": 3.0,
+    "dados": 2.0,
+    "tributacao": 3.0,
+    "incentivos_pd": 2.0,
+    "ciberseguranca": 2.0,
+    "infra_digital": 2.0,
+    "governo_digital": 2.0,
+    "talentos": 2.0,
+    "propriedade_intelectual": 1.0,
+    "plataformas": 1.0,
+    "startups": 1.0
+  },
+  "alertas": [
+    "Triagem por palavras-chave (sem IA) — mede engajamento, não alinhamento"
+  ],
+  "metodo": "triagem",
+  "cobertura": 0.33,
+  "indice_afinidade": 68.2,
+  "classificacao": "Engajado — qualificar"
+}

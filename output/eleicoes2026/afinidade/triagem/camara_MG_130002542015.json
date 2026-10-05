@@ -1,0 +1,109 @@
+{
+  "parlamentar_chave": "camara_MG_130002542015",
+  "data_geracao": "2026-10-05",
+  "temas": [
+    {
+      "tema_id": "ia",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "dados",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "tributacao",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "incentivos_pd",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "ciberseguranca",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "infra_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "governo_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "talentos",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "propriedade_intelectual",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "plataformas",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "startups",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    }
+  ],
+  "historico_legislativo": [
+    "PL 4687/2024 [plataformas]: Dispõe sobre a coibição da exposição de crianças e adolescentes a conteúdo sexual, nudez, drogas e violência em plataformas digitais e dá outras providências.",
+    "PL 353/2026 [talentos]: Altera a Lei nº 8.842, de 4 de janeiro de 1994, que dispõe sobre a Política Nacional do Idoso, e a Lei nº 10.741, de 1º de outubro de 2003, que institui o Estatuto da Pessoa Idosa, para estabelecer a Política Nacional de",
+    "PL 4881/2026 [ia]: Dispõe sobre os deveres de governança, segurança, transparência, responsabilidade, conformidade e proteção do consumidor na utilização de sistemas de inteligência artificial nas relações de consumo, institui o Regime Jur"
+  ],
+  "perfil_resumo": "",
+  "pesos": {
+    "ia": 3.0,
+    "dados": 2.0,
+    "tributacao": 3.0,
+    "incentivos_pd": 2.0,
+    "ciberseguranca": 2.0,
+    "infra_digital": 2.0,
+    "governo_digital": 2.0,
+    "talentos": 2.0,
+    "propriedade_intelectual": 1.0,
+    "plataformas": 1.0,
+    "startups": 1.0
+  },
+  "alertas": [
+    "Triagem por palavras-chave (sem IA) — mede engajamento, não alinhamento"
+  ],
+  "metodo": "triagem",
+  "cobertura": 0.29,
+  "indice_afinidade": 67.2,
+  "classificacao": "Engajado — qualificar"
+}

@@ -1,0 +1,112 @@
+{
+  "parlamentar_chave": "camara_MS_120002537465",
+  "data_geracao": "2026-10-05",
+  "temas": [
+    {
+      "tema_id": "ia",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 3 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "dados",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "tributacao",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "incentivos_pd",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "ciberseguranca",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "infra_digital",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "governo_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "talentos",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "propriedade_intelectual",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "plataformas",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 2 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "startups",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    }
+  ],
+  "historico_legislativo": [
+    "PL 2421/2023 [ia]: Dispõe sobre a criação do Fundo de Renda Básica, que será utilizado para redistribuição de renda para os trabalhadores afetados pelo uso de inteligência artificial e alto grau de automação no mercado de trabalho.",
+    "PL 390/2024 [ia]: Altera a Lei nº 10.406 de 10 de janeiro de 2002 (Código Civil), para reconhecer como fraude anúncios de produtos falsos e golpes financeiros, que envolvam o uso manipulado por inteligência artificial da imagem e voz de p",
+    "PEC 31/2024 [infra_digital]: Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 2280/2025 [plataformas]: Dispõe sobre a destinação de percentual dos recursos depositados em plataformas digitais de operação financeira para contas de poupança de titularidade do usuário, e dá outras providências.",
+    "PL 4522/2025 [ia]: Dispõe sobre diretrizes e critérios para o cumprimento dos protocolos do Conselho Federal de Psicologia no âmbito do uso de sistemas de inteligência artificial generativa de uso conversacional (IAg-C).",
+    "PL 2034/2026 [plataformas]: Dispõe sobre a obrigatoriedade de disponibilização de mecanismo de verificação colaborativa de fatos por provedores de redes sociais."
+  ],
+  "perfil_resumo": "",
+  "pesos": {
+    "ia": 3.0,
+    "dados": 2.0,
+    "tributacao": 3.0,
+    "incentivos_pd": 2.0,
+    "ciberseguranca": 2.0,
+    "infra_digital": 2.0,
+    "governo_digital": 2.0,
+    "talentos": 2.0,
+    "propriedade_intelectual": 1.0,
+    "plataformas": 1.0,
+    "startups": 1.0
+  },
+  "alertas": [
+    "Triagem por palavras-chave (sem IA) — mede engajamento, não alinhamento"
+  ],
+  "metodo": "triagem",
+  "cobertura": 0.29,
+  "indice_afinidade": 67.2,
+  "classificacao": "Engajado — qualificar"
+}

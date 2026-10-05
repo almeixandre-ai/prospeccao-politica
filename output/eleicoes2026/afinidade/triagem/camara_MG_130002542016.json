@@ -1,0 +1,110 @@
+{
+  "parlamentar_chave": "camara_MG_130002542016",
+  "data_geracao": "2026-10-05",
+  "temas": [
+    {
+      "tema_id": "ia",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "dados",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "tributacao",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "incentivos_pd",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "ciberseguranca",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "infra_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "governo_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "talentos",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "propriedade_intelectual",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "plataformas",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 2 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "startups",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    }
+  ],
+  "historico_legislativo": [
+    "PL 5342/2023 [ia]: Tipifica o crime de Porno Fake e acrescenta o artigo 218-D ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de criação, divulgação e comercialização de imagem de nudez ou de cunho ",
+    "PL 3875/2025 [plataformas]: Altera os artigos 240 e 241 do Estatuto da Criança e do Adolescente (Lei nº 8.069, de 13 de julho de 1990), para incluir expressamente a tipificação das condutas de exploração sexual implícita, exposição sexualizada e ad",
+    "PL 3879/2025 [plataformas]: Dispõe sobre a proteção do direito à participção política e à livre manifestação do pensamento eletivo, candidatos e partidos políticos em plataformas digitais no período eleitoral e dá outras providências.",
+    "PL 3963/2025 [dados]: Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), e a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente – ECA), para vedar a monetização de conteúd"
+  ],
+  "perfil_resumo": "",
+  "pesos": {
+    "ia": 3.0,
+    "dados": 2.0,
+    "tributacao": 3.0,
+    "incentivos_pd": 2.0,
+    "ciberseguranca": 2.0,
+    "infra_digital": 2.0,
+    "governo_digital": 2.0,
+    "talentos": 2.0,
+    "propriedade_intelectual": 1.0,
+    "plataformas": 1.0,
+    "startups": 1.0
+  },
+  "alertas": [
+    "Triagem por palavras-chave (sem IA) — mede engajamento, não alinhamento"
+  ],
+  "metodo": "triagem",
+  "cobertura": 0.29,
+  "indice_afinidade": 67.2,
+  "classificacao": "Engajado — qualificar"
+}

@@ -1,0 +1,109 @@
+{
+  "parlamentar_chave": "senado_CE_60002542476",
+  "data_geracao": "2026-10-05",
+  "temas": [
+    {
+      "tema_id": "ia",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "dados",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "tributacao",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "incentivos_pd",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "ciberseguranca",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "infra_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "governo_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "talentos",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "propriedade_intelectual",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "plataformas",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "startups",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    }
+  ],
+  "historico_legislativo": [
+    "PL 98/2026 [plataformas]: Altera e complementa a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente), para dispor sobre a proteção de crianças e adolescentes no ambiente digital, estabelecer deveres às platafor",
+    "PL 323/2026 [ia, talentos]: Cria o Fundo Nacional de Inovação, Desenvolvimento, Massificação e Universalização em Educação Digital e Inteligência Artificial (FinEducaDigital)."
+  ],
+  "perfil_resumo": "",
+  "pesos": {
+    "ia": 3.0,
+    "dados": 2.0,
+    "tributacao": 3.0,
+    "incentivos_pd": 2.0,
+    "ciberseguranca": 2.0,
+    "infra_digital": 2.0,
+    "governo_digital": 2.0,
+    "talentos": 2.0,
+    "propriedade_intelectual": 1.0,
+    "plataformas": 1.0,
+    "startups": 1.0
+  },
+  "alertas": [
+    "Deputado(a) federal na legislatura atual",
+    "Triagem por palavras-chave (sem IA) — mede engajamento, não alinhamento"
+  ],
+  "metodo": "triagem",
+  "cobertura": 0.29,
+  "indice_afinidade": 67.2,
+  "classificacao": "Engajado — qualificar"
+}

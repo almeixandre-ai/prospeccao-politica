@@ -1,0 +1,113 @@
+{
+  "parlamentar_chave": "camara_SC_240002535434",
+  "data_geracao": "2026-10-05",
+  "temas": [
+    {
+      "tema_id": "ia",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "dados",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "tributacao",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 4 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "incentivos_pd",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "ciberseguranca",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "infra_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "governo_digital",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "talentos",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "propriedade_intelectual",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "plataformas",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 2 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "startups",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    }
+  ],
+  "historico_legislativo": [
+    "PLP 43/2023 [plataformas]: Extingue a bitributação sobre valores pagos a plataformas digitais que operem por aplicativos e concede remissão nos casos em que especifica.",
+    "PLP 37/2024 [tributacao]: Regulamenta o §8º do art. 156-B da Constituição Federal para dispor sobre a integração dos contenciosos administrativos tributários relativos ao Imposto sobre Bens e Serviços – IBS e à Contribuição sobre Bens e Serviços ",
+    "PLP 39/2024 [tributacao]: Regulamenta o art. 156-B da Constituição Federal para dispor sobre a forma como os Estados, o Distrito Federal e os Municípios exercerão, de forma integrada, competências administrativas em relação ao Imposto sobre Bens ",
+    "PLP 122/2025 [tributacao]: Autoriza o uso de créditos de IBS e de CBS pelo adquirente de bens ou serviços para a quitação, total ou parcial, do IBS e da CBS devidos pelo fornecedor na operação de fornecimento.",
+    "PEC 38/2025 [governo_digital]: Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+    "PLP 19/2026 [plataformas]: Altera a Lei Complementar nº 214, de 2025, para revogar o inciso II do art. 278, acrescentar parágrafos ao referido artigo e dispor sobre a base tributável das plataformas digitais de intermediação.",
+    "PLP 251/2026 [tributacao]: Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir alíquota zero da Contribuição sobre Bens e Serviços (CBS) incidente sobre vendas de baixo valor realizadas no mercado interno a pessoas físicas, "
+  ],
+  "perfil_resumo": "",
+  "pesos": {
+    "ia": 3.0,
+    "dados": 2.0,
+    "tributacao": 3.0,
+    "incentivos_pd": 2.0,
+    "ciberseguranca": 2.0,
+    "infra_digital": 2.0,
+    "governo_digital": 2.0,
+    "talentos": 2.0,
+    "propriedade_intelectual": 1.0,
+    "plataformas": 1.0,
+    "startups": 1.0
+  },
+  "alertas": [
+    "Triagem por palavras-chave (sem IA) — mede engajamento, não alinhamento"
+  ],
+  "metodo": "triagem",
+  "cobertura": 0.29,
+  "indice_afinidade": 67.2,
+  "classificacao": "Engajado — qualificar"
+}

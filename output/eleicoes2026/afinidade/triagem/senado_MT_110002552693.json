@@ -1,0 +1,117 @@
+{
+  "parlamentar_chave": "senado_MT_110002552693",
+  "data_geracao": "2026-10-05",
+  "temas": [
+    {
+      "tema_id": "ia",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 4 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "dados",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "tributacao",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "incentivos_pd",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "ciberseguranca",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "infra_digital",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 1 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "governo_digital",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "talentos",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "propriedade_intelectual",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "plataformas",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 4 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "startups",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    }
+  ],
+  "historico_legislativo": [
+    "PL 2355/2023 [plataformas]: Altera a Lei nº 12.965, de 23 de abril de 2014, e a Lei nº 9.610, de 19 de fevereiro de 1998, para dispor sobre o uso de redes sociais.",
+    "PL 4718/2023 [plataformas]: Altera a Lei n.º 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para vedar, aos provedores de aplicações de redes sociais, a remoção de reclamações sobre produtos e serviços ofertados ou comercializad",
+    "PL 5847/2023 [plataformas]: Concede anistia, nos termos do inciso XVII do art. 21 da Constituição Federal, aos que, nas eleições de 2022, tiveram cassado o registro ou diploma ou sido declarados inelegíveis, pela prática de manifestações publicadas",
+    "PL 4837/2024 [plataformas]: Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para estabelecer limites à suspensão, por ordem judicial, de contas de usuários de provedores de aplicação de internet.",
+    "PL 2294/2025 [ciberseguranca]: Estabelece medidas para permitir o bloqueio e o rastreamento, e facilitar a investigação de crimes cibernéticos praticados mediante a utilização de linha telefônica de serviço fixo comutado ou móvel celular, e dá outras ",
+    "PL 2716/2026 [ia]: Institui a Lei Nacional de Garantia do Devido Processo Legal na Fiscalização Ambiental Rural, proíbe a aplicação automática de multas, embargos, bloqueios de crédito e restrições administrativas exclusivamente com base e",
+    "PL 2995/2026 [ia]: Dispõe sobre a proteção dos consumidores idosos nas operações de crédito consignado e demais modalidades de empréstimo realizadas por instituições financeiras, vedando a contratação automatizada por sistemas de inteligên",
+    "PL 3017/2026 [ia]: Institui o Programa Nacional de Humanização do Atendimento ao Consumidor, cria o direito à transferência imediata para atendimento humano em serviços prestados por inteligência artificial, chatbots ou sistemas automatiza",
+    "PL 3722/2026 [infra_digital]: Institui a Política Nacional de Resiliência das Comunicações em Situações de Emergência e Desastres, estabelece o Regime Emergencial de Compartilhamento de Redes de Telecomunicações, RECORE garante o direito à conectivid",
+    "PL 3743/2026 [ia]: Institui o Marco Legal da Transparência Algorítmica na Administração Tributária, estabelece normas de governança para utilização de sistemas de inteligência artificial e de decisões automatizadas na fiscalização tributár"
+  ],
+  "perfil_resumo": "",
+  "pesos": {
+    "ia": 3.0,
+    "dados": 2.0,
+    "tributacao": 3.0,
+    "incentivos_pd": 2.0,
+    "ciberseguranca": 2.0,
+    "infra_digital": 2.0,
+    "governo_digital": 2.0,
+    "talentos": 2.0,
+    "propriedade_intelectual": 1.0,
+    "plataformas": 1.0,
+    "startups": 1.0
+  },
+  "alertas": [
+    "Deputado(a) federal na legislatura atual",
+    "Triagem por palavras-chave (sem IA) — mede engajamento, não alinhamento"
+  ],
+  "metodo": "triagem",
+  "cobertura": 0.38,
+  "indice_afinidade": 69.5,
+  "classificacao": "Engajado — qualificar"
+}

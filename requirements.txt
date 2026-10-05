@@ -7,3 +7,5 @@ streamlit
 notion-client
 matplotlib
 numpy
+pandas
+openpyxl

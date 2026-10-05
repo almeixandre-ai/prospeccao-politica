@@ -1,0 +1,94 @@
+{
+  "versao": "rascunho-2026-10-05",
+  "observacao": "Rascunho para validação da Diretoria de RIG da ABES. Edite posições, pesos e palavras-chave; o motor de afinidade lê este arquivo a cada execução.",
+  "temas": [
+    {
+      "id": "ia",
+      "nome": "Inteligência Artificial",
+      "peso": 3,
+      "posicao_abes": "Regulação de IA proporcional ao risco, principiológica e pró-inovação (PL 2338/2023), com sandboxes regulatórios, governança setorial e sem licenciamento prévio genérico ou responsabilização objetiva ampla do desenvolvedor.",
+      "sinais_contrarios": "Proibições amplas, regras de responsabilidade objetiva para toda a cadeia, autoridade única com poder de licenciamento prévio, remuneração compulsória por treinamento sem equilíbrio.",
+      "palavras_chave": ["inteligencia artificial", "algoritmo", "aprendizado de maquina", "sistemas de ia", "deepfake"]
+    },
+    {
+      "id": "dados",
+      "nome": "Proteção de dados e economia de dados",
+      "peso": 2,
+      "posicao_abes": "Aplicação da LGPD com segurança jurídica, ANPD técnica e independente, fluxo internacional de dados viável e estímulo à economia de dados.",
+      "sinais_contrarios": "Localização obrigatória de dados, sobreposição de autoridades, sanções desproporcionais.",
+      "palavras_chave": ["dados pessoais", "lgpd", "protecao de dados", "anpd", "economia de dados", "transferencia internacional de dados"]
+    },
+    {
+      "id": "tributacao",
+      "nome": "Tributação de software e serviços digitais",
+      "peso": 3,
+      "posicao_abes": "Carga tributária competitiva para software e serviços de TI na regulamentação da reforma tributária (IBS/CBS), manutenção da desoneração da folha para o setor e simplificação.",
+      "sinais_contrarios": "Novos tributos sobre serviços digitais (CIDE digital), aumento de alíquota sobre software, reoneração da folha do setor de TI.",
+      "palavras_chave": ["software", "servicos digitais", "desoneracao da folha", "cide digital", "tributacao digital", "ibs", "cbs"]
+    },
+    {
+      "id": "incentivos_pd",
+      "nome": "Incentivos à inovação e P&D",
+      "peso": 2,
+      "posicao_abes": "Fortalecimento da Lei do Bem, Lei de Informática, FNDCT sem contingenciamento e instrumentos de fomento à P&D em software.",
+      "sinais_contrarios": "Corte ou limitação de incentivos à inovação, contingenciamento do FNDCT.",
+      "palavras_chave": ["lei do bem", "lei de informatica", "pesquisa e desenvolvimento", "inovacao tecnologica", "fndct"]
+    },
+    {
+      "id": "ciberseguranca",
+      "nome": "Cibersegurança",
+      "peso": 2,
+      "posicao_abes": "Marco legal de cibersegurança (PL 4752/2025) com governança clara, cooperação público-privada e obrigações proporcionais.",
+      "sinais_contrarios": "Obrigações genéricas de notificação com prazos inexequíveis, exigências de backdoor/quebra de criptografia.",
+      "palavras_chave": ["ciberseguranca", "seguranca cibernetica", "ataque cibernetico", "crimes ciberneticos", "criptografia"]
+    },
+    {
+      "id": "infra_digital",
+      "nome": "Data centers e infraestrutura digital",
+      "peso": 2,
+      "posicao_abes": "Atração de data centers (REDATA), energia competitiva para infraestrutura digital, computação em nuvem e conectividade.",
+      "sinais_contrarios": "Barreiras à nuvem, restrições à infraestrutura digital, oposição ao REDATA.",
+      "palavras_chave": ["data center", "datacenter", "redata", "computacao em nuvem", "nuvem", "conectividade", "5g", "banda larga"]
+    },
+    {
+      "id": "governo_digital",
+      "nome": "Compras públicas e governo digital",
+      "peso": 2,
+      "posicao_abes": "Modernização das compras públicas de software e soluções inovadoras, transformação digital do Estado e isonomia entre fornecedores.",
+      "sinais_contrarios": "Desenvolvimento interno compulsório em detrimento do mercado, reservas de mercado estatais.",
+      "palavras_chave": ["governo digital", "compras publicas", "contratacao de solucoes inovadoras", "transformacao digital", "servicos publicos digitais"]
+    },
+    {
+      "id": "talentos",
+      "nome": "Educação digital e formação de talentos",
+      "peso": 2,
+      "posicao_abes": "Formação em programação, dados e IA desde a educação básica, requalificação profissional e retenção de talentos de TI.",
+      "sinais_contrarios": "",
+      "palavras_chave": ["educacao digital", "ensino de programacao", "letramento digital", "competencias digitais", "formacao tecnologica", "pensamento computacional"]
+    },
+    {
+      "id": "propriedade_intelectual",
+      "nome": "Propriedade intelectual e combate à pirataria",
+      "peso": 1,
+      "posicao_abes": "Proteção jurídica do software (Lei 9.609/1998), combate à pirataria e ao uso irregular de software.",
+      "sinais_contrarios": "Flexibilização da proteção autoral do software.",
+      "palavras_chave": ["pirataria", "propriedade intelectual", "direito autoral", "programa de computador"]
+    },
+    {
+      "id": "plataformas",
+      "nome": "Plataformas digitais e concorrência",
+      "peso": 1,
+      "posicao_abes": "Regulação de plataformas proporcional, focada em grandes intermediários, sem impor obrigações a software empresarial (B2B).",
+      "sinais_contrarios": "Regras amplas que alcançam qualquer provedor de software, insegurança jurídica para o B2B.",
+      "palavras_chave": ["plataformas digitais", "redes sociais", "mercados digitais", "provedores de aplicacao"]
+    },
+    {
+      "id": "startups",
+      "nome": "Empreendedorismo inovador",
+      "peso": 1,
+      "posicao_abes": "Ambiente favorável a startups e PMEs de tecnologia (Marco Legal das Startups, acesso a capital, sandbox).",
+      "sinais_contrarios": "",
+      "palavras_chave": ["startup", "startups", "empreendedorismo inovador", "sandbox regulatorio"]
+    }
+  ]
+}

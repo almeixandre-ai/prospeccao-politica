@@ -40,3 +40,7 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Eleições 2026 — exportações geradas
+output/eleicoes2026/*.xlsx
+output/_logo_tmp.png

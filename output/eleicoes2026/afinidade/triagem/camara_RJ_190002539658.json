@@ -1,0 +1,152 @@
+{
+  "parlamentar_chave": "camara_RJ_190002539658",
+  "data_geracao": "2026-10-05",
+  "temas": [
+    {
+      "tema_id": "ia",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 9 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "dados",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 11 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "tributacao",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 2 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "incentivos_pd",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 7 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "ciberseguranca",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 2 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "infra_digital",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 3 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "governo_digital",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 2 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "talentos",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 2 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "propriedade_intelectual",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "plataformas",
+      "posicao": 1,
+      "justificativa": "Autor(a) de 11 proposição(ões) sobre o tema — direção a confirmar.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    },
+    {
+      "tema_id": "startups",
+      "posicao": 0,
+      "justificativa": "Sem proposições de autoria sobre o tema.",
+      "evidencias": [],
+      "confianca": "BAIXO"
+    }
+  ],
+  "historico_legislativo": [
+    "PL 1876/2023 [dados]: Altera a Lei nº 13.709, de 14 de agosto de 2018, para obrigar a divulgação de incidentes de segurança de dados pessoais em veículos de comunicação social.",
+    "PL 2065/2023 [dados]: Altera a Lei nº 13.709, de 14 de agosto de 2018, para obrigar a divulgação de incidentes de segurança de dados pessoais em veículos de comunicação social.",
+    "PL 2870/2024 [incentivos_pd]: Institui incentivos à pesquisa e desenvolvimento de alimentos sustentáveis para animais, promovendo benefícios fiscais para empresas que investem em alternativas ecológicas e nutritivas, estabelece padrões de sustentabil",
+    "PL 2943/2024 [tributacao]: Inclui as carnes na Cesta Básica Nacional de Alimentos e estabelece alíquotas zeradas para o Imposto sobre Bens e Serviços (IBS) e a Contribuição Social sobre Bens e Serviços (CBS) para esses produtos.",
+    "PL 3160/2024 [dados]: Institui a Lei de Proteção e Privacidade em Dispositivos de Assistência Pessoal , regulamentando o uso de dados coletados por assistentes virtuais, dispositivos de saúde conectados e outros dispositivos de assistência pe",
+    "PL 3161/2024 [plataformas]: Institui a Lei de Proteção contra Publicidade Infantil em Mídias Digitais, regulamentando e restringindo a exposição de crianças a publicidade digital, especialmente em plataformas de redes sociais e jogos online, com o ",
+    "PLP 144/2024 [tributacao]: Inclui as carnes na Cesta Básica Nacional de Alimentos e estabelece alíquotas zeradas para o Imposto sobre Bens e Serviços (IBS) e a Contribuição Social sobre Bens e Serviços (CBS) para esses produtos.",
+    "PL 4089/2024 [ia]: Dispõe sobre a proteção dos direitos dos consumidores no uso de produtos e serviços que utilizam Inteligência Artificial (IA), estabelecendo diretrizes para garantir transparência, equidade e o respeito à privacidade dos",
+    "PL 4454/2024 [plataformas]: Institui o Programa Abrigo Digital, destinado a promover a adoção e o engajamento social em favor de animais em situação de vulnerabilidade, utilizando plataformas digitais integradas e pontos de acesso público, com vist",
+    "PL 1297/2025 [plataformas]: Dispõe sobre a obrigatoriedade das plataformas digitais, aplicativos e serviços de streaming disponibilizarem mecanismos eficazes de controle parental, visando à proteção integral de crianças e adolescentes no ambiente d",
+    "PL 1552/2025 [plataformas]: Institui o Programa Nacional de Divulgação e Transparência para Adoção de Animais em Abrigos Públicos, com o objetivo de promover a adoção responsável por meio da publicação digital de informações sobre os animais sob a ",
+    "PL 1963/2025 [ia]: Dispõe sobre a inclusão obrigatória do tema Inteligência Artificial nos currículos do ensino fundamental II e do ensino médio em todas as redes de ensino do país e dá outras providências.",
+    "PL 2172/2025 [infra_digital]: Institui a Política Nacional de Zonas Especiais de Interesse Social para Serviços Essenciais (ZEIS), destinada à priorização de investimentos, à atuação diferenciada de concessionárias e à oferta ampliada de energia elét",
+    "PL 2901/2025 [plataformas]: Estabelece diretrizes para o uso responsável de plataformas digitais por crianças e adolescentes, limita mecanismos algorítmicos de retenção compulsiva, como rolagem infinita, notificações repetitivas e recomendações aut",
+    "PL 3917/2025 [ia]: Dispõe sobre a obrigatoriedade da integração nativa, imutável e inteligente de sistema nacional de proteção e rastreamento de dispositivos móveis, denominado “Sentinela Digital”, com persistência total no hardware, auten",
+    "PL 3918/2025 [dados]: Institui a Rede Nacional Integrada de Monitoramento por Câmeras, denominada Câmera Segura Brasil, para prevenção e repressão a crimes, integrando câmeras públicas e privadas, com adesão voluntária, incentivos fiscais e p",
+    "PL 4037/2025 [governo_digital]: Institui o Programa Nacional de Estímulo ao Empreendedorismo de Mães Atípicas (PRONEMA), destinado a promover a inclusão social, a autonomia econômica e o apoio a mães de crianças e adolescentes com deficiência, transtor",
+    "PL 4369/2025 [ia]: Institui a obrigatoriedade do uso de câmeras corporais inteligentes, integradas a sistemas de Inteligência Artificial, pelas Polícias Militares e Civis em todo o território nacional, e dá outras providências.",
+    "PL 5144/2025 [incentivos_pd]: Institui a Política Nacional Integrada de Proteção, Bem-Estar e Direitos dos Animais (PNIPDA), cria o Sistema Nacional de Saúde e Proteção Animal (SISPA), estabelece o Cadastro Nacional Único de Animais (CNUA) e dispõe s",
+    "PL 5149/2025 [incentivos_pd, ciberseguranca]: Institui a Política Nacional de Prevenção e Enfrentamento ao Crime Cibernético, estabelece diretrizes para a integração de dados e ações entre União, Estados, Distrito Federal e Municípios, cria o Cadastro Nacional de Cr",
+    "PL 5153/2025 [incentivos_pd]: Institui a Política Nacional de Valorização e Inovação no Serviço Público, cria mecanismos de promoção do bem-estar, reconhecimento por mérito e resultados, inovação tecnológica e responsabilidade social no âmbito da Adm",
+    "PL 5162/2025 [incentivos_pd]: Institui a Política Nacional de Incentivo à Logística Reversa e à Economia Circular, com o objetivo de promover a conscientização, a educação ambiental, a inovação tecnológica e a gestão sustentável de resíduos sólidos, ",
+    "PL 5163/2025 [plataformas]: Dispõe sobre a obrigatoriedade da disponibilização, em tempo real, da localização dos ônibus, dos horários das linhas e do tempo estimado de chegada aos pontos de parada, por meio de painéis informativos e plataformas di",
+    "PL 5165/2025 [incentivos_pd]: Dispõe sobre a valorização, o desenvolvimento e a modernização da carreira odontológica no Brasil, estabelece diretrizes para a remuneração digna, fixação regional, inovação tecnológica e melhoria das condições de trabal",
+    "PL 5667/2025 [dados]: Institui o Cadastro Nacional de Condenados por Crimes de Estupro e o Cadastro Nacional de Condenados por Violência Doméstica e Familiar contra a Mulher, estabelece critérios de publicidade, sigilo e proteção de dados pes",
+    "PL 5700/2025 [infra_digital]: Institui a Lei Nacional de Salvaguarda Digital Pós-Morte, que dispõe sobre a sucessão e gestão de bens digitais, contas virtuais, ativos criptoeconômicos, dados armazenados em nuvem e demais conteúdos digitais após o fal",
+    "PL 5792/2025 [ia]: Institui a Lei Nacional de Observatórios de Transparência em Licitações com Inteligência Artificial (IA), para auditoria automatizada e contínua de editais, contratos e processos licitatórios no âmbito da administração p",
+    "PL 5796/2025 [infra_digital]: Institui a Lei de Cidadania Digital Rural – Programa Nacional de Conectividade e Produção Intelectual no Campo, com o objetivo de assegurar banda larga de alta velocidade, suporte tecnológico, capacitação em economia cri",
+    "PL 5797/2025 [incentivos_pd]: Institui a Lei Nacional de Micro-Mobilidade Eletrônica e Infraestrutura Compartilhada, estabelecendo diretrizes, princípios e normas gerais para o uso, integração e regulação de veículos leves elétricos e autônomos de mi",
+    "PL 5800/2025 [ia]: Institui a Lei Nacional de Triagem Preventiva Obrigatória com Inteligência Artificial (IA) no Sistema Único de Saúde (SUS), com o objetivo de integrar sistemas automatizados de análise de exames laboratoriais e de imagem",
+    "PL 5833/2025 [plataformas]: Institui o Sistema Nacional de Microempreendedorismo em Plataforma Digital (Plataforma-MEI), cria marco legal federal para integração de microempreendedores individuais e autônomos em plataformas digitais nacionais, com ",
+    "PL 5910/2025 [dados]: Dispoe sobre o direito dos advogados e advogadas de realizar gravacao propria de audiencias, sessoes, diligencias, abordagens policiais e demais atos processuais perante o Poder Judiciario, o Ministerio Publico, a Polici",
+    "PL 5964/2025 [ciberseguranca]: Estabelece normas gerais de segurança cibernética e de prevenção a fraudes eletrônicas no sistema financeiro nacional, dispõe sobre a responsabilidade objetiva das instituições financeiras em transações atípicas ou fraud",
+    "PL 5966/2025 [talentos]: Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para instituir a oferta obrigatória de Ensino Médio Regular, Educação Profissional e Tecnológica, Educação Digital e Educação de Jovens e Adultos (EJ",
+    "PL 6326/2025 [ia]: Institui a Lei de Rotulagem de Conteúdo Sintético e de Transparência em Inteligência Artificial, dispondo sobre a obrigatoriedade de identificação de conteúdos gerados, manipulados ou alterados por sistemas de inteligênc",
+    "PL 6336/2025 [ia, plataformas]: Dispõe sobre a proteção jurídica do consumidor contra o uso de conteúdos sintéticos e deepfakes em comunicações comerciais, publicidade e fraudes, estabelece deveres de transparência e segurança para fornecedores e plata",
+    "PL 6472/2025 [dados]: Estabelece normas de proteção aos direitos dos consumidores e usuários de serviços de comunicação eletrônica contra práticas abusivas de cobrança automatizada, incluindo chamadas repetitivas, contatos fora dos horários p",
+    "PL 649/2026 [ia, dados]: Institui a obrigatoriedade de utilização de câmeras corporais e veiculares dotadas de Inteligência Artificial para reconhecimento facial e leitura automática de placas de veículos, integradas exclusivamente a bancos ofic",
+    "PL 1240/2026 [dados]: Institui a obrigatoriedade de instalação de Sistema de Posicionamento Global (GPS) e de tecnologias de rastreamento e monitoramento em tempo real nos veículos utilizados para transporte escolar, estabelece requisitos mín",
+    "PL 1644/2026 [plataformas]: Dispõe sobre critérios de transparência, modicidade e limitação proporcional das taxas de intermediação cobradas por plataformas digitais de transporte individual remunerado de passageiros e de entrega de bens, institui ",
+    "PL 2092/2026 [talentos]: Institui a Política Nacional de Centros Públicos de Inclusão Digital e Formação Tecnológica Cidadã, para ampliar o acesso gratuito à internet, à capacitação tecnológica e à qualificação digital da população em espaços pú",
+    "PL 2145/2026 [plataformas]: Dispõe sobre medidas especiais de prevenção, detecção, mitigação, comunicação às autoridades e preservação de evidências relativas à circulação de conteúdos, comunidades, canais, grupos, servidores, salas de voz, transmi",
+    "PL 2629/2026 [dados]: Dispõe sobre a possibilidade de restrição judicial de acesso a estádios, arenas e eventos esportivos por pessoas condenadas por violência contra a mulher, crimes sexuais, maus-tratos aos animais e devedores de obrigação ",
+    "PL 2987/2026 [governo_digital]: Institui a Lei Costura Digna e Inclusiva, que cria a Política Nacional de Valorização, Qualificação, Formalização e Proteção Produtiva das Costureiras, Costureiros e Trabalhadores da Confecção, estabelece diretrizes para",
+    "PL 3733/2026 [plataformas]: Institui a Lei Ponto Seguro, que estabelece normas gerais para a implantação, o funcionamento, a integração e a fiscalização de pontos de apoio destinados aos trabalhadores que exerçam atividades profissionais em mobilid",
+    "PL 4792/2026 [dados]: Institui a Lei Presença Garantida – Lei de Continuidade do Apoio Escolar Inclusivo; acrescenta dispositivos à Lei nº 12.764, de 27 de dezembro de 2012, e à Lei nº 13.146, de 6 de julho de 2015, para assegurar a continuid"
+  ],
+  "perfil_resumo": "",
+  "pesos": {
+    "ia": 3.0,
+    "dados": 2.0,
+    "tributacao": 3.0,
+    "incentivos_pd": 2.0,
+    "ciberseguranca": 2.0,
+    "infra_digital": 2.0,
+    "governo_digital": 2.0,
+    "talentos": 2.0,
+    "propriedade_intelectual": 1.0,
+    "plataformas": 1.0,
+    "startups": 1.0
+  },
+  "alertas": [
+    "Triagem por palavras-chave (sem IA) — mede engajamento, não alinhamento"
+  ],
+  "metodo": "triagem",
+  "cobertura": 0.9,
+  "indice_afinidade": 75.0,
+  "classificacao": "Engajado — qualificar"
+}
