@@ -1,0 +1,21 @@
+{
+  "parlamentar_chave": "camara_MG_130002539715",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.0
+  },
+  "iip": 15.0,
+  "prioridade": "C — Interesse pontual"
+}

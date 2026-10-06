@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_SP_250002541120",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PLP 99/2024 [tributacao] (Câmara): Regulamenta o inciso IV, do § 3º do art. 9º da Emenda Constitucional 132 de 20 de dezembro de 2023, para dispor sobre a redução de alíquotas do IBS e da CBS para atividades de reabilitação urbana de zonas históricas e de",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá"
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 11.2,
+  "prioridade": "D — Interesse baixo"
+}

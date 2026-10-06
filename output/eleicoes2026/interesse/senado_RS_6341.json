@@ -1,0 +1,38 @@
+{
+  "parlamentar_chave": "senado_RS_6341",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 0.5
+  },
+  "relatorias": [
+    "PL 4752/2025 [ciberseguranca] (CCJ): Institui o Marco Legal da Cibersegurança, cria o Programa Nacional de Segurança e Resiliência Digital e altera a Lei nº 13.756, de 12 de dezembro de 2018.",
+    "PEC 3/2020 [ciberseguranca] (CCJ): Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fi",
+    "PL 777/2022 [plataformas] (CCDD): Altera o art. 287 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para prever que a apologia de crime ou criminoso pode ser perpetrada por meio da internet, inclusive redes sociais.",
+    "PL 830/2022 [plataformas] (CCDD): Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para aumentar as penas dos crimes previstos nos arts. 240, 241, 241-A a 241-D; bem como incluir a internet entre o",
+    "PL 81/2023 [incentivos_pd] (CCT): Altera a Lei nº 11.540, de 12 de novembro de 2007, para dispor sobre a instituição da Taxa Referencial de Juros (TR) em substituição à Taxa de Juros de Longo Prazo (TJLP) no âmbito dos empréstimos do "
+  ],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 1.0,
+    "comissoes": 1.0,
+    "frentes": 0.25
+  },
+  "iip": 43.3,
+  "prioridade": "B — Prioridade média"
+}

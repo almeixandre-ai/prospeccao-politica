@@ -1,0 +1,32 @@
+{
+  "parlamentar_chave": "camara_TO_270002544470",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 3885/2025 [plataformas] (Câmara): Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), e a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer deveres, obrigações e penalidades às plataformas"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "SUBANAT — Suplente (Câmara): Subcomissão Especial Para Debater a Atualização das Competências da Agência Nacional de Telecomunicações (ANATEL)"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.45,
+    "frentes": 1.0
+  },
+  "iip": 24.8,
+  "prioridade": "C — Interesse pontual"
+}

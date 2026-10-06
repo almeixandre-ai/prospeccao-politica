@@ -1,0 +1,23 @@
+{
+  "parlamentar_chave": "camara_SP_250002536722",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "PLP15225 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais."
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.25
+  },
+  "iip": 18.1,
+  "prioridade": "C — Interesse pontual"
+}

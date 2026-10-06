@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_RJ_190002550520",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 3251/2025 [plataformas] (Câmara): Proíbe a exigência de valor mínimo para realização de pedidos em plataformas digitais de intermediação de entregas de produtos ou alimentos e dá outras providências.",
+    "PL 3252/2025 [plataformas] (Câmara): Dispõe sobre a responsabilidade das plataformas digitais por vendas de produtos ilegais, falsificados ou em desacordo com a legislação vigente, e dá outras providências."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 1.0
+  },
+  "iip": 22.0,
+  "prioridade": "C — Interesse pontual"
+}

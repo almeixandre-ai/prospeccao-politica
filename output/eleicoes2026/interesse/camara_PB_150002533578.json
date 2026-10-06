@@ -1,0 +1,34 @@
+{
+  "parlamentar_chave": "camara_PB_150002533578",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 841/2024 [ia] (Câmara): Altera a Lei nº 8.078, de 11 de setembro de 1990, para tornar obrigatória a exibição de aviso ao consumidor sobre imagem ou vídeo publicitário produzido com o uso de inteligência artificial.",
+    "PL 842/2024 [ia] (Câmara): Altera a Lei no 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para dispor sobre a obrigatoriedade de que aplicações de internet que se utilizem de mecanismos de inteligência artificial para a geração de conte",
+    "PL 2462/2025 [ia] (Câmara): Veda o uso de ferramentas de inteligência artificial para a realização de dublagem de obras audiovisuais ofertadas comercialmente em salas de cinema, nas programações de televisão aberta e por assinatura e nos serviços d",
+    "PL 3890/2025 [plataformas] (Câmara): Dispõe sobre a proibição da monetização e inclusão em algoritmos de conteúdos produzidos por crianças e adolescentes em plataformas digitais, regulamenta as hipóteses autorizadas de atuação artística profissional de meno"
+  ],
+  "autoria_por_tema": {
+    "ia": 3.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.159,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.75
+  },
+  "iip": 38.1,
+  "prioridade": "B — Prioridade média"
+}

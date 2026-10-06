@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_PE_170002544066",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "PLP15225 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu",
+    "PLP15225 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.5
+  },
+  "iip": 31.2,
+  "prioridade": "B — Prioridade média"
+}

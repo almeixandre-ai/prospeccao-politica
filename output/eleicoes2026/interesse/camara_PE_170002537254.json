@@ -1,0 +1,24 @@
+{
+  "parlamentar_chave": "camara_PE_170002537254",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.5
+  },
+  "iip": 13.8,
+  "prioridade": "D — Interesse baixo"
+}

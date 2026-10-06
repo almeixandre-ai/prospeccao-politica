@@ -1,0 +1,21 @@
+{
+  "parlamentar_chave": "senado_MA_6358",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [
+    "PLP 2/2022 [startups] (CAS): Altera a Lei Complementar nº 182, de 1º de junho de 2021, para dispor sobre o enquadramento dos startups, mecanismos de fomento à inovação e de estímulo à performance em startups, e dá outras providên"
+  ],
+  "orgaos": [],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.25,
+    "comissoes": 0.0,
+    "frentes": 0.0
+  },
+  "iip": 5.0,
+  "prioridade": "D — Interesse baixo"
+}

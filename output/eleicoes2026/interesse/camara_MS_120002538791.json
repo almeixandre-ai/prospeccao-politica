@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_MS_120002538791",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2747/2023 [plataformas] (Câmara): Altera a Lei nº 12.965, de 23 de abril de 2014, para estabelecer que os registros de contas de usuários menores de doze anos em redes sociais somente poderão ser efetuados com autorização expressa de um dos pais ou do re",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 15.5,
+  "prioridade": "C — Interesse pontual"
+}

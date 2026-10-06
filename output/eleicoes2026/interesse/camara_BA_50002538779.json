@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_BA_50002538779",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 6479/2025 [ia, plataformas] (Câmara): Dispõe sobre a proteção da identidade pessoal digital frente a tecnologias de inteligência artificial e representações sintéticas de identidade, estabelece direitos da personalidade e regras para a utilização econômica d"
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 16.4,
+  "prioridade": "C — Interesse pontual"
+}

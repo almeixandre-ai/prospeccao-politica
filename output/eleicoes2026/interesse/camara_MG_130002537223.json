@@ -1,0 +1,34 @@
+{
+  "parlamentar_chave": "camara_MG_130002537223",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 330/2024 [dados] (Câmara): Altera a Lei no 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para determinar a obrigatoriedade de obtenção de consentimento do médico e do paciente para o tratamento de dados constante",
+    "PL 1201/2024 [infra_digital] (Câmara): Acrescenta-se art. 75-G à Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, a fim de assegurar o trabalho remoto a pessoas portadoras de transtorno de espectro autista.",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+    "PL 180/2026 [plataformas] (Câmara): Dispõe sobre a obrigatoriedade de remoção de conteúdos que contenham maus-tratos contra animais nas redes sociais, estabelece a responsabilidade das plataformas e altera a Lei nº 12.965, de 23 de abril de 2014."
+  ],
+  "autoria_por_tema": {
+    "dados": 1.0,
+    "infra_digital": 2.0,
+    "governo_digital": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.143,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.75
+  },
+  "iip": 18.3,
+  "prioridade": "C — Interesse pontual"
+}

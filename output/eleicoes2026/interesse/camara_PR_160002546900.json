@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_PR_160002546900",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 5859/2023 [ia] (Câmara): Proíbe o uso de Aplicativos e Programas de Inteligência Artificial para criação de “Deep Nudes” e dá outras providências."
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 15.5,
+  "prioridade": "C — Interesse pontual"
+}

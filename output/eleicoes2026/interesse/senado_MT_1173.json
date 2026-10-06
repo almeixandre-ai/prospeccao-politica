@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "senado_MT_1173",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 17/2019 [dados] (Senado, coautor): Acrescenta o inciso XII-A, ao art. 5º, e o inciso XXX, ao art. 22, da Constituição Federal para incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão e fixar a competência privativa da União para",
+    "PEC 17/2019 (fase 2) [dados] (Senado, coautor): Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais",
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+    "PLP 263/2026 [tributacao] (Senado, autor principal): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre a não incidência do Imposto sobre Bens e Serviços – IBS e da Contribuição sobre Bens e Serviços – CBS sobre contribuições e operações internas"
+  ],
+  "autoria_por_tema": {
+    "dados": 1.0,
+    "incentivos_pd": 0.5,
+    "tributacao": 1.0
+  },
+  "relatorias": [
+    "PL 3393/2023 [tributacao] (CCT): Dispõe sobre a digitalização de documentos definidos no Código Brasileiro de Trânsito e a gratuidade de serviços digitais."
+  ],
+  "orgaos": [
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.25,
+    "comissoes": 1.0,
+    "frentes": 0.0
+  },
+  "iip": 29.8,
+  "prioridade": "C — Interesse pontual"
+}

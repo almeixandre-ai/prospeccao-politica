@@ -1,0 +1,23 @@
+{
+  "parlamentar_chave": "senado_AM_5525",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.25
+  },
+  "iip": 8.5,
+  "prioridade": "D — Interesse baixo"
+}

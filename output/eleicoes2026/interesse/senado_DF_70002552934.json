@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "senado_DF_70002552934",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PLP 49/2024 [tributacao] (Câmara): Regulamenta a Neutralidade no IBS e na CBS nos termos do artigo 156 – A da Emenda Constitucional n 132, de 20 de dezembro de 2023.",
+    "PL 1291/2025 [ia] (Câmara): Dispõe sobre a modernização do Sistema Único de Saúde (SUS) por meio da implementação da Fila Única Nacional, do Aplicativo Nacional da Fila do SUS, do estabelecimento de metas de tempo máximo de espera, da remuneração p",
+    "PL 3630/2025 [dados] (Câmara): Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), para permitir a divulgação de imagens de pessoas flagradas cometendo crimes dentro de estabelecimentos comerciais."
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0,
+    "ia": 1.0,
+    "dados": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.127,
+    "relatoria": 0.0,
+    "comissoes": 0.9,
+    "frentes": 0.75
+  },
+  "iip": 39.8,
+  "prioridade": "B — Prioridade média"
+}

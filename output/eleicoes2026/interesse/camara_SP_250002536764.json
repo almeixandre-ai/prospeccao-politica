@@ -1,0 +1,39 @@
+{
+  "parlamentar_chave": "camara_SP_250002536764",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PLP 27/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e al",
+    "PLP 28/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e al",
+    "PLP 29/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e al",
+    "PLP 30/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e al",
+    "PLP 31/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e al",
+    "PLP 32/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e al",
+    "PLP 33/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e al",
+    "PLP 34/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e al",
+    "PL 1131/2025 [plataformas] (Câmara): Dispõe sobre a identificação dos produtos nacionais colocados à venda em mercados, supermercados, hipermercados e estabelecimentos comerciais similares, e em plataformas digitais de vendas ao consumidor.",
+    "PLP 115/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e al",
+    "PLP 117/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e al"
+  ],
+  "autoria_por_tema": {
+    "tributacao": 10.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.159,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.5
+  },
+  "iip": 23.7,
+  "prioridade": "C — Interesse pontual"
+}

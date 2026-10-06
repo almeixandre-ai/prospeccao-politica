@@ -101,3 +101,36 @@ def filtrar_por_agenda(proposicoes: list[dict], agenda: dict) -> list[str]:
                 f"{p.get('siglaTipo')} {p.get('numero')}/{p.get('ano')} [{', '.join(temas)}]: {ementa[:220]}"
             )
     return achados
+
+
+def orgaos(id_deputado: int, desde: str = "2023-02-01") -> list[dict]:
+    """Comissões e demais órgãos dos quais o deputado foi membro na legislatura."""
+    saida: list[dict] = []
+    for pagina in range(1, 6):
+        try:
+            r = requests.get(
+                f"{BASE}/deputados/{id_deputado}/orgaos",
+                params={"dataInicio": desde, "itens": 100, "pagina": pagina},
+                headers=HEADERS, timeout=TIMEOUT,
+            )
+            r.raise_for_status()
+        except requests.RequestException as e:
+            log.warning("Falha nos órgãos do deputado %s: %s", id_deputado, e)
+            break
+        dados = r.json().get("dados", [])
+        saida.extend({"sigla": o.get("siglaOrgao", ""), "nome": o.get("nomeOrgao", ""),
+                      "papel": o.get("titulo", "")} for o in dados)
+        if len(dados) < 100:
+            break
+    return saida
+
+
+def frentes(id_deputado: int, idleg: int = LEGISLATURA_ATUAL) -> list[str]:
+    """Títulos das frentes parlamentares que o deputado integra na legislatura."""
+    try:
+        r = requests.get(f"{BASE}/deputados/{id_deputado}/frentes", headers=HEADERS, timeout=TIMEOUT)
+        r.raise_for_status()
+    except requests.RequestException as e:
+        log.warning("Falha nas frentes do deputado %s: %s", id_deputado, e)
+        return []
+    return [f.get("titulo", "") for f in r.json().get("dados", []) if f.get("idLegislatura") == idleg]

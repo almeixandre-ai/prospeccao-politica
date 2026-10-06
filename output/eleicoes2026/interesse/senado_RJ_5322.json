@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "senado_RJ_5322",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 3/2020 [ciberseguranca] (Senado, coautor): Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fixar a competência co"
+  ],
+  "autoria_por_tema": {
+    "ciberseguranca": 0.5
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.0
+  },
+  "iip": 6.8,
+  "prioridade": "D — Interesse baixo"
+}

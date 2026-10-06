@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "camara_PI_180002532472",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.75
+  },
+  "iip": 24.4,
+  "prioridade": "C — Interesse pontual"
+}

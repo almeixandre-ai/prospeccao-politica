@@ -1,0 +1,29 @@
+{
+  "parlamentar_chave": "camara_RN_200002535715",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "SUBANAT — Titular (Câmara): Subcomissão Especial Para Debater a Atualização das Competências da Agência Nacional de Telecomunicações (ANATEL)"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.9,
+    "frentes": 0.25
+  },
+  "iip": 27.6,
+  "prioridade": "C — Interesse pontual"
+}

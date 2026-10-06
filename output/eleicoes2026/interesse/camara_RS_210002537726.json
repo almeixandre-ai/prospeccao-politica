@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_RS_210002537726",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2092/2025 [plataformas] (Câmara): Proíbe a veiculação de propaganda de plataformas de apostas esportivas (“bets”) em todos os meios de comunicação social e na rede mundial de computadores, inclusive nas redes sociais, e dá outras providências.",
+    "PL 2387/2025 [plataformas] (Câmara): \"Dispõe sobre a proibição do acesso de menores de 16 anos a redes sociais e plataformas digitais e dá outras providências.\"",
+    "PL 3221/2025 [infra_digital] (Câmara): Institui o Programa ConectaAgro Brasil, voltado à ampliação da infraestrutura de conectividade em áreas rurais, ao rastreamento digital de bens agropecuários, à valorização da juventude rural e à promoção da segurança, d"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 1.0
+  },
+  "iip": 23.9,
+  "prioridade": "C — Interesse pontual"
+}

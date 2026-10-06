@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_MG_130002535279",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4412/2024 [plataformas] (Câmara): Altera o Marco Civil da Internet, Lei nº 12.965, de 23 de abril de 2024, para condicionar o acesso a redes sociais ao cadastramento prévio do CPF ou CNPJ do usuário.",
+    "PL 3685/2026 [dados] (Câmara): Institui medidas especiais de proteção de dados pessoais de aposentados, pensionistas e beneficiários de benefícios previdenciários e assistenciais, estabelece regras para o tratamento e compartilhamento dessas informaçõ"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0,
+    "dados": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.75
+  },
+  "iip": 19.9,
+  "prioridade": "C — Interesse pontual"
+}

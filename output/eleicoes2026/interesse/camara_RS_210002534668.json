@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_RS_210002534668",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 3066/2025 [ia] (Câmara): Institui medidas de enfrentamento e repressão aos crimes de pornografia de crianças e adolescentes relacionados ao uso de inteligência artificial e de técnicas de mascaramento de endereço de IP empregadas para viabilizar",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "ia": 1.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.111,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.75
+  },
+  "iip": 31.3,
+  "prioridade": "B — Prioridade média"
+}

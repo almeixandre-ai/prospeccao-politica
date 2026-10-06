@@ -1,0 +1,36 @@
+{
+  "parlamentar_chave": "senado_RJ_190002535142",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 45/2022 [plataformas] (Senado, coautor): Altera o art. 53 da Constituição Federal, para atribuir ao Senado Federal e à Câmara dos Deputados a competência para suspender ou excluir as páginas, os canais e as contas de seus membros na rede mundial de computadores",
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 0.5,
+    "incentivos_pd": 0.5
+  },
+  "relatorias": [
+    "PL 86/2023 [dados] (CCT): Altera o Código Penal para prever o crime de sequestro de dados pessoais.",
+    "PL 2451/2023 [plataformas] (CCDD): Altera a Lei no 4.478, de 28 de dezembro de 2022, que dispõe sobre a prestação de serviços de ativos virtuais, para prevenir fraudes contra seus investidores e possibilitar a imediata recuperação dess"
+  ],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+    "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+  ],
+  "componentes": {
+    "autoria": 0.024,
+    "relatoria": 0.5,
+    "comissoes": 1.0,
+    "frentes": 0.25
+  },
+  "iip": 33.7,
+  "prioridade": "B — Prioridade média"
+}

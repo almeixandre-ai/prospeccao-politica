@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "senado_AM_40002537344",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 45/2022 [plataformas] (Senado, coautor): Altera o art. 53 da Constituição Federal, para atribuir ao Senado Federal e à Câmara dos Deputados a competência para suspender ou excluir as páginas, os canais e as contas de seus membros na rede mundial de computadores",
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 0.5,
+    "incentivos_pd": 0.5
+  },
+  "relatorias": [
+    "PLP 234/2020 [governo_digital] (CAE): Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para estimular o uso estratégico das compras públicas para fomentar as atividades de microempresas e de empresas de pequeno porte."
+  ],
+  "orgaos": [
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+  ],
+  "componentes": {
+    "autoria": 0.024,
+    "relatoria": 0.25,
+    "comissoes": 0.9,
+    "frentes": 0.25
+  },
+  "iip": 26.7,
+  "prioridade": "C — Interesse pontual"
+}

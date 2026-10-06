@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_RS_210002534583",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2827/2023 [dados] (Câmara): Dispõe sobre a vedação da divulgação da imagem, do vídeo e dados pessoais de autores de crimes de terrorismo, massacres e chacinas, pelos veículos de comunicação e todas as formas de mídia. inclusive digital."
+  ],
+  "autoria_por_tema": {
+    "dados": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.25
+  },
+  "iip": 23.9,
+  "prioridade": "C — Interesse pontual"
+}

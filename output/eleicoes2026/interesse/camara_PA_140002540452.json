@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "camara_PA_140002540452",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4468/2025 [plataformas] (Câmara): Dispõe sobre a proteção integral da infância e adolescência no ambiente digital, define e coíbe a prática de “adultização”, estabelece deveres e responsabilização das plataformas digitais e provedores de conteúdo, cria m"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.25
+  },
+  "iip": 4.1,
+  "prioridade": "D — Interesse baixo"
+}

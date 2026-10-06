@@ -1,5 +1,5 @@
 {
-  "data_coleta": "2026-10-05",
+  "data_coleta": "2026-10-06",
   "totalizacao_tse": {
     "AC": "100,00",
     "AL": "100,00",
@@ -1825,9 +1825,11 @@
       "origem": "tse_2026",
       "sq_candidato": "70002550316",
       "id_camara": null,
-      "codigo_senado": null,
+      "codigo_senado": "4770",
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "Senador(a) na legislatura atual — muda para a Câmara"
+      ],
       "chave": "camara_DF_70002550316"
     },
     {
@@ -4201,9 +4203,11 @@
       "origem": "tse_2026",
       "sq_candidato": "140002540456",
       "id_camara": null,
-      "codigo_senado": null,
+      "codigo_senado": "35",
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "Senador(a) na legislatura atual — muda para a Câmara"
+      ],
       "chave": "camara_PA_140002540456"
     },
     {
@@ -4455,7 +4459,9 @@
       "id_camara": 220665,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002544062"
     },
     {
@@ -4473,7 +4479,9 @@
       "id_camara": 220669,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002544063"
     },
     {
@@ -4491,7 +4499,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002544057"
     },
     {
@@ -4509,7 +4519,9 @@
       "id_camara": 141431,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002544066"
     },
     {
@@ -4527,7 +4539,9 @@
       "id_camara": 220667,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002540301"
     },
     {
@@ -4545,7 +4559,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002540295"
     },
     {
@@ -4563,7 +4579,9 @@
       "id_camara": 72442,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002540291"
     },
     {
@@ -4581,7 +4599,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002540306"
     },
     {
@@ -4599,7 +4619,9 @@
       "id_camara": 92699,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002540316"
     },
     {
@@ -4617,7 +4639,9 @@
       "id_camara": 220664,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002540312"
     },
     {
@@ -4635,7 +4659,9 @@
       "id_camara": 204425,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002532954"
     },
     {
@@ -4653,7 +4679,9 @@
       "id_camara": 160665,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002532733"
     },
     {
@@ -4671,7 +4699,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002530336"
     },
     {
@@ -4689,7 +4719,9 @@
       "id_camara": 91228,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002538985"
     },
     {
@@ -4707,7 +4739,9 @@
       "id_camara": 220670,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002537254"
     },
     {
@@ -4725,7 +4759,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002550641"
     },
     {
@@ -4743,7 +4779,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002533313"
     },
     {
@@ -4761,7 +4799,9 @@
       "id_camara": 204426,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002533326"
     },
     {
@@ -4779,7 +4819,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002533327"
     },
     {
@@ -4797,7 +4839,9 @@
       "id_camara": 88256,
       "codigo_senado": null,
       "incumbente": true,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002533320"
     },
     {
@@ -4815,7 +4859,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002534909"
     },
     {
@@ -4833,7 +4879,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002534911"
     },
     {
@@ -4851,7 +4899,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002534906"
     },
     {
@@ -4869,7 +4919,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002539162"
     },
     {
@@ -4887,7 +4939,9 @@
       "id_camara": null,
       "codigo_senado": null,
       "incumbente": false,
-      "alertas": [],
+      "alertas": [
+        "TSE em reprocessamento (Aguarde reprocessamento da eleição) — lista da coleta de 2026-10-05"
+      ],
       "chave": "camara_PE_170002539181"
     },
     {
@@ -10296,6 +10350,26 @@
     },
     {
       "casa": "senado",
+      "uf": "MA",
+      "nome_urna": "Ana Paula Lobato",
+      "nome_completo": "Ana Paula Dias Lobato Nova Alves",
+      "partido": "PSB",
+      "federacao": null,
+      "numero": null,
+      "votos": null,
+      "situacao": "Mandato até 2031",
+      "origem": "senado_2022",
+      "sq_candidato": null,
+      "id_camara": null,
+      "codigo_senado": "6358",
+      "incumbente": true,
+      "alertas": [
+        "Em exercício como 1º Suplente"
+      ],
+      "chave": "senado_MA_6358"
+    },
+    {
+      "casa": "senado",
       "uf": "SP",
       "nome_urna": "Astronauta Marcos Pontes",
       "nome_completo": "Marcos Cesar Pontes",
@@ -10532,26 +10606,6 @@
     },
     {
       "casa": "senado",
-      "uf": "MA",
-      "nome_urna": "Lourdinha Pereira",
-      "nome_completo": "Maria de Lourdes Pereira e Pereira",
-      "partido": "PSB",
-      "federacao": null,
-      "numero": null,
-      "votos": null,
-      "situacao": "Mandato até 2031",
-      "origem": "senado_2022",
-      "sq_candidato": null,
-      "id_camara": null,
-      "codigo_senado": "6359",
-      "incumbente": true,
-      "alertas": [
-        "Em exercício como 2º Suplente"
-      ],
-      "chave": "senado_MA_6359"
-    },
-    {
-      "casa": "senado",
       "uf": "ES",
       "nome_urna": "Magno Malta",
       "nome_completo": "Magno Pereira Malta",
@@ -10771,5 +10825,7 @@
       "chave": "senado_GO_5070"
     }
   ],
-  "alertas": []
+  "alertas": [
+    "PE: TSE informa 'Aguarde reprocessamento da eleição' para deputados federais — mantida a lista validada em 2026-10-05 (25 eleitos), sujeita a alteração"
+  ]
 }

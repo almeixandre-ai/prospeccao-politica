@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_RJ_190002532807",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.5
+  },
+  "iip": 33.2,
+  "prioridade": "B — Prioridade média"
+}

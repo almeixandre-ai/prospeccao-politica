@@ -1,0 +1,32 @@
+{
+  "parlamentar_chave": "senado_CE_60002542476",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 98/2026 [plataformas] (Câmara): Altera e complementa a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente), para dispor sobre a proteção de crianças e adolescentes no ambiente digital, estabelecer deveres às platafor",
+    "PL 323/2026 [ia, talentos] (Câmara): Cria o Fundo Nacional de Inovação, Desenvolvimento, Massificação e Universalização em Educação Digital e Inteligência Artificial (FinEducaDigital)."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0,
+    "ia": 1.0,
+    "talentos": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 0.9,
+    "frentes": 0.25
+  },
+  "iip": 31.6,
+  "prioridade": "B — Prioridade média"
+}

@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_MG_130002542003",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "CEXBRLEG — Titular (Câmara): Comissão Externa destinada a discutir os atos de pirataria e a agenda do chamado “Brasil Legal”"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 1.0
+  },
+  "iip": 33.2,
+  "prioridade": "B — Prioridade média"
+}

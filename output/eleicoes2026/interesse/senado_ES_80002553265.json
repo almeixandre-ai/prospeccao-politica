@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "senado_ES_80002553265",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2968/2025 [ia] (Câmara): Altera as Leis nº 9.394, de 20 de dezembro de 1996, e nº 14.533, de 11 de janeiro de 2023, para incluir competências relativas à inteligência artificial como conteúdo a ser ensinado nos currículos escolares.",
+    "PL 4823/2025 [plataformas] (Câmara): Institui, em âmbito nacional, o Sistema de Alerta Infantil Imediato (SAII) para difusão célere de informações sobre crianças e adolescentes desaparecidos em risco, e para recebimento e encaminhamento de denúncias de alic",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "plataformas": 1.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 18.4,
+  "prioridade": "C — Interesse pontual"
+}

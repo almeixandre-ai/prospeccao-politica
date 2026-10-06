@@ -1,0 +1,23 @@
+{
+  "parlamentar_chave": "camara_MG_130002543112",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.75
+  },
+  "iip": 9.4,
+  "prioridade": "D — Interesse baixo"
+}

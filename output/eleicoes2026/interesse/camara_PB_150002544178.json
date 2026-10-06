@@ -1,0 +1,22 @@
+{
+  "parlamentar_chave": "camara_PB_150002544178",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.0
+  },
+  "iip": 18.8,
+  "prioridade": "C — Interesse pontual"
+}

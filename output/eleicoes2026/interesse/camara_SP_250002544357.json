@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_SP_250002544357",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4730/2023 [ia] (Câmara): Incluir a alínea \"m\" no inciso II do artigo 61 do Decreto Lei n° 2.848, de 7 de dezembro de 1940, Código penal, para prever o uso da inteligência artificial como circunstância agravante, e dá outras providências.",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 4416/2024 [plataformas] (Câmara): Acresce o art. 240-A a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente) para tipificar como crime a erotização infantojuvenil por meio das redes sociais.",
+    "PL 3125/2026 [plataformas] (Câmara): Altera o art. 92 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para incluir a proibição de utilização de redes sociais como efeito da condenação por crimes hediondos e equiparados cometido mediante a "
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "infra_digital": 1.0,
+    "plataformas": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.111,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 13.2,
+  "prioridade": "D — Interesse baixo"
+}

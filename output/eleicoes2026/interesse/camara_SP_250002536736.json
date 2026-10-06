@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_SP_250002536736",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 3685/2026 [dados] (Câmara): Institui medidas especiais de proteção de dados pessoais de aposentados, pensionistas e beneficiários de benefícios previdenciários e assistenciais, estabelece regras para o tratamento e compartilhamento dessas informaçõ"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "dados": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "CCOM — Titular (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.5
+  },
+  "iip": 28.9,
+  "prioridade": "C — Interesse pontual"
+}

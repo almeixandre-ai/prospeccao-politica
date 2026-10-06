@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "senado_CE_60002542479",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [
+    "PLP 117/2024 [startups] (CMA): Altera a Lei Complementar n.º 182, de 1º de junho de 2021, para a definição e o enquadramento de empresas startups verdes e dá outras providências.",
+    "PL 1505/2022 [incentivos_pd] (CAE): Estabelece os mecanismos de estímulo ao desenvolvimento e fortalecimento do Complexo Econômico e Industrial da Saúde brasileiro no âmbito da Política Nacional de Inovação Tecnológica em Saúde e dá out"
+  ],
+  "orgaos": [
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.5,
+    "comissoes": 1.0,
+    "frentes": 0.0
+  },
+  "iip": 30.0,
+  "prioridade": "B — Prioridade média"
+}

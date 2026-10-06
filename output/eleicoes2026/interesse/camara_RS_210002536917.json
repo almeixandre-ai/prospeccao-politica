@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_RS_210002536917",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PLP 264/2026 [tributacao] (Câmara): Dispõe sobre a securitização de créditos em face da União Federal relativos à CBS, à Contribuição para o Pis/Pasep, à Cofins e ao IPI."
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.75
+  },
+  "iip": 12.4,
+  "prioridade": "D — Interesse baixo"
+}

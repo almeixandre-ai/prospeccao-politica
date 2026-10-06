@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_RS_210002538541",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "GTALDIG — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater alternativas digitais de tributação e desburocratização",
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 1.0
+  },
+  "iip": 31.2,
+  "prioridade": "B — Prioridade média"
+}

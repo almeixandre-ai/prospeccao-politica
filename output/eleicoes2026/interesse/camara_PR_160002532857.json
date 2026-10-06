@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "camara_PR_160002532857",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Presidente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais."
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.25
+  },
+  "iip": 28.1,
+  "prioridade": "C — Interesse pontual"
+}

@@ -1,0 +1,39 @@
+{
+  "parlamentar_chave": "camara_PE_170002540301",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2805/2023 [incentivos_pd] (Câmara): Altera a Lei nº 9.991, de 24 de Julho de 2000, que dispõe sobre a realização de investimentos em pesquisa e desenvolvimento e em eficiência energética por parte das empresas concessionárias, permissionárias e autorizadas",
+    "PLP 99/2024 [tributacao] (Câmara): Regulamenta o inciso IV, do § 3º do art. 9º da Emenda Constitucional 132 de 20 de dezembro de 2023, para dispor sobre a redução de alíquotas do IBS e da CBS para atividades de reabilitação urbana de zonas históricas e de",
+    "PL 1794/2025 [plataformas] (Câmara): Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para estabelecer prioridade na aplicação de recursos arrecadados com multas de trânsito no custeio da habilitação de condutores hipossufic",
+    "PL 2280/2025 [plataformas] (Câmara): Dispõe sobre a destinação de percentual dos recursos depositados em plataformas digitais de operação financeira para contas de poupança de titularidade do usuário, e dá outras providências.",
+    "PL 4348/2025 [ia] (Câmara): Altera a Lei nº 13.819, de 26 de abril de 2019, para incluir a obrigatoriedade de emissão de alertas preventivos por chatbots e sistemas de inteligência artificial em interações relacionadas à saúde mental, automutilação",
+    "PL 4522/2025 [ia] (Câmara): Dispõe sobre diretrizes e critérios para o cumprimento dos protocolos do Conselho Federal de Psicologia no âmbito do uso de sistemas de inteligência artificial generativa de uso conversacional (IAg-C)."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 1.0,
+    "tributacao": 1.0,
+    "plataformas": 2.0,
+    "ia": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTALDIG — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater alternativas digitais de tributação e desburocratização",
+    "GTCGIBS — Titular (Câmara): Grupo de Trabalho destinado a tratar do Projeto de Lei Complementar relativo ao Comitê Gestor e à distribuição da receit",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "PLP15225 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.206,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.5
+  },
+  "iip": 44.1,
+  "prioridade": "B — Prioridade média"
+}

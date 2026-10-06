@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "senado_SE_4811",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PLP 63/2025 [tributacao] (Senado, autor principal): Altera o art. 47 da Lei Complementar nº 214, de 2025, para instituir crédito presumido de CBS ao setor de serviços.",
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT."
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0,
+    "incentivos_pd": 0.5
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CTIA — Titular (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.0
+  },
+  "iip": 18.2,
+  "prioridade": "C — Interesse pontual"
+}

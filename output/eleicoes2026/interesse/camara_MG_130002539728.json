@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_MG_130002539728",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PLP 99/2024 [tributacao] (Câmara): Regulamenta o inciso IV, do § 3º do art. 9º da Emenda Constitucional 132 de 20 de dezembro de 2023, para dispor sobre a redução de alíquotas do IBS e da CBS para atividades de reabilitação urbana de zonas históricas e de",
+    "PL 2310/2025 [plataformas] (Câmara): Regulamenta a participação de crianças e adolescentes como influenciadores digitais e criadores de conteúdo monetizado em plataformas digitais e dá outras providências.",
+    "PL 1059/2026 [plataformas] (Câmara): Dispõe sobre a obrigação das empresas operadoras de plataformas digitais de transporte individual e de entrega de mercadorias de disponibilizar pontos de apoio aos trabalhadores cadastrados em seus sistemas."
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0,
+    "plataformas": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "SUBTAPD — Suplente (Câmara): Subcomissão Permanente para tratar do “Trabalho por Aplicativos e por Plataformas Digitais”"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.0
+  },
+  "iip": 12.4,
+  "prioridade": "D — Interesse baixo"
+}

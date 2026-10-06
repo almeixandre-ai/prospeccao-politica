@@ -1,0 +1,38 @@
+{
+  "parlamentar_chave": "camara_SP_250002544355",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+    "PL 974/2026 [ia, dados] (Câmara): Estabelece critérios de governança de Agentes de Inteligência Artificial e altera a Lei nº 12.965/2014 (Marco Civil da Internet) e a Lei nº 13.709/2018 (Lei Geral de Protação de Dados Pessoais).",
+    "PL 2373/2026 [plataformas] (Câmara): Dispõe sobre a responsabilidade civil e administrativa de plataformas digitais pela omissão no combate a crimes de crueldade animal transmitidos ao vivo, estabelece obrigações de cooperação com autoridades policiais e cr",
+    "PL 4813/2026 [plataformas] (Câmara): Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever sanções restritivas do uso de redes sociais, aplicações de mensageria e serviços de telecomunicação aos condenados pelo crime de divulga"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "governo_digital": 1.0,
+    "ia": 1.0,
+    "dados": 1.0,
+    "plataformas": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.175,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.75
+  },
+  "iip": 39.1,
+  "prioridade": "B — Prioridade média"
+}

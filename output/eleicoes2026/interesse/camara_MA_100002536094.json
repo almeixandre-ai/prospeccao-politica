@@ -1,0 +1,21 @@
+{
+  "parlamentar_chave": "camara_MA_100002536094",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais."
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.25
+  },
+  "iip": 3.1,
+  "prioridade": "D — Interesse baixo"
+}

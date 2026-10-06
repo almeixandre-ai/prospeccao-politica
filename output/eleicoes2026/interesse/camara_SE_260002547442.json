@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_SE_260002547442",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2349/2023 [plataformas] (Câmara): Altera a Lei n º 9.503, de 23 de setembro de 1997, para dispor sobre as sanções por divulgação, por parte do infrator, de condutas infracionais de risco praticadas por ele, nas redes sociais e outros meios de divulgação ",
+    "PL 2775/2024 [ia, dados] (Câmara): Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para determinar critérios à permissão do uso dos dados pessoais para o treinamento e aperfeiçoamento de sistemas de intelig",
+    "PL 2037/2025 [ia] (Câmara): Tipifica o crime de atribuição fraudulenta de autoria a terceiro, por meio da criação, manipulação ou disseminação de conteúdos falsos com potencial de causar dano à honra, imagem, segurança ou à ordem pública, inclusive",
+    "PL 2687/2025 [ia] (Câmara): Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar como crime a omissão de identificação de conteúdo hiper-realista gerado por inteligência artificial com potencial de enganar terceiro",
+    "PL 2688/2025 [ia] (Câmara): Institui o Marco Regulatório do Desenvolvimento e Uso da Inteligência Artificial no Brasil, estabelece direitos, deveres, princípios, mecanismos de governança, normas de transparência e responsabilidade civil e penal, e ",
+    "PL 3053/2025 [plataformas] (Câmara): Altera a Lei nº 12.587, de 3 de janeiro de 2012 (Política Nacional de Mobilidade Urbana), para dispor sobre a obrigatoriedade de disponibilização de canais diretos, eficazes e acessíveis de atendimento ao consumidor por "
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0,
+    "ia": 4.0,
+    "dados": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.206,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.0
+  },
+  "iip": 12.9,
+  "prioridade": "D — Interesse baixo"
+}

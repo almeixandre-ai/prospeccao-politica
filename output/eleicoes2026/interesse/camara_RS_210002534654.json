@@ -1,0 +1,36 @@
+{
+  "parlamentar_chave": "camara_RS_210002534654",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+    "PLP 154/2026 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para reduzir a zero as alíquotas do Imposto sobre Bens e Serviços — IBS e da Contribuição Social sobre Bens e Serviços — CBS incidentes sobre produtos alimentíc"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "governo_digital": 1.0,
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "GTREDES — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater o PL 2630/20, que trata da regulamentação das redes sociais",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "PLP15225 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria"
+  ],
+  "componentes": {
+    "autoria": 0.111,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.5
+  },
+  "iip": 38.2,
+  "prioridade": "B — Prioridade média"
+}

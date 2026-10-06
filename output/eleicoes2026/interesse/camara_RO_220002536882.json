@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "camara_RO_220002536882",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 357/2024 [ia] (Câmara): Altera a Lei nº 9.394, de 20 de dezembro de 1996, que trata das diretrizes e bases da educação nacional, para dispor sobre a inclusão das atividades de Inteligência Artificial como ensino técnico profissionalizante, na f",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+    "PLP 35/2026 [tributacao] (Câmara): Institui Redutor Especial da Contribuição sobre Bens e Serviços – CBS aplicável a produtos da cadeia produtiva de bicicletas fabricados na Zona Franca de Manaus, com o objetivo de preservar o diferencial competitivo cons",
+    "PLP 198/2026 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre a exclusão da base de cálculo da Contribuição Social sobre Bens e Serviços – CBS e do Imposto sobre Bens e Serviços – IBS incidente sobre a en"
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "governo_digital": 1.0,
+    "tributacao": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.175,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 23.4,
+  "prioridade": "C — Interesse pontual"
+}

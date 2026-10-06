@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "senado_RR_5793",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.0
+  },
+  "iip": 20.0,
+  "prioridade": "C — Interesse pontual"
+}

@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_PE_170002544063",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 1113/2026 [tributacao] (Câmara): Altera o ECA Digital para vedar o emprego de práticas de design viciante em serviços digitais acessíveis a crianças e adolescentes.",
+    "PLP 126/2026 [tributacao] (Câmara): Concede redução das alíquotas do IBS e CBS a hospital privado não filantrópico que preste serviços ao SUS.",
+    "PL 5316/2026 [plataformas] (Câmara): Altera o ECA Digital para proibir que menores de 14 anos criem ou mantenham contas em redes sociais."
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "tributacao": 2.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.143,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 15.2,
+  "prioridade": "C — Interesse pontual"
+}

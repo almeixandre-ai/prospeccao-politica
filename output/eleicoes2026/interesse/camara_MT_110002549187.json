@@ -1,0 +1,21 @@
+{
+  "parlamentar_chave": "camara_MT_110002549187",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.25
+  },
+  "iip": 3.1,
+  "prioridade": "D — Interesse baixo"
+}

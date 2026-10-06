@@ -1,0 +1,23 @@
+{
+  "parlamentar_chave": "senado_BA_5523",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PL 1027/2020 [dados] (Senado, autor principal): Altera a Lei nº 13.709, de 2018, prorrogando a data da entrada em vigor de dispositivos da Lei Geral de Proteção de Dados Pessoais - LGPD - para 16 de fevereiro de 2022.."
+  ],
+  "autoria_por_tema": {
+    "dados": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.0
+  },
+  "iip": 1.6,
+  "prioridade": "D — Interesse baixo"
+}

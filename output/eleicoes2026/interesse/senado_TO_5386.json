@@ -1,0 +1,29 @@
+{
+  "parlamentar_chave": "senado_TO_5386",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 0.5
+  },
+  "relatorias": [
+    "PL 2703/2021 [incentivos_pd, startups] (CAE): Altera a Lei Complementar nº 182, de 1º de junho de 2021 e a Lei nº 11.540, de 12 de novembro de 2007, para acrescentar o conceito das startups da sustentabilidade (startups verdes) e dar-lhes primazi",
+    "PL 2852/2022 [dados] (CCJ): Altera a Lei nº 13.709, de 14 de agosto de 2018 – Lei Geral de Proteção de Dados – LGPD, para incluir um representante do Conselho Federal da Ordem dos Advogados do Brasil no Conselho Nacional de Prot"
+  ],
+  "orgaos": [
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.5,
+    "comissoes": 0.75,
+    "frentes": 0.0
+  },
+  "iip": 25.8,
+  "prioridade": "C — Interesse pontual"
+}

@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_AL_20002547849",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 3428/2024 [dados] (Câmara): Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), estabelecendo restrições ao tratamento de dados pessoais de crianças e adolescentes."
+  ],
+  "autoria_por_tema": {
+    "dados": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.5
+  },
+  "iip": 23.2,
+  "prioridade": "C — Interesse pontual"
+}

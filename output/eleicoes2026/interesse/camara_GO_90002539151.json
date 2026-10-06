@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "camara_GO_90002539151",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 101/2023 [incentivos_pd] (Câmara): Modifica a Lei nº 8.248, de 23 de outubro de 1991 (Lei de Informática), estabelecendo prazo para que os bens de informática comercializados no País atendam a requisitos ambientais e de eficiência energética."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.25
+  },
+  "iip": 5.1,
+  "prioridade": "D — Interesse baixo"
+}

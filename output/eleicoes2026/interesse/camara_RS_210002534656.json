@@ -1,0 +1,42 @@
+{
+  "parlamentar_chave": "camara_RS_210002534656",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+    "PL 4759/2026 [dados] (Câmara): Dispõe sobre a proteção do consumidor contra o assédio consumerista por telemarketing ativo abusivo, estabelece parâmetros objetivos para a configuração de dano moral e altera a Lei nº 8.078, de 11 de setembro de 1990 (C",
+    "PLP 248/2026 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre o ressarcimento instantâneo do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS), no mesmo prazo e na m"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "governo_digital": 1.0,
+    "dados": 1.0,
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "CCOM — 2º Vice-Presidente (Câmara): Comissão de Comunicação",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.143,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 1.0
+  },
+  "iip": 46.4,
+  "prioridade": "B — Prioridade média"
+}

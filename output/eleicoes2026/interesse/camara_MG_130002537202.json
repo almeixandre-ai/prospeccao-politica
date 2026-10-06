@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_MG_130002537202",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 745/2024 [infra_digital] (Câmara): Acrescenta os artigos 15-F e 15-G na Lei nº 7.498, de 25 de junho de 1986, a fim de dispor sobre a jornada de trabalho dos profissionais de enfermagem."
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTCGIBS — Titular (Câmara): Grupo de Trabalho destinado a tratar do Projeto de Lei Complementar relativo ao Comitê Gestor e à distribuição da receit"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 1.0
+  },
+  "iip": 29.5,
+  "prioridade": "C — Interesse pontual"
+}

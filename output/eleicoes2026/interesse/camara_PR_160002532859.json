@@ -1,0 +1,29 @@
+{
+  "parlamentar_chave": "camara_PR_160002532859",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4668/2024 [tributacao] (Câmara): Altera a Lei Nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor, para garantir melhor atendimento ao procedimento de cancelamento de serviços digitais continuados"
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.75
+  },
+  "iip": 19.9,
+  "prioridade": "C — Interesse pontual"
+}

@@ -1,0 +1,38 @@
+{
+  "parlamentar_chave": "camara_PA_140002540456",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PL 2600/2021 [infra_digital] (Senado, autor principal): Altera a Lei nº 9.998, de 17 de agosto de 2000, para garantir que os recursos do Fundo de Universalização dos Serviços de Telecomunicações poderão ser utilizados para promover a conectividade das famílias que estão inscr",
+    "PL 1153/2025 [governo_digital] (Senado, autor principal): Cria o Programa Transformação Digital para Ribeirinhos, Quilombolas e Comunidades Indígenas e dá outras providências.",
+    "PLP 177/2025 [startups] (Senado, autor principal): Altera a Lei Complementar nº 182, de 1º de junho de 2021, que institui o Marco Legal das Startups e do Empreendedorismo Inovador, para dispor sobre a criação do Cadastro Nacional de Startups de Bioeconomia.",
+    "PL 2397/2026 [ia] (Senado, autor principal): Estabelece os parâmetros de ética nacional para o uso da inteligência artificial nas instituições de ensino públicas e privadas e dá outras providências.",
+    "PL 3399/2026 [ia, talentos] (Senado, autor principal): Altera a Lei nº 14.533, de 11 de janeiro de 2023, que institui a Política Nacional de Educação Digital, para incluir o letramento em inteligência artificial e o enfrentamento da desinformação sintética entre as competênc",
+    "PL 5353/2026 [talentos] (Senado, autor principal): Altera a Lei nº 14.533, de 11 de janeiro de 2023, que institui a Política Nacional de Educação Digital, para assegurar acessibilidade digital e tecnologia assistiva a estudantes com deficiência.",
+    "PL 5402/2026 [propriedade_intelectual] (Senado, autor principal): Institui o Marco Legal da Propriedade Intelectual e da Inovação Biotecnológica da Amazônia Legal; autoriza a instituição, no âmbito do Instituto Nacional da Propriedade Industrial (INPI), de exame prioritário de patentes",
+    "PL 5492/2026 [talentos] (Senado, autor principal): Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para instituir o Programa Jovem Aprendiz Digital, com foco na difusão de competências digitais no ambiente profission"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "governo_digital": 1.0,
+    "startups": 1.0,
+    "ia": 2.0,
+    "talentos": 3.0,
+    "propriedade_intelectual": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.286,
+    "relatoria": 0.0,
+    "comissoes": 0.45,
+    "frentes": 0.0
+  },
+  "iip": 23.3,
+  "prioridade": "C — Interesse pontual"
+}

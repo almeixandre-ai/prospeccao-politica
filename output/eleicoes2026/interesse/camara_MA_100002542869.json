@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "camara_MA_100002542869",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 3821/2024 [ia] (Câmara): Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para tipificar o crime de manipulação digital de imagens por inteligência artificial",
+    "PL 1192/2026 [plataformas] (Câmara): Estabelece deveres de detecção, prevenção e contenção da disseminação de conteúdos digitais que incentivem violência contra mulheres em redes sociais ou serviços de compartilhamento de conteúdo na internet."
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTALDIG — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater alternativas digitais de tributação e desburocratização",
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am",
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 1.0
+  },
+  "iip": 41.4,
+  "prioridade": "B — Prioridade média"
+}

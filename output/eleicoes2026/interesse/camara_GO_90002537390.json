@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_GO_90002537390",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2213/2023 [dados] (Câmara): Proíbe o registro e a divulgação de dados pessoais sensíveis referentes a pessoa agonizando ou cadáver.",
+    "PL 4299/2024 [infra_digital] (Câmara): Acrescenta os Arts. 7º-A, 7º-B, 7º-C, 7º-D, 7º-E, 7º-F, 7º-G e 7º-H à Lei nº 12.764, de 27 de dezembro de 2012, que Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e al"
+  ],
+  "autoria_por_tema": {
+    "dados": 1.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTREDES — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater o PL 2630/20, que trata da regulamentação das redes sociais",
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.0
+  },
+  "iip": 22.7,
+  "prioridade": "C — Interesse pontual"
+}

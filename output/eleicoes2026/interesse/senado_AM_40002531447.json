@@ -1,0 +1,34 @@
+{
+  "parlamentar_chave": "senado_AM_40002531447",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 17/2019 [dados] (Senado, coautor): Acrescenta o inciso XII-A, ao art. 5º, e o inciso XXX, ao art. 22, da Constituição Federal para incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão e fixar a competência privativa da União para",
+    "PL 5306/2020 [startups] (Senado, autor principal): Altera as Leis nºs 7.827, de 27 de setembro de 1989, que institui os Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste; e 10.177, de 12 de janeiro de 2001, que dispõe sobre as operações com ",
+    "PEC 17/2019 (fase 2) [dados] (Senado, coautor): Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais",
+    "PEC 45/2022 [plataformas] (Senado, coautor): Altera o art. 53 da Constituição Federal, para atribuir ao Senado Federal e à Câmara dos Deputados a competência para suspender ou excluir as páginas, os canais e as contas de seus membros na rede mundial de computadores",
+    "PL 750/2026 [ia] (Senado, autor principal): Institui o Programa Nacional de Monitoramento de Agressores com Uso de Tecnologia por Inteligência Artificial (PNM-IA), com a finalidade de prevenir a violência doméstica; assegurar a efetividade das medidas protetivas d"
+  ],
+  "autoria_por_tema": {
+    "dados": 1.0,
+    "startups": 1.0,
+    "plataformas": 0.5,
+    "ia": 1.0
+  },
+  "relatorias": [
+    "PLP 108/2024 [tributacao] (CCJ): Institui o Comitê Gestor do Imposto sobre Bens e Serviços (CG-IBS); dispõe sobre o processo administrativo tributário relativo ao lançamento de ofício do Imposto sobre Bens e Serviços (IBS), sobre a d",
+    "PLP 68/2024 [tributacao] (CCJ): Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); e dá outras providências.",
+    "PDL 132/2023 [plataformas] (CDD): Susta a Portaria do Ministério da Justiça e Segurança Pública n° 351, de 12 de abril de 2023, que trata de medidas administrativas para prevenção à disseminação de conteúdos flagrantemente ilícitos, p"
+  ],
+  "orgaos": [],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.103,
+    "relatoria": 0.75,
+    "comissoes": 0.0,
+    "frentes": 0.0
+  },
+  "iip": 20.2,
+  "prioridade": "C — Interesse pontual"
+}

@@ -1,0 +1,37 @@
+{
+  "parlamentar_chave": "camara_SP_250002539435",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PLP 99/2024 [tributacao] (Câmara): Regulamenta o inciso IV, do § 3º do art. 9º da Emenda Constitucional 132 de 20 de dezembro de 2023, para dispor sobre a redução de alíquotas do IBS e da CBS para atividades de reabilitação urbana de zonas históricas e de",
+    "PL 2280/2025 [plataformas] (Câmara): Dispõe sobre a destinação de percentual dos recursos depositados em plataformas digitais de operação financeira para contas de poupança de titularidade do usuário, e dá outras providências.",
+    "PL 3886/2025 [dados] (Câmara): Proíbe a monetização de conteúdos digitais com a participação de crianças e adolescentes e altera a Lei nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, a Lei nº 12.965, de 23 de abril de 2014 – M",
+    "PL 4522/2025 [ia] (Câmara): Dispõe sobre diretrizes e critérios para o cumprimento dos protocolos do Conselho Federal de Psicologia no âmbito do uso de sistemas de inteligência artificial generativa de uso conversacional (IAg-C).",
+    "PL 1827/2026 [plataformas] (Câmara): Altera a Lei nº 15.211, de 17 de setembro de 2025, para instituir a Política Nacional de Parentalidade Digital e, estabelecer restrições ao acesso de menores de 16 anos a redes sociais.",
+    "PL 5498/2026 [plataformas] (Câmara): Dispõe sobre medidas complementares de proteção de crianças e adolescentes no uso de redes sociais e altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente)."
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0,
+    "plataformas": 3.0,
+    "dados": 1.0,
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.175,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.5
+  },
+  "iip": 35.9,
+  "prioridade": "B — Prioridade média"
+}

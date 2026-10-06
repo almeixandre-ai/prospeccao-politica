@@ -1,0 +1,26 @@
+{
+  "parlamentar_chave": "camara_PI_180002536465",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1022/2025 [plataformas] (Câmara): Altera o Código de Trânsito Brasileiro para tipificar como crime a prática de manobras perigosas, como o ‘grau’ e outros malabarismos sobre motocicletas, bem como a participação em “rachas”, estabelecendo pena de reclusã"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 7.3,
+  "prioridade": "D — Interesse baixo"
+}

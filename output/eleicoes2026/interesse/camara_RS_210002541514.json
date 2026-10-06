@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "camara_RS_210002541514",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 476/2025 [tributacao] (Câmara): Altera a Lei complementar nº 214, de 16 de janeiro de 2025, para reduzir de 50% para 30% o percentual mínimo de receita bruta decorrente de exportação exigido para a suspensão do pagamento do IBS e da CBS na aquisição de",
+    "PLP 57/2025 [tributacao] (Câmara): Altera a Lei complementar nº 214, de 16 de janeiro de 2025, para reduzir de 50% para 30% o percentual mínimo de receita bruta decorrente de exportação exigido para a suspensão do pagamento do IBS e da CBS na aquisição de",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "tributacao": 2.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.159,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 22.4,
+  "prioridade": "C — Interesse pontual"
+}

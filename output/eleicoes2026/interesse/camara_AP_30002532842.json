@@ -1,0 +1,38 @@
+{
+  "parlamentar_chave": "camara_AP_30002532842",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 3224/2024 [plataformas] (Câmara): Institui a Campanha Nacional de Utilização Consciente da Tecnologia Digital, que se destina a incentivar o uso ponderado e responsável de jogos eletrônicos, redes sociais, programas computacionais, softwares, e similares",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 2280/2025 [plataformas] (Câmara): Dispõe sobre a destinação de percentual dos recursos depositados em plataformas digitais de operação financeira para contas de poupança de titularidade do usuário, e dá outras providências.",
+    "PL 3928/2025 [plataformas] (Câmara): Dispõe sobre a proibição do direcionamento algorítmico de conteúdos produzidos por crianças e adolescentes em redes sociais e plataformas digitais, visando impedir a formação de bolhas de conteúdo infantil que favoreçam ",
+    "PL 3929/2025 [plataformas] (Câmara): Dispõe sobre a criminalização da monetização de conteúdo infantil em redes sociais e plataformas digitais sem expressa autorização judicial, altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei",
+    "PL 4522/2025 [ia] (Câmara): Dispõe sobre diretrizes e critérios para o cumprimento dos protocolos do Conselho Federal de Psicologia no âmbito do uso de sistemas de inteligência artificial generativa de uso conversacional (IAg-C)."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 4.0,
+    "infra_digital": 1.0,
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.127,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 1.0
+  },
+  "iip": 35.4,
+  "prioridade": "B — Prioridade média"
+}

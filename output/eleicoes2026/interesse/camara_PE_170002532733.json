@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_PE_170002532733",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "SUBTAPD — Titular (Câmara): Subcomissão Permanente para tratar do “Trabalho por Aplicativos e por Plataformas Digitais”",
+    "GTRETRIB — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater, no âmbito da regulamentação da reforma tributária, o PLP 68/2024, que ",
+    "PLP15225 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu",
+    "PLP15225 — Relator (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 1.0
+  },
+  "iip": 39.5,
+  "prioridade": "B — Prioridade média"
+}

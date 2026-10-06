@@ -1,0 +1,26 @@
+{
+  "parlamentar_chave": "senado_PE_6338",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [
+    "PL 4294/2025 [ia] (CCT): Altera a Lei nº 14.790, de 29 de dezembro de 2023, e a Lei nº 13.756, de 12 de dezembro de 2018, para dispor sobre a obrigatoriedade de utilização de ferramentas de inteligência artificial (IA), pelos",
+    "PL 262/2024 [ia, propriedade_intelectual] (CCT): Altera o Decreto Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal –, para prever causa de aumento de pena para o crime de violação de direito autoral, quando houver uso de inteligência artificial",
+    "PL 2600/2021 [infra_digital] (CAS): Altera a Lei nº 9.998, de 17 de agosto de 2000, para garantir que os recursos do Fundo de Universalização dos Serviços de Telecomunicações poderão ser utilizados para promover a conectividade das famí"
+  ],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.75,
+    "comissoes": 0.75,
+    "frentes": 0.0
+  },
+  "iip": 30.0,
+  "prioridade": "B — Prioridade média"
+}

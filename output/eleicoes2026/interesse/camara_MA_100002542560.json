@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_MA_100002542560",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 5178/2026 [ia] (Câmara): Institui a Política Nacional de Formação Profissional para Trabalhadores Substituídos por Automação e Inteligência Artificial, estabelece o direito à requalificação tecnológica gratuita, cria incentivos fiscais para a re"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 17.4,
+  "prioridade": "C — Interesse pontual"
+}

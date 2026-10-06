@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_PA_140002540619",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4378/2023 [incentivos_pd] (Câmara): Institui incentivos fiscais para empresas que realizem investimentos em pesquisa e desenvolvimento de tecnologias assistivas voltadas para pessoas com transtorno do espectro autista, incluindo aplicativos, jogos educativ"
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 1.0
+  },
+  "iip": 29.5,
+  "prioridade": "C — Interesse pontual"
+}

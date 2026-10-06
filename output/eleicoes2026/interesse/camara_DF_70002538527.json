@@ -1,0 +1,34 @@
+{
+  "parlamentar_chave": "camara_DF_70002538527",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PLP 252/2026 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para reduzir em 60% (sessenta por cento) as alíquotas do Imposto sobre Bens e Serviços – IBS e da Contribuição sobre Bens e Serviços – CBS incidentes sobre alim"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "GT-IA — Titular (Câmara): Grupo de Trabalho para Análise da Tecnologia e Regulação de Sistemas de Inteligência Artificial",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "CCOM — Presidente (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais."
+  ],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.25
+  },
+  "iip": 33.1,
+  "prioridade": "B — Prioridade média"
+}

@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_SC_240002539376",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.75
+  },
+  "iip": 30.1,
+  "prioridade": "B — Prioridade média"
+}

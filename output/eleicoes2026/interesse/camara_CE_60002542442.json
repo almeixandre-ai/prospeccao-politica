@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_CE_60002542442",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4758/2024 [ia] (Câmara): Dispõe sobre a inclusão da disciplina de Inteligência Artificial – IA, no currículo da educação básica e do ensino médio, e dá outras providências.",
+    "PL 1204/2025 [incentivos_pd] (Câmara): Altera a Lei nº 11.540, de 12 de novembro de 2007, para autorizar a destinação do FNDCT ao Programa Conhecimento Brasil - Atração e Fixação de Talentos.",
+    "PL 2479/2025 [plataformas] (Câmara): Dispõe sobre o valor mínimo de remuneração para serviços de trabalhadores de plataformas digitais de entregas e mototaxistas, estabelece regras de transparência, cria obrigação de seguro de acidentes e dá outras providên",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "incentivos_pd": 1.0,
+    "plataformas": 1.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais."
+  ],
+  "componentes": {
+    "autoria": 0.127,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.25
+  },
+  "iip": 11.1,
+  "prioridade": "D — Interesse baixo"
+}

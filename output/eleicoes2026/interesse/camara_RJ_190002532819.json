@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_RJ_190002532819",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1269/2026 [plataformas] (Câmara): Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre a transparência na oferta, as regras de cobrança e o cancelamento de serviços em lojas de aplicações de internet e plat"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.75
+  },
+  "iip": 10.4,
+  "prioridade": "D — Interesse baixo"
+}

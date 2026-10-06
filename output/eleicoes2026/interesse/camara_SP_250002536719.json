@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_SP_250002536719",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1617/2026 [plataformas] (Câmara): Institui a lei de combate aos golpes virtuais em redes sociais. Altera a Lei nº 12.965, de 23 de abril de 2014, para dispor sobre a responsabilidade de provedores de aplicações de internet pela manutenção de conteúdo que",
+    "PL 2795/2026 [ia] (Câmara): Altera a Lei nº 8.213, de 24 de julho de 1991, para estabelecer o pagamento em dobro do benefício previdenciário quando houver negativa de direito na esfera administrativa por erro grosseiro, ausência de exame das provas"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0,
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.25
+  },
+  "iip": 7.1,
+  "prioridade": "D — Interesse baixo"
+}

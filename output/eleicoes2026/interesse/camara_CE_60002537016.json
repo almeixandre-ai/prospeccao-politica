@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_CE_60002537016",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 766/2025 [infra_digital] (Câmara): Insere os Arts. 146º-E, 146º-F, 146º-G na Lei de Execuções Penais, para instituir a cobrança, a título de compensação financeira, pelo uso de equipamento de monitoração eletrônica por presos temporários ou condenados, in",
+    "PL 710/2026 [plataformas] (Câmara): Altera a Lei 9.605, de 12 de fevereiro de 1998, para tipificar o crime de participação, organização e transmissão, por meio de redes sociais ou comunidades virtuais, de atos de crueldade, abusos ou maus-tratos contra ani",
+    "PL 3780/2026 [plataformas] (Câmara): Altera a Lei nº 9.294, de 15 de julho de 1996, para estabelecer restrições à publicidade de plataformas digitais destinadas à exploração comercial de conteúdo sexualmente explícito e à intermediação de serviços de nature"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "plataformas": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.75
+  },
+  "iip": 13.3,
+  "prioridade": "D — Interesse baixo"
+}

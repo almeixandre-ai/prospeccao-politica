@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_RR_230002549630",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 2868/2025 [tributacao] (Câmara): Dispõe sobre a regulamentação dos serviços digitais em voos domésticos no território nacional e dá outras providências.",
+    "PL 3968/2025 [dados] (Câmara): Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), para instituir o Termo Nacional de Segurança Digital para Crianças e Adolescentes e estabelecer diretrizes obrigatórias de proteç",
+    "PL 3991/2025 [plataformas] (Câmara): Altera a o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, e o Estatuto da Criança e do Adolescente (ECA), para instituir pena acessória de proibição temporária do uso de redes sociais, celulares, computad"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "tributacao": 1.0,
+    "dados": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.127,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.75
+  },
+  "iip": 17.3,
+  "prioridade": "C — Interesse pontual"
+}

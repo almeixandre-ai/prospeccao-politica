@@ -1,0 +1,21 @@
+{
+  "parlamentar_chave": "senado_PI_6369",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.0
+  },
+  "iip": 12.0,
+  "prioridade": "D — Interesse baixo"
+}

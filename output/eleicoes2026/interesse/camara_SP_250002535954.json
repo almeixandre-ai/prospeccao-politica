@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_SP_250002535954",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 3046/2026 [plataformas] (Câmara): Dispõe sobre a limitação da funcionalidade de rolagem contínua e automática (infinite scroll) em plataformas digitais e aplicativos de redes sociais, e dá outras providências.",
+    "PL 4831/2026 [plataformas] (Câmara): Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o monitoramento e o rastreamento não consentido de pessoa, por meio d"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 8.2,
+  "prioridade": "D — Interesse baixo"
+}

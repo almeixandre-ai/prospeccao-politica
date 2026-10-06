@@ -1,0 +1,45 @@
+{
+  "parlamentar_chave": "camara_SP_250002544340",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 5303/2023 [ia] (Câmara): Dispõe sobre a prestação de serviços mediante o uso de inteligência artificial.",
+    "PL 6211/2023 [ia] (Câmara): Altera a Lei no 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, para criminalizar a criação de conteúdo erótico e pornográfico, a partir do rosto de crianças e adolescentes, por meio de sistemas de ",
+    "PL 2553/2025 [incentivos_pd] (Câmara): Acrescenta os arts. 1º-B a 1º-D à Lei nº 6.321, de 14 de abril de 1976, para dispor sobre a modernização, inovação tecnológica e redução dos custos de operação do Programa de Alimentação do Trabalhador (PAT) ampliando a ",
+    "PL 3900/2025 [plataformas] (Câmara): Dispõe sobre a prevenção, proibição e punição da adultização e erotização de crianças e adolescentes em ambientes digitais e audiovisuais, estabelece obrigações às plataformas digitais e demais responsáveis, e dá outras ",
+    "PLP 32/2026 [propriedade_intelectual] (Câmara): Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Instituto Nacional da Propriedade Industrial ",
+    "PL 1696/2026 [dados] (Câmara): Altera a Lei nº 11.419, de 19 de dezembro de 2006, com o objetivo de garantir maior segurança àqueles que participam de processos judiciais eletrônicos, mediante a limitação de acesso a seus dados pessoais.",
+    "PL 2373/2026 [plataformas] (Câmara): Dispõe sobre a responsabilidade civil e administrativa de plataformas digitais pela omissão no combate a crimes de crueldade animal transmitidos ao vivo, estabelece obrigações de cooperação com autoridades policiais e cr",
+    "PL 3093/2026 [dados] (Câmara): Altera a Lei no 10.406, de 10 de janeiro de 2002 (Código Civil), e a Lei no 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), dispondo sobre proteções adicionais aos dados biométricos."
+  ],
+  "autoria_por_tema": {
+    "ia": 2.0,
+    "incentivos_pd": 1.0,
+    "plataformas": 2.0,
+    "propriedade_intelectual": 1.0,
+    "dados": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.238,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 1.0
+  },
+  "iip": 52.4,
+  "prioridade": "A — Prioridade alta"
+}

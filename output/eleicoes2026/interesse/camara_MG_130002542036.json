@@ -1,0 +1,32 @@
+{
+  "parlamentar_chave": "camara_MG_130002542036",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 5368/2025 [ciberseguranca] (Câmara): Altera a Lei nº 13.756, de 12 de dezembro de 2018, para autorizar a aplicação de recursos do Fundo Nacional de Segurança Pública – FNSP em softwares de cibersegurança, seguros cibernéticos, campanhas educativas de preven",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "ciberseguranca": 1.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "PLP15225 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu",
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.9,
+    "frentes": 0.5
+  },
+  "iip": 32.7,
+  "prioridade": "B — Prioridade média"
+}

@@ -1,0 +1,29 @@
+{
+  "parlamentar_chave": "camara_ES_80002542409",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2479/2023 [infra_digital] (Câmara): Institui a Política Nacional de Conectividade da Agricultura Familiar.",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 16.4,
+  "prioridade": "C — Interesse pontual"
+}

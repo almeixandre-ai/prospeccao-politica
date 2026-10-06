@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_BA_50002534738",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 3379/2023 [ia] (Câmara): Altera a Lei nº 9.394, de 20 de dezembro de 1996, de diretrizes e bases da educação nacional, para dispor sobre a inclusão do ensino de Inteligência Artificial no ensino médio.",
+    "PL 5142/2023 [plataformas] (Câmara): Altera a Lei nº 12.965, de 23 de abril de 2014 – Marco Civil da Internet, para dispor sobre a proibição da divulgação de conteúdos que fazem apologia ao uso de drogas ilícitas em redes sociais e dá outras providências"
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.25
+  },
+  "iip": 7.1,
+  "prioridade": "D — Interesse baixo"
+}

@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_RJ_190002543101",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2479/2025 [plataformas] (Câmara): Dispõe sobre o valor mínimo de remuneração para serviços de trabalhadores de plataformas digitais de entregas e mototaxistas, estabelece regras de transparência, cria obrigação de seguro de acidentes e dá outras providên"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "CCOM — Titular (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 1.0
+  },
+  "iip": 32.2,
+  "prioridade": "B — Prioridade média"
+}

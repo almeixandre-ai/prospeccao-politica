@@ -1,0 +1,34 @@
+{
+  "parlamentar_chave": "camara_AL_20002547844",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4025/2023 [ia] (Câmara): Esta lei altera a Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, e a Lei nº 9.610, de 19 de fevereiro de 1998, dispondo sobre a utilização da imagem de uma pessoa, viva ou falecida, e dos direitos autorais, deco",
+    "PL 298/2024 [ciberseguranca] (Câmara): Altera o art. 103 da Lei nº 9.503, de 23 de setembro de 1997, para dispor sobre segurança cibernética de veículos, e dá outras providências.",
+    "PL 3137/2024 [plataformas] (Câmara): Tipifica a divulgação por meio de influenciadores digitais em todas as plataformas nas redes sociais de jogos e apostas de azar.",
+    "PL 526/2025 [ia] (Câmara): DISPÕE SOBRE A REGULAÇÃO DO USO DA INTELIGÊNCIA ARTIFICIAL NO BRASIL E DÁ OUTRAS PROVIDÊNCIAS.",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "ia": 2.0,
+    "ciberseguranca": 1.0,
+    "plataformas": 1.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.175,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.75
+  },
+  "iip": 20.3,
+  "prioridade": "C — Interesse pontual"
+}

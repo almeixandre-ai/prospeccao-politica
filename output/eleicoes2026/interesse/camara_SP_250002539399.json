@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "camara_SP_250002539399",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 875/2024 [infra_digital] (Câmara): Altera o art. 223-G da Consolidação das Leis do Trabalho para modificar o parâmetro para pagamento da indenização por dano extrapatrimonial.",
+    "PL 2721/2024 [ia] (Câmara): Altera o art. 11 da Lei n° 9.610, de 1998, para deixar expresso que autor é apenas a pessoa física, independentemente do grau de autonomia do sistema de inteligência artificial utilizado na elaboração da obra.",
+    "PL 2795/2024 [plataformas] (Câmara): Acrescenta o art. 50-A à Lei n° 8.245, de 1991, de modo a regular a locação de imóveis residenciais para temporada mediante o uso de provedores de aplicação.",
+    "PL 1243/2025 [ia] (Câmara): Altera as Leis n° 9.279, de 1996, e 9.610, de 1998, de modo a permitir o registro de pseudônimo ou apelido notoriamente conhecidos de menores de dezoito anos, representados ou assistidos pelos pais ou representante legal",
+    "PL 3946/2025 [plataformas] (Câmara): Estabelece que menores de 16 anos somente poderão manter conta em aplicativos de redes sociais mediante vinculação a uma conta pré-existente de um dos responsáveis.",
+    "PL 2539/2026 [plataformas] (Câmara): Responsabiliza penalmente a disseminação de imputações ofensivas à honra em meios digitais e redes sociais."
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "ia": 2.0,
+    "plataformas": 3.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento"
+  ],
+  "componentes": {
+    "autoria": 0.175,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.5
+  },
+  "iip": 24.7,
+  "prioridade": "C — Interesse pontual"
+}

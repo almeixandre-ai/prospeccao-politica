@@ -1,0 +1,36 @@
+{
+  "parlamentar_chave": "camara_SP_250002537969",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4452/2025 [dados] (Câmara): Altera a Lei nº 13.709, de 14 de agosto de 2018 (LGPD), para tornar indispensável o consentimento do titular para o tratamento de dados pessoais para fins de recriação de voz ou imagem de pessoa natural por meio da utili",
+    "PLP 3/2026 [tributacao] (Câmara): Altera os arts. 149 e 150 da Lei Complementar nº 214, de 16 de janeiro de 2025, nas partes que tratam da limitação da redução a zero de alíquotas do Imposto sobre Bens e Serviços (IBS), e da Contribuição Social sobre Ben",
+    "PL 1729/2026 [dados] (Câmara): Altera a Lei nº 13.432, de 11 de abril de 2017, para dispor sobre requisitos para o exercício da profissão de detetive particular, suas atribuições e o tratamento de dados pessoais no âmbito da atividade.",
+    "PL 3578/2026 [plataformas] (Câmara): Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para estabelecer regras de transparência na divulgação de preços em plataformas digitais de intermediação de serviços de transporte indiv"
+  ],
+  "autoria_por_tema": {
+    "dados": 2.0,
+    "tributacao": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.127,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 1.0
+  },
+  "iip": 35.4,
+  "prioridade": "B — Prioridade média"
+}

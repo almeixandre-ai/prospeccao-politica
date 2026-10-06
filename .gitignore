@@ -44,3 +44,5 @@ Thumbs.db
 # Eleições 2026 — exportações geradas
 output/eleicoes2026/*.xlsx
 output/_logo_tmp.png
+output/eleicoes2026/*.docx
+output/eleicoes2026/*.pdf

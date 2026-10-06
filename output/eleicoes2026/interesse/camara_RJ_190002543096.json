@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_RJ_190002543096",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 370/2024 [ia] (Câmara): Inclui uma majorante no crime de violência psicológica contra a mulher quando cometido mediante uso de inteligência artificial ou qualquer outro recurso tecnológico e aumenta a pena cominada ao crime de divulgação de cen",
+    "PL 5294/2025 [governo_digital, propriedade_intelectual] (Câmara): Institui a Política Nacional de Tecnologia e Inovação Social, define suas diretrizes e objetivos, estabelece atribuições para instituições de ciência e tecnologia, cria o Comitê Técnico de Avaliação de Conformidade, disc"
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "governo_digital": 1.0,
+    "propriedade_intelectual": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "SUBIA — Titular (Câmara): Subcomissão Especial para debater os limites legais e éticos para o uso da inteligência artificial e possíveis parâmetro",
+    "GT-IA — Titular (Câmara): Grupo de Trabalho para Análise da Tecnologia e Regulação de Sistemas de Inteligência Artificial",
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.0
+  },
+  "iip": 30.9,
+  "prioridade": "B — Prioridade média"
+}

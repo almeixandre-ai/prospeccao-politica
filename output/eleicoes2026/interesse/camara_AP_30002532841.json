@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_AP_30002532841",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 3066/2026 [governo_digital] (Câmara): Institui o Marco Nacional de Modernização Econômica e Simplificação Regulatória, com o objetivo de fortalecer a liberdade econômica, reduzir a burocracia, promover a transformação digital da administração pública, incent",
+    "PLP 193/2026 [ia, governo_digital, startups] (Câmara): Altera a Lei Complementar nº 182, de 1º de junho de 2021, para ampliar o marco legal das startups e do empreendedorismo inovador de modo a abranger a economia digital, a inteligência artificial, a bioeconomia e as compra"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "governo_digital": 2.0,
+    "ia": 1.0,
+    "startups": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "PLP15225 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.159,
+    "relatoria": 0.0,
+    "comissoes": 0.45,
+    "frentes": 0.0
+  },
+  "iip": 21.2,
+  "prioridade": "C — Interesse pontual"
+}

@@ -1,0 +1,41 @@
+{
+  "parlamentar_chave": "camara_PI_180002544106",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 4263/2024 [talentos] (Câmara): Altera a Lei nº 14.533, de 11 de janeiro de 2023, que institui a Política Nacional de Educação Digital, para incluir o Programa Nacional de Letramento Digital para Pessoas Idosas, visando à inclusão e capacitação digital",
+    "PL 5031/2025 [infra_digital] (Câmara): Institui o Estatuto Conectividade Significativa, cria o Plano Nacional de Conectividade Significativa (PNCS), dispõe sobre direitos, deveres, governança, financiamento e mecanismos de monitoramento.",
+    "PL 5338/2026 [tributacao] (Câmara): Institui a Lei Sinal de Risco, sobre a comunicação emergencial de situações de risco concreto e grave à vida ou à integridade física identificadas no âmbito de serviços digitais."
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 2.0,
+    "talentos": 1.0,
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.143,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 1.0
+  },
+  "iip": 46.4,
+  "prioridade": "B — Prioridade média"
+}

@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "senado_BA_50002536317",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PL 847/2025 [incentivos_pd] (Senado, autor principal): Altera a Lei nº 11.540, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT, para aprimorar a destinação de recursos do Fundo.",
+    "PL 4132/2025 [governo_digital] (Senado, autor principal): Dispõe sobre a Política Nacional de Transformação Digital na Agricultura.",
+    "PL 2003/2026 [infra_digital] (Senado, autor principal): Institui a Política Nacional de Cidades Verdes e Resilientes e estabelece diretrizes para a promoção de infraestrutura verde e azul, soluções baseadas na natureza, arborização urbana, proteção da fauna silvestre nativa e"
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 1.0,
+    "governo_digital": 1.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.0
+  },
+  "iip": 4.8,
+  "prioridade": "D — Interesse baixo"
+}

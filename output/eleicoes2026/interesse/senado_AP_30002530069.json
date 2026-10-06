@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "senado_AP_30002530069",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 0.5
+  },
+  "relatorias": [
+    "PL 2758/2021 [dados] (CCT): Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a composição do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade."
+  ],
+  "orgaos": [
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.25,
+    "comissoes": 0.45,
+    "frentes": 0.0
+  },
+  "iip": 14.8,
+  "prioridade": "D — Interesse baixo"
+}

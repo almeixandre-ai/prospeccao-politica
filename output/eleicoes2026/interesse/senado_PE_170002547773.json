@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "senado_PE_170002547773",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 17/2019 [dados] (Senado, coautor): Acrescenta o inciso XII-A, ao art. 5º, e o inciso XXX, ao art. 22, da Constituição Federal para incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão e fixar a competência privativa da União para",
+    "PEC 17/2019 (fase 2) [dados] (Senado, coautor): Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais"
+  ],
+  "autoria_por_tema": {
+    "dados": 1.0
+  },
+  "relatorias": [
+    "PDL 271/2024 [propriedade_intelectual] (CRE): Aprova a renovação, por Troca de Notas, formalizada em 12 de dezembro de 2023 entre a Delegação Permanente do Brasil junto à Organização Mundial do Comércio (OMC) e a Organização Mundial de Propriedad",
+    "PL 4167/2023 [infra_digital] (CDH): Acrescenta parágrafo único ao art. 26-G da Lei nº 8.080 de 19 de setembro de 1990, a fim de vedar a realização de qualquer procedimento de natureza abortiva na modalidade telessaúde."
+  ],
+  "orgaos": [
+    "CTIA — Titular (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.5,
+    "comissoes": 0.75,
+    "frentes": 0.0
+  },
+  "iip": 26.6,
+  "prioridade": "C — Interesse pontual"
+}

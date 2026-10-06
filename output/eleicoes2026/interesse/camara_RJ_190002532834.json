@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_RJ_190002532834",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 855/2025 [plataformas] (Câmara): Dispõe sobre a tipificação do crime de ataques contra religiosos nas redes sociais e estabelece penalidades..",
+    "PLP 81/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para modificar regras relativas ao regime diferenciado do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) aplicável aos",
+    "PL 3062/2025 [plataformas] (Câmara): Dispõe sobre a oferta e apresentação de produtos em aplicativos e plataformas digitais de entrega, a fim de a eles estender a obrigação de prestar as informações elencadas no art. 31 da Lei nº 8.078, de 11 de setembro de",
+    "PL 428/2026 [ia] (Câmara): Altera o § 2º-A do art. 171 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), passando a prever como modalidade de fraude eletrônica aquela cometida mediante uso de imagens, vídeos ou áudios gerados por i"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0,
+    "tributacao": 1.0,
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.127,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.0
+  },
+  "iip": 7.9,
+  "prioridade": "D — Interesse baixo"
+}

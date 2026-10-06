@@ -1,0 +1,23 @@
+{
+  "parlamentar_chave": "camara_AL_20002547841",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.25
+  },
+  "iip": 10.6,
+  "prioridade": "D — Interesse baixo"
+}

@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_PE_170002533326",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "SUBTAPD — Suplente (Câmara): Subcomissão Permanente para tratar do “Trabalho por Aplicativos e por Plataformas Digitais”",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.5
+  },
+  "iip": 31.2,
+  "prioridade": "B — Prioridade média"
+}

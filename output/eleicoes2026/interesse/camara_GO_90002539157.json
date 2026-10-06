@@ -1,0 +1,26 @@
+{
+  "parlamentar_chave": "camara_GO_90002539157",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1779/2024 [plataformas] (Câmara): ALTERA A LEI Nº 8.069, DE 13 DE JULHO DE 1990 – ESTATUTO DA CRIANÇA E DO ADOLESCENTE (ECA),  A CRIMINALIZAÇÃO DA EXPOSIÇÃO DE CRIANÇAS E ADOLESCENTES NAS REDES SOCIAIS E MEIOS DE COMUNIÇÃO.",
+    "PL 3790/2025 [plataformas] (Câmara): DISPÕE SOBRE A PROTEÇÃO DE CRIANÇAS E ADOLESCENTES NO AMBIENTE DIGITAL, ESTABELECE RESTRIÇÕES À EXIBIÇÃO, PARTICIPAÇÃO E MONETIZAÇÃO DE CONTEÚDOS EM PLATAFORMAS DIGITAIS, IMPÕE DEVERES ÀS PLATAFORMAS E DÁ OUTRAS PROVIDÊN"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.25
+  },
+  "iip": 5.1,
+  "prioridade": "D — Interesse baixo"
+}

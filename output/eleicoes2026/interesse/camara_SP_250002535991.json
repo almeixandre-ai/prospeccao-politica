@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_SP_250002535991",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PLP 130/2023 [plataformas] (Câmara): Altera a Lei nº 12.965, de 23 de abril de 2014, para dispor sobre o uso de redes sociais.",
+    "PL 3644/2023 [plataformas] (Câmara): Altera a Lei nº 12.965, de 23 de abril de 2014, para dispor sobre o uso de redes sociais.",
+    "PL 855/2025 [plataformas] (Câmara): Dispõe sobre a tipificação do crime de ataques contra religiosos nas redes sociais e estabelece penalidades.."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 3.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "CCOM — Titular (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.5
+  },
+  "iip": 28.0,
+  "prioridade": "C — Interesse pontual"
+}

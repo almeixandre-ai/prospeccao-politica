@@ -1,0 +1,26 @@
+{
+  "parlamentar_chave": "camara_PR_160002532878",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1043/2026 [ciberseguranca] (Câmara): Institui a Política de Prevenção e Repressão a Crimes Cibernéticos contra Animais, dispondo sobre a prevenção, tipificação, investigação e repressão de crimes cometidos por meio eletrônico ou digital, e dá outras providê"
+  ],
+  "autoria_por_tema": {
+    "ciberseguranca": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 8.2,
+  "prioridade": "D — Interesse baixo"
+}

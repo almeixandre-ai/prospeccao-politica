@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "camara_RO_220002536880",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1109/2024 [plataformas] (Câmara): Veda a regulamentação da redes sociais pelo Estado.",
+    "PL 4589/2024 [ia] (Câmara): Institui o Sistema de Assistência Automática por Inteligência Artificial (AAIA) para integração aos cadastros sociais, com o objetivo de otimizar a análise de dados e oferecer suporte imediato a famílias em situação de v",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+    "PL 6248/2025 [ia] (Câmara): Dispõe sobre a utilização de sistemas de inteligência artificial nas atividades de análise de inteligência policial, estabelecendo princípios éticos, definições técnicas, limites de uso, diretrizes para supervisão humana"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0,
+    "ia": 2.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.143,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 1.0
+  },
+  "iip": 28.9,
+  "prioridade": "C — Interesse pontual"
+}

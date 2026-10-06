@@ -1,0 +1,32 @@
+{
+  "parlamentar_chave": "senado_SE_260002533084",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [
+    "PL 870/2021 [dados, plataformas] (CCT): Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a comercialização, o fornecimento e o compartilhamento de informações de usuários de ",
+    "PL 871/2021 [dados] (CCT): Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a elaboração de código de ética entre as regras de boas práticas e de governança dos ",
+    "PL 1126/2024 [dados] (CCT): Altera a Lei nº 13.709, de 2018, para majorar a sanção administrativa de multa incidente sobre o faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil, em razão do vazamen",
+    "PL 3844/2025 [talentos] (CCT): Altera a Lei nº 14.533, de 11 de janeiro de 2023, que institui a Política Nacional de Educação Digital e dá outras providências, para dispor sobre a Cidadania Digital.",
+    "MPV 1317/2025 [dados] (CMMPV 1317/2025): Altera a Lei nº 13.709, de 14 de agosto de 2018, para tratar da Agência Nacional de Proteção de Dados, a Lei nº 10.871, de 20 de maio de 2004, para criar a Carreira de Regulação e Fiscalização de Prot"
+  ],
+  "orgaos": [
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+    "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 1.0,
+    "comissoes": 1.0,
+    "frentes": 0.25
+  },
+  "iip": 42.5,
+  "prioridade": "B — Prioridade média"
+}

@@ -1,0 +1,34 @@
+{
+  "parlamentar_chave": "camara_AM_40002531441",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 177/2024 [ia, ciberseguranca] (Câmara): “Institui a Campanha de Conscientização e Prevenção contra Crimes Cibernéticos, cometidos por meio do uso indevido da inteligência artificial, contra crianças e adolescentes.”",
+    "PL 477/2024 [ia] (Câmara): Tipifica na lei penal a alteração de fotos, vídeos e som com o uso de sistema de Inteligência Artificial para praticar violência contra a mulher.",
+    "PL 897/2024 [ia] (Câmara): Dispõe sobre a Autenticação de Mídia Digital criada ou modificada por Inteligência Artificial (IA) e dá outras providências.",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá"
+  ],
+  "autoria_por_tema": {
+    "ia": 3.0,
+    "ciberseguranca": 1.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.206,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 25.4,
+  "prioridade": "C — Interesse pontual"
+}

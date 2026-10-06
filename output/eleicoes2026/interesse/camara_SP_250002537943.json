@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_SP_250002537943",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 349/2024 [ia] (Câmara): Institui campanha de prevenção e combate aos crimes digitais contra crianças, adolescentes e pessoas com deficiência praticados com o suporte de ferramentas de inteligência artificial.",
+    "PLP 81/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para modificar regras relativas ao regime diferenciado do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) aplicável aos",
+    "PL 1011/2026 [plataformas] (Câmara): Institui a Lei Trajeto Seguro, que estabelece mecanismos obrigatórios de segurança preventiva em aplicativos de transporte individual de passageiros e cria protocolos tecnológicos de proteção a usuárias, especialmente mu"
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "tributacao": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "CCOM — Presidente (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.111,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.0
+  },
+  "iip": 31.9,
+  "prioridade": "B — Prioridade média"
+}

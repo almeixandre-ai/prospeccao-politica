@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_RO_220002542943",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1486/2025 [infra_digital] (Câmara): Institui o Programa Nacional de Universalização da Banda Larga na Amazônia e altera a Lei nº 13.116, de 20 de abril de 2015, para dispor sobre incentivos à expansão da infraestrutura de telecomunicações na Amazônia Legal",
+    "PL 4455/2025 [ia, talentos] (Câmara): Altera a Lei nº 14.533, de 11 de janeiro de 2023, que institui a Política Nacional de Educação Digital e dá outras providências, para dispor sobre desenvolvimento de competências para o uso inteligência artificial."
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "ia": 1.0,
+    "talentos": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "PLP15225 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.111,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 1.0
+  },
+  "iip": 34.4,
+  "prioridade": "B — Prioridade média"
+}

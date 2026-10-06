@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_MG_130002542015",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4687/2024 [plataformas] (Câmara): Dispõe sobre a coibição da exposição de crianças e adolescentes a conteúdo sexual, nudez, drogas e violência em plataformas digitais e dá outras providências.",
+    "PL 353/2026 [talentos] (Câmara): Altera a Lei nº 8.842, de 4 de janeiro de 1994, que dispõe sobre a Política Nacional do Idoso, e a Lei nº 10.741, de 1º de outubro de 2003, que institui o Estatuto da Pessoa Idosa, para estabelecer a Política Nacional de",
+    "PL 4881/2026 [ia] (Câmara): Dispõe sobre os deveres de governança, segurança, transparência, responsabilidade, conformidade e proteção do consumidor na utilização de sistemas de inteligência artificial nas relações de consumo, institui o Regime Jur"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0,
+    "talentos": 1.0,
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 12.2,
+  "prioridade": "D — Interesse baixo"
+}

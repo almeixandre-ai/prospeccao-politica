@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "senado_MG_130002551786",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 3286/2025 [plataformas] (Câmara): Institui o Sistema de Autocontrole Regulado das Plataformas Digitais, altera as Leis nº 12.965, de 23 de abril de 2014 – Marco Civil da Internet – para aperfeiçoar o regime jurídico da responsabilidade civil das platafor",
+    "PLP 268/2025 [tributacao] (Câmara): Dispõe sobre a redução de alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS) incidente sobre materiais de construção civil e dá outras providências.",
+    "PLP 236/2026 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre a não incidência do Imposto sobre Bens e Serviços – IBS e da Contribuição sobre Bens e Serviços – CBS sobre contribuições e operações internas"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0,
+    "tributacao": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.111,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 1.0
+  },
+  "iip": 34.4,
+  "prioridade": "B — Prioridade média"
+}

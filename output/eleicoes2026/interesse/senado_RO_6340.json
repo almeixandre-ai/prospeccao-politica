@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "senado_RO_6340",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 0.5
+  },
+  "relatorias": [
+    "PL 4132/2025 [governo_digital] (CRA): Dispõe sobre a Política Nacional de Transformação Digital na Agricultura."
+  ],
+  "orgaos": [],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.25,
+    "comissoes": 0.0,
+    "frentes": 0.0
+  },
+  "iip": 5.8,
+  "prioridade": "D — Interesse baixo"
+}

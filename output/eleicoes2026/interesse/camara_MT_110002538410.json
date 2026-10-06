@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_MT_110002538410",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1768/2025 [dados] (Câmara): Caracteriza como hediondos os crimes de furto mediante fraude cometido por dispositivo eletrônico ou informático e de fraude eletrônica, quando praticados em associação criminosa ou contra pessoa idosa, e tipifica como c",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "dados": 1.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 10.2,
+  "prioridade": "D — Interesse baixo"
+}

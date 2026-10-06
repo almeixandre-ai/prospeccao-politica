@@ -1,0 +1,38 @@
+{
+  "parlamentar_chave": "camara_BA_50002531452",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4635/2023 [plataformas] (Câmara): Acrescenta art. 34-A à Lei nº 8.078, de 11 de setembro de 1990, para estabelecer a responsabilidade solidária dos titulares de sítios eletrônicos, de plataformas digitais e de demais provedores de aplicações que intermed",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+    "PL 2651/2026 [plataformas] (Câmara): Dispõe sobre a regulação dos mercados de previsão no Brasil, estabelece regras para plataformas digitais, proteção ao consumidor e integridade de mercado, e dá outras providências."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTREDES — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater o PL 2630/20, que trata da regulamentação das redes sociais",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "PLP15225 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu",
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 1.0
+  },
+  "iip": 41.4,
+  "prioridade": "B — Prioridade média"
+}

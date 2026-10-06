@@ -1,0 +1,19 @@
+{
+  "parlamentar_chave": "camara_PR_160002542314",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.0
+  },
+  "iip": 0.0,
+  "prioridade": "Sem interesse identificado"
+}

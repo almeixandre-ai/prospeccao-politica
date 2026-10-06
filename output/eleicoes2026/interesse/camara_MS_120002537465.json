@@ -1,0 +1,37 @@
+{
+  "parlamentar_chave": "camara_MS_120002537465",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2421/2023 [ia] (Câmara): Dispõe sobre a criação do Fundo de Renda Básica, que será utilizado para redistribuição de renda para os trabalhadores afetados pelo uso de inteligência artificial e alto grau de automação no mercado de trabalho.",
+    "PL 390/2024 [ia] (Câmara): Altera a Lei nº 10.406 de 10 de janeiro de 2002 (Código Civil), para reconhecer como fraude anúncios de produtos falsos e golpes financeiros, que envolvam o uso manipulado por inteligência artificial da imagem e voz de p",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 2280/2025 [plataformas] (Câmara): Dispõe sobre a destinação de percentual dos recursos depositados em plataformas digitais de operação financeira para contas de poupança de titularidade do usuário, e dá outras providências.",
+    "PL 4522/2025 [ia] (Câmara): Dispõe sobre diretrizes e critérios para o cumprimento dos protocolos do Conselho Federal de Psicologia no âmbito do uso de sistemas de inteligência artificial generativa de uso conversacional (IAg-C).",
+    "PL 2034/2026 [plataformas] (Câmara): Dispõe sobre a obrigatoriedade de disponibilização de mecanismo de verificação colaborativa de fatos por provedores de redes sociais."
+  ],
+  "autoria_por_tema": {
+    "ia": 3.0,
+    "infra_digital": 1.0,
+    "plataformas": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.206,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.75
+  },
+  "iip": 41.0,
+  "prioridade": "B — Prioridade média"
+}

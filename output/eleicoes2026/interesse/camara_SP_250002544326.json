@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_SP_250002544326",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 27/2026 [plataformas] (Câmara): Aumenta a pena para o crime de maus-tratos aos animais nos casos em que, com intuito de promover, incentivar ou obter vantagem, o ato é gravado, transmitido ao vivo ou divulgado em redes sociais, plataformas de streaming",
+    "PL 710/2026 [plataformas] (Câmara): Altera a Lei 9.605, de 12 de fevereiro de 1998, para tipificar o crime de participação, organização e transmissão, por meio de redes sociais ou comunidades virtuais, de atos de crueldade, abusos ou maus-tratos contra ani"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 14.5,
+  "prioridade": "D — Interesse baixo"
+}

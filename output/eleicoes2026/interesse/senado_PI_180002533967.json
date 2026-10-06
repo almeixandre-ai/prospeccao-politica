@@ -1,0 +1,26 @@
+{
+  "parlamentar_chave": "senado_PI_180002533967",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PL 1355/2026 [tributacao, plataformas] (Senado, autor principal): Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para ampliar o prazo do direito de arrependimento, no caso de contratações realizadas por pessoas idosas em meios eletrônicos, digitais ou remo"
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.0
+  },
+  "iip": 9.2,
+  "prioridade": "D — Interesse baixo"
+}

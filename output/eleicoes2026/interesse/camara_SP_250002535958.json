@@ -1,0 +1,32 @@
+{
+  "parlamentar_chave": "camara_SP_250002535958",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PLP 50/2024 [tributacao] (Câmara): Estabelece a regulamentação da apuração, recolhimento, fiscalização e cobrança; da mediação e do processo administrativo tributário do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS), tr",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 1.0
+  },
+  "iip": 32.4,
+  "prioridade": "B — Prioridade média"
+}

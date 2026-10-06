@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_RJ_190002536155",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 5641/2023 [ia] (Câmara): Dispõe sobre a proibição de aplicativos, sites, ferramentas e similares que utilizam inteligência artificial para criação de imagens pornográficas não autorizadas com o rosto de mulheres, bem como estabelece medidas para",
+    "PL 2622/2024 [infra_digital] (Câmara): Dispõe sobre a concessão de anistia aos acusados e condenados pelo crime definido no artigo 28, da Lei nº 11.343, de 23 de agosto de 2006, por adquirir, guardar, ter em depósito, transportar ou trouxer consigo até 40g (q"
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.0
+  },
+  "iip": 19.9,
+  "prioridade": "C — Interesse pontual"
+}

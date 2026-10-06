@@ -1,0 +1,29 @@
+{
+  "parlamentar_chave": "camara_MA_100002536098",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 1290/2025 [ia] (Câmara): Altera a Lei nº 9.784, de 29 de janeiro de 1999, para regulamentar o uso da inteligência artificial nos processos administrativos, no âmbito da Administração Pública Federal."
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTRETRIB — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater, no âmbito da regulamentação da reforma tributária, o PLP 68/2024, que ",
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "PLP15225 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.9,
+    "frentes": 0.0
+  },
+  "iip": 27.4,
+  "prioridade": "C — Interesse pontual"
+}

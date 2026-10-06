@@ -1,0 +1,42 @@
+{
+  "parlamentar_chave": "senado_PB_150002544905",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 17/2019 [dados] (Senado, coautor): Acrescenta o inciso XII-A, ao art. 5º, e o inciso XXX, ao art. 22, da Constituição Federal para incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão e fixar a competência privativa da União para",
+    "PL 870/2021 [dados, plataformas] (Senado, autor principal): Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a comercialização, o fornecimento e o compartilhamento de informações de usuários de redes sociais por se",
+    "PL 871/2021 [dados] (Senado, autor principal): Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a elaboração de código de ética entre as regras de boas práticas e de governança dos agentes de tratament",
+    "PL 872/2021 [ia] (Senado, autor principal): Dispõe sobre o uso da Inteligência Artificial.",
+    "PL 2758/2021 [dados] (Senado, autor principal): Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a composição do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade.",
+    "PEC 17/2019 (fase 2) [dados] (Senado, coautor): Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais",
+    "PL 262/2024 [ia, propriedade_intelectual] (Senado, autor principal): Altera o Decreto Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal –, para prever causa de aumento de pena para o crime de violação de direito autoral, quando houver uso de inteligência artificial, e criar o crime de",
+    "PL 263/2024 [infra_digital] (Senado, autor principal): Dispõe sobre o Programa Nacional de Conectividade e altera a Lei nº 9.998, de 17 de agosto de 2000, que institui o Fundo de Universalização dos Serviços de Telecomunicações.",
+    "PL 266/2024 [ia] (Senado, autor principal): Dispõe sobre o uso de sistemas de inteligência artificial para auxiliar a atuação de médicos, advogados e juízes.",
+    "PL 4372/2025 [incentivos_pd] (Senado, autor principal): Altera a Lei nº 15.075, de 26 de dezembro de 2024, para instituir o Banco de Bonificações de Conteúdo Local, e a Lei nº 9.478, de 6 de agosto de 1997, para estimular maior interação entre instituições de pesquisa e desen"
+  ],
+  "autoria_por_tema": {
+    "dados": 4.0,
+    "plataformas": 1.0,
+    "ia": 3.0,
+    "propriedade_intelectual": 1.0,
+    "infra_digital": 1.0,
+    "incentivos_pd": 1.0
+  },
+  "relatorias": [
+    "PL 327/2023 [dados] (CCDD): Dispõe sobre o fornecimento de dados aos candidatos a cargos de direção em condomínios, em agremiações desportistas, em entidades de classe, em sindicatos e em associações diversas; e altera as Leis n"
+  ],
+  "orgaos": [
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CTIA — Titular (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.333,
+    "relatoria": 0.25,
+    "comissoes": 0.75,
+    "frentes": 0.0
+  },
+  "iip": 36.7,
+  "prioridade": "B — Prioridade média"
+}

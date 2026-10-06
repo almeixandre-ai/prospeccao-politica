@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_RJ_190002532827",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4691/2024 [plataformas] (Câmara): Dispõe sobre o direito e a garantia fundamental à livre manifestação do pensamento na internet, os termos da vedação ao anonimato na internet, o livre exercício da atividade econômica na internet, a organização e funcion"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.5
+  },
+  "iip": 22.2,
+  "prioridade": "C — Interesse pontual"
+}

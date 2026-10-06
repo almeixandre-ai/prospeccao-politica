@@ -1,0 +1,23 @@
+{
+  "parlamentar_chave": "camara_RJ_190002540157",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 330/2026 [plataformas] (Câmara): Altera a Lei nº 15.211, de 17 de setembro de 2025, que dispõe sobre a proteção de crianças e de adolescentes em ambientes digitais (Estatuto Digital da Criança e do Adolescente), para estabelecer idade mínima para acesso"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.0
+  },
+  "iip": 1.0,
+  "prioridade": "D — Interesse baixo"
+}

@@ -1,0 +1,21 @@
+{
+  "parlamentar_chave": "camara_RN_200002533872",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.0
+  },
+  "iip": 7.5,
+  "prioridade": "D — Interesse baixo"
+}

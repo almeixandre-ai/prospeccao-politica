@@ -1,0 +1,41 @@
+{
+  "parlamentar_chave": "senado_TO_270002546333",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 17/2019 [dados] (Senado, coautor): Acrescenta o inciso XII-A, ao art. 5º, e o inciso XXX, ao art. 22, da Constituição Federal para incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão e fixar a competência privativa da União para",
+    "PEC 3/2020 [ciberseguranca] (Senado, autor principal): Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fixar a competência co",
+    "PEC 17/2019 (fase 2) [dados] (Senado, coautor): Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais",
+    "PL 1505/2022 [incentivos_pd] (Senado, autor principal): Estabelece os mecanismos de estímulo ao desenvolvimento e fortalecimento do Complexo Econômico e Industrial da Saúde brasileiro no âmbito da Política Nacional de Inovação Tecnológica em Saúde e dá outras providências.",
+    "PL 2076/2022 [dados] (Senado, autor principal): Institui o “Dia Nacional da Proteção de Dados”."
+  ],
+  "autoria_por_tema": {
+    "dados": 2.0,
+    "ciberseguranca": 1.0,
+    "incentivos_pd": 1.0
+  },
+  "relatorias": [
+    "PL 2335/2024 [dados] (CCDD): Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), para dispor sobre a segurança de dados.",
+    "PL 1197/2024 [ia] (CCDD): Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), e a Lei",
+    "PL 871/2021 [dados] (CCDD): Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a elaboração de código de ética entre as regras de boas práticas e de governança dos ",
+    "PL 145/2024 [ia] (CTIA): Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para regular o uso de ferramentas de inteligência artificial para fins publicitários e coibir a publicidade enganosa ",
+    "PL 2338/2023 [ia] (CTIA): Dispõe sobre o uso da Inteligência Artificial.",
+    "PL 4496/2019 [dados] (CCDD): Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), para definir a expressão “decisão automatizada”."
+  ],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CTIA — Titular (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.127,
+    "relatoria": 1.0,
+    "comissoes": 1.0,
+    "frentes": 0.0
+  },
+  "iip": 46.4,
+  "prioridade": "B — Prioridade média"
+}

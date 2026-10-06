@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "camara_SC_240002539382",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PLP 81/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para modificar regras relativas ao regime diferenciado do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) aplicável aos"
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.25
+  },
+  "iip": 6.1,
+  "prioridade": "D — Interesse baixo"
+}

@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "camara_GO_90002543243",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+    "PL 1076/2026 [plataformas] (Câmara): Dispõe sobre a obrigatoriedade de percentual mínimo de veículos adaptados para transporte de pessoas cadeirantes nas plataformas digitais de transporte individual de passageiros e dá outras providências.",
+    "PL 2426/2026 [ia] (Câmara): Altera o art. 171 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever causa de aumento de pena no crime de estelionato quando praticado com uso de Inteligência Artificial (IA)."
+  ],
+  "autoria_por_tema": {
+    "governo_digital": 1.0,
+    "plataformas": 1.0,
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 0.9,
+    "frentes": 0.75
+  },
+  "iip": 37.8,
+  "prioridade": "B — Prioridade média"
+}

@@ -1,0 +1,36 @@
+{
+  "parlamentar_chave": "camara_ES_80002536278",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 4709/2025 [dados] (Câmara): Dispõe sobre a prevenção e repressão ao “golpe do falso advogado” e outras fraudes processuais eletrônicas; altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal); altera a Lei nº 12.965, de 23 de abril d"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "dados": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCTI — 1º Vice-Presidente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "CCOM — Titular (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 1.0
+  },
+  "iip": 41.4,
+  "prioridade": "B — Prioridade média"
+}

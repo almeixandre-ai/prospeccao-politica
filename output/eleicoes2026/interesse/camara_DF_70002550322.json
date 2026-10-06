@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_DF_70002550322",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1329/2024 [plataformas] (Câmara): Altera a Lei nº 12.965, de 23 de abril de 2014, para dispor sobre a obrigatoriedade de publicidade e fundamentação, sob pena de nulidade, de ordem judicial que determine tornar indisponível conteúdo publicado ou suspensã",
+    "PL 2118/2026 [dados] (Câmara): Acrescenta o § 4º ao art. 26 da Lei nº 11.771, de 17 de setembro de 2008, para vedar a integração de dados pessoais a sistemas de consulta fora das finalidades relativas ao turismo, e dá outras providências.",
+    "PL 2543/2026 [ia] (Câmara): Dispõe sobre a prevenção, a identificação, a vedação e a repressão a ataques de injeção de “prompt” e outras formas de manipulação maliciosa em sistemas de inteligência artificial utilizados no âmbito de processos judici"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0,
+    "dados": 1.0,
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 18.4,
+  "prioridade": "C — Interesse pontual"
+}

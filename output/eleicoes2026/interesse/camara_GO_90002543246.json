@@ -1,0 +1,26 @@
+{
+  "parlamentar_chave": "camara_GO_90002543246",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4118/2024 [plataformas] (Câmara): Altera a Lei nº 12.965, de 23 de abril de 2014, para estabelecer a obrigatoriedade de exigência de CPF e autenticação biométrica para a criação de perfis em redes sociais, e para imputar responsabilidade solidária aos pr"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais."
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 7.3,
+  "prioridade": "D — Interesse baixo"
+}

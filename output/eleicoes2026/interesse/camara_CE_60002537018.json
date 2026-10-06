@@ -1,0 +1,32 @@
+{
+  "parlamentar_chave": "camara_CE_60002537018",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2004/2023 [plataformas] (Câmara): Estabelece normas, procedimentos e mecanismos de uso e de transparência para provedores de aplicação de Internet do tipo plataforma digital de conteúdo de terceiros para proteção de crianças e adolescentes."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "PLP15225 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu",
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.75
+  },
+  "iip": 35.4,
+  "prioridade": "B — Prioridade média"
+}

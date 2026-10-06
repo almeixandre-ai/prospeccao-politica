@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "senado_PR_160002547660",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "GTALDIG — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater alternativas digitais de tributação e desburocratização",
+    "GTREDES — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater o PL 2630/20, que trata da regulamentação das redes sociais"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)"
+  ],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.9,
+    "frentes": 0.25
+  },
+  "iip": 25.6,
+  "prioridade": "C — Interesse pontual"
+}

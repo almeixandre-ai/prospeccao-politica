@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_MG_130002535317",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4398/2025 [tributacao] (Câmara): Dispõe sobre a não incidência de IBS e CBS prevista no inciso IV e §10º do art. 26 da Lei Complementar nº 214, de 16 de janeiro de 2025, que se refere as éssoas enquadradas na não insidencia, nanoempreendedores e dá outr",
+    "PL 2490/2026 [tributacao] (Câmara): Institui a Política Nacional de Estruturação das Cadeias Produtivas Agropecuárias, dispõe sobre diretrizes de financiamento, assistência técnica, sanidade, qualidade, rastreabilidade, sustentabilidade e integração operac"
+  ],
+  "autoria_por_tema": {
+    "tributacao": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTALDIG — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater alternativas digitais de tributação e desburocratização",
+    "GTRETRIB — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater, no âmbito da regulamentação da reforma tributária, o PLP 68/2024, que ",
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "PL233823 — 2º Vice-Presidente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "PLP15225 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.0
+  },
+  "iip": 30.9,
+  "prioridade": "B — Prioridade média"
+}

@@ -1,0 +1,29 @@
+{
+  "parlamentar_chave": "senado_AC_10002548050",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 3/2020 [ciberseguranca] (Senado, coautor): Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fixar a competência co",
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+    "PL 846/2026 [ia] (Senado, autor principal): Institui a Lei de Governança de Inteligência Artificial no Setor Público"
+  ],
+  "autoria_por_tema": {
+    "ciberseguranca": 0.5,
+    "incentivos_pd": 0.5,
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.0
+  },
+  "iip": 16.0,
+  "prioridade": "C — Interesse pontual"
+}

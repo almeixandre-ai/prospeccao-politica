@@ -1,0 +1,49 @@
+{
+  "parlamentar_chave": "camara_DF_70002550316",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 3/2020 [ciberseguranca] (Senado, coautor): Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fixar a competência co",
+    "PLP 135/2020 [incentivos_pd] (Senado, autor principal): Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar a limitação de empenho e movimentação financeira das despesas relativas à inovação e ao desenvolvimento científico e tecnológico custeadas por fundo cria",
+    "PL 2838/2020 [incentivos_pd] (Senado, autor principal): Altera a Lei nº 11.196, de 21 de Novembro de 2005 – Lei do Bem.",
+    "PLP 2/2022 [startups] (Senado, autor principal): Altera a Lei Complementar nº 182, de 1º de junho de 2021, para dispor sobre o enquadramento dos startups, mecanismos de fomento à inovação e de estímulo à performance em startups, e dá outras providências.",
+    "PEC 45/2022 [plataformas] (Senado, coautor): Altera o art. 53 da Constituição Federal, para atribuir ao Senado Federal e à Câmara dos Deputados a competência para suspender ou excluir as páginas, os canais e as contas de seus membros na rede mundial de computadores",
+    "PL 81/2023 [incentivos_pd] (Senado, autor principal): Altera a Lei nº 11.540, de 12 de novembro de 2007, para dispor sobre a instituição da Taxa Referencial de Juros (TR) em substituição à Taxa de Juros de Longo Prazo (TJLP) no âmbito dos empréstimos do Fundo Nacional de De",
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+    "PL 2877/2025 [infra_digital] (Senado, coautor): Altera a Lei nº 9.472, de 16 de julho de 1997, que dispõe sobre a organização dos serviços de telecomunicações, a criação e funcionamento de um órgão regulador e outros aspectos institucionais, nos termos da Emenda Const",
+    "PLP 6/2026 [incentivos_pd] (Senado, autor principal): Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para que a redução de incentivos e benefícios de natureza tributária, financeira ou creditícia não se aplique sobre os incentivos previstos nos arts. 17 a 26 d"
+  ],
+  "autoria_por_tema": {
+    "ciberseguranca": 0.5,
+    "incentivos_pd": 4.5,
+    "startups": 1.0,
+    "plataformas": 0.5,
+    "infra_digital": 0.5
+  },
+  "relatorias": [
+    "PL 3218/2023 [incentivos_pd] (CCT): Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT, para determinar que 10% (dez por cento) dos recursos do FNDCT ",
+    "PLP 131/2020 [plataformas] (CCDD): Altera a Lei nº 10.833, de 29 de dezembro de 2003, para estabelecer regime diferenciado da Contribuição para o Financiamento da Seguridade Social (COFINS) incidente sobre a receita bruta auferida pela",
+    "PL 5078/2019 [incentivos_pd] (CAE): Altera a Lei nº 11.540, de 12 de novembro de 2007, para garantir a execução orçamentária e financeira das programações do Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT.",
+    "PL 2831/2019 [startups] (CCT): Altera a Lei nº 10.973, de 2 de dezembro de 2004, que dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências; a Lei nº 8.666, de 21 de "
+  ],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+    "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+  ],
+  "componentes": {
+    "autoria": 0.151,
+    "relatoria": 1.0,
+    "comissoes": 1.0,
+    "frentes": 0.25
+  },
+  "iip": 50.1,
+  "prioridade": "A — Prioridade alta"
+}

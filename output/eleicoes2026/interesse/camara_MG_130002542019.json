@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_MG_130002542019",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 94/2026 [plataformas] (Câmara): Dispõe sobre a restrição de acesso de crianças e adolescentes às redes sociais digitais, estabelece deveres às plataformas digitais e dá outras providências."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Titular (Câmara): Comissão de Comunicação",
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 1.0
+  },
+  "iip": 32.2,
+  "prioridade": "B — Prioridade média"
+}

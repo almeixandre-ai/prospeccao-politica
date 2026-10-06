@@ -1,0 +1,26 @@
+{
+  "parlamentar_chave": "senado_AP_3830",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PL 4874/2026 [incentivos_pd] (Senado, autor principal): Altera as Leis nºs 8.248, de 23 de outubro de 1991, e 8.387, de 30 de dezembro de 1991, para regular a destinação dos investimentos em atividades de pesquisa, desenvolvimento e inovação devidos como contrapartida dos inc"
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.0
+  },
+  "iip": 16.6,
+  "prioridade": "C — Interesse pontual"
+}

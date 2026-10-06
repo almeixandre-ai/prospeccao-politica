@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_BA_50002532504",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4041/2025 [ia] (Câmara): Dispõe sobre a proteção da atividade de dublagem no Brasil, estabelece regras para contratação de profissionais e empresas nacionais, regulamenta o uso de inteligência artificial na dublagem e dá outras providências."
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "PLP15225 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.25
+  },
+  "iip": 21.1,
+  "prioridade": "C — Interesse pontual"
+}

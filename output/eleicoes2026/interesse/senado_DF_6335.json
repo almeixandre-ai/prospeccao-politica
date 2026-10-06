@@ -1,0 +1,38 @@
+{
+  "parlamentar_chave": "senado_DF_6335",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+    "PL 2877/2025 [infra_digital] (Senado, coautor): Altera a Lei nº 9.472, de 16 de julho de 1997, que dispõe sobre a organização dos serviços de telecomunicações, a criação e funcionamento de um órgão regulador e outros aspectos institucionais, nos termos da Emenda Const",
+    "PL 5535/2025 [dados] (Senado, autor principal): Altera a Lei nº 13.709, de 14 de agosto de 2018, para permitir o tratamento de dados pessoais por autoridades de segurança pública em casos de desaparecimento de pessoas."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 0.5,
+    "infra_digital": 0.5,
+    "dados": 1.0
+  },
+  "relatorias": [
+    "PL 3066/2025 [ia] (CDH): Institui medidas de enfrentamento e repressão ao crime de violência sexual contra criança ou adolescente, inclusive no ambiente digital e com uso de inteligência artificial; e altera os Decretos-Leis ",
+    "PL 931/2026 [ia] (CAS): Dispõe sobre os princípios éticos, diretrizes de governança, requisitos de transparência e mecanismos de controle aplicáveis ao uso de sistemas de Inteligência Artificial (IA) na área da saúde, e dá o",
+    "PL 1227/2024 [plataformas] (CCT): Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei nº 11.343, de 23 de agosto de 2006 (Lei Antidrogas), para responsabilizar penalmente quem utiliza as redes sociais para f"
+  ],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.75,
+    "comissoes": 1.0,
+    "frentes": 0.25
+  },
+  "iip": 40.7,
+  "prioridade": "B — Prioridade média"
+}

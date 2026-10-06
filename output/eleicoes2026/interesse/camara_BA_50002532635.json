@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_BA_50002532635",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 409/2025 [incentivos_pd] (Câmara): Altera as Leis nº 10.332, de 19 de dezembro de 2001, nº 11.540, de 12 de novembro de 2007, e nº 13.756, de 12 de dezembro de 2018, para destinar recursos de prêmios lotéricos não reclamados ao Programa de Fomento à Pesqu",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 1.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 10.2,
+  "prioridade": "D — Interesse baixo"
+}

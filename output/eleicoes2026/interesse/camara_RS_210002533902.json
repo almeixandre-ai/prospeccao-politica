@@ -1,0 +1,34 @@
+{
+  "parlamentar_chave": "camara_RS_210002533902",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1087/2023 [plataformas] (Câmara): Inclui dispositivo na Lei nº 12.965, de 23 de abril de 2014, para dispor sobre princípios, garantias, direitos e deveres para o uso da internet no Brasil, para determinar que as plataformas digitais implementem sistemas ",
+    "PL 5641/2023 [ia] (Câmara): Dispõe sobre a proibição de aplicativos, sites, ferramentas e similares que utilizam inteligência artificial para criação de imagens pornográficas não autorizadas com o rosto de mulheres, bem como estabelece medidas para",
+    "PL 2622/2024 [infra_digital] (Câmara): Dispõe sobre a concessão de anistia aos acusados e condenados pelo crime definido no artigo 28, da Lei nº 11.343, de 23 de agosto de 2006, por adquirir, guardar, ter em depósito, transportar ou trouxer consigo até 40g (q",
+    "PL 3898/2025 [plataformas] (Câmara): Dispõe sobre a proibição da monetização direta ou indireta de conteúdo digital ou audiovisual, veiculado em plataformas de redes sociais ou quaisquer outros meios de comunicação na Internet, que tenha como tema central a",
+    "PL 3060/2026 [ia] (Câmara): Estabelece complementações ao regime nacional de governança da inteligência artificial, em matéria de deveres dos administradores de pessoas jurídicas privadas, tratamento diferenciado das micro, pequenas e médias empres",
+    "PL 5330/2026 [plataformas] (Câmara): Dispõe sobre o direito dos usuários de redes sociais à escolha de forma de ordenação de conteúdo não baseada em perfilamento, estabelece deveres de transparência e controle sobre sistemas de recomendação personalizada e "
+  ],
+  "autoria_por_tema": {
+    "plataformas": 3.0,
+    "ia": 2.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "PLP15225 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.175,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.0
+  },
+  "iip": 25.9,
+  "prioridade": "C — Interesse pontual"
+}

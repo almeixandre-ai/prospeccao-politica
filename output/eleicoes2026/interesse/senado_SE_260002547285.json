@@ -1,0 +1,41 @@
+{
+  "parlamentar_chave": "senado_SE_260002547285",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 17/2019 [dados] (Senado, coautor): Acrescenta o inciso XII-A, ao art. 5º, e o inciso XXX, ao art. 22, da Constituição Federal para incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão e fixar a competência privativa da União para",
+    "PL 4338/2019 [infra_digital] (Senado, autor principal): Inclui os arts. 6º-A, 6º-B, 6º-C, 6º-D, 6º-E, 6º-F e 6º-G no Decreto-lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre o interrogatório policial.",
+    "PL 2339/2021 [governo_digital] (Senado, autor principal): Altera o Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro), a Lei nº 13.726, de 8 de outubro de 2018 (Lei da Desburocratização), a Lei nº 13.848, de 25 de junho de 2019 (L",
+    "PEC 17/2019 (fase 2) [dados] (Senado, coautor): Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais",
+    "PL 3419/2024 [dados] (Senado, autor principal): Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para proibir que farmácias e drogarias condicionem descontos ao fornecimento de dados pessoais dos clientes e para impedir a utilização d",
+    "PL 5280/2025 [infra_digital] (Senado, autor principal): Acrescenta os arts. 6º-A, 6º-B, 75-G, 75-H e 75-I à Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre limites ao uso dos meios telemáticos e informatiza"
+  ],
+  "autoria_por_tema": {
+    "dados": 2.0,
+    "infra_digital": 2.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [
+    "PDL 805/2025 [infra_digital] (CCT): Aprova o ato que outorga permissão à G R Sistema de Comunicação Ltda. para explorar serviço de radiodifusão sonora em frequência modulada no Município de São Cristóvão, Estado de Sergipe.",
+    "MPV 1292/2025 [plataformas] (CMMPV 1292/2025): Altera a Lei nº 10.820, de 17 de dezembro de 2003, que trata sobre as operações de crédito consignado de empregados regidos pela Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, ",
+    "PL 847/2025 [incentivos_pd] (CAE): Altera a Lei nº 11.540, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT, para aprimorar a destinação de recursos do Fundo.",
+    "PL 5691/2019 [ia] (CCDD): Institui a Política Nacional de Inteligência Artificial."
+  ],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.159,
+    "relatoria": 1.0,
+    "comissoes": 1.0,
+    "frentes": 0.0
+  },
+  "iip": 48.0,
+  "prioridade": "B — Prioridade média"
+}

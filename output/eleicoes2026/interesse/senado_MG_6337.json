@@ -1,0 +1,29 @@
+{
+  "parlamentar_chave": "senado_MG_6337",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PL 3393/2023 [tributacao] (Senado, autor principal): Dispõe sobre a digitalização de documentos definidos no Código Brasileiro de Trânsito e a gratuidade de serviços digitais."
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.9,
+    "frentes": 0.25
+  },
+  "iip": 22.9,
+  "prioridade": "C — Interesse pontual"
+}

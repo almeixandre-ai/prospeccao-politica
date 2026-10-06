@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_BA_50002531399",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2479/2023 [infra_digital] (Câmara): Institui a Política Nacional de Conectividade da Agricultura Familiar.",
+    "PL 1390/2026 [plataformas] (Câmara): Estabelece a suspensão compulsória do acesso a plataformas de redes sociais como efeito específico da condenação para crimes dolosos praticados com violência ou grave ameaça, quando houver utilização de redes sociais dig"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 1.0
+  },
+  "iip": 34.2,
+  "prioridade": "B — Prioridade média"
+}

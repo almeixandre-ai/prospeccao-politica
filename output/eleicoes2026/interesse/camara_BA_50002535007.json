@@ -1,0 +1,22 @@
+{
+  "parlamentar_chave": "camara_BA_50002535007",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "GTRETRIB — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater, no âmbito da regulamentação da reforma tributária, o PLP 68/2024, que ",
+    "CEXBRLEG — Titular (Câmara): Comissão Externa destinada a discutir os atos de pirataria e a agenda do chamado “Brasil Legal”"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.0
+  },
+  "iip": 18.8,
+  "prioridade": "C — Interesse pontual"
+}

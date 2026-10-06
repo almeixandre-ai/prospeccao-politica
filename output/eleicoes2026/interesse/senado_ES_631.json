@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "senado_ES_631",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 0.5
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 0.0
+  },
+  "iip": 6.8,
+  "prioridade": "D — Interesse baixo"
+}

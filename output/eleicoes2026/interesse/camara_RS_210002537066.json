@@ -1,0 +1,35 @@
+{
+  "parlamentar_chave": "camara_RS_210002537066",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4751/2023 [plataformas] (Câmara): Dispõe sobre a remuneração mínima dos prestadores de serviços pelas plataformas digitais de intermediação de serviços de transporte remunerado individual de passageiros, sobre a taxa máxima de intermediação e estende aos",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 3986/2025 [plataformas] (Câmara): Estabelece medidas de proteção de crianças e adolescentes no ambiente digital, veda a monetização de conteúdos ilícitos ou exploratórios, define obrigações específicas para plataformas digitais e provedores de aplicação,"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.9,
+    "frentes": 1.0
+  },
+  "iip": 38.9,
+  "prioridade": "B — Prioridade média"
+}

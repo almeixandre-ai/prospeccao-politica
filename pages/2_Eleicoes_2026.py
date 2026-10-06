@@ -13,6 +13,7 @@ import streamlit as st
 
 from eleicoes import composicao as comp_mod
 from eleicoes.avaliador_afinidade import AvaliadorAfinidade, carregar_agenda
+from eleicoes.interesse import AnalisadorInteresse
 from eleicoes.painel import tabela, todos
 
 st.set_page_config(page_title="Eleições 2026 × ABES", page_icon="🗳️", layout="wide")
@@ -67,9 +68,9 @@ c1.metric("Deputados", len(comp.deputados))
 c2.metric("Reeleitos na Câmara", int(sum(d.incumbente for d in comp.deputados)))
 c3.metric("Senadores", len(comp.senadores),
           help="54 eleitos em 2026 + 27 com mandato até 2031")
-c4.metric("Avaliados com IA", int((df["metodo"] == "ia").sum()))
-c5.metric("Aliados / potenciais",
-          int(df["classificacao"].isin(["Aliado tecnológico", "Potencial aliado"]).sum()))
+c4.metric("Com interesse prévio na pauta", int((df["iip"] > 0).sum()),
+          help="Reeleitos ou que mudam de casa, com algum sinal de interesse (IIP > 0)")
+c5.metric("Prioridade A + B", int(df["prioridade"].str.startswith(("A", "B")).sum()))
 
 for a in comp.alertas:
     st.warning(a)
@@ -79,13 +80,27 @@ st.caption(f"Coleta: {comp.data_coleta} · totalização TSE: "
 # ── Filtros ──────────────────────────────────────────────────────────────
 
 with st.sidebar:
+    st.header("Prioridade de agenda")
+    so_interesse = st.checkbox("Somente com interesse prévio na pauta ABES", value=True,
+                               help="Parlamentares com mandato atual (reeleitos, que permanecem ou mudam de casa) "
+                                    "e algum sinal de interesse: autoria, relatoria, comissão ou frente temática")
+    faixas = st.multiselect("Faixa de prioridade", sorted(df["prioridade"].unique()))
+    iip_min = st.slider("IIP mínimo", 0, 100, 0)
+    trajetorias = st.multiselect("Trajetória", sorted(df["trajetoria"].unique()))
+    st.divider()
     st.header("Filtros")
     casa = st.multiselect("Casa", ["Câmara", "Senado"], default=["Câmara", "Senado"])
     ufs = st.multiselect("UF", sorted(df["uf"].unique()))
     partidos = st.multiselect("Partido", sorted(df["partido"].dropna().unique()))
     classes = st.multiselect("Classificação", list(CLASSE_COR))
-    so_reeleitos = st.checkbox("Só reeleitos / que permanecem")
     busca = st.text_input("Buscar nome")
+    st.divider()
+    st.subheader("Aderência por tema")
+    st.caption("Notas −2 a +2 vêm da análise com IA")
+    temas_ader = st.multiselect("Temas prioritários", list(nomes_temas), format_func=nomes_temas.get)
+    nota_min = st.select_slider("Nota mínima em cada tema", options=[-2, -1, 0, 1, 2], value=1,
+                                disabled=not temas_ader)
+    iat_min = st.slider("IAT mínimo", 0, 100, 0)
 
 f = df[df["casa"].isin(casa)]
 if ufs:
@@ -94,11 +109,23 @@ if partidos:
     f = f[f["partido"].isin(partidos)]
 if classes:
     f = f[f["classificacao"].isin(classes)]
-if so_reeleitos:
-    f = f[f["reeleito_ou_permanece"]]
+if temas_ader or iat_min:
+    f = f[f["metodo"] == "ia"]
+for t in temas_ader:
+    f = f[f[f"tema_{t}"] >= nota_min]
+if iat_min:
+    f = f[f["iat"] >= iat_min]
+if so_interesse:
+    f = f[f["iip"] > 0]
+if faixas:
+    f = f[f["prioridade"].isin(faixas)]
+if iip_min:
+    f = f[f["iip"] >= iip_min]
+if trajetorias:
+    f = f[f["trajetoria"].isin(trajetorias)]
 if busca:
     f = f[f["nome"].str.contains(busca, case=False) | f["nome_completo"].fillna("").str.contains(busca, case=False)]
-f = f.sort_values(["iat", "cobertura", "votos"], ascending=False, na_position="last")
+f = f.sort_values(["iip", "iat", "votos"], ascending=False, na_position="last")
 
 aba_lista, aba_bancadas, aba_agenda = st.tabs(["Parlamentares", "Bancadas", "Agenda ABES"])
 
@@ -106,10 +133,19 @@ with aba_lista:
     st.caption(f"{len(f)} parlamentares no filtro")
     colunas_temas = [c for c in f.columns if c.startswith("tema_")]
     sel = st.dataframe(
-        f[["casa", "uf", "nome", "partido", "situacao", "votos", "classificacao", "iat", "cobertura",
-           *colunas_temas]].rename(columns={c: nomes_temas.get(c[5:], c) for c in colunas_temas}),
+        f[["prioridade", "iip", "casa", "uf", "nome", "partido", "trajetoria", "n_proposicoes", "n_relatorias",
+           "iip_comissoes", "iip_frentes", "classificacao", "iat", *colunas_temas]]
+        .rename(columns={c: nomes_temas.get(c[5:], c) for c in colunas_temas}),
         hide_index=True, width="stretch", on_select="rerun", selection_mode="single-row",
         column_config={
+            "prioridade": st.column_config.TextColumn("Prioridade"),
+            "iip": st.column_config.ProgressColumn("IIP (interesse)", min_value=0, max_value=100, format="%.0f"),
+            "trajetoria": st.column_config.TextColumn("Trajetória"),
+            "n_proposicoes": st.column_config.NumberColumn("Proposições", help="PL/PLP/PEC nos temas ABES (2023-2026)"),
+            "n_relatorias": st.column_config.NumberColumn("Relatorias", help="Só Senado"),
+            "iip_comissoes": st.column_config.ProgressColumn("Comissões", min_value=0, max_value=1, format="percent"),
+            "iip_frentes": st.column_config.ProgressColumn("Frentes", min_value=0, max_value=1, format="percent"),
+            "classificacao": st.column_config.TextColumn("Afinidade (IA)"),
             "iat": st.column_config.ProgressColumn("IAT", min_value=0, max_value=100, format="%.0f"),
             "cobertura": st.column_config.ProgressColumn("Cobertura", min_value=0, max_value=1, format="percent"),
             "votos": st.column_config.NumberColumn("Votos", format="%d"),
@@ -143,6 +179,23 @@ with aba_lista:
                     st.rerun()
                 except Exception as e:
                     st.error(f"Falha na análise: {e}")
+
+        itr = AnalisadorInteresse.carregar(p)
+        if itr:
+            st.markdown(f"#### 🎯 Interesse na pauta ABES — **{itr.prioridade}** · IIP {itr.iip:.0f}/100")
+            k1, k2, k3, k4 = st.columns(4)
+            k1.metric("Autoria", f"{itr.componentes['autoria']:.0%}", help=f"{len(itr.proposicoes)} proposições nos temas")
+            k2.metric("Relatoria", f"{itr.componentes['relatoria']:.0%}" if "senado" in itr.fontes else "n/d",
+                      help=f"{len(itr.relatorias)} relatorias (Senado)")
+            k3.metric("Comissões", f"{itr.componentes['comissoes']:.0%}", help=f"{len(itr.orgaos)} órgãos temáticos")
+            k4.metric("Frentes", f"{itr.componentes['frentes']:.0%}", help=f"{len(itr.frentes)} frentes")
+            for titulo_s, itens in [("📜 Proposições de autoria", itr.proposicoes), ("🧾 Relatorias", itr.relatorias),
+                                    ("🏛️ Comissões e órgãos temáticos", itr.orgaos), ("🤝 Frentes parlamentares", itr.frentes)]:
+                if itens:
+                    with st.expander(f"{titulo_s} ({len(itens)})"):
+                        for it in itens:
+                            st.markdown(f"- {it}")
+            st.markdown("#### 🤖 Afinidade com as posições ABES")
 
         a = AvaliadorAfinidade.melhor_disponivel(p)
         if a is None:

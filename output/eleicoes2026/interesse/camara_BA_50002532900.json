@@ -1,0 +1,29 @@
+{
+  "parlamentar_chave": "camara_BA_50002532900",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1130/2026 [ia] (Câmara): Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para reforçar a garantia de fundamentação das decisões judiciais e estabelecer limites à utilização de sistemas automatizados ou de intel",
+    "PL 2598/2026 [ia] (Câmara): Institui a Lei de Proteção Integral de Mulheres e Crianças no Ambiente Digital, altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para estabelecer medidas de prevenção e repressão à violência digi"
+  ],
+  "autoria_por_tema": {
+    "ia": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 18.4,
+  "prioridade": "C — Interesse pontual"
+}

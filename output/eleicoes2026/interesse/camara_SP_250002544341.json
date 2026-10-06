@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_SP_250002544341",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4323/2025 [ia] (Câmara): Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para tipificar o crime de aliciamento cibernético em tempo real e agravar penas para a utilização de inteligência artificial na produç",
+    "PL 1043/2026 [ciberseguranca] (Câmara): Institui a Política de Prevenção e Repressão a Crimes Cibernéticos contra Animais, dispondo sobre a prevenção, tipificação, investigação e repressão de crimes cometidos por meio eletrônico ou digital, e dá outras providê"
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "ciberseguranca": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.45,
+    "frentes": 0.0
+  },
+  "iip": 16.2,
+  "prioridade": "C — Interesse pontual"
+}

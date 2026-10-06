@@ -1,0 +1,29 @@
+{
+  "parlamentar_chave": "camara_SP_250002539612",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1087/2023 [plataformas] (Câmara): Inclui dispositivo na Lei nº 12.965, de 23 de abril de 2014, para dispor sobre princípios, garantias, direitos e deveres para o uso da internet no Brasil, para determinar que as plataformas digitais implementem sistemas ",
+    "PL 2479/2025 [plataformas] (Câmara): Dispõe sobre o valor mínimo de remuneração para serviços de trabalhadores de plataformas digitais de entregas e mototaxistas, estabelece regras de transparência, cria obrigação de seguro de acidentes e dá outras providên"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTREDES — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater o PL 2630/20, que trata da regulamentação das redes sociais",
+    "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.25
+  },
+  "iip": 23.9,
+  "prioridade": "C — Interesse pontual"
+}

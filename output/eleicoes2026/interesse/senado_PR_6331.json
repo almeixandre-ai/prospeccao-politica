@@ -1,0 +1,32 @@
+{
+  "parlamentar_chave": "senado_PR_6331",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+    "PL 4752/2025 [ciberseguranca] (Senado, coautor): Institui o Marco Legal da Cibersegurança, cria o Programa Nacional de Segurança e Resiliência Digital e altera a Lei nº 13.756, de 12 de dezembro de 2018."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 0.5,
+    "ciberseguranca": 0.5
+  },
+  "relatorias": [
+    "PL 146/2024 [ia] (CCDD): Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer causa de aumento de pena para os crimes contra a honra e hipótese qualificada para o crime de falsa identidade,",
+    "PL 3393/2023 [tributacao] (CCDD): Dispõe sobre a digitalização de documentos definidos no Código Brasileiro de Trânsito e a gratuidade de serviços digitais."
+  ],
+  "orgaos": [
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [
+    "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+  ],
+  "componentes": {
+    "autoria": 0.032,
+    "relatoria": 0.5,
+    "comissoes": 0.3,
+    "frentes": 0.25
+  },
+  "iip": 20.1,
+  "prioridade": "C — Interesse pontual"
+}

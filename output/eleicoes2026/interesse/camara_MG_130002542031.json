@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_MG_130002542031",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1971/2023 [ciberseguranca] (Câmara): Altera a Lei nº 12.965, de 23 de abril de 2014, para dispor sobre a segurança cibernética de aparelhos eletrônicos com acesso à internet comercializados no país.",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PLP 78/2026 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para reduzir a zero as alíquotas do IBS e da CBS incidentes sobre a aquisição de motocicletas por mototaxistas, por motociclistas profissionais cadastrados em p"
+  ],
+  "autoria_por_tema": {
+    "ciberseguranca": 1.0,
+    "infra_digital": 1.0,
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.111,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 19.4,
+  "prioridade": "C — Interesse pontual"
+}

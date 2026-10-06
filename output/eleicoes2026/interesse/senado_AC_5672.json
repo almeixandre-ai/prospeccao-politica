@@ -1,0 +1,25 @@
+{
+  "parlamentar_chave": "senado_AC_5672",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [
+    "PL 1069/2024 [infra_digital] (CCDD): Institui a Política Nacional de Conectividade no Campo."
+  ],
+  "orgaos": [
+    "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+    "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.25,
+    "comissoes": 0.6,
+    "frentes": 0.0
+  },
+  "iip": 17.0,
+  "prioridade": "C — Interesse pontual"
+}

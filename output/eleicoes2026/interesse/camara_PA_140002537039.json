@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_PA_140002537039",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 3058/2023 [plataformas] (Câmara): Estabelece obrigatoriedade para a identificação de todos os usuários de plataformas digitais.",
+    "PL 3059/2023 [plataformas] (Câmara): Estabelece a necessidade de moderação para conteúdos ilegais publicados nas plataformas digitais.",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 2.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 16.4,
+  "prioridade": "C — Interesse pontual"
+}

@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "camara_AL_20002546939",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PLP 99/2024 [tributacao] (Câmara): Regulamenta o inciso IV, do § 3º do art. 9º da Emenda Constitucional 132 de 20 de dezembro de 2023, para dispor sobre a redução de alíquotas do IBS e da CBS para atividades de reabilitação urbana de zonas históricas e de",
+    "PL 4690/2024 [plataformas] (Câmara): Dispõe sobre a vedação à suspensão de perfis em redes sociais de candidatos durante o período eleitoral e dá outras providências."
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.063,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.25
+  },
+  "iip": 7.1,
+  "prioridade": "D — Interesse baixo"
+}

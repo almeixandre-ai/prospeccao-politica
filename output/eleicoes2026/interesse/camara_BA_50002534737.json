@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_BA_50002534737",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá",
+    "PL 453/2026 [ia, plataformas] (Câmara): Estabelece a obrigatoriedade de inserção de selo, marca d’água ou aviso visível em vídeos, imagens, áudios e demais conteúdos digitais produzidos total ou parcialmente por sistemas de Inteligência Artificial e veiculados"
+  ],
+  "autoria_por_tema": {
+    "infra_digital": 1.0,
+    "ia": 1.0,
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento"
+  ],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.25
+  },
+  "iip": 24.1,
+  "prioridade": "C — Interesse pontual"
+}

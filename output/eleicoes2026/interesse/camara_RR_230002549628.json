@@ -1,0 +1,31 @@
+{
+  "parlamentar_chave": "camara_RR_230002549628",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2476/2025 [plataformas] (Câmara): Dispõe sobre a limitação de gastos com jogos e apostas online por meio de plataformas digitais acessadas por dispositivos móveis, vinculando o controle ao CPF do usuário e ao número de telefone utilizado, com vistas à pr",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "PL233823 — Suplente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre "
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.75,
+    "frentes": 0.5
+  },
+  "iip": 28.0,
+  "prioridade": "C — Interesse pontual"
+}

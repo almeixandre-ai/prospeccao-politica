@@ -1,0 +1,23 @@
+{
+  "parlamentar_chave": "camara_MS_120002536282",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 237/2024 [tributacao] (Câmara): Dispõe sobre a desoneração da folha de pagamento de profissionais da educação escolar detentores da formação requerida em lei, para exercerem a função de docência."
+  ],
+  "autoria_por_tema": {
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.048,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.0
+  },
+  "iip": 3.0,
+  "prioridade": "D — Interesse baixo"
+}

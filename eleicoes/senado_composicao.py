@@ -31,20 +31,34 @@ def senadores_em_exercicio() -> list[dict]:
 
 
 def senadores_que_permanecem() -> list[dict]:
-    """Senadores cujo mandato atravessa a 58ª legislatura (2027-2031)."""
-    saida: list[dict] = []
+    """Senadores cujo mandato atravessa a 58ª legislatura (2027-2031).
+
+    A lista "atual" pode trazer titular e suplente do mesmo mandato no dia de uma troca
+    (ex.: retorno do titular). Fica quem está de fato em exercício — último exercício sem
+    data de fim —, um por mandato.
+    """
+    por_mandato: dict[str, dict] = {}
     for p in _lista_atual():
         ident = p["IdentificacaoParlamentar"]
         mandato = p["Mandato"]
         segunda = (mandato.get("SegundaLegislaturaDoMandato") or {}).get("NumeroLegislatura")
         if segunda != LEGISLATURA_2027:
             continue
-        saida.append({
+        exercicios = (mandato.get("Exercicios") or {}).get("Exercicio") or []
+        exercicios = exercicios if isinstance(exercicios, list) else [exercicios]
+        ultimo = max(exercicios, key=lambda e: e.get("DataInicio", ""), default={})
+        em_exercicio = not ultimo.get("DataFim")
+        chave = mandato.get("CodigoMandato") or ident["CodigoParlamentar"]
+        atual = por_mandato.get(chave)
+        if atual and (atual["_em_exercicio"] or not em_exercicio):
+            continue
+        por_mandato[chave] = {
+            "_em_exercicio": em_exercicio,
             "codigo": ident["CodigoParlamentar"],
             "nome": ident["NomeParlamentar"],
             "nome_completo": ident.get("NomeCompletoParlamentar"),
             "partido": ident.get("SiglaPartidoParlamentar", ""),
             "uf": mandato.get("UfParlamentar") or ident.get("UfParlamentar"),
             "participacao": mandato.get("DescricaoParticipacao", "Titular"),
-        })
-    return saida
+        }
+    return [{k: v for k, v in d.items() if not k.startswith("_")} for d in por_mandato.values()]

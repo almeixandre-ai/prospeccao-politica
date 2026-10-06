@@ -61,6 +61,13 @@ def cmd_triagem(args) -> None:
 def cmd_avaliar(args) -> None:
     comp = _carregar_ou_falhar()
     parls = _filtrar(todos(comp), args)
+    if args.top_engajados:
+        # Mesma ordem da planilha Top N: cobertura da triagem, nº de proposições, votos
+        def _ordem(p):
+            t = AvaliadorAfinidade.carregar(p, "triagem")
+            return (t.cobertura if t else 0, len(t.historico_legislativo) if t else 0, p.votos or 0)
+        parls = [p for p in sorted(parls, key=_ordem, reverse=True) if _ordem(p)[0] > 0]
+        parls = parls[: args.top_engajados]
     if not args.forcar:
         parls = [p for p in parls if AvaliadorAfinidade.carregar(p, "ia") is None]
     parls = parls[: args.limite] if args.limite else parls
@@ -76,6 +83,20 @@ def cmd_avaliar(args) -> None:
                   f"IAT {a.indice_afinidade:.1f} — {a.classificacao}")
         except Exception as e:
             log.error("Falha em %s: %s", p.nome_urna, e)
+
+
+def cmd_interesse(args) -> None:
+    from eleicoes.interesse import AnalisadorInteresse
+    comp = _carregar_ou_falhar()
+    n = AnalisadorInteresse().analisar_todos(_filtrar(todos(comp), args), forcar=args.forcar)
+    print(f"Índice de interesse calculado para {n} parlamentares com histórico.")
+
+
+def cmd_prioridade(args) -> None:
+    from eleicoes.exportar import exportar_prioridade
+    comp = _carregar_ou_falhar()
+    caminho = exportar_prioridade(comp, top=args.top)
+    print(f"Lista de prioridade exportada: {caminho}")
 
 
 def cmd_ranking(args) -> None:
@@ -99,6 +120,12 @@ def build_parser() -> argparse.ArgumentParser:
     sub = p.add_subparsers(dest="cmd", required=True)
 
     sub.add_parser("composicao", help="Coleta eleitos (TSE) + senadores que permanecem (Senado)")
+    si = sub.add_parser("interesse", help="Índice de Interesse na Pauta ABES (autoria, relatoria, comissões, frentes)")
+    si.add_argument("--uf", nargs="+")
+    si.add_argument("--casa", choices=["camara", "senado"])
+    si.add_argument("--forcar", action="store_true", help="Recoleta mesmo quem já tem resultado")
+    sp_ = sub.add_parser("prioridade", help="Exporta a lista hierarquizada (IIP) em Excel")
+    sp_.add_argument("--top", type=int, help="Só os N primeiros (padrão: todos com interesse)")
 
     for nome, ajuda in [("triagem", "Triagem gratuita pelo histórico da Câmara (sem IA)"),
                         ("avaliar", "Match com a agenda ABES via IA + busca web"),
@@ -111,6 +138,8 @@ def build_parser() -> argparse.ArgumentParser:
         if nome == "avaliar":
             sp.add_argument("--limite", type=int, help="Máximo de parlamentares nesta execução")
             sp.add_argument("--forcar", action="store_true", help="Refaz avaliações já existentes")
+            sp.add_argument("--top-engajados", type=int, metavar="N",
+                            help="Avalia os N mais engajados na triagem (mesma ordem da planilha Top N)")
         if nome == "ranking":
             sp.add_argument("--top", type=int, default=30)
     return p
@@ -124,6 +153,7 @@ def main(argv: list[str] | None = None) -> None:
     )
     logging.getLogger("httpx").setLevel(logging.WARNING)
     {"composicao": cmd_composicao, "triagem": cmd_triagem,
+     "interesse": cmd_interesse, "prioridade": cmd_prioridade,
      "avaliar": cmd_avaliar, "ranking": cmd_ranking}[args.cmd](args)
 
 

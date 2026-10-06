@@ -1,0 +1,26 @@
+{
+  "parlamentar_chave": "camara_MG_130002535293",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 5374/2026 [plataformas] (Câmara): Estabelece regras para a utilização de perfis, páginas, canais e contas de grande alcance nas redes sociais por pré-candidatos e candidatos durante o período eleitoral, e altera a Lei nº 9.504, de 30 de setembro de 1997 "
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 7.3,
+  "prioridade": "D — Interesse baixo"
+}

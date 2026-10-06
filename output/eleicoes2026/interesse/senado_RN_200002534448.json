@@ -1,0 +1,36 @@
+{
+  "parlamentar_chave": "senado_RN_200002534448",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PL 4496/2019 [dados] (Senado, autor principal): Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), para definir a expressão “decisão automatizada”.",
+    "PL 5051/2019 [ia] (Senado, autor principal): Estabelece os princípios para o uso da Inteligência Artificial no Brasil.",
+    "PL 5691/2019 [ia] (Senado, autor principal): Institui a Política Nacional de Inteligência Artificial.",
+    "PEC 3/2020 [ciberseguranca] (Senado, coautor): Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fixar a competência co",
+    "PEC 45/2022 [plataformas] (Senado, coautor): Altera o art. 53 da Constituição Federal, para atribuir ao Senado Federal e à Câmara dos Deputados a competência para suspender ou excluir as páginas, os canais e as contas de seus membros na rede mundial de computadores",
+    "PL 3018/2024 [ia] (Senado, autor principal): Dispõe sobre a regulamentação dos data centers de inteligência artificial."
+  ],
+  "autoria_por_tema": {
+    "dados": 1.0,
+    "ia": 3.0,
+    "ciberseguranca": 0.5,
+    "plataformas": 0.5
+  },
+  "relatorias": [
+    "PL 523/2022 [plataformas] (CDH): Altera a Lei nº 10.741, de 1 de outubro de 2003 (Estatuto do Idoso), para dispor sobre o direito do idoso ao acesso à justiça e a serviços, públicos ou privados, sem a intermediação de plataformas dig"
+  ],
+  "orgaos": [
+    "CTIA — Titular (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.198,
+    "relatoria": 0.25,
+    "comissoes": 0.75,
+    "frentes": 0.0
+  },
+  "iip": 29.9,
+  "prioridade": "C — Interesse pontual"
+}

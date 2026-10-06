@@ -1,0 +1,21 @@
+{
+  "parlamentar_chave": "senado_SP_250002541312",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [],
+  "autoria_por_tema": {},
+  "relatorias": [],
+  "orgaos": [
+    "CEXBRLEG — Titular (Câmara): Comissão Externa destinada a discutir os atos de pirataria e a agenda do chamado “Brasil Legal”"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.0,
+    "relatoria": 0.0,
+    "comissoes": 0.6,
+    "frentes": 0.0
+  },
+  "iip": 15.0,
+  "prioridade": "C — Interesse pontual"
+}

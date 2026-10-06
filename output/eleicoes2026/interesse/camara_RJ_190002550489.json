@@ -1,0 +1,33 @@
+{
+  "parlamentar_chave": "camara_RJ_190002550489",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1043/2026 [ciberseguranca] (Câmara): Institui a Política de Prevenção e Repressão a Crimes Cibernéticos contra Animais, dispondo sobre a prevenção, tipificação, investigação e repressão de crimes cometidos por meio eletrônico ou digital, e dá outras providê",
+    "PLP 240/2026 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir em seu Anexo III determinados serviços médico-veterinários entre os serviços de saúde submetidos à redução de sessenta por cento das alíquotas da C"
+  ],
+  "autoria_por_tema": {
+    "ciberseguranca": 1.0,
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação",
+    "SUBIA — Titular (Câmara): Subcomissão Especial para debater os limites legais e éticos para o uso da inteligência artificial e possíveis parâmetro",
+    "CCOM — Titular (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.9,
+    "frentes": 0.75
+  },
+  "iip": 36.8,
+  "prioridade": "B — Prioridade média"
+}

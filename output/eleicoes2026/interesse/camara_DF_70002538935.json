@@ -1,0 +1,28 @@
+{
+  "parlamentar_chave": "camara_DF_70002538935",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 1956/2025 [ia] (Câmara): Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece diretrizes e bases da educação nacional, para prever o ensino dos fundamentos da Inteligência Artificial (IA) no currículo do ensino fundamental e do ensin",
+    "PEC 38/2025 [governo_digital] (Câmara): Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público."
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "governo_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria"
+  ],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 0.5
+  },
+  "iip": 11.2,
+  "prioridade": "D — Interesse baixo"
+}

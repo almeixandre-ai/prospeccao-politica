@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_GO_90002543473",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 4037/2023 [plataformas] (Câmara): Dispõe sobre a aplicação de sanções aos prestadores de serviços pelas plataformas digitais de intermediação de serviços de transporte remunerado de passageiros ou mercadorias."
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+    "PLP15225 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu",
+    "PLP15225 — 2º Vice-Presidente (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria"
+  ],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.0,
+    "comissoes": 1.0,
+    "frentes": 0.5
+  },
+  "iip": 32.2,
+  "prioridade": "B — Prioridade média"
+}

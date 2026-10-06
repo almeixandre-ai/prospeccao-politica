@@ -163,8 +163,8 @@ def _no_space_table(table):
 def _page_setup(doc):
     """A4 com margens ABES."""
     section = doc.sections[0]
-    section.page_height = Emu(29700 * 914.4)   # 297mm
-    section.page_width = Emu(21000 * 914.4)    # 210mm
+    section.page_height = Cm(29.7)  # A4
+    section.page_width = Cm(21)
     section.top_margin = Cm(2.5)
     section.bottom_margin = Cm(3.0)
     section.left_margin = Cm(2.5)

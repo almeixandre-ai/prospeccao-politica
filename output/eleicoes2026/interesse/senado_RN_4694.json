@@ -1,0 +1,27 @@
+{
+  "parlamentar_chave": "senado_RN_4694",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PEC 26/2025 [incentivos_pd] (Senado, coautor): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 0.5
+  },
+  "relatorias": [
+    "PLS 358/2017 [infra_digital] (CAE): Revoga o art. 223-G da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943."
+  ],
+  "orgaos": [
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [],
+  "componentes": {
+    "autoria": 0.016,
+    "relatoria": 0.25,
+    "comissoes": 0.3,
+    "frentes": 0.0
+  },
+  "iip": 11.8,
+  "prioridade": "D — Interesse baixo"
+}

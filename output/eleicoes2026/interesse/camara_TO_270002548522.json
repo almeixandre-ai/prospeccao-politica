@@ -1,0 +1,36 @@
+{
+  "parlamentar_chave": "camara_TO_270002548522",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 3435/2024 [plataformas] (Câmara): Altera a Lei nº 12.965, de 23 de abril de 2014, para incluir o uso preferencial de reconhecimento facial e verificação de identidade no cadastramento de usuários em redes sociais e serviços de mensageria.",
+    "PL 36/2025 [dados] (Câmara): Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados – LGPD), para proibir a oferta mediante pagamento de disponibilidade de dados biométricos sensíveis e estabelecer medidas mais rigorosas de ",
+    "PLP 77/2025 [tributacao] (Câmara): Altera a Lei Complementar nº 214, de 2025, para incluir as correntes da gasolina e do diesel na sistemática de incidência única do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS); e alte"
+  ],
+  "autoria_por_tema": {
+    "plataformas": 1.0,
+    "dados": 1.0,
+    "tributacao": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [
+    "CCOM — Suplente (Câmara): Comissão de Comunicação"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural",
+    "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+  ],
+  "componentes": {
+    "autoria": 0.095,
+    "relatoria": 0.0,
+    "comissoes": 0.3,
+    "frentes": 1.0
+  },
+  "iip": 25.9,
+  "prioridade": "C — Interesse pontual"
+}

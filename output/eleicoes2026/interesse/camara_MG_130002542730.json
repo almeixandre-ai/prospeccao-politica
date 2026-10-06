@@ -1,0 +1,30 @@
+{
+  "parlamentar_chave": "camara_MG_130002542730",
+  "fontes": [
+    "camara"
+  ],
+  "proposicoes": [
+    "PL 2394/2023 [ia] (Câmara): Criminaliza a produção, oferta, comercialização, divulgação, transmissão ou posse de imagens que representem crianças ou adolescentes em cenas de sexo explícito, implícito ou de cunho pornográfico, utilizando recursos de",
+    "PEC 31/2024 [infra_digital] (Câmara): Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climá"
+  ],
+  "autoria_por_tema": {
+    "ia": 1.0,
+    "infra_digital": 1.0
+  },
+  "relatorias": [],
+  "orgaos": [],
+  "frentes": [
+    "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+    "Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento",
+    "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+    "Frente Parlamentar da Conectividade Rural"
+  ],
+  "componentes": {
+    "autoria": 0.079,
+    "relatoria": 0.0,
+    "comissoes": 0.0,
+    "frentes": 1.0
+  },
+  "iip": 17.4,
+  "prioridade": "C — Interesse pontual"
+}

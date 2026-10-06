@@ -1,0 +1,50 @@
+{
+  "parlamentar_chave": "senado_SP_6009",
+  "fontes": [
+    "senado"
+  ],
+  "proposicoes": [
+    "PL 3168/2023 [incentivos_pd] (Senado, autor principal): Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT, para determinar que 10% (dez por cento) dos recursos do FNDCT sejam destinados par",
+    "PL 3218/2023 [incentivos_pd] (Senado, autor principal): Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT, para determinar que 10% (dez por cento) dos recursos do FNDCT sejam destinados par",
+    "PL 441/2025 [dados] (Senado, autor principal): Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para estabelecer o sigilo da qualificação, dados pessoais, telefone e endereço da vítima.",
+    "PEC 26/2025 [incentivos_pd] (Senado, autor principal): Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+    "PLP 172/2025 [ia, tributacao, incentivos_pd] (Senado, autor principal): Altera a Lei Complementar nº 214, de 30 de janeiro de 2025, para instituir medida de fomento à inovação tecnológica mediante dedução de valores investidos em sistemas de inteligência artificial do montante devido a títul",
+    "PL 4752/2025 [ciberseguranca] (Senado, coautor): Institui o Marco Legal da Cibersegurança, cria o Programa Nacional de Segurança e Resiliência Digital e altera a Lei nº 13.756, de 12 de dezembro de 2018."
+  ],
+  "autoria_por_tema": {
+    "incentivos_pd": 4.0,
+    "dados": 1.0,
+    "ia": 1.0,
+    "tributacao": 1.0,
+    "ciberseguranca": 0.5
+  },
+  "relatorias": [
+    "PLP 6/2026 [incentivos_pd] (CCT): Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para que a redução de incentivos e benefícios de natureza tributária, financeira ou creditícia não se aplique sobre os incentivos previstos",
+    "PL 5823/2025 [incentivos_pd] (CAS): Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT, para viabilizar a destinação de recursos do Fundo à pesquisa e",
+    "PL 1153/2025 [governo_digital] (CCT): Cria o Programa Transformação Digital para Ribeirinhos, Quilombolas e Comunidades Indígenas e dá outras providências.",
+    "PLP 117/2024 [startups] (CCT): Altera a Lei Complementar n.º 182, de 1º de junho de 2021, para a definição e o enquadramento de empresas startups verdes e dá outras providências.",
+    "PL 1833/2024 [ia] (CCT): Acrescenta o art. 88-A à Lei no 9.610, de 19 de fevereiro de 1998 (Lei dos Direitos Autorais), para proibir a utilização da inteligência artificial nos casos em que especifica.",
+    "PL 4097/2023 [dados] (CCT): Altera as leis 12.965, de 23 de abril de 2014, (Marco Civil da Internet) e 13.709, de 14 de agosto de 2018, (Lei Geral de Proteção de Dados) para dispor sobre a soberania digital e dar outras providên",
+    "PL 2838/2020 [incentivos_pd] (CCT): Altera a Lei nº 11.196, de 21 de Novembro de 2005 – Lei do Bem."
+  ],
+  "orgaos": [
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+    "CTIA — Titular (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil",
+    "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+  ],
+  "frentes": [
+    "Frente Parlamentar Mista das Startups e do Empreendedorismo Inovador",
+    "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+  ],
+  "componentes": {
+    "autoria": 0.238,
+    "relatoria": 1.0,
+    "comissoes": 1.0,
+    "frentes": 0.5
+  },
+  "iip": 56.9,
+  "prioridade": "A — Prioridade alta"
+}
