@@ -1,0 +1,77 @@
+name: Etapa 1 — dados do TSE
+
+# Baixa consulta_cand e votacao_candidato_munzona (2026 e 2022) do Portal de Dados Abertos do TSE,
+# cruza com output/eleicoes2026/composicao_2027.json e grava output/eleicoes2026/etapa1/.
+
+on:
+  push:
+    branches: [feat/etapa1-tse]   # execução de teste antes do merge
+    paths: ["eleicoes/etapa1_tse.py", ".github/workflows/etapa1_tse.yml"]
+  workflow_dispatch:
+    inputs:
+      sondar:
+        description: "Só testar se os arquivos do TSE já foram publicados"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "17 9 * * 1"   # segundas, 06:17 (Brasília) — até a posse, para pegar republicações do TSE
+
+permissions:
+  contents: write
+
+concurrency:
+  group: etapa1-tse
+  cancel-in-progress: false
+
+jobs:
+  etapa1:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependências
+        run: pip install requests
+
+      - name: Cache dos arquivos do TSE
+        uses: actions/cache@v4
+        with:
+          path: /tmp/tse
+          key: tse-${{ github.run_id }}
+          restore-keys: tse-
+
+      - name: Sondar URLs do TSE
+        run: python -m eleicoes.etapa1_tse --sondar
+
+      - name: Gerar fichas da Etapa 1
+        if: ${{ !inputs.sondar }}
+        run: |
+          python -m unittest tests.test_etapa1
+          python -m eleicoes.etapa1_tse --dir-cache /tmp/tse
+
+      - name: Resumo
+        if: ${{ !inputs.sondar }}
+        run: |
+          {
+            echo "## Etapa 1 — cobertura"
+            echo '```json'
+            python -c "import json;d=json.load(open('output/eleicoes2026/etapa1/cobertura.json'));d['divergencias_votos']=len(d['divergencias_votos']);print(json.dumps(d,ensure_ascii=False,indent=1))"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit dos resultados
+        if: ${{ !inputs.sondar }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/eleicoes2026/etapa1
+          if git diff --cached --quiet; then
+            echo "Sem alterações."
+          else
+            git commit -m "dados(etapa1): fichas TSE atualizadas em $(date -u +%F)"
+            git push
+          fi
