@@ -1,0 +1,25 @@
+{
+ "data_execucao": "2026-11-18",
+ "fontes_disponiveis": {
+  "cand_2026": true,
+  "munzona_2026": true,
+  "cand_2022": true,
+  "munzona_2022": true
+ },
+ "total": 594,
+ "cruzamento": {
+  "sq_candidato": 567,
+  "uf+cargo+nome": 25,
+  "nao_encontrado": 2
+ },
+ "campos_preenchidos": {
+  "data_nascimento": 592,
+  "genero": 592,
+  "grau_instrucao": 592,
+  "ocupacao": 592,
+  "municipio_nascimento": 0,
+  "uf_nascimento": 592,
+  "n_municipios_com_voto": 584
+ },
+ "divergencias_votos": []
+}
