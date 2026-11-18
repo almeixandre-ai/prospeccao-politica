@@ -21,6 +21,7 @@ import argparse
 import csv
 import io
 import json
+import re
 import logging
 import sys
 import zipfile
@@ -44,6 +45,7 @@ DIR_SAIDA = RAIZ / "output" / "eleicoes2026" / "etapa1"
 AUSENTE = "[Dado não localizado na base]"
 DATA_POSSE = {"camara": date(2027, 2, 1), "senado": date(2027, 2, 1)}
 CARGOS = {"camara": "6", "senado": "5"}  # CD_CARGO no TSE
+SUPLENTE_1, SUPLENTE_2 = "9", "10"
 NOME_CARGO = {"camara": "Deputado(a) Federal", "senado": "Senador(a)"}
 TOP_REDUTOS = 5
 
@@ -99,13 +101,37 @@ def _membros_csv(zf: zipfile.ZipFile) -> list[str]:
     return por_uf or nomes
 
 
+def _uf_do_arquivo(nome: str) -> str | None:
+    m = re.search(r"_([A-Z]{2})\.csv$", Path(nome).name, re.IGNORECASE)
+    return m.group(1).upper() if m else None
+
+
 def linhas(zip_path: Path):
+    """Lê os CSVs por UF; do _BRASIL, só as UFs que não têm arquivo próprio no zip."""
     with zipfile.ZipFile(zip_path) as zf:
-        for nome in _membros_csv(zf):
+        nomes = [n for n in zf.namelist() if n.lower().endswith(".csv")]
+        por_uf = [n for n in nomes if "brasil" not in n.lower()]
+        brasil = [n for n in nomes if "brasil" in n.lower()]
+        cobertas = {_uf_do_arquivo(n) for n in por_uf} - {None}
+        for nome in (por_uf or brasil) + (brasil if por_uf else []):
+            so_faltantes = por_uf and nome in brasil
             with zf.open(nome) as raw:
                 texto = io.TextIOWrapper(raw, encoding="latin-1", newline="")
                 for row in csv.DictReader(texto, delimiter=";", quotechar='"'):
+                    if so_faltantes and (row.get("SG_UF") or "").strip() in cobertas:
+                        continue
                     yield row
+
+
+def diagnosticar(zip_path: Path) -> dict:
+    """Arquivos CSV do zip e cabeçalho do primeiro — para auditar mudanças de layout do TSE."""
+    with zipfile.ZipFile(zip_path) as zf:
+        membros = sorted(n for n in zf.namelist() if n.lower().endswith(".csv"))
+        cab = []
+        if membros:
+            with zf.open(_membros_csv(zf)[0]) as raw:
+                cab = next(csv.reader(io.TextIOWrapper(raw, encoding="latin-1", newline=""), delimiter=";"), [])
+    return {"arquivos_csv": [Path(m).name for m in membros], "colunas": cab}
 
 
 def _v(row: dict, *cols: str) -> str | None:
@@ -134,7 +160,8 @@ def indexar_candidatos(zip_path: Path, cargos: set[str], so_eleitos: bool = Fals
     for row in linhas(zip_path):
         if (row.get("CD_CARGO") or "").strip() not in cargos or not _turno1(row):
             continue
-        if so_eleitos and not (row.get("DS_SIT_TOT_TURNO") or "").upper().startswith("ELEITO"):
+        if (so_eleitos and row["CD_CARGO"].strip() not in (SUPLENTE_1, SUPLENTE_2)
+                and not (row.get("DS_SIT_TOT_TURNO") or "").upper().startswith("ELEITO")):
             continue
         sq = (row.get("SQ_CANDIDATO") or "").strip()
         uf, cargo, num = row.get("SG_UF", "").strip(), row["CD_CARGO"].strip(), (row.get("NR_CANDIDATO") or "").strip()
@@ -155,10 +182,14 @@ def casar(p: dict, idx: Indice) -> tuple[dict | None, str]:
         return idx.por_sq[p["sq_candidato"]], "sq_candidato"
     if p.get("numero") and (p["uf"], cargo, str(p["numero"])) in idx.por_numero:
         return idx.por_numero[(p["uf"], cargo, str(p["numero"]))], "uf+cargo+numero"
-    for nome in (p.get("nome_completo"), p.get("nome_urna")):
-        achados = idx.por_nome.get((p["uf"], cargo, normalizar(nome or "")), [])
-        if len(achados) == 1:
-            return achados[0], "uf+cargo+nome"
+    # Senado: suplentes em exercício foram registrados como 1º/2º suplente (cargos 9 e 10)
+    for cg, rotulo in [(cargo, "uf+cargo+nome")] + (
+            [(SUPLENTE_1, "uf+nome (1º suplente)"), (SUPLENTE_2, "uf+nome (2º suplente)")]
+            if p["casa"] == "senado" else []):
+        for nome in (p.get("nome_completo"), p.get("nome_urna")):
+            achados = idx.por_nome.get((p["uf"], cg, normalizar(nome or "")), [])
+            if len(achados) == 1:
+                return achados[0], rotulo
     return None, "nao_encontrado"
 
 
@@ -276,6 +307,7 @@ def executar(dir_cache: Path, incluir_2022: bool = True, comp_path: Path = ARQ_C
                 zips[(tipo, ano)] = baixar(url.format(ano=ano), dir_cache / Path(url.format(ano=ano)).name)
 
     fontes = {f"{t}_{a}": bool(z) for (t, a), z in zips.items()}
+    diagnostico = {f"{t}_{a}": diagnosticar(z) for (t, a), z in zips.items() if z}
     casados: dict[str, tuple[dict | None, str, int]] = {}
     grupos = {2026: [p for p in parls if p["origem"] == "tse_2026"],
               2022: [p for p in parls if p["origem"] == "senado_2022"]}
@@ -287,7 +319,8 @@ def executar(dir_cache: Path, incluir_2022: bool = True, comp_path: Path = ARQ_C
             for p in grupo:
                 casados[p["chave"]] = (None, f"consulta_cand_{ano} indisponível", ano)
             continue
-        idx = indexar_candidatos(z, {"5", "6"} if ano == 2026 else {"5"}, so_eleitos=(ano == 2022))
+        idx = indexar_candidatos(z, {"5", "6"} if ano == 2026 else {"5", SUPLENTE_1, SUPLENTE_2},
+                                 so_eleitos=(ano == 2022))
         for p in grupo:
             cand, metodo = casar(p, idx)
             casados[p["chave"]] = (cand, metodo, ano)
@@ -317,6 +350,7 @@ def executar(dir_cache: Path, incluir_2022: bool = True, comp_path: Path = ARQ_C
         "cruzamento": {},
         "campos_preenchidos": {},
         "divergencias_votos": [],
+        "diagnostico_arquivos": diagnostico,
     }
     cont = defaultdict(int)
     for f in fichas:

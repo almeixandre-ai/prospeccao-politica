@@ -121,6 +121,36 @@ class TestEtapa1(unittest.TestCase):
         self.assertEqual(len(rows), 3)
         self.assertEqual(rows[0]["reduto_1"], "RIO BRANCO (600 | 60.0%)")
 
+    def test_suplente_em_exercicio_e_uf_so_no_brasil(self):
+        comp = json.loads(self.comp.read_text("utf-8"))
+        comp["senadores"].append({"casa": "senado", "uf": "AC", "nome_urna": "Suplenta", "nome_completo": "SUPLENTA X",
+                                  "partido": "PSD", "numero": None, "votos": None, "situacao": "Mandato até 2031",
+                                  "origem": "senado_2022", "sq_candidato": None, "chave": "senado_AC_88"})
+        comp["deputados"].append({"casa": "camara", "uf": "AP", "nome_urna": "AMAPAENSE", "nome_completo": "AMAPAENSE",
+                                  "partido": "PL", "numero": "2211", "votos": 70, "situacao": "Eleito por QP",
+                                  "origem": "tse_2026", "sq_candidato": "444", "chave": "camara_AP_444"})
+        c2 = self.tmp / "comp2.json"
+        c2.write_text(json.dumps(comp), encoding="utf-8")
+        z = {
+            ("cand", 2026): _zip(self.tmp / "c26b.zip", {"consulta_cand_2026_BRASIL.csv": [
+                _cand("111", "AC", "6", "1301", "FULANA DE TAL", "FULANA"),
+                _cand("444", "AP", "6", "2211", "AMAPAENSE", "AMAPAENSE")]}),
+            ("munzona", 2026): _zip(self.tmp / "m26b.zip", {
+                "votacao_candidato_munzona_2026_AC.csv": [_mz("111", "AC", "RIO BRANCO", "1", 10)],
+                "votacao_candidato_munzona_2026_BRASIL.csv": [_mz("111", "AC", "RIO BRANCO", "1", 10),  # já coberto
+                                                              _mz("444", "AP", "MACAPA", "2", 70)]}),
+            ("cand", 2022): _zip(self.tmp / "c22b.zip", {"consulta_cand_2022_AC.csv": [
+                _cand("777", "AC", "5", "151", "SICRANO DA SILVA", "SICRANO", sit="ELEITO"),
+                _cand("778", "AC", "9", "1511", "SUPLENTA X", "SUPLENTA", sit="#NULO#")]}),
+            ("munzona", 2022): None,
+        }
+        out = self.tmp / "out3"
+        e1.executar(self.tmp, comp_path=c2, dir_saida=out, zips=z)
+        F = {f["chave"]: f for f in json.loads((out / "fichas_etapa1.json").read_text("utf-8"))}
+        self.assertEqual(F["senado_AC_88"]["metodo_cruzamento_tse"], "uf+nome (1º suplente)")
+        self.assertEqual(F["camara_AP_444"]["votos_somados_municipios"], 70)
+        self.assertEqual(F["camara_AC_111"]["votos_somados_municipios"], 10)  # sem contar em dobro
+
     def test_fonte_indisponivel_marca_ausente(self):
         out = self.tmp / "out2"
         cob = e1.executar(self.tmp, comp_path=self.comp, dir_saida=out,
