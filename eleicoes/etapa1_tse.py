@@ -195,11 +195,22 @@ def casar(p: dict, idx: Indice) -> tuple[dict | None, str]:
 
 # ── Votos por município ──────────────────────────────────────────────────────
 
+DIAG_MUNZONA: dict[str, dict] = {}
+
+
 def votos_por_municipio(zip_path: Path, alvos: dict[str, str]) -> dict[str, dict[str, int]]:
-    """alvos: SQ_CANDIDATO → UF. Soma as zonas de cada município (1º turno, votos nominais)."""
+    """alvos: SQ_CANDIDATO → chave. Soma as zonas de cada município (1º turno, votos nominais)."""
     acc: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
+    diag: dict[str, dict] = defaultdict(lambda: {"linhas": 0, "turnos": set(), "cargos": set(), "amostra_sq_dep": []})
     for row in linhas(zip_path):
         sq = (row.get("SQ_CANDIDATO") or "").strip()
+        uf = (row.get("SG_UF") or "").strip()
+        d = diag[uf]
+        d["linhas"] += 1
+        d["turnos"].add((row.get("NR_TURNO") or "").strip())
+        d["cargos"].add((row.get("CD_CARGO") or "").strip())
+        if (row.get("CD_CARGO") or "").strip() == "6" and len(d["amostra_sq_dep"]) < 3 and sq not in d["amostra_sq_dep"]:
+            d["amostra_sq_dep"].append(sq)
         if sq not in alvos or not _turno1(row):
             continue
         mun = _v(row, "NM_MUNICIPIO") or AUSENTE
@@ -208,6 +219,8 @@ def votos_por_municipio(zip_path: Path, alvos: dict[str, str]) -> dict[str, dict
             acc[sq][mun] += int(float(qt)) if qt else 0
         except ValueError:
             continue
+    DIAG_MUNZONA[zip_path.name] = {uf: {**d, "turnos": sorted(d["turnos"]), "cargos": sorted(d["cargos"])}
+                                   for uf, d in diag.items()}
     return acc
 
 
@@ -351,6 +364,13 @@ def executar(dir_cache: Path, incluir_2022: bool = True, comp_path: Path = ARQ_C
         "campos_preenchidos": {},
         "divergencias_votos": [],
         "diagnostico_arquivos": diagnostico,
+    }
+    sem_voto_uf = sorted({f["uf"] for f in fichas if f["n_municipios_com_voto"] == AUSENTE and f["origem"] == "tse_2026"})
+    cobertura["diagnostico_munzona_ufs_sem_voto"] = {
+        nome: {uf: d.get(uf, "UF ausente no arquivo") for uf in sem_voto_uf} for nome, d in DIAG_MUNZONA.items()
+    }
+    cobertura["sq_esperados_ufs_sem_voto"] = {
+        uf: [f["sq_candidato"] for f in fichas if f["uf"] == uf and f["origem"] == "tse_2026"][:3] for uf in sem_voto_uf
     }
     cont = defaultdict(int)
     for f in fichas:
