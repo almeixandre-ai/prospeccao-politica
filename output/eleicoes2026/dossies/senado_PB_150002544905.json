@@ -1,0 +1,150 @@
+{
+ "parlamentar_chave": "senado_PB_150002544905",
+ "nome_urna": "VENEZIANO",
+ "nome_completo": "VENEZIANO VITAL DO RÊGO SEGUNDO NETO",
+ "casa_2027": "senado",
+ "uf": "PB",
+ "partido": "MDB",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "5748",
+ "data_coleta": "2026-11-19",
+ "iip": 36.7,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PEC 17/2019",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Acrescenta o inciso XII-A, ao art. 5º, e o inciso XXX, ao art. 22, da Constituição Federal para incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão e fixar a competência privativa da União para legislar sobre a matéria.",
+   "autor_principal": "Autoria não registrada.",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2017/2019",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 870/2021",
+   "temas": [
+    "dados",
+    "plataformas"
+   ],
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a comercialização, o fornecimento e o compartilhamento de informações de usuários de redes sociais por seus provedores.",
+   "autor_principal": "Senador Veneziano Vital do Rêgo ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20870/2021",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 871/2021",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a elaboração de código de ética entre as regras de boas práticas e de governança dos agentes de tratamento.",
+   "autor_principal": "Senador Veneziano Vital do Rêgo ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20871/2021",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 872/2021",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Dispõe sobre o uso da Inteligência Artificial.",
+   "autor_principal": "Senador Veneziano Vital do Rêgo ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20872/2021",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 2758/2021",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a composição do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade.",
+   "autor_principal": "Senador Veneziano Vital do Rêgo ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202758/2021",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PEC 17/2019 (fase 2)",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais.",
+   "autor_principal": "Câmara dos Deputados",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2017/2019%20%28fase%202%29",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 262/2024",
+   "temas": [
+    "ia",
+    "propriedade_intelectual"
+   ],
+   "ementa": "Altera o Decreto Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal –, para prever causa de aumento de pena para o crime de violação de direito autoral, quando houver uso de inteligência artificial, e criar o crime de falsidade científica ou acadêmica.",
+   "autor_principal": "Senador Veneziano Vital do Rêgo ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20262/2024",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 263/2024",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Dispõe sobre o Programa Nacional de Conectividade e altera a Lei nº 9.998, de 17 de agosto de 2000, que institui o Fundo de Universalização dos Serviços de Telecomunicações.",
+   "autor_principal": "Senador Veneziano Vital do Rêgo ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20263/2024",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 266/2024",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Dispõe sobre o uso de sistemas de inteligência artificial para auxiliar a atuação de médicos, advogados e juízes.",
+   "autor_principal": "Senador Veneziano Vital do Rêgo ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20266/2024",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 4372/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei nº 15.075, de 26 de dezembro de 2024, para instituir o Banco de Bonificações de Conteúdo Local, e a Lei nº 9.478, de 6 de agosto de 1997, para estimular maior interação entre instituições de pesquisa e desenvolvimento tecnológico e empresas da indústria de petróleo e promover a exportação de bens e serviços fornecidos pelas empresas brasileiras.",
+   "autor_principal": "Senador Veneziano Vital do Rêgo ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%204372/2025",
+   "casa": "senado"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 327/2023",
+   "ementa": "Dispõe sobre o fornecimento de dados aos candidatos a cargos de direção em condomínios, em agremiações desportistas, em entidades de classe, em sindicatos e em associações diversas; e altera as Leis nºs 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), e 14.597, de 14 de junho de 2023 (Lei Geral do Esporte).",
+   "colegiado": "CCDD",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20327/2023"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CTIA — Titular (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+ ],
+ "frentes": [],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

@@ -1,0 +1,336 @@
+{
+ "parlamentar_chave": "camara_MG_130002548795",
+ "nome_urna": "NELY AQUINO",
+ "nome_completo": "NELI PEREIRA DE AQUINO",
+ "casa_2027": "camara",
+ "uf": "MG",
+ "partido": "PODE",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": 220622,
+ "codigo_senado": null,
+ "data_coleta": "2026-11-19",
+ "iip": 37.2,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PL 2416/2024",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Dispõe sobre a regulamentação do uso de tecnologias de vigilância e coleta de dados pessoais no território nacional, complementando a Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709, de 14 de agosto de 2018) e estabelecendo diretrizes adicionais para a proteção da privacidade e dos direitos dos cidadãos.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, utilização, Tecnologia, Segurança eletrônica, coleta, Dados pessoais, proteção, Direito à privacidade.",
+   "autor_principal": "Nely Aquino",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2024-06-18",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2441228",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2438413",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PEC 31/2024",
+   "temas": [
+    "tributacao",
+    "infra_digital"
+   ],
+   "ementa": "Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climática.",
+   "ementa_detalhada": "",
+   "keywords": "Constituição Federal (1988), criação, Conselho Nacional de Mudança Climática, Autoridade Climática Nacional, Fundo Nacional de Mudança Climática, estrutura organizacional, atribuição, fonte de recursos, arrecadação, Imposto sobre Serviços de Qualquer Natureza (ISSQN), Imposto sobre Produtos Industrializados (IPI), Imposto sobre Bens e Serviços (IBS), tributação.",
+   "autor_principal": "Gilson Daniel",
+   "e_autor_principal": false,
+   "n_coautores": 186,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2024-08-27",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2455515",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2470429",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PEC 38/2025",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+   "ementa_detalhada": "",
+   "keywords": "Constituição Federal (1988), Reforma Administrativa (2025). _Direitos fundamentais, garantias fundamentais, inclusão, meio eletrônico, certidão, Órgão público. _Direitos sociais, inclusão digital. _Governança, gestão estratégica, Gestão por resultados, Administração de pessoal, Transformação digital, Estratégia Nacional de Governo Digital, Política Nacional de Dados Abertos, Plano Nacional de Governo Digital, diretrizes.  \r\nDisciplinamento, Plano de cargos, carreiras e salários, processo seletivo, cargo em comissão, concurso público, estágio probatório, carreira pública transversal, Estabilidade no serviço público, férias, Adicional (vantagem pecuniária), Verba indenizatória, Educação e formação profissional, servidor público, Serviço terceirizado, Administração Pública. _ Extinção, adicional por tempo de serviço, Licença-prêmio. _ Criação, Bônus de resultado por desempenho. _ Proibição, Aposentadoria compulsória, Penalidade disciplinar, magistrado, membro, Ministério Público. _ Limitação, Despesa pública, remuneração, Poder Executivo, Poder Legislativo, Poder Judiciário.",
+   "autor_principal": "Zé Trovão",
+   "e_autor_principal": false,
+   "n_coautores": 171,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2025-10-24",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2576168",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3029805",
+   "casa": "camara"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 6194/2025",
+   "ementa": "Dispõe sobre normas de prevenção, proteção, responsabilização civil e educação digital para o enfrentamento à misoginia em aplicações de internet.",
+   "colegiado": "CE",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "talentos"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2593228",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1181/2026",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer causa de aumento de pena no crime de feminicídio quando praticado após perseguição reiterada da vítima, por qualquer meio, inclusive digital, que evidencie contexto de vigilância, monitoramento, controle ou intimidação.",
+   "colegiado": "",
+   "situacao": "",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2609056",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1284/2026",
+   "ementa": "Dispõe sobre diretrizes para o exercício econômico-profissional da criação de conteúdo digital e da influência digital; estabelece deveres de transparência publicitária e parâmetros mínimos contratuais; dispõe sobre salvaguardas para crianças e adolescentes em atividade econômica digital; institui diretriz para criação do cadastro facultativo para fins de políticas públicas; e dá outras providências.",
+   "colegiado": "CPASF",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2610666",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
+ "votos_chave": [
+  {
+   "proposicao": "PL 2630/2020",
+   "tema": "plataformas",
+   "nota": "PL das Fake News / regulação de plataformas",
+   "data": "2023-04-25",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2256735",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 118; Abstenção: 4; Total: 415.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição. Sim: 18; Não: 328; Abstenção: 7; Total: 353.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitado o Requerimento. Sim: 118; Não: 289; Total: 407.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-16",
+   "descricao": "Rejeitado o Requerimento. Sim: 46; Não: 232; Total: 278.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 104. Sim: 155; não: 316; abstenção: 2; total: 473.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 115; não: 239; abstenção: 3; total: 357.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 137; abstenção: 3; total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Rejeitada a Emenda de Plenário n° 8. Sim: 136; Não: 262; Total: 398.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Mantido o texto. Sim: 292; Não: 106; Total: 398.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Rejeitado o Requerimento. Sim: 71; Não: 221; Total: 292.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Rejeitado o Requerimento. Sim: 108; não: 241; total: 349.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-12",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  }
+ ],
+ "orgaos": [
+  "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+  "CCTI — Presidente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+  "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+  "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+ ],
+ "frentes": [
+  "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+  "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+ ],
+ "limitacoes": []
+}

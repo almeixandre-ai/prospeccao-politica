@@ -1,0 +1,1196 @@
+{
+ "parlamentar_chave": "camara_MA_100002546922",
+ "nome_urna": "RUBENS PEREIRA JR",
+ "nome_completo": "RUBENS PEREIRA E SILVA JUNIOR",
+ "casa_2027": "camara",
+ "uf": "MA",
+ "partido": "PT",
+ "federacao": "PT/PC do B/PV",
+ "incumbente": true,
+ "id_camara": 178887,
+ "codigo_senado": null,
+ "data_coleta": "2026-11-19",
+ "iip": 59.8,
+ "prioridade": "A — Prioridade alta",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PL 190/2024",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Altera a Lei 8.078, de 11 de setembro de 1990, para estabelecer como prática abusiva a divulgação de produtos ou serviços nos sítios eletrônicos ou redes sociais de fornecedores com a omissão do valor correspondente.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Código de Defesa do Consumidor (1990), prática abusiva, fornecedor, divulgação, Sítio (internet), rede social digital, produtos, serviços, omissão, preço.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2024-02-07",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2417503",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2385957",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PEC 31/2024",
+   "temas": [
+    "tributacao",
+    "infra_digital"
+   ],
+   "ementa": "Acrescenta os arts.91-A, 91-B e a alínea “g” do inciso I do artigo 159 da Constituição Federal, para instituir o Conselho Nacional de Mudança Climática, a Autoridade Climática Nacional e o Fundo Nacional de Mudança Climática.",
+   "ementa_detalhada": "",
+   "keywords": "Constituição Federal (1988), criação, Conselho Nacional de Mudança Climática, Autoridade Climática Nacional, Fundo Nacional de Mudança Climática, estrutura organizacional, atribuição, fonte de recursos, arrecadação, Imposto sobre Serviços de Qualquer Natureza (ISSQN), Imposto sobre Produtos Industrializados (IPI), Imposto sobre Bens e Serviços (IBS), tributação.",
+   "autor_principal": "Gilson Daniel",
+   "e_autor_principal": false,
+   "n_coautores": 186,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2024-08-27",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2455515",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2470429",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4272/2024",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera o Estatuto da Criança e do Adolescente e a Lei de Crimes Hediondos para tipificar e tornar hedionda a produção, disseminação e posse de conteúdos gerados por inteligência artificial ou deepfakes que simulem pornografia infantil.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Estatuto da Criança e do Adolescente (ECA) (1990), Lei dos Crimes Hediondos (1990), Tipificação de conduta, produção, propagação, Deepfake, Conteúdo impróprio, Inteligência artificial, simulação, Pornografia infantil, Abuso sexual, Criança.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2024-11-05",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2467209",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2816628",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4621/2025",
+   "temas": [
+    "ia",
+    "incentivos_pd"
+   ],
+   "ementa": "Dispõe sobre a destinação de percentual das receitas públicas oriundas da exploração de petróleo e gás natural na Margem Equatorial Brasileira para investimentos em proteção do meio ambiente, saúde, educação e tecnologia, cria o Fundo Soberano Brasileiro para o Futuro e o Fundo Nacional de Desenvolvimento da Inteligência Artificial Brasileira, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Fundo Soberano Brasileiro para o Futuro (FSBF), gestão, recursos, exploração, petróleo, gás natural, Margem Equatorial, aplicação, saúde, educação, meio ambiente, transição energética. _ Criação, Fundo Nacional de Desenvolvimento da Inteligência Artificial Brasileira (FNDIABR), pesquisa e desenvolvimento, Educação e formação profissional, ensino, Inteligência artificial, escola.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-09-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2561378",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3001114",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 212/2026",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Criminaliza a produção e a disseminação de conteúdo audiovisual, sonoro ou visual gerado ou manipulado por inteligência artificial (deepfakes) e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 4.737, de 15 de julho de 1965, a Lei nº 12.965, de 23 de abril de 2014 e a Lei nº 13.709, de 14 de agosto de 2018.",
+   "keywords": "Alteração, Código Eleitoral (1965), tipificação de conduta, tipicidade penal, crime eleitoral, propaganda eleitoral irregular, produção, divulgação, produto audiovisual, deepfake, notícia falsa (fake news), desinformação, inteligência artificial, investigação criminal. _Alteração, Marco Civil da Internet (2014), responsabilidade civil, provedor de aplicações, obrigatoriedade, remoção de conteúdo, conteúdo digital, descumprimento, penalidade administrativa. _Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), compartilhamento de dados, garantia, proteção, sigilo, dados pessoais.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-02-03",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2600618",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078129",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 404/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui piso nacional para atendimentos psicológicos prestados por meio de plataformas digitais e por prestadores vinculados a planos de saúde e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, piso salarial, assistência psicológica, psicólogo, plataforma digital, prestador de serviço, vinculação, plano de saúde, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-02-09",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2601698",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3080398",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 449/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Estabelece procedimentos e critérios para reconhecimento e manutenção de regimes de adequação de proteção de dados pessoais perante autoridades estrangeiras e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 13.709, de 14 de agosto de 2018.",
+   "keywords": "Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), regulamentação, transferência internacional de dados, regulação, fiscalização, Autoridade Nacional de Proteção de Dados (ANPD) (2022-2025), certificação, conformidade, cooperação internacional, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-02-10",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2602199",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3081150",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 730/2026",
+   "temas": [
+    "dados",
+    "plataformas"
+   ],
+   "ementa": "Estabelece deveres mínimos de proteção de crianças e adolescentes em plataformas digitais e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, proteção, criança, adolescente, influenciador digital mirim, rede social digital, conteúdo digital, proibição, monetização, menor de idade, responsabilidade civil, plataforma digital, transparência algorítmica, garantia, confidencialidade, dados pessoais, princípio da proteção integral da criança e do adolescente, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-02-24",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2604320",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3087310",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 762/2026",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Estabelece marco regulatório para sistemas de inteligência artificial (IA) em setores de alta consequência e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 13.709, de 14 de Agosto de 2018, a Lei nº 12.965, de 23 de Abril de 2014, e a Lei nº 8.078, de 11 de Setembro de 1990.",
+   "keywords": "Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), Marco Civil da Internet (2014), Código de Defesa do Consumidor (1990), sistema de inteligência artificial, domínio, alto risco, categorização, avaliação, impacto socioeconômico, direitos fundamentais, proteção, dados pessoais sensíveis, serviços essenciais, obrigatoriedade, certificação, registro público, governança de tecnologia da informação e comunicação, decisão automatizada, tratamento de dados, responsabilização, auditoria, transparência algorítmica, relações de consumo, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-02-25",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2604767",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3088155",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 904/2026",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Institui normas de responsabilidade, transparência e auditabilidade para sistemas de inteligência artificial de alto impacto e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 8.078, de 11 de setembro de 1990, a Lei nº 9.784, de 29 de janeiro de 1999 e a Lei nº 12.965, de 23 de abril de 2014 e a Lei nº 13.709, de 14 de agosto de 2018..",
+   "keywords": "Regulamentação,  responsabilidade, transparência, fiscalização, auditoria, inteligência artificial generativa, impacto social, diretrizes. _Alteração, Código de Defesa do Consumidor (1990), Lei Geral de Proteção de Dados Pessoais (LGPDP), (2018)Marco Civil da Internet (2014), Lei Geral do Processo Administrativo (1999),",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-03-03",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2606324",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3091458",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1439/2026",
+   "temas": [
+    "dados",
+    "tributacao"
+   ],
+   "ementa": "Institui normas de proteção especial para o tratamento de dados e utilização de serviços digitais por crianças e adolescentes, determinando medidas de privacy-by-design e safety-by-design, preferência por mecanismos não identificadores de aferição de idade interoperáveis (sinal de idade), critérios técnicos para verificações reforçadas, proibição de perfilamento comportamental e publicidade direcionada a menores,\nminimização de dados coletados de crianças, controles de supervisão parental configurados como padrão, avaliação de impacto específica para tratamento infantil, auditorias regulares certificadas pela Autoridade Nacional de Proteção de Dados (ANPD) e padrões abertos de interoperabilidade; estabelece salvaguardas contra exclusão digital e concentração de mercado, competência fiscalizatória da ANPD e sanções proporcionais ao porte da empresa; e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 8.069, de 13 de julho de 1990, a Lei nº 12.965, de 23 de abril de 2014 e a Lei nº 13.709, de 14 de agosto de 2018.",
+   "keywords": "Alteração, Estatuto da Criança e do Adolescente (ECA) (1990), Marco Civil da Internet (2014), Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), regulamentação, proteção, tratamento de dados, utilização, serviços digitais, proibição, avaliação, comportamento humano, orientação, publicidade, minimização, coleta, dados, criança, adolescente, ferramenta tecnológica, controle parental, delegação de competência, fiscalização, Agência Nacional de Proteção de Dados (ANPD), diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-03-26",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612396",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3105611",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1476/2026",
+   "temas": [
+    "ia",
+    "startups"
+   ],
+   "ementa": "Institui a obrigatoriedade de Avaliação de Impacto Regulatório e Econômico (AIR?AI) para quaisquer projetos de lei ou atos normativos federais que disponham sobre sistemas de inteligência artificial; define requisitos mínimos da AIR?AI (estudo ex ante de custos e benefícios, análise de proporcionalidade e alternativas menos onerosas, consulta pública, transparência de dados e metodologias, revisão por parecer independente, implementação faseada, sandboxes regulatórios e cláusulas?sunset ou avaliações ex post); disciplina competência, prazos, conteúdo mínimo dos estudos, responsabilidades e sanções administrativas; altera dispositivos correlatos para assegurar a eficácia da avaliação; e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 9.784, de 29 de janeiro de 1999 e a Lei nº 13.874, de 20 de setembro de 2019.",
+   "keywords": "Obrigatoriedade, normatização, avaliação, impacto econômico, regulação, inteligência artificial, subsídio, elaboração, ato normativo, sandbox regulatório, administração federal, transparência pública, fiscalização, diretrizes. _Alteração, Lei da Liberdade Econômica (2019), Lei Geral do Processo Administrativo (1999).",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612704",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106655",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1485/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui o Sistema Nacional de Avaliação de Desempenho da Administração Pública Federal (AvaliaGov) como plataforma padrão e instrumento obrigatório para avaliação de desempenho no âmbito da Administração Pública Federal; disciplina implantação faseada, diretrizes de governança, interoperabilidade e padronização de indicadores e escala de conceitos; integra AvaliaGov às políticas de gestão de pessoas (PDP, PGD, DFT e estágio probatório); dispõe sobre proteção de dados, transparência, capacitação, fonte de financiamento, supervisão, auditoria e exceções temporárias para sistemas compatíveis; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Sistema Nacional de Avaliação de Desempenho da Administração Pública Federal (AvaliaGov), plataforma digital, gestão de desempenho, servidor público, Administração pública, transparência pública, avaliação.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612718",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106677",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1495/2026",
+   "temas": [
+    "dados",
+    "plataformas"
+   ],
+   "ementa": "Institui a Lei de Aprendizado, Integridade e Comunicação das Políticas Públicas (LAICP); obriga programas que recebam transferências federais ou representem gasto relevante a elaborar e implementar Plano de Integridade e Aprendizado (PIA); cria Portal Nacional de Transparência Programática interoperável e protocolos oficiais de comunicação para redes sociais; institui o Conselho Nacional de Aprendizado e Integridade; disciplina vinculação condicional de parcela das transferências a metas mínimas de implementação do PIA, mecanismos de apoio técnico, obrigação de planos corretivos e relatórios públicos pós?incidente; estabelece requisitos de avaliação de risco, indicadores de resultado e risco, mecanismos de revisão adaptativa e sanções administrativas e disciplinarias, observadas a proteção de dados pessoais e competências constitucionais dos órgãos de controle.",
+   "ementa_detalhada": "Altera a Lei de Acesso à Informação (2011), a Lei nº 14.133, de 1º de abril de 2021, a Lei nº 8.112, de 11 de dezembro de 1990, a Lei Complementar nº 101, de 4 de maio de 2000, e a Lei nº 13.709, de 14 de agosto de 2018.",
+   "keywords": "Alteração, Lei de Acesso à Informação (2011), Lei de Licitações e Contratos Administrativos (2021), Regime Jurídico Único dos Servidores Públicos Civis da União (1990), Lei de Responsabilidade Fiscal (2000), Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), aprendizagem, integridade, comunicação, Política pública, plano, Programa (administração), transferência, gasto, transparência, comunicação, governança, capacitação, assistência técnica, incentivo, fiscalização, responsabilização, sigilo, Portal (Internet), integração, Banco de dados, Conselho nacional, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612781",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106848",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1496/2026",
+   "temas": [
+    "dados",
+    "plataformas"
+   ],
+   "ementa": "Condiciona a imposição, pela autoridade concorrencial (CADE), de obrigações estruturais que impliquem alteração de termos de uso, critérios de ranqueamento, fluxos de dados, interoperabilidade ou redesenho tecnológico de plataformas digitais à prévia deliberação legislativa; exige estudo de impacto setorial (concorrência, liberdade de expressão, proteção de dados, trabalho e inovação), realização de consulta pública vinculante e auditoria técnica independente; estabelece requisitos mínimos de motivação, proporcionalidade, temporariedade (cláusula sunset) e transparência; e assegura revisão judicial acelerada das medidas.",
+   "ementa_detalhada": "Altera a Lei nº 9.784, de 29 de janeiro de 1999, a Lei nº 12.529, de 30 de novembro de 2011 e a Lei nº 13.105, de 16 de março de 2015.",
+   "keywords": "Alteração, Lei de Defesa da Concorrência (2011), Lei Geral do Processo Administrativo (1999), Código de Processo Civil (2015), regulamentação, plataforma digital, redefinição, termo de uso aceitável, ranking, fluxo de dados, arquitetura da informação, arquitetura tecnológica, interoperabilidade, consulta pública, deliberação, autorização, Congresso Nacional, delegação de competência, Conselho Administrativo de Defesa Econômica (Cade), diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Retirado pelo(a) Autor(a)",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612782",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106849",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1498/2026",
+   "temas": [
+    "incentivos_pd",
+    "governo_digital"
+   ],
+   "ementa": "Estabelece regime de estabilidade regulatória para investimentos estratégicos de longo prazo, institui incentivos fiscais e creditícios à pesquisa, desenvolvimento e produção tecnológica nacional, prioriza compras públicas de soluções desenvolvidas no Brasil, cria o Fundo Nacional de Inovação Produtiva para cofinanciamento de parcerias indústria?universidade, exige cláusulas de transferência tecnológica e contrapartidas de conteúdo local em projetos beneficiados, e disciplina procedimentos administrativos simplificados e prazos máximos para licenciamento de projetos industriais estratégicos; e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 5.172, de 25 de outubro de 1966 e a Lei nº 14.133, de 1º de abril de 2021.",
+   "keywords": "Alteração, Lei de Licitações e Contratos Administrativos (2021), Código Tributário Nacional (1966), Sistema tributário, concessão, dedução tributária, Imposto de Renda das Pessoas Jurídicas (IRPJ), linha de crédito, incentivo fiscal, amortização, pesquisa e desenvolvimento, investimento, pesquisa tecnológica, desenvolvimento tecnológico, produção, Tecnologia, produção nacional, prioridade, contratação pública, licitação, criação, cadastro, proibição, benefício, controle, avaliação, diretrizes, tributação, benefício fiscal.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612784",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106851",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1500/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Autoriza a criação do Programa Nacional de Infraestrutura Digital e Estratégia Industrial para a Economia de Dados; institui o Conselho Interministerial de Economia Digital (CIED) para coordenação de políticas públicas, regulatórias e industriais; disciplina mecanismos de promoção de investimentos, procedimentos de licenciamento acelerado e condicionamento de incentivos ao desenvolvimento local, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, ação governamental, promoção, implantação, expansão, infraestrutura tecnológica, infraestrutura computacional, infraestrutura crítica, desenvolvimento tecnológico, tecnologia da informação e comunicação (TIC), pesquisa tecnológica, desenvolvimento tecnológico, educação e formação profissional, incentivo fiscal, benefício fiscal, criação, conselho administrativo, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612786",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106853",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1501/2026",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Estabelece obrigações de transparência, auditoria e mitigação de riscos informacionais para provedores de sistemas de Inteligência Artificial com operação significativa no Brasil durante períodos eleitorais; institui requisitos para Relatórios de Impacto Informacional, rotulagem de conteúdos eleitorais gerados por IA, proíbe micro?targeting persuasivo em janelas eleitorais, disciplina cooperação com autoridades eleitorais e de proteção de dados e prevê regime sancionatório administrativo proporcional.",
+   "ementa_detalhada": "Altera a Lei nº 4.737, de 15 de julho de 1965, a Lei nº 9.504, de 30 de setembro de 1997 e a Lei nº 13.709, de 14 de agosto de 2018.",
+   "keywords": "Alteração, Código Eleitoral (1965), Lei das Eleições (1997), Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), obrigatoriedade, transparência, auditoria, atenuação, provedor de aplicações, inteligência artificial generativa, criação, relatório (documento administrativo), impacto social, informação, proibição, orientação, mensagem, conteúdo digital, persuasão (psicologia), eleitor, período eleitoral, penalidade administrativa, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612787",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106854",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1504/2026",
+   "temas": [
+    "dados",
+    "tributacao"
+   ],
+   "ementa": "Estabelece requisitos mínimos para mecanismos de aferição de idade em serviços digitais, limita o tratamento de dados biométricos sensíveis salvo hipóteses excepcionalíssimas e fundamentadas, prioriza soluções preservadoras de privacidade, impõe padrões de não discriminação e métricas de acurácia por gênero e raça, exige registro de metadados funcionais, auditoria independente, certificação e interoperabilidade entre provedores de aferição; disciplina período de transição, fiscalização coordenada com a ANPD e sanções proporcionais; e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 8.069, de 13 de julho de 1990, a Lei nº 8.078, de 11 de setembro de 1990, a Lei nº 12.965, de 23 de abril de 2014 e a Lei nº 13.709, de 14 de agosto de 2018.",
+   "keywords": "Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), Marco Civil da Internet (2014), Estatuto da Criança e do Adolescente (ECA) (1990), Código de Defesa do Consumidor (1990), plataforma digital, provedor de aplicações, idade mínima, limitação, coleta, dados pessoais sensíveis, tratamento de dados, preservação digital, criança, adolescente, privacidade, erradicação, racismo, discriminação de gênero, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612791",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106860",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1506/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui o Sistema Nacional de Reconhecimento de Saberes e Competências do Serviço Público (RNSC?SP), integra?o ao Sistema de Desenvolvimento na Carreira (SIDEC), estabelece critérios objetivos e procedimentos para reconhecimento, certificação, validade e portabilidade de saberes e competências dos servidores públicos federais, disciplina efeitos remuneratórios e de progressão funcional, procedimento administrativo de avaliação, prazos, garantias de ampla defesa, transparência e proteção de dados, e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 8.112, de 11 de dezembro de 1990.",
+   "keywords": "Alteração, Regime Jurídico Único dos Servidores Públicos Civis da União (1990), criação, ação governamental, vinculação, Sistema de Desenvolvimento na Carreira (Sidec), Reconhecimento de Saberes e Competências (RSC), certificação, validade, portabilidade, progressão funcional, avaliação, remuneração, servidor público civil federal, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612793",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106862",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1508/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre o regime jurídico aplicável ao trabalho em plataformas digitais, institui normas mínimas de proteção social e de condições de remuneração, estabelece presunção jurídica objetiva para fins trabalhistas baseada em critérios de subordinação, pessoalidade e habitualidade, obriga as plataformas a implementar mecanismos internos certificados de conciliação e registro eletrônico de reclamações, prevê transparência algorítmica sobre condições de trabalho e remuneração, cria procedimento acelerado para dissídios coletivos e mecanismos de mediação coletiva para serviços estratégicos, regula fiscalização e sanções, e dá outras providências.",
+   "ementa_detalhada": "Altera o Decreto-Lei nº 5.452, de 1º de maio de 1943 e a Lei nº 8.212, de 24 de julho de 1991.",
+   "keywords": "Alteração, Consolidação das Leis do Trabalho (CLT) (1943), Lei Orgânica da Seguridade Social (1991), regulamentação, aplicação, regime jurídico, trabalho, plataforma digital, condições de trabalho, remuneração, trabalhador, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612795",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106866",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1509/2026",
+   "temas": [
+    "tributacao",
+    "plataformas"
+   ],
+   "ementa": "Institui piso nacional para atendimentos psicológicos prestados por profissionais registrados por meio de plataformas digitais e por prestadores vinculados a planos de saúde; define critérios mínimos de duração e complexidade das sessões, indexação anual ao custo de vida, obrigações de transparência e de registro para plataformas e operadoras, mecanismos de fiscalização e sanções administrativas para intermediação remuneratória abaixo do piso; confere competência ao Conselho Federal de Psicologia, em articulação com o Ministério da Saúde e a Agência Nacional de Saúde Suplementar (ANS), para elaborar tabela referencial e regulamentar critérios técnicos de aplicação, e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 9.656, de 3 de junho de 1998.",
+   "keywords": "Alteração, Lei dos Planos de Saúde (1998), regulamentação, piso salarial, assistência psicológica, terapia, psicologia, plataforma digital, vinculação, prestador de serviço, serviços digitais, plano de saúde, delegação de competência, Conselho Federal de Psicologia (CFP), diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612796",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106867",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1510/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui a Política Nacional de Enfrentamento à Misoginia Digital e disciplina deveres de diligência e transparência para provedores de aplicações e serviços de hospedagem, alterando dispositivos da Lei nº 12.965/2014 (Marco Civil da Internet), do Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), da Lei nº 13.709/2018 (LGPD) e demais normas correlatas; estabelece prazos de retirada, mecanismos de proteção\nativáveis por usuárias, regime de sanções administrativas e civis para contornos de reincidência e falhas sistêmicas, obrigação de relatórios públicos e auditoria técnica independente, requisitos específicos de\nproteção a menores, garantias processuais de notificação e recurso, e revisão normativa trienal pela autoridade técnica competente; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Civil da Internet (2014), Estatuto da Criança e do Adolescente (ECA) (1990), Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), criação, política pública, enfrentamento, misoginia, ambiente virtual, penalidade administrativa, Sanção civil, provedor de aplicações, plataforma digital, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612797",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106868",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1516/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Disciplina o acesso, o manuseio, a custódia e o compartilhamento de material apreendido em investigações e operações policiais que contenham dados pessoais, dispondo sobre requisitos técnicos de armazenamento, inventário auditável e cadeia de custódia; estabelece procedimento de separação técnica e redação de dados pessoais estritamente privados sob supervisão judicial antes de qualquer compartilhamento; condiciona o fornecimento de cópias a comissões parlamentares e a outros órgãos à autorização judicial específica, motivada e temporalmente limitada; determina prazos e procedimentos para restituição ou destruição de dados irrelevantes; prevê sanções administrativas e criminais para divulgação ou vazamento indevido de conteúdo íntimo e medidas de fiscalização, auditoria e transparência; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, Investigação criminal, apreensão, Custódia, processamento, destruição, Cadeia de custódia, Prova (direito penal).",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612805",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106880",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PLP 84/2026",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Institui regime tributário diferenciado e temporário para operações com resíduos e materiais destinados à reciclagem; estabelece alíquota reduzida ou tratamento não?cumulativo do IBS/CBS sobre insumos reciclados; prevê crédito integral do tributo aos adquirentes até o montante já tributado em ciclos anteriores; cria o Cadastro Nacional de Materiais Reciclados e o Sistema de Certificação de Cadeia de Custódia como condição para fruição dos benefícios; institui mecanismo de crédito presumido e incentivos para coletores, cooperativas e integradores logísticos; disciplina regras de compliance, rastreabilidade eletrônica e prevenção de fraudes; fixa prazo potestativo de aplicação do regime por 5 anos sujeita à avaliação periódica de impacto econômico?ambiental; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Concessão, crédito tributário, redução, alíquota, Imposto sobre Bens e Serviços (IBS), Contribuição Social sobre Bens e Serviços (CBS), operação, produtos, resíduo sólido, material reciclável, criação, cadastro, diretrizes, benefício fiscal, tributação.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612810",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106941",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1523/2026",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Estabelece princípios, deveres e medidas de responsabilidade, transparência e equidade para sistemas de inteligência artificial; obriga classificação por risco e institui avaliação prévia pública de impacto de discriminação algorítmica; impõe requisitos de transparência de bases de dados e métricas por subgrupos, governança, diversidade técnica e de decisão, direito de revisão humana e mecanismos de contestação de decisões automatizadas; proíbe uso discriminatório de características protegidas salvo justificativa técnica e autorização regulatória; disciplina auditorias independentes periódicas, registro público de modelos de alto risco e sanções administrativas por descumprimento; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Regime jurídico, responsabilidade, transparência, equidade, Sistema de inteligência artificial, Gerenciamento de risco, Avaliação de Impacto de Discriminação Algorítmica (AIDA), Transparência algorítmica, \r\nRevisão humana, decisão automatizada, proibição, utilização indevida, Inteligência artificial, discriminação, agência reguladora, Agência Nacional de Proteção de Dados (ANPD), auditoria, licitação, contratação pública, sanção administrativa, descumprimento.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612814",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106945",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1528/2026",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Dispõe sobre transparência, identificação e responsabilização de conteúdos gerados ou manipulados por sistemas de inteligência artificial, estabelecendo obrigações de marcação técnica e visual, manutenção de registros de proveniência, rotulagem reforçada para deepfakes e conteúdos multimodais, deveres de governança e cooperação com autoridades para investigação de danos, proteção de dados pessoais e salvaguardas à liberdade de expressão; delega à autoridade federal técnica a definição de padrões de interoperabilidade, protocolos forenses e cronograma de implementação; e dá outras providências",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, identificação, conteúdo sintético, inteligência artificial, Transparência algorítmica, responsabilização, Plataforma digital, Big techs, preservação, metadados, dados pessoais, fiscalização, conteúdo digital, Deepfake. _ Alteração, Marco Civil da Internet (2014), responsabilidade, provedor de aplicações. _Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), critério, tratamento de dados. _Alteração, Código de Defesa do Consumidor (1990), Prática abusiva, omissão, informação, conteúdo sintético.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612845",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106977",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1529/2026",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Estabelece regras de transparência, identificação e responsabilidade para conteúdo sintético (deepfakes e conteúdo gerado por inteligência artificial) veiculado em ambiente digital no período eleitoral; obriga inserção de metadados legíveis por máquina e marca d’água criptográfica de proveniência em conteúdos sintéticos, impõe dever de preservação e propagação de metadados por plataformas, manutenção de logs auditáveis e mecanismos de contestação; institui período de restrição temporária à criação e distribuição de novos conteúdos sintéticos com imagem ou voz de candidatos (72 horas antes e 24 horas após votação), prevê exceções técnicas e garantias à liberdade de expressão, define padrão técnico e cronograma de implementação por autoridade reguladora competente, e dispõe sobre sanções administrativas proporcionais por descumprimento; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, identificação, conteúdo sintético, inteligência artificial, Transparência algorítmica, responsabilização, Plataforma digital, Big techs, fiscalização, conteúdo digital, Deepfake. _Critério, proibição, conteúdo sintético, inteligência artificial, período eleitoral, eleições. _Diretrizes, tratamento de dados. _ Alteração, Marco Civil da Internet (2014), responsabilidade, provedor de aplicações.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Retirado pelo(a) Autor(a)",
+   "data_apresentacao": "2026-03-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2612846",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106978",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3382/2026",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Regulamenta o uso de automação, algoritmos e inteligência artificial em processos de fiscalização e na lavratura de autos de infração por órgãos e agências reguladoras federais; proíbe autuação unicamente fundamentada em decisão automatizada; exige revisão humana qualificada anterior à autuação formal; impõe obrigações de transparência, auditabilidade e notificação preventiva ao administrado; institui comitê consultivo para validação e acompanhamento de modelos; determina a publicação anual de indicadores de qualidade das fiscalizações assistidas por automação; disciplina sanções administrativas em caso de uso indevido; altera dispositivos das Leis nº 9.784/1999, nº 12.527/2011 e nº 13.709/2018; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral do Processo Administrativo (1999), Lei de Acesso à Informação (2011), Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), regulamentação, automação, Algoritmo, inteligência artificial, processo administrativo, fiscalização, lavratura, auto de infração, fundamentação, Decisão automatizada, obrigatoriedade, transparência, auditoria, Notificação prévia, diretrizes, Direito à ampla defesa, Garantia ao contraditório, segurança jurídica, Sistema automático, Administração pública, agência reguladora.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-07-01",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2636044",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154774",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3385/2026",
+   "temas": [
+    "dados",
+    "startups"
+   ],
+   "ementa": "Estabelece normas de proteção e transparência para oferta de crédito a consumidores de baixa renda e sem histórico financeiro; obriga divulgação padronizada do Custo Efetivo Total (CET) e do valor total a pagar em linguagem acessível; proíbe a capitalização automática de juros e taxas punitivas imprevisíveis; limita penalidades por atraso; prevê regime de flexibilização contratual para renda flutuante; reconhece e incentiva modelos alternativos de avaliação de crédito (sandbox regulatório e linhas públicas de apoio); protege consumidores de créditos vinculados a dispositivos digitais (vedação de bloqueio remoto sem aviso e alternativas de renegociação); impõe dever de oferta de renegociação simplificada e de encaminhamento para educação financeira; estabelece fiscalização e sanções para práticas predatórias; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Código de Defesa do Consumidor (1990), Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), obrigatoriedade, Instituição financeira, transparência, contratação, operação de crédito, consumidor, divulgação, Custo Efetivo Total (CET), proibição, Juros compostos, Sandbox regulatório, Transparência algorítmica, prevenção, prática abusiva, Superendividamento, Trabalhador autônomo, Pessoa de baixa renda, critério, compartilhamento de dados.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-01",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2636049",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154778",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3388/2026",
+   "temas": [
+    "incentivos_pd",
+    "startups"
+   ],
+   "ementa": "Institui o Programa Nacional de Parcerias para Inovação (PNPI), disciplina a vinculação de parcela dos recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) para subvenções econômicas não reembolsáveis, financiamentos reembolsáveis revolventes, financiamento e certificação de Escritórios de Transferência de Tecnologia (ETTs) em universidades públicas, criação de sandboxes regulatórios setoriais temporários, e medidas de simplificação administrativa para startups derivadas de pesquisa; estabelece metas públicas de indicadores de transferência tecnológica, governança tripartite e prazos mínimos de continuidade dos programas financiados; define disposições sobre governança, prestação de contas e fiscalização, e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 13.243, de 11 de janeiro de 2016; Lei nº 10.973, de 2 de dezembro de 2004; Lei Complementar nº 101, de 4 de maio de 2000.",
+   "keywords": "Alteração, Marco Legal de Ciência, Tecnologia e Inovação (2016), Lei de Inovação Tecnológica (2004), Lei de Responsabilidade Fiscal (2000), criação, ação governamental, promoção, Transferência de tecnologia, Parceria público-privada (PPP), pesquisa tecnológica, desenvolvimento tecnológico, inovação tecnológica, fomento, Empresa startup, critério, obrigatoriedade, destinação, percentual, mínimo, Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-01",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2636055",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154786",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3390/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Veda a inscrição de débitos juridicamente prescritos em cadastros de proteção ao crédito ou, subsidiariamente, autoriza inscrição somente mediante consentimento expresso e informado do consumidor; exige identificação clara da condição \"DÍVIDA PRESCRITA – NÃO PASSÍVEL DE COBRANÇA JUDICIAL\" nos casos consensuais, veda qualquer impacto negativo no score ou em condições contratuais, determina remoção imediata das inscrições indevidas mediante comprovação da prescrição, estabelece prazo máximo de 5 (cinco) dias úteis para correção pelas plataformas, institui regime sancionador administrativo e indenização automática por dano moral presumido em casos de inscrição irregular, disciplina comunicações de cobrança e medidas de proteção de dados, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Código Civil (2002), Código de Defesa do Consumidor (1990), proibição, inscrição, dívida prescrita, consumidor, cadastro, Serviço de Proteção ao Crédito (SPC), diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-01",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2636060",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154794",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3392/2026",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Estabelece normas mínimas de segurança, governança, rastreabilidade e responsabilização para o uso de sistemas de inteligência artificial em procedimentos judiciais eletrônicos; obriga higienização de entrada, encapsulamento e pré?filtragem de documentos, registro de logs de rastreabilidade, adoção de contratos de resposta e prompting por etapas, supervisão humana qualificada, diagnósticos de risco, auditorias periódicas e medidas de proteção contra envenenamento de bases; impõe obrigação de comunicação de suspeita de prompt injection ao juízo, ao Conselho Nacional de Justiça (CNJ) e às autoridades competentes; prevê sanções administrativas, civis e penais quando cabíveis; fixa prazo máximo de implementação e confere competência de fiscalização ao CNJ; e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 11.419, de 19 de dezembro de 2006, e a Lei nº 13.105, de 16 de março de 2015.",
+   "keywords": "Alteração, Lei do Processo Judicial Eletrônico (2006), Código de Processo Civil (2015), Regulamentação, Manipulação fraudulenta de sistema de inteligência artificial, Processo judicial eletrônico, Poder Judiciário, sugestão, decisão automatizada, revisão humana, algoritmo, banco de dados, contrato, auditoria, perícia, obrigatoriedade, capacitação, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-07-01",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2636062",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154796",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3393/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Estabelece obrigatoriedade de registro público eletrônico detalhado de benefícios previdenciários pagos por entes federativos e autarquias de previdência (valor bruto, descontos autorizados com indicação da base legal e identificador do responsável), institui auditorias periódicas por órgãos de controle (TCU, CGU e Ministério Público), exige autorização expressa e comprovada do beneficiário para descontos não compulsórios, cria mecanismo administrativo célere de restituição de valores indevidamente descontados, agrava sanções administrativas e penais aplicáveis a agentes públicos e intermediários que promovam descontos não autorizados e institui canal protegido para denúncias e proteção a whistleblowers; disciplina regras de transparência, proteção de dados e responsabilização, e dá outras providências.",
+   "ementa_detalhada": "Altera a Lei nº 8.213, de 24 de julho de 1991, a Lei nº 8.112, de 11 de dezembro de 1990, a Lei nº 8.429, de 2 de junho de 1992, e a Lei nº 12.527, de 18 de novembro de 2011.",
+   "keywords": "Alteração, Lei de Benefícios da Previdência Social (1991), Regime Jurídico Único dos Servidores Públicos Civis da União (1990), Lei da Improbidade Administrativa (1992), Lei de Acesso à Informação (2011), obrigações, benefício previdenciário, plataforma digital, sistema integrado de dados, prazo, serviço de atendimento e informação, auditoria, consignação em folha de pagamento, desconto, canal de denúncia, responsabilidade, agente público, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-07-01",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2636064",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154798",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3394/2026",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Dispõe sobre a transparência, deveres de verificação, guarda de evidências e responsabilização no uso de sistemas de inteligência artificial na prática forense; impõe obrigação de declaração nos autos da utilização de IA e identificação do fornecedor; exige conservação de prompts, resultados e documentos auxiliares por prazo mínimo; prevê sanções processuais, civis e disciplinares escalonadas para uso doloso ou por negligência grave; determina regras de proteção de dados e segredo profissional, responsabilidade de regresso do advogado em caso de culpa ou dolo; obriga comunicação imediata de incidentes e institui programa público de capacitação em boas práticas em cooperação com a OAB; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, Obrigatoriedade, informação, Manipulação fraudulenta de sistema de inteligência artificial, assistência jurídica, consultoria jurídica, prática forense, transparência algorítmica, algoritmo, ato processual, processo judicial eletrônico, auditoria, contrato, diretrizes.",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-01",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2636065",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154799",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3556/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Cria o Cadastro Nacional Integrado de Benefícios (CNIB), estabelece a obrigação de integração e cruzamento de dados entre CadÚnico, INSS, Receita Federal, Ministérios da Cidadania e da Educação, órgãos estaduais e municipais e demais bases públicas para mapeamento integral de benefícios e deduções recebidos por cada cidadão; institui revisão periódica de elegibilidade para benefícios não contributivos (inclusive BPC/LOAS), regras técnicas de interoperabilidade, governança, segurança da informação, proteção de dados pessoais e transparência; prevê mecanismos automáticos de identificação, bloqueio e correção de sobreposições, fraudes ou pagamentos indevidos; disciplina relatórios públicos e procedimentos de auditoria e controle; e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "Criação; Cadastro Nacional Integrado de Benefícios (CNIB); mapeamento; Benefício não contributivo; Benefício assistencial; Benefício de Prestação Continuada (BPC); integração; Banco de dados; Administração pública; Transparência pública; alteração; Lei de Acesso à Informação (2011); Lei Orgânica da Assistência Social (1993); Lei de Benefícios da Previdência Social (1991); Instituto Nacional do Seguro Social (INSS); compartilhamento de dados; combate; fraude; Pagamento indevido",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-08",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2638121",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3159006",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5715/2026",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para qualificar o crime de fraude em certame de interesse público praticado com uso de dispositivo eletrônico ou de ferramenta de inteligência artificial e aumentar a pena de quem fornece o equipamento ou o serviço, e estabelece medidas de prevenção a serem adotadas pelos organizadores de certames.",
+   "ementa_detalhada": null,
+   "keywords": "Alteração; Código Penal (1940); Crime contra a fé pública; Fraude em certames de interesse público; Crime qualificado; Candidato; utilização; Inteligência artificial; Equipamento eletrônico; Concurso público; Aumento da pena",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+   "data_apresentacao": "2026-10-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2649656",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187872",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5716/2026",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para aumentar a pena do estelionato e dos crimes de falsidade documental praticados com o uso de inteligência artificial ou de conteúdo sintético.",
+   "ementa_detalhada": null,
+   "keywords": "alteração; Código Penal (1940); Crime contra o patrimônio; Aumento da pena; Estelionato; Falsidade documental; Inteligência artificial; Conteúdo sintético; Vítima; Idoso; Pessoa vulnerável",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+   "data_apresentacao": "2026-10-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2649657",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187873",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5863/2026",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "ementa": "Estabelece diretrizes mínimas de segurança cibernética para as contas bancárias e os sistemas de pagamento que movimentam recursos do Sistema Único de Saúde.",
+   "ementa_detalhada": null,
+   "keywords": "",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-11-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2654169",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3196498",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5864/2026",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Veda a criação e o uso comercial de réplicas de voz ou de imagem de pessoa natural geradas por inteligência artificial sem autorização expressa do titular e dispõe sobre os deveres dos provedores de aplicações de internet que disponibilizam modelos de geração de voz ou de imagem.",
+   "ementa_detalhada": null,
+   "keywords": "",
+   "autor_principal": "Rubens Pereira Júnior",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-11-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2654170",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3196499",
+   "casa": "camara"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 786/2015",
+   "ementa": "Regulamenta o art. 3º, inciso IV, da Lei Nº 12.527, de 18 de novembro de 2011, institui normas para dar transparência à publicidade dos atos da Administração Publica Estadual e Municipal e da outras providências.",
+   "colegiado": "CCJC",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1049049",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2387/2015",
+   "ementa": "Disciplina a responsabilidade civil por violação dos deveres conjugais; acrescenta o parágrafo único do artigo 1.566, da Lei n.º 10.406, de 10 de janeiro de 2002 - Código Civil.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1580226",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 7124/2017",
+   "ementa": "Altera a Lei n° 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para facilitar o atendimento do consumidor pelos PROCONS por meio da internet.",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2125623",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PEC 347/2017",
+   "ementa": "Acresce inciso IV ao artigo 102 da Constituição Federal para conferir apenas ao Supremo Tribunal Federal a suspensão de aplicativos de troca de informações via internet.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2145182",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4015/2023",
+   "ementa": "Altera o art. 121 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940- Código Penal -  para prever como homicídio qualificado aquele praticado contra membros do Ministério Público e Magistratura, no exercício de sua função ou por causa dela e dá outras providências.\r\n\r\nNOVA EMENTA: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e as Leis nºs 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), 12.694, de 24 julho de 2012, e 13.709, de 14 agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), para reconhecer como atividade de risco permanente as atribuições inerentes ao Poder Judiciário e ao Ministério Público e garantir aos seus membros medidas de proteção, bem como recrudescer o tratamento penal destinado aos crimes de homicídio e de lesão corporal dolosa contra eles, desde que no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente, inclusive por afinidade, até o terceiro grau, em razão dessa condição.",
+   "colegiado": "MESA",
+   "situacao": "Transformado em Norma Jurídica",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1197773",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4438/2023",
+   "ementa": "Altera a Lei nº 4.737, de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos) e a Lei nº 9.504, de 30 de setembro de 1997 (Lei as Eleições), com o fim de promover reforma no ordenamento político-eleitoral (Minirreforma Eleitoral de 2023).",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2387066",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
+ "votos_chave": [
+  {
+   "proposicao": "PL 2630/2020",
+   "tema": "plataformas",
+   "nota": "PL das Fake News / regulação de plataformas",
+   "data": "2023-04-25",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2256735",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 4675/2025",
+   "tema": "plataformas",
+   "nota": "Mercados digitais (CADE)",
+   "data": "2026-03-18",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2562481",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 189; Não: 140; Total: 329.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 206; Não: 70; Total: 276.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.  Sim: 253; Não: 67; Abstenção: 4; Total: 324.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 118; Abstenção: 4; Total: 415.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição. Sim: 18; Não: 328; Abstenção: 7; Total: 353.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitado o Requerimento. Sim: 118; Não: 289; Total: 407.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-16",
+   "descricao": "Rejeitado o Requerimento. Sim: 46; Não: 232; Total: 278.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 104. Sim: 155; não: 316; abstenção: 2; total: 473.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 115; não: 239; abstenção: 3; total: 357.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 137; abstenção: 3; total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 15; Não: 334; Total: 349.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 441; Não: 3; Total: 444.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Rejeitado o Requerimento. Sim: 81; Não: 289; Total: 370.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, com parecer pela rejeição, indicados no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 77; Não: 252; Total: 329.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Rejeitada a Emenda de Plenário n° 8. Sim: 136; Não: 262; Total: 398.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Mantido o texto. Sim: 292; Não: 106; Total: 398.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Rejeitado o Requerimento. Sim: 108; não: 241; total: 349.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-12",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  }
+ ],
+ "orgaos": [
+  "CCOM — Suplente (Câmara): Comissão de Comunicação",
+  "CCOM — Titular (Câmara): Comissão de Comunicação"
+ ],
+ "frentes": [
+  "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+  "Frente Parlamentar da Conectividade Rural"
+ ],
+ "limitacoes": []
+}

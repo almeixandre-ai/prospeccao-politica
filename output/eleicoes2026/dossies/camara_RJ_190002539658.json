@@ -1,0 +1,1283 @@
+{
+ "parlamentar_chave": "camara_RJ_190002539658",
+ "nome_urna": "MARCOS TAVARES",
+ "nome_completo": "MARCOS PAULO BARBOSA TAVARES",
+ "casa_2027": "camara",
+ "uf": "RJ",
+ "partido": "PDT",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": 220604,
+ "codigo_senado": null,
+ "data_coleta": "2026-11-19",
+ "iip": 82.0,
+ "prioridade": "A — Prioridade alta",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PL 1876/2023",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, para obrigar a divulgação de incidentes de segurança de dados pessoais em veículos de comunicação social.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP), obrigatoriedade, agente, Tratamento de dados, divulgação, mídia, internet, rede social, ocorrência, riscos (segurança), titular, dados, comunicação, Autoridade Nacional de Proteção de Dados (ANPD).",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2023-04-13",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2356236",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2258580",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2065/2023",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, para obrigar a divulgação de incidentes de segurança de dados pessoais em veículos de comunicação social.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP), obrigatoriedade, agente, Tratamento de Dados, divulgação, mídia, internet, rede social, ocorrência, riscos (segurança), titular, Dados, comunicação, Autoridade Nacional de Proteção de Dados (ANPD).",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Devolvida ao(à) Autor(a)",
+   "data_apresentacao": "2023-04-20",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2357697",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2261463",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2870/2024",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Institui incentivos à pesquisa e desenvolvimento de alimentos sustentáveis para animais, promovendo benefícios fiscais para empresas que investem em alternativas ecológicas e nutritivas, estabelece padrões de sustentabilidade na produção e fomenta a inovação no setor de alimentação animal.",
+   "ementa_detalhada": "",
+   "keywords": "Incentivo, Pesquisa e desenvolvimento, sustentabilidade, Ração animal, Produto sustentável, Alimentação animal, Consumo animal, Animal doméstico, Incentivo fiscal, Benefício fiscal, Empresa, Setor agropecuário.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "data_apresentacao": "2024-07-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2449036",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2454487",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2943/2024",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Inclui as carnes na Cesta Básica Nacional de Alimentos e estabelece alíquotas zeradas para o Imposto sobre Bens e Serviços (IBS) e a Contribuição Social sobre Bens e Serviços (CBS) para esses produtos.",
+   "ementa_detalhada": "",
+   "keywords": "Inclusão, Carne, Proteína animal, Cesta Básica Nacional de Alimentos, Alíquota zero, Imposto sobre Bens e Serviços (IBS), Contribuição sobre Bens e Serviços (CBS), Reforma Tributária (2023), Benefício fiscal, Segurança alimentar e nutricional.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Retirado pelo(a) Autor(a)",
+   "data_apresentacao": "2024-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2449742",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2455839",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3160/2024",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui a Lei de Proteção e Privacidade em Dispositivos de Assistência Pessoal , regulamentando o uso de dados coletados por assistentes virtuais, dispositivos de saúde conectados e outros dispositivos de assistência pessoal, garantindo a proteção de dados sensíveis e a transparência das empresas sobre o uso dessas informações.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Legislação, proteção, Dados pessoais, Privacidade, Conteúdo de usuário, Dispositivo informático, Atendimento não presencial, Atendimento robotizado, Chatbot, Segurança de dados.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2024-08-14",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2452841",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2464382",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3161/2024",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui a Lei de Proteção contra Publicidade Infantil em Mídias Digitais, regulamentando e restringindo a exposição de crianças a publicidade digital, especialmente em plataformas de redes sociais e jogos online, com o objetivo de proteger os menores de práticas de marketing agressivas e invasivas.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Legislação, restrição, Publicidade, Propaganda comercial, Criança, Mídia digital, Rede social digital, Jogo online, Aplicativo móvel.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2024-08-14",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2452874",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2464421",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PLP 144/2024",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Inclui as carnes na Cesta Básica Nacional de Alimentos e estabelece alíquotas zeradas para o Imposto sobre Bens e Serviços (IBS) e a Contribuição Social sobre Bens e Serviços (CBS) para esses produtos.",
+   "ementa_detalhada": "",
+   "keywords": "Inclusão, carne, Cesta Básica Nacional de Alimentos. _Alíquota zero, Imposto sobre Bens e Serviços (IBS), Contribuição sobre Bens e Serviços (CBS), carne, benefício fiscal, tributação. _Segurança alimentar e nutricional.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2024-09-10",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2457431",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2474756",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4089/2024",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Dispõe sobre a proteção dos direitos dos consumidores no uso de produtos e serviços que utilizam Inteligência Artificial (IA), estabelecendo diretrizes para garantir transparência, equidade e o respeito à privacidade dos usuários.",
+   "ementa_detalhada": "",
+   "keywords": "Defesa do consumidor, utilização, inteligência artificial, tecnologia, diretrizes, transparência.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2024-10-25",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2464691",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2490822",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4454/2024",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui o Programa Abrigo Digital, destinado a promover a adoção e o engajamento social em favor de animais em situação de vulnerabilidade, utilizando plataformas digitais integradas e pontos de acesso público, com vistas a modernizar e democratizar o processo de adoção, ampliar a transparência das informações sobre animais abrigados e fomentar oportunidades de voluntariado e apoio à proteção animal em todo o território nacional, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Programa Abrigo Digital, modernização, melhoria, adoção, animal abandonado, conexão, adotante, Organização não governamental (ONG), meio eletrônico, parceria, poder público, Organização da sociedade civil, setor privado, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2024-11-19",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2470545",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2823780",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1297/2025",
+   "temas": [
+    "tributacao",
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a obrigatoriedade das plataformas digitais, aplicativos e serviços de streaming disponibilizarem mecanismos eficazes de controle parental, visando à proteção integral de crianças e adolescentes no ambiente digital, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Proteção, criança, adolescente, ciberbullying, superexposição nociva, vício em tecnologia, plataforma digital, rede social digital, plataforma de streaming, software aplicativo, vídeo, jogo online, obrigatoriedade, controle parental, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-03-28",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2490702",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2874514",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1552/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui o Programa Nacional de Divulgação e Transparência para Adoção de Animais em Abrigos Públicos, com o objetivo de promover a adoção responsável por meio da publicação digital de informações sobre os animais sob a responsabilidade de abrigos públicos e canis municipais em plataformas digitais e redes sociais.",
+   "ementa_detalhada": "",
+   "keywords": "Criação; Programa Nacional de Divulgação e Transparência para Adoção de Animais em Abrigos Públicos; promoção; adoção responsável; animal abandonado; centro de acolhimento animal; diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-04-08",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2495440",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2882536",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1963/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Dispõe sobre a inclusão obrigatória do tema Inteligência Artificial nos currículos do ensino fundamental II e do ensino médio em todas as redes de ensino do país e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Critério, obrigatoriedade, inclusão, currículo escolar, ensino fundamental, ensino médio, conteúdo educativo, inteligência artificial, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-04-29",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2502776",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2895425",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2172/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Zonas Especiais de Interesse Social para Serviços Essenciais (ZEIS), destinada à priorização de investimentos, à atuação diferenciada de concessionárias e à oferta ampliada de energia elétrica, água, esgoto, transporte público e internet banda larga em territórios de alta vulnerabilidade social, com incentivos regulatórios e fiscais para adesão, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Política pública, Zona especial de interesse social (ZEIS), serviços essenciais, tarifa social, energia elétrica, abastecimento de água, sistema de esgotamento sanitário, transporte público coletivo, internet, banda larga, local, vulnerabilidade social, isenção fiscal, prioridade, licitação, tributação, benefício fiscal.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-05-07",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2506525",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2901518",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2901/2025",
+   "temas": [
+    "dados",
+    "plataformas"
+   ],
+   "ementa": "Estabelece diretrizes para o uso responsável de plataformas digitais por crianças e adolescentes, limita mecanismos algorítmicos de retenção compulsiva, como rolagem infinita, notificações repetitivas e recomendações automáticas de conteúdo, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, uso responsável, plataforma digital, proteção, criança, adolescente, fiscalização, Ministério da Justiça e Segurança Pública, Autoridade Nacional de Proteção de Dados (ANPD), Conselho Nacional dos Direitos da Criança e do Adolescente (Conanda).",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2025-06-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2525654",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2936113",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3917/2025",
+   "temas": [
+    "ia",
+    "dados",
+    "ciberseguranca"
+   ],
+   "ementa": "Dispõe sobre a obrigatoriedade da integração nativa, imutável e inteligente de sistema nacional de proteção e rastreamento de dispositivos móveis, denominado “Sentinela Digital”, com persistência total no hardware, autenticação multifatorial via Gov.br, inteligência artificial para monitoramento de tentativas de fraude e integração com blockchain para registro imutável de bloqueios e desbloqueios, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Sentina Digital, solução tecnológica, instalação, Dispositivo móvel, celular, segurança cibernética, proteção, dados pessoais, prevenção, Crime cibernético, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-08-12",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2542857",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971182",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3918/2025",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui a Rede Nacional Integrada de Monitoramento por Câmeras, denominada Câmera Segura Brasil, para prevenção e repressão a crimes, integrando câmeras públicas e privadas, com adesão voluntária, incentivos fiscais e protocolos unificados de segurança e proteção de dados.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Rede Nacional Integrada de Monitoramento por Câmeras (Câmera Segura Brasil), Gestão integrada, Segurança pública, Segurança privada, incentivo fiscal, pessoa jurídica, diretrizes, prevenção, crime.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-08-12",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2542858",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971185",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4037/2025",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui o Programa Nacional de Estímulo ao Empreendedorismo de Mães Atípicas (PRONEMA), destinado a promover a inclusão social, a autonomia econômica e o apoio a mães de crianças e adolescentes com deficiência, transtornos do neurodesenvolvimento ou doenças crônicas, por meio de capacitação, acesso a crédito e garantias, compras públicas inclusivas, simplificação de negócios e rede de cuidado, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Programa Nacional de Estímulo ao Empreendedorismo de Mães Atípicas (PRONEMA), Selo Negócio Mãe Atípica - PRONEMA, incentivo, empreendedorismo, mãe atípica, capacitação, linha de crédito, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-08-15",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2547225",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2976808",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4369/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Institui a obrigatoriedade do uso de câmeras corporais inteligentes, integradas a sistemas de Inteligência Artificial, pelas Polícias Militares e Civis em todo o território nacional, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, Câmera corporal, integração, Sistema de inteligência artificial, Policial, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-09-02",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2555890",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2990836",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5144/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Institui a Política Nacional Integrada de Proteção, Bem-Estar e Direitos dos Animais (PNIPDA), cria o Sistema Nacional de Saúde e Proteção Animal (SISPA), estabelece o Cadastro Nacional Único de Animais (CNUA) e dispõe sobre medidas de combate a maus-tratos, incentivo à adoção responsável, inovação tecnológica e integração da causa animal às políticas de saúde, segurança, educação, meio ambiente e desenvolvimento econômico.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, política, proteção animal, defesa dos direitos animais, cadastro único, diretrizes, enfrentamento, maus-tratos, abandono, exploração, atendimento veterinário, saúde pública, saúde única, animal doméstico, tecnologia, responsabilidade ambiental, campanha educativa, segurança sanitária.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-10-14",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2571494",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3021626",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5149/2025",
+   "temas": [
+    "incentivos_pd",
+    "ciberseguranca"
+   ],
+   "ementa": "Institui a Política Nacional de Prevenção e Enfrentamento ao Crime Cibernético, estabelece diretrizes para a integração de dados e ações entre União, Estados, Distrito Federal e Municípios, cria o Cadastro Nacional de Crimes Cibernéticos, incentiva a capacitação e inovação tecnológica das forças de segurança e dispõe sobre cooperação internacional em cibersegurança.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Política Nacional de Prevenção e Enfrentamento ao Crime Cibernético, Cadastro, Núcleo Estadual de Cibersegurança Pública, integração, União, ente federado, Segurança cibernética, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-10-14",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2571548",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3021688",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5153/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Institui a Política Nacional de Valorização e Inovação no Serviço Público, cria mecanismos de promoção do bem-estar, reconhecimento por mérito e resultados, inovação tecnológica e responsabilidade social no âmbito da Administração Pública direta e indireta, em todas as esferas da Federação.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Política Nacional de Valorização e Inovação no Serviço Público, saúde, bem-estar, Produtividade profissional, servidor público, Inovação tecnológica, Boas práticas, Responsabilidade social, sustentabilidade ambiental, funcionalismo público, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+   "data_apresentacao": "2025-10-14",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2571561",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3021703",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5162/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Institui a Política Nacional de Incentivo à Logística Reversa e à Economia Circular, com o objetivo de promover a conscientização, a educação ambiental, a inovação tecnológica e a gestão sustentável de resíduos sólidos, em conformidade com a Lei nº 12.305/2010 (Política Nacional de Resíduos Sólidos), e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Política Nacional de Incentivo à Logística Reversa e à Economia Circular, Selo Verde Nacional, campanha educativa, incentivo, logística reversa, resíduo sólido, economia circular, consumo sustentável, desenvolvimento sustentável, economia verde, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-10-14",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2571604",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3021759",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5163/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a obrigatoriedade da disponibilização, em tempo real, da localização dos ônibus, dos horários das linhas e do tempo estimado de chegada aos pontos de parada, por meio de painéis informativos e plataformas digitais, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, Poder público, disponibilização, tempo real, localização, horário, linha de ônibus, ônibus, plataforma digital, painel informativo, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2025-10-14",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2571605",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3021760",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5165/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Dispõe sobre a valorização, o desenvolvimento e a modernização da carreira odontológica no Brasil, estabelece diretrizes para a remuneração digna, fixação regional, inovação tecnológica e melhoria das condições de trabalho no setor público e privado, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Reconhecimento, odontologia, serviços essenciais, saúde pública, fortalecimento, condições de trabalho, dentista, criação, Programa Nacional de Fixação e Desenvolvimento da Odontologia, Observatório Nacional da Odontologia Brasileira, diretrizes",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2025-10-14",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2571607",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3021762",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5667/2025",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui o Cadastro Nacional de Condenados por Crimes de Estupro e o Cadastro Nacional de Condenados por Violência Doméstica e Familiar contra a Mulher, estabelece critérios de publicidade, sigilo e proteção de dados pessoais, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Cadastro Nacional de Condenados por Crimes de Estupro, Cadastro Nacional de Condenados por Violência Doméstica e Familiar contra a Mulher (CNVD-Mulher), Ministério da Justiça e Segurança Pública, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-11-04",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2581638",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3039663",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5700/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui a Lei Nacional de Salvaguarda Digital Pós-Morte, que dispõe sobre a sucessão e gestão de bens digitais, contas virtuais, ativos criptoeconômicos, dados armazenados em nuvem e demais conteúdos digitais após o falecimento de seu titular, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Lei Nacional de Salvaguarda Digital Pós-Morte, regulamentação, Sucessão (direito civil), destinação, Bens digitais, pessoa falecida, diretrizes, Herança digital.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-11-05",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2582062",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3040274",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5792/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Institui a Lei Nacional de Observatórios de Transparência em Licitações com Inteligência Artificial (IA), para auditoria automatizada e contínua de editais, contratos e processos licitatórios no âmbito da administração pública direta e indireta, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Lei Nacional de Observatórios de Transparência em Licitações com Inteligência Artificial - IA, auditoria, tempo real, utilização, inteligência artificial, edital, contrato administrativo, licitação, administração pública, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2025-11-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2583785",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3044180",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5796/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui a Lei de Cidadania Digital Rural – Programa Nacional de Conectividade e Produção Intelectual no Campo, com o objetivo de assegurar banda larga de alta velocidade, suporte tecnológico, capacitação em economia criativa e produção de conteúdo digital para zonas rurais e comunidades tradicionais, promovendo a inclusão digital, o desenvolvimento sustentável e a integração produtiva à economia do conhecimento, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Programa (administração), Inclusão digital, Desenvolvimento tecnológico, diretrizes, universalização, acesso, internet, banda larga, velocidade de conexão, solução de conectividade, propriedade rural, agricultura familiar, comunidade tradicional, economia criativa, escola rural, educação do campo, jovem rural, garantia, tecnologia, produtor rural, cooperativa agropecuária.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-11-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2583838",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3044278",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5797/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Institui a Lei Nacional de Micro-Mobilidade Eletrônica e Infraestrutura Compartilhada, estabelecendo diretrizes, princípios e normas gerais para o uso, integração e regulação de veículos leves elétricos e autônomos de micromobilidade em todo o território nacional, promovendo a interoperabilidade entre o transporte público e sistemas compartilhados, a segurança viária, a sustentabilidade ambiental e o estímulo à inovação tecnológica, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Regulação, micromobilidade, compartilhamento, infraestrutura, meios, transporte público, transporte intermunicipal, mobilidade urbana, critério, velocidade máxima, transporte alternativo, diretrizes, veículo elétrico, veículo autônomo, veículo híbrido, eletromobilidade, cidade inteligente, operadora de micromobilidade, bicicleta elétrica, patinete elétrico, scooter, veículo leve de carga (VLC).",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-11-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2583841",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3044281",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5800/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Institui a Lei Nacional de Triagem Preventiva Obrigatória com Inteligência Artificial (IA) no Sistema Único de Saúde (SUS), com o objetivo de integrar sistemas automatizados de análise de exames laboratoriais e de imagem ao e-SUS, visando à detecção precoce de câncer, diabetes e doenças cardiovasculares, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Lei Nacional de Triagem Preventiva Obrigatória com Inteligência Artificial - IA, Sistema Único de Saúde (SUS), Diagnóstico precoce, Doença do sistema circulatório, câncer, diabetes, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-11-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2583896",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3044380",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5833/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui o Sistema Nacional de Microempreendedorismo em Plataforma Digital (Plataforma-MEI), cria marco legal federal para integração de microempreendedores individuais e autônomos em plataformas digitais nacionais, com foco em inclusão produtiva, formalização simplificada, acesso automático a microcrédito, seguro digital e capacitação, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Sistema Nacional de Microempreendedorismo em Plataforma Digital (Plataforma-MEI), plataforma digital, integração, Microempreendedor Individual (MEI), trabalhador autônomo, trabalhador informal, inclusão produtiva, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-11-12",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2584654",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3045552",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5910/2025",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Dispoe sobre o direito dos advogados e advogadas de realizar gravacao propria de audiencias, sessoes, diligencias, abordagens policiais e demais atos processuais perante o Poder Judiciario, o Ministerio Publico, a Policia Judiciaria, a Policia Militar, a administracao publica ou quaisquer autoridades federais, estaduais ou municipais, inclusive junto a orgaos de persecucao penal e independentemente de autorizacao previa; estabelece parametros de transparencia, responsabilidade e protecao de dados pessoais; define vedacoes e sancoes; harmoniza o exercicio profissional com a boa-fe processual; e da outras providencias.",
+   "ementa_detalhada": "",
+   "keywords": "Garantia, advocacia, gravação, registro, documento audiovisual, imagem, vídeo, advogado, advogada, Ordem dos Advogados do Brasil (OAB), audiência judicial, sessão, diligência, ato processual, abordagem policial, persecução penal, ausência, autorização prévia, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-11-19",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2586622",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3049615",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5964/2025",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "ementa": "Estabelece normas gerais de segurança cibernética e de prevenção a fraudes eletrônicas no sistema financeiro nacional, dispõe sobre a responsabilidade objetiva das instituições financeiras em transações atípicas ou fraudulentas incompatíveis com o perfil do consumidor, cria obrigações de monitoramento, comunicação e bloqueio preventivo, institui o Relatório Anual de Integridade e Segurança Bancária, tipifica condutas administrativas, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, segurança cibernética, prevenção, fraude eletrônica, Sistema Financeiro Nacional (SFN), monitoramento, comunicação, bloqueio, caráter preventivo, instituição financeira, responsabilidade objetiva, consumidor, criação, Relatório Anual de Integridade e Segurança Bancária, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-11-25",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2587700",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3052029",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5966/2025",
+   "temas": [
+    "talentos"
+   ],
+   "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para instituir a oferta obrigatória de Ensino Médio Regular, Educação Profissional e Tecnológica, Educação Digital e Educação de Jovens e Adultos (EJA) em todas as unidades penitenciárias do País; cria o Plano Nacional de Educação em Ambientes de Privação de Liberdade (PNE-PL); estabelece o Sistema Integrado de Educação Digital Prisional; moderniza o censo penitenciário educacional; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei de Execução Penal (1984), criação, Plano Nacional de Educação em Ambientes de Privação de Liberdade (PNE-PL), Sistema Integrado de Educação Digital Prisional (SIED-Prisional), obrigatoriedade, oferta, ensino médio, educação e formação profissional, educação de jovens e adultos, educação digital, estabelecimento penal, preso, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-11-25",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2587722",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3052058",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6326/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Institui a Lei de Rotulagem de Conteúdo Sintético e de Transparência em Inteligência Artificial, dispondo sobre a obrigatoriedade de identificação de conteúdos gerados, manipulados ou alterados por sistemas de inteligência artificial, com vistas à proteção da informação, da democracia, do consumidor e dos direitos fundamentais no ambiente digital, e altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet).",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, Conteúdo sintético, Sistema de inteligência artificial, Confiança digital, Transparência algorítmica. _ Obrigatoriedade, Plataforma digital, rastreabilidade, identificação, rotulagem, conteúdo digital, Inteligência artificial generativa, Moderação de conteúdo, garantia, Direito à informação, Direito do consumidor. _ Alteração, Marco Civil da Internet (2014), Responsabilidade administrativa, Responsabilidade solidária, provedor de aplicações, internet.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-10",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2595639",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3065500",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6336/2025",
+   "temas": [
+    "ia",
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a proteção jurídica do consumidor contra o uso de conteúdos sintéticos e deepfakes em comunicações comerciais, publicidade e fraudes, estabelece deveres de transparência e segurança para fornecedores e plataformas digitais, cria tipos penais e prioridade de persecução para crimes praticados com uso de inteligência artificial e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, Proteção legal, consumidor, Ordem econômica, conteúdo sintético, Deepfake, Sistema de inteligência artificial, Campanha publicitária, golpe financeiro, Fraude eletrônica, obrigatoriedade, plataforma digital, rotulagem, conteúdo digital, Inteligência artificial generativa, descumprimento, responsabilidade civil, responsabilidade penal.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-10",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2595747",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3065734",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6472/2025",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Estabelece normas de proteção aos direitos dos consumidores e usuários de serviços de comunicação eletrônica contra práticas abusivas de cobrança automatizada, incluindo chamadas repetitivas, contatos fora dos horários permitidos, falsas representações, uso indevido de voz sintética (deepvoice), spoofing e outras formas de constrangimento digital, impõe obrigações de transparência, consentimento e mecanismos efetivos de recusa de contato, institui regime sancionatório administrativo e civil para infratores, cria mecanismos de indenização direta por abuso e determina diretrizes de governança de dados pessoais aplicáveis, garantindo a compatibilidade com a Lei Geral de Proteção de Dados Pessoais – LGPD (Lei nº 13.709/2018) e demais normas consumeristas e de telecomunicações.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, proteção, Privacidade, Conteúdo de usuário, Ligação telefônica, Telemarketing, Cobrança automática, Robocall, Inteligência artificial, simulação, Voz humana, Prática abusiva, Defesa do consumidor.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2597384",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3068901",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 649/2026",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Institui a obrigatoriedade de utilização de câmeras corporais e veiculares dotadas de Inteligência Artificial para reconhecimento facial e leitura automática de placas de veículos, integradas exclusivamente a bancos oficiais de mandados de prisão e restrição judicial, estabelece regras de governança algorítmica, proteção de dados, auditoria independente e responsabilização funcional, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, câmera corporal, inteligência artificial, reconhecimento facial, recaptura de foragido, leitura, placa de identificação de veículo automotor, transparência algorítmica, tratamento de dados, diretrizes, segurança pública, tecnologia.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+   "data_apresentacao": "2026-02-23",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2603749",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3085934",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1240/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui a obrigatoriedade de instalação de Sistema de Posicionamento Global (GPS) e de tecnologias de rastreamento e monitoramento em tempo real nos veículos utilizados para transporte escolar, estabelece requisitos mínimos de funcionamento, acesso às informações pelos responsáveis legais e pelo poder público, define condições para autorização e renovação do serviço, dispõe sobre proteção de dados e segurança da informação, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, Sistema de Posicionamento Global (GPS), tecnologia, rastreamento, monitoramento, tempo real, veículo, Transporte escolar, diretrizes, Segurança de dados, segurança viária, estudante, educação básica.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-03-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2609833",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3099595",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1644/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre critérios de transparência, modicidade e limitação proporcional das taxas de intermediação cobradas por plataformas digitais de transporte individual remunerado de passageiros e de entrega de bens, institui mecanismos de proteção à renda dos trabalhadores e estabelece diretrizes para regulação econômica do setor.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, cobrança, taxa, trabalhador, aplicativo de transporte, transporte de passageiro, aplicativo de entrega, trabalhador, transparência, limite máximo, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-04-07",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2613837",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3109275",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2092/2026",
+   "temas": [
+    "talentos"
+   ],
+   "ementa": "Institui a Política Nacional de Centros Públicos de Inclusão Digital e Formação Tecnológica Cidadã, para ampliar o acesso gratuito à internet, à capacitação tecnológica e à qualificação digital da população em espaços públicos comunitários, e altera a Lei nº 9.998, de 17 de agosto de 2000.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei do Fundo de Universalização dos Serviços de Telecomunicações (2000), criação, política pública, ampliação, conexão, acesso gratuito, internet, recursos tecnológicos, incentivo, Educação e formação profissional, Letramento digital, Alfabetização digital, Educação digital, inclusão tecnológica, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-04-29",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2620131",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3120903",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2145/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre medidas especiais de prevenção, detecção, mitigação, comunicação às autoridades e preservação de evidências relativas à circulação de conteúdos, comunidades, canais, grupos, servidores, salas de voz, transmissões ao vivo e funcionalidades digitais utilizados para aliciamento, exploração, incentivo, organização ou divulgação de crimes contra crianças, adolescentes e animais, estabelece deveres reforçados para provedores de aplicação de internet em ambientes digitais de alto risco, altera a Lei nº 12.965, de 23 de abril de 2014, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Civil da Internet (2014), preservação, Prova digital (direito), registro, prazo, medida de prevenção, Crime, Princípio da proteção integral da criança e do adolescente, Morte de animal, direitos animais, plataforma digital, rede social digital, Jogo eletrônico, Fórum virtual de discussão, Transmissão ao vivo, ambiente virtual, alto risco, internet, canal, comunicação, Provedor de aplicações, conteúdo impróprio, Violência extrema, crueldade, dados, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-05-04",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2620878",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3122243",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2629/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Dispõe sobre a possibilidade de restrição judicial de acesso a estádios, arenas e eventos esportivos por pessoas condenadas por violência contra a mulher, crimes sexuais, maus-tratos aos animais e devedores de obrigação alimentar em situação de inadimplência reiterada, voluntária e injustificada, institui medidas socioeducativas de responsabilização, prevenção e reparação cívica, estabelece diretrizes de controle de acesso, proteção de dados pessoais e cooperação institucional, em consonância com a Lei Geral do Esporte, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Medida judicial, restrição, acesso, estádio esportivo, evento desportivo, condenado, violência contra a mulher, violência doméstica, violência sexual, maus-tratos, animal, devedor, prestação alimentícia, criação, campanha educativa, responsabilidade civil, prevenção, inadimplemento, reparação do dano, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2026-05-26",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2627971",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3137531",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2987/2026",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui a Lei Costura Digna e Inclusiva, que cria a Política Nacional de Valorização, Qualificação, Formalização e Proteção Produtiva das Costureiras, Costureiros e Trabalhadores da Confecção, estabelece diretrizes para inclusão produtiva, acesso ao crédito, compras públicas sustentáveis, rastreabilidade social da cadeia de confecção, saúde e segurança no trabalho, combate à precarização laboral e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "Criação, política pública, orientação, formulação, integração, execução, ação governamental, valorização, desenvolvimento econômico, linha de crédito, empreendedorismo, Microempreendedor Individual (MEI), sociedade cooperativa, associação, costureira, estilista de moda, trabalhador, confecção, costura, vestuário, moda, erradicação, trabalho escravo, diretrizes.",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-06-09",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2630872",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3143856",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3733/2026",
+   "temas": [
+    "dados",
+    "plataformas"
+   ],
+   "ementa": "Institui a Lei Ponto Seguro, que estabelece normas gerais para a implantação, o funcionamento, a integração e a fiscalização de pontos de apoio destinados aos trabalhadores que exerçam atividades profissionais em mobilidade contínua, disciplina as responsabilidades das plataformas digitais e das organizações econômicas que coordenem essas atividades, promove o compartilhamento de estruturas com terminais, estabelecimentos privados e concessionárias de infraestrutura e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "criação; diretrizes; Saúde do trabalhador; implantação; Ponto de parada; Motorista de aplicativo; Entregador por aplicativo; Plataforma digital; obrigatoriedade; disponibilização; Infraestrutura; gratuidade; oferta; Banheiro; Água potável; Local reservado; Alimentação; Telefone celular; carga e recarga; Internet; Rede sem fio; Kit de primeiros socorros; Acessibilidade; restrição; utilização; Dados pessoais; fixação; Prazo",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-07-15",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2639827",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3162945",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4792/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui a Lei Presença Garantida – Lei de Continuidade do Apoio Escolar Inclusivo; acrescenta dispositivos à Lei nº 12.764, de 27 de dezembro de 2012, e à Lei nº 13.146, de 6 de julho de 2015, para assegurar a continuidade do acompanhamento especializado e do apoio escolar à pessoa com transtorno do espectro autista e às demais pessoas com deficiência nas situações de ausência, afastamento, impedimento, desligamento, vacância ou indisponibilidade do profissional responsável; veda restrições de acesso, frequência, jornada, permanência, participação e aprendizagem motivadas pela descontinuidade do apoio; e estabelece medidas de contingência, substituição qualificada, comunicação à família, registro individual de continuidade, proteção de dados pessoais e vedação de cobrança adicional.",
+   "ementa_detalhada": null,
+   "keywords": "Alteração; Lei Berenice Piana (2012); Estatuto da Pessoa com Deficiência (2015); garantia; Educação inclusiva; Frequência escolar; Apoio escolar; Pessoa com transtorno do espectro autista; Pessoa com deficiência; Acompanhante escolar especializado; Serviço de apoio escolar; Atendimento educacional especializado; Escola inclusiva; Matrícula escolar; Instituição de ensino",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2026-07-25",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641604",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166273",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5528/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Estabelece diretrizes nacionais para a Alta Segura e Assistida e para a transição coordenada do cuidado de pacientes com redução temporária ou permanente de autonomia ou necessidade de cuidados continuados no âmbito do Sistema Único de Saúde – SUS; institui o Plano Individual de Transição do Cuidado; dispõe sobre avaliação pré-alta, segurança medicamentosa, orientação e capacitação do cuidador, continuidade assistencial, atenção domiciliar, reabilitação, articulação com a rede socioassistencial e proteção de dados pessoais; e altera a Lei nº 8.080, de 19 de setembro de 1990.",
+   "ementa_detalhada": null,
+   "keywords": "alteração; Lei Orgânica da Saúde (1990); garantia; continuidade; Cuidado; Alta médica; hospital; Assistência domiciliar; Paciente; redução; autonomia; Sistema Único de Saúde (SUS); segurança; medicamento; Tratamento farmacológico; encaminhamento; Informação; capacitação; Cuidador de pacientes; Acessibilidade; Pessoa vulnerável; Assistência social",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2026-10-06",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2647309",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3183008",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5531/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui a Lei da Origem Responsável Animal, destinada a prevenir o financiamento da criação clandestina e da exploração reprodutiva abusiva de cães e gatos; estabelece deveres de identificação, diligência, transparência e rastreabilidade nas operações de transferência onerosa; disciplina a oferta e a intermediação por plataformas digitais; dispõe sobre a responsabilização administrativa, civil e penal dos agentes envolvidos; altera as Leis nº 9.605, de 12 de fevereiro de 1998, e nº 15.046, de 17 de dezembro de 2024; e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "alteração; Lei dos Crimes Ambientais (1998); Lei federal; Reprodução animal; Cachorro; Gato; Maus-tratos; clandestinidade; registro; Cadastro Nacional de Animais Domésticos; anterioridade; Venda; comercialização; Animal doméstico; Responsabilidade; Intermediário comercial; Plataforma digital; Bem-estar animal; Saúde pública; Proteção animal; Animal reprodutor; Direitos animais; Tipificação de conduta; Crime ambiental; Crime contra a fauna; Dolo; Reclusão; Multa; proibição; Guarda de animais; Aumento da pena; diretrizes",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2026-10-07",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2647319",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3183049",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PLP 266/2026",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para assegurar a redução a zero das alíquotas do Imposto sobre Bens e Serviços – IBS e da Contribuição Social sobre Bens e Serviços – CBS incidentes sobre a aquisição de automóveis de passageiros por pessoas com deficiência e pessoas com transtorno do espectro autista, sem condicionamento a grau mínimo de deficiência, classificação de severidade ou nível de suporte; estabelece garantias de não discriminação na comprovação do direito; veda a reintrodução de restrições equivalentes por ato infralegal; e promove segurança jurídica e uniformidade na aplicação do regime tributário diferenciado.",
+   "ementa_detalhada": null,
+   "keywords": "alteração; Lei complementar; Reforma tributária; Inclusão social; Mobilidade urbana; Automóvel; Veículo de passageiro; Benefício fiscal; Tributação; Alíquota zero; Contribuição Social sobre Operações com Bens e Serviços (CBS); Imposto sobre Bens e Serviços (IBS); Pessoa com deficiência; Pessoa com transtorno do espectro autista; inaplicação; gravidade; classificação; Deficiência; Direitos do deficiente",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Autorização do Despacho",
+   "data_apresentacao": "2026-10-07",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2647322",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3183054",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5743/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui o Protocolo Nacional Alerta Neuro, no âmbito da Política Nacional de Busca de Pessoas Desaparecidas, para resposta prioritária ao desaparecimento de pessoa com deficiência ou condição do neurodesenvolvimento ou neurocognitiva que implique risco aumentado de desorientação, dificuldade de comunicação ou de autoproteção, independentemente da idade, e estabelece mecanismos de informação preventiva e proteção de dados pessoais.",
+   "ementa_detalhada": null,
+   "keywords": "criação; Protocolo; identificação; Pessoa com transtorno do neurodesenvolvimento; Pessoa com deficiência; Pessoa desaparecida; dificuldade; Comunicação; orientação",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Chancela e Publicação do Despacho",
+   "data_apresentacao": "2026-11-03",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2650083",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3188546",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5770/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui a Lei do Nexo Protetivo Previdenciário da Mulher e acrescenta dispositivos à Lei nº 8.213, de 24 de julho de 1991, para reconhecer, para fins de dispensa de carência dos benefícios por incapacidade, a violência doméstica e familiar contra a mulher como acidente de qualquer natureza ou causa quando dela decorrer incapacidade física ou mental, estabelecer critérios para a comprovação do nexo causal ou concausal, assegurar avaliação médico-pericial livre de estereótipos e de revitimização, proteger dados pessoais sensíveis da segurada e disciplinar a articulação com a ação regressiva previdenciária contra o responsável pela violência.",
+   "ementa_detalhada": null,
+   "keywords": "alteração; Lei de Benefícios da Previdência Social (1991); Violência contra a mulher; Violência doméstica; Violência de gênero; Período de carência; Benefício previdenciário; Incapacidade temporária; Incapacidade permanente; Vítima; Nexo de causalidade; Auxílio-doença; prevenção; Revitimização; Tratamento de dados; Dados pessoais sensíveis; Direito de regresso; Agressor",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+   "data_apresentacao": "2026-11-04",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2651068",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190253",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5810/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui a Lei Acesso Íntegro e altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o abuso de acesso profissional ou funcional a dados pessoais, estabelecer forma qualificada para sua comercialização, transferência, divulgação ou fornecimento ilícitos, responsabilizar terceiros envolvidos na exploração criminosa dessas informações, prever causas de aumento de pena e dispor sobre a persecução penal.",
+   "ementa_detalhada": null,
+   "keywords": "alteração; Código Penal (1940); Crime contra a pessoa; Crime contra a inviolabilidade de segredos; Tipificação de conduta; Tipicidade penal; abuso; acesso; Profissional; Dados pessoais; Sistema de informação; Banco de dados; Plataforma digital; Emprego; Prestação de serviços; Aumento da pena; Ação penal pública incondicionada; internet",
+   "autor_principal": "Marcos Tavares",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-11-10",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2652509",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3193155",
+   "casa": "camara"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PDL 552/2020",
+   "ementa": "Susta o Decreto nº 10.578, de 15 de dezembro de 2020, que \"Dispõe sobre a dissolução societária do Centro Nacional de Tecnologia Eletrônica Avançada S.A. e a publicização das atividades direcionadas à pesquisa científica, ao desenvolvimento tecnológico e à inovação no setor de microeletrônica\".",
+   "colegiado": "CDE",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2267201",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2911/2025",
+   "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de pontos de apoio para trabalhadores de plataformas digitais de entrega e de transporte individual privado de passageiros",
+   "colegiado": "CTRAB",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2525925",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 446/2026",
+   "ementa": "Institui a Lei Nacional de Proteção Digital da Pessoa Idosa contra golpes e fraudes eletrônicas, cria o Sistema Nacional Integrado de Prevenção e Resposta a Fraudes contra a Pessoa Idosa, institui o “Alerta Prata Digital”, estabelece deveres de segurança, cooperação e resposta rápida para instituições financeiras, instituições de pagamento, operadoras de telecomunicações e plataformas digitais, disciplina bloqueio preventivo de transações de alto risco, prevê restituição prioritária com crédito provisório em prazo máximo de 48 (quarenta e oito) horas para a pessoa idosa vítima de fraude, cria cadastro nacional de tentativas de fraude e altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), e a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados",
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2602193",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
+ "votos_chave": [
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 189; Não: 140; Total: 329.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 206; Não: 70; Total: 276.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.  Sim: 253; Não: 67; Abstenção: 4; Total: 324.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 118; Abstenção: 4; Total: 415.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição. Sim: 18; Não: 328; Abstenção: 7; Total: 353.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitado o Requerimento. Sim: 118; Não: 289; Total: 407.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 104. Sim: 155; não: 316; abstenção: 2; total: 473.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 137; abstenção: 3; total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 15; Não: 334; Total: 349.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 441; Não: 3; Total: 444.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Rejeitada a Emenda de Plenário n° 8. Sim: 136; Não: 262; Total: 398.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Mantido o texto. Sim: 292; Não: 106; Total: 398.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Rejeitado o Requerimento. Sim: 71; Não: 221; Total: 292.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Rejeitado o Requerimento. Sim: 108; não: 241; total: 349.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  }
+ ],
+ "orgaos": [
+  "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+  "CCOM — Suplente (Câmara): Comissão de Comunicação",
+  "CCOM — 3º Vice-Presidente (Câmara): Comissão de Comunicação",
+  "CCOM — Titular (Câmara): Comissão de Comunicação"
+ ],
+ "frentes": [
+  "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+  "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+  "Frente Parlamentar da Conectividade Rural"
+ ],
+ "limitacoes": []
+}

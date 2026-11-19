@@ -1,0 +1,580 @@
+{
+ "parlamentar_chave": "camara_RJ_190002534839",
+ "nome_urna": "AUREO RIBEIRO",
+ "nome_completo": "AUREO LIDIO MOREIRA RIBEIRO",
+ "casa_2027": "camara",
+ "uf": "RJ",
+ "partido": "SOLIDARIEDADE",
+ "federacao": "PRD/SOLIDARIEDADE",
+ "incumbente": true,
+ "id_camara": 160512,
+ "codigo_senado": null,
+ "data_coleta": "2026-11-19",
+ "iip": 58.3,
+ "prioridade": "A — Prioridade alta",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PL 1473/2023",
+   "temas": [
+    "ia",
+    "propriedade_intelectual"
+   ],
+   "ementa": "Esta Lei torna obrigatória a disponibilização, por parte das empresas que operam sistemas de inteligência artificial, de ferramentas que garantam aos autores de conteúdo na internet a possibilidade de restringir o uso de seus materiais pelos algoritmos de inteligência artificial, com o objetivo de preservar os direitos autorais.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, empresa, operação, inteligência artificial, disponibilização, ferramenta tecnológica, garantia, Autor (publicação), conteúdo digital, internet, restrição, utilização, material informativo, algoritmo, finalidade, preservação, Direito autoral.",
+   "autor_principal": "Aureo Ribeiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2023-03-28",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2353916",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2251301",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 573/2024",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Autoriza a destinação de recursos oriundos de sites, redes sociais e plataformas digitais de entes públicos aos Fundos de Cultura.",
+   "ementa_detalhada": "",
+   "keywords": "Autorização, transferência, Recursos financeiros, Órgão público, monetização, Sítio (internet), Rede social digital, Plataforma digital, destinação, Fundo Nacional da Cultura (FNC)",
+   "autor_principal": "Aureo Ribeiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2024-03-05",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2419334",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2391589",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PLP 226/2024",
+   "temas": [
+    "startups"
+   ],
+   "ementa": "Altera a Lei Complementar nº 182, de 1º de junho de 2021, para ampliar o valor da receita bruta para empresas enquadradas como startups.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Legal das Startups e do Empreendedorismo Inovador (2021), aumento, Valor, Receita bruta, Empresa startup.",
+   "autor_principal": "Aureo Ribeiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2024-12-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2479054",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2839794",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PLP 236/2024",
+   "temas": [
+    "incentivos_pd",
+    "startups"
+   ],
+   "ementa": "Acrescenta o art. 9-A à Lei Complementar nº 182, de 1º de junho de 2021, para conceder isenção do Imposto de Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) às startups que reinvestirem seus lucros em atividades de pesquisa, desenvolvimento e inovação tecnológica.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Legal das Startups e do Empreendedorismo Inovador (2021), Isenção tributária, Imposto de Renda das Pessoas Jurídicas (IRPJ), Contribuição Social sobre o Lucro Líquido (CSLL), Empresa startup, Reinvestimento, Lucro, pesquisa e desenvolvimento, Inovação tecnológica.",
+   "autor_principal": "Aureo Ribeiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2024-12-19",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2481406",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2845656",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 308/2025",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD).",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), proibição, comercialização, dados pessoais sensíveis.",
+   "autor_principal": "Aureo Ribeiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-02-06",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2483128",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2852118",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1868/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a obrigatoriedade de discriminação detalhada dos valores que compõem o preço final cobrado do consumidor por plataformas digitais de intermediação de entrega de produtos e serviços, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, Plataforma digital, Serviço de entrega por aplicativo, discriminação, valor, taxa, produtos, serviços, informação ao consumidor.",
+   "autor_principal": "Aureo Ribeiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-04-25",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2500301",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2891806",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4416/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera a Lei nº 13.819, de 26 de abril de 2019, que institui a Política Nacional de Prevenção da Automutilação e do Suicídio, para instituir salvaguardas obrigatórias em sistemas de inteligência artificial.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Política Nacional de Prevenção da Automutilação e do Suicídio, Lei Federal, obrigatoriedade, empresa, inteligência artificial generativa, critério, identificação, registro, notificação, referência, suicídio, automutilação, diretrizes.",
+   "autor_principal": "Aureo Ribeiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2025-09-03",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2556998",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2992652",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PEC 38/2025",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+   "ementa_detalhada": "",
+   "keywords": "Constituição Federal (1988), Reforma Administrativa (2025). _Direitos fundamentais, garantias fundamentais, inclusão, meio eletrônico, certidão, Órgão público. _Direitos sociais, inclusão digital. _Governança, gestão estratégica, Gestão por resultados, Administração de pessoal, Transformação digital, Estratégia Nacional de Governo Digital, Política Nacional de Dados Abertos, Plano Nacional de Governo Digital, diretrizes.  \r\nDisciplinamento, Plano de cargos, carreiras e salários, processo seletivo, cargo em comissão, concurso público, estágio probatório, carreira pública transversal, Estabilidade no serviço público, férias, Adicional (vantagem pecuniária), Verba indenizatória, Educação e formação profissional, servidor público, Serviço terceirizado, Administração Pública. _ Extinção, adicional por tempo de serviço, Licença-prêmio. _ Criação, Bônus de resultado por desempenho. _ Proibição, Aposentadoria compulsória, Penalidade disciplinar, magistrado, membro, Ministério Público. _ Limitação, Despesa pública, remuneração, Poder Executivo, Poder Legislativo, Poder Judiciário.",
+   "autor_principal": "Zé Trovão",
+   "e_autor_principal": false,
+   "n_coautores": 171,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2025-10-24",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2576168",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3029805",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 682/2026",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Dispõe sobre a transparência na formação de preços em aplicativos de transporte individual privado de passageiros, bem como sobre a vedação da utilização de dados pessoais e sensíveis do usuário, como critério para majoração de tarifas.",
+   "ementa_detalhada": "Altera a Lei nº 12.587, de 3 de Janeiro de 2012.",
+   "keywords": "Alteração, Lei da Política Nacional de Mobilidade Urbana (2012), transporte por aplicativo, transporte de passageiro, transporte privado, transparência algorítmica, formação, preço, proibição, critério, aumento, tarifa, dados pessoais sensíveis, usuário de serviços, informação, algoritmo de precificação, diretrizes, direito do consumidor, metadados, prática abusiva, discriminação, tratamento de dados.",
+   "autor_principal": "Aureo Ribeiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-02-24",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2604028",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3086767",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5064/2026",
+   "temas": [
+    "ia",
+    "tributacao"
+   ],
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre a proteção do consumidor contra o uso de padrões obscuros, arquiteturas de escolha manipulativas e assimetrias de interface no comércio e nos serviços digitais.",
+   "ementa_detalhada": null,
+   "keywords": "Alteração; Código de Defesa do Consumidor (1990); proteção; Consumidor; Manipulação; Algoritmo; Comércio eletrônico; Serviços digitais; Prática abusiva; Mercado digital; Relações de consumo; Defesa do consumidor",
+   "autor_principal": "Aureo Ribeiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-08-13",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2643712",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3172206",
+   "casa": "camara"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 2661/2015",
+   "ementa": "Acresce artigo à Lei nº 8.078, de 11 de setembro de 1990, para disciplinar as relações entre empresas que utilizam serviços de telecomunicações ou de mensageria para difusão de mensagens publicitárias, de cobrança ou de divulgação e os consumidores em geral.",
+   "colegiado": "CCJC",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1671887",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3272/2015",
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, obrigando as operadoras de telefonia celular que prestem serviço na modalidade pré-paga a enviar a seus assinantes informações sobre os serviços contratados.",
+   "colegiado": "CCJC",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2017255",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1507/2023",
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 para prever a publicidade de produtos e serviços ilícitos em “sites” hospedados em servidores localizados fora do Brasil como crime contra o consumidor.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2354111",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2721/2024",
+   "ementa": "Altera o art. 11 da Lei n° 9.610, de 1998, para deixar expresso que autor é apenas a pessoa física, independentemente do grau de autonomia do sistema de inteligência artificial utilizado na elaboração da obra.",
+   "colegiado": "CCULT",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia",
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2445849",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PDL 612/2025",
+   "ementa": "Susta os efeitos da decisão do Conselho Diretor da Agência Nacional de Telecomunicações – Anatel que revoga a obrigatoriedade do uso do prefixo 0303 em chamadas de telemarketing ativo.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2547381",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6704/2025",
+   "ementa": "Estabelece a obrigatoriedade de aviso prévio e claro sobre a gravação de dados de voz por centrais telefônicas, plataformas digitais e aplicativos, e dá outras providências.",
+   "colegiado": "CDC",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599297",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1943/2026",
+   "ementa": "Dispõe sobre a integração dos sistemas de cobrança automática de pedágio eletrônico (free flow) à Carteira Digital de Trânsito – CDT, estabelece regras de notificação ao usuário, amplia a transparência na cobrança tarifária e dá outras providências.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2618038",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PEC 13/2026",
+   "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+   "colegiado": "CCJC",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2631190",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
+ "votos_chave": [
+  {
+   "proposicao": "PL 2630/2020",
+   "tema": "plataformas",
+   "nota": "PL das Fake News / regulação de plataformas",
+   "data": "2023-04-25",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2256735",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 4675/2025",
+   "tema": "plataformas",
+   "nota": "Mercados digitais (CADE)",
+   "data": "2026-03-18",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2562481",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.  Sim: 253; Não: 67; Abstenção: 4; Total: 324.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Abstenção"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 118; Abstenção: 4; Total: 415.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição. Sim: 18; Não: 328; Abstenção: 7; Total: 353.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 104. Sim: 155; não: 316; abstenção: 2; total: 473.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 115; não: 239; abstenção: 3; total: 357.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 137; abstenção: 3; total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 15; Não: 334; Total: 349.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 441; Não: 3; Total: 444.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Rejeitada a Emenda de Plenário n° 8. Sim: 136; Não: 262; Total: 398.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Mantido o texto. Sim: 292; Não: 106; Total: 398.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-12",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  }
+ ],
+ "orgaos": [
+  "SUBIA — Titular (Câmara): Subcomissão Especial para debater os limites legais e éticos para o uso da inteligência artificial e possíveis parâmetro",
+  "GTCGIBS — Titular (Câmara): Grupo de Trabalho destinado a tratar do Projeto de Lei Complementar relativo ao Comitê Gestor e à distribuição da receit",
+  "GTREDES — Titular (Câmara): Grupo de Trabalho destinado a analisar e debater o PL 2630/20, que trata da regulamentação das redes sociais",
+  "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+  "PLP15225 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, qu",
+  "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+ ],
+ "frentes": [
+  "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+  "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+  "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+  "Frente Parlamentar da Conectividade Rural",
+  "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+ ],
+ "limitacoes": []
+}

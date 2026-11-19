@@ -1,0 +1,134 @@
+{
+ "parlamentar_chave": "senado_SE_260002547285",
+ "nome_urna": "ROGERIO CARVALHO",
+ "nome_completo": "ROGERIO CARVALHO SANTOS",
+ "casa_2027": "senado",
+ "uf": "SE",
+ "partido": "PT",
+ "federacao": "PT/PC do B/PV",
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "5352",
+ "data_coleta": "2026-11-19",
+ "iip": 48.0,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PEC 17/2019",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Acrescenta o inciso XII-A, ao art. 5º, e o inciso XXX, ao art. 22, da Constituição Federal para incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão e fixar a competência privativa da União para legislar sobre a matéria.",
+   "autor_principal": "Autoria não registrada.",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2017/2019",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 4338/2019",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Inclui os arts. 6º-A, 6º-B, 6º-C, 6º-D, 6º-E, 6º-F e 6º-G no Decreto-lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre o interrogatório policial.",
+   "autor_principal": "Senador Rogério Carvalho ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%204338/2019",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 2339/2021",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Altera o Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro), a Lei nº 13.726, de 8 de outubro de 2018 (Lei da Desburocratização), a Lei nº 13.848, de 25 de junho de 2019 (Lei Geral das Agências Reguladoras Federais), a Lei nº 13.874, de 20 de setembro de 2019 (Lei da Liberdade Econômica) e a Lei nº 14.129, de 29 de março de 2021 (Lei do Governo Digital), para modernizar a relação entre sociedade e Estado, instituir regras e instrumentos que assegurem a qualidade, a transparência e a consistência do processo decisório dos agentes públicos e dá outras providências.",
+   "autor_principal": "Senador Rogério Carvalho ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202339/2021",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PEC 17/2019 (fase 2)",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais.",
+   "autor_principal": "Câmara dos Deputados",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2017/2019%20%28fase%202%29",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 3419/2024",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para proibir que farmácias e drogarias condicionem descontos ao fornecimento de dados pessoais dos clientes e para impedir a utilização desses dados para finalidades não relacionadas à assistência farmacêutica ou seu compartilhamento com terceiros.",
+   "autor_principal": "Senador Rogério Carvalho ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%203419/2024",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 5280/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Acrescenta os arts. 6º-A, 6º-B, 75-G, 75-H e 75-I à Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre limites ao uso dos meios telemáticos e informatizados de comando, controle e supervisão na relação de emprego.",
+   "autor_principal": "Senador Rogério Carvalho ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%205280/2025",
+   "casa": "senado"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PDL 805/2025",
+   "ementa": "Aprova o ato que outorga permissão à G R Sistema de Comunicação Ltda. para explorar serviço de radiodifusão sonora em frequência modulada no Município de São Cristóvão, Estado de Sergipe.",
+   "colegiado": "CCT",
+   "temas": [
+    "infra_digital"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PDL%20805/2025"
+  },
+  {
+   "identificacao": "MPV 1292/2025",
+   "ementa": "Altera a Lei nº 10.820, de 17 de dezembro de 2003, que trata sobre as operações de crédito consignado de empregados regidos pela Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, de trabalhadores regidos pela Lei nº 5.889, de 8 de junho de 1973, e pela Lei Complementar nº 150, de 1º de junho de 2015, e de diretores não empregados com direito ao Fundo de Garantia do Tempo de Serviço - FGTS, para dispor sobre a operacionalização das operações de crédito consignado por meio de sistemas ou de plataformas digitais.",
+   "colegiado": "CMMPV 1292/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=MPV%201292/2025"
+  },
+  {
+   "identificacao": "PL 847/2025",
+   "ementa": "Altera a Lei nº 11.540, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT, para aprimorar a destinação de recursos do Fundo.",
+   "colegiado": "CAE",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20847/2025"
+  },
+  {
+   "identificacao": "PL 5691/2019",
+   "ementa": "Institui a Política Nacional de Inteligência Artificial.",
+   "colegiado": "CCDD",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%205691/2019"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+ ],
+ "frentes": [],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

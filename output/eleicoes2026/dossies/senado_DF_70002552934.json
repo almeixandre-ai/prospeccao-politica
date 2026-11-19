@@ -1,0 +1,563 @@
+{
+ "parlamentar_chave": "senado_DF_70002552934",
+ "nome_urna": "BIA KICIS",
+ "nome_completo": "BEATRIZ KICIS TORRENTS DE SORDI",
+ "casa_2027": "senado",
+ "uf": "DF",
+ "partido": "PL",
+ "federacao": null,
+ "incumbente": false,
+ "id_camara": 204374,
+ "codigo_senado": null,
+ "data_coleta": "2026-11-19",
+ "iip": 39.8,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PLP 49/2024",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Regulamenta a Neutralidade no IBS e na CBS nos termos do artigo 156 – A da Emenda Constitucional n 132, de 20 de dezembro de 2023.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, Reforma Tributária (2023), Neutralidade, Imposto sobre Bens e Serviços (IBS), Contribuição Social sobre Operações com Bens e Serviços (CBS), Tributação, cumulatividade, Alíquota reduzida, Crédito presumido.",
+   "autor_principal": "Bia Kicis",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2024-04-12",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2426615",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2406649",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1291/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Dispõe sobre a modernização do Sistema Único de Saúde (SUS) por meio da implementação da Fila Única Nacional, do Aplicativo Nacional da Fila do SUS, do estabelecimento de metas de tempo máximo de espera, da remuneração por desempenho, do atendimento prioritário baseado em inteligência artificial e da obrigatoriedade de transparência nos dados da fila, bem como estabelece sanções para inserção de informações fraudulentas, alterando a Lei nº 8.080, de 19 de setembro de 1990.",
+   "ementa_detalhada": "Altera a Lei nº 8.080, de 19 de setembro de 1990.",
+   "keywords": "Alteração, Lei Orgânica da Saúde (1990), gestão, Serviços de saúde, Lista de espera, Sistema Único de Saúde (SUS), criação, Lista única de espera, âmbito nacional, Consulta médica, Exame médico, Cirurgia eletiva.",
+   "autor_principal": "Bia Kicis",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-03-27",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2490661",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2874396",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3630/2025",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), para permitir a divulgação de imagens de pessoas flagradas cometendo crimes dentro de estabelecimentos comerciais.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), autorização, divulgação, Exposição de imagem, Segurança eletrônica, Criminoso, Flagrante delito, Estabelecimento comercial.",
+   "autor_principal": "Bia Kicis",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "data_apresentacao": "2025-07-23",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2538782",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2962459",
+   "casa": "camara"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PEC 7/2020",
+   "ementa": "Altera o Sistema Tributário Nacional e dá outras providências.",
+   "colegiado": "PLEN",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2238473",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PDL 1112/2021",
+   "ementa": "Susta os § 3.º e 4º do artigo 8º da Resolução nº 721, de 11 de fevereiro 2020, da ANATEL, que Destina faixas de radiofrequência e aprova o Regulamento sobre Canalização e Condições de Uso de Radiofrequências para os Serviços de Radiodifusão e seus Ancilares.",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2310620",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4432/2023",
+   "ementa": "Dispões sobre a criação do Cadastro de Invasores de Propriedades e da outras previdências.",
+   "colegiado": "",
+   "situacao": "",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2387055",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3140/2024",
+   "ementa": "Altera o Decreto-lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) para tornar mais grave os crimes com o uso de dados pessoais, redes sociais, e-mails e contas online de pessoas falecidas.",
+   "colegiado": "CCJC",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "dados",
+    "tributacao",
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2452397",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4655/2024",
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, para vedada a nomeação ou designação para os cargos de presidência, direção ou gerência da ANATEL de pessoa que, nos últimos 10 (dez) anos, tenha exercido, direta ou indiretamente, funções ou atividades ligadas a empresas ou entidades sob regulação da ANATEL e estabelece impedimentos, pelo mesmo período, após o término do vínculo com a agência reguladora.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2474846",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 769/2025",
+   "ementa": "Veda a censura prévia em ambientes virtuais e na imprensa, assegurando o exercício pleno da liberdade de expressão, nos termos da Constituição Federal e legislação vigente.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2485940",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2304/2025",
+   "ementa": "Dispõe sobre a criminalização da divulgação de desafios perigosos na internet que incentivem crianças, adolescentes e jovens à prática de atos nocivos ou autolesivos.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2508867",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2594/2025",
+   "ementa": "Dispõe sobre diretrizes de proteção psicológica, emocional e moral aos usuários de redes sociais, com foco na prevenção de danos decorrentes do uso excessivo e inadequado dessas plataformas, e estabelece mecanismos de identificação, limitação de uso e promoção de inteligência emocional.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2517538",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3182/2025",
+   "ementa": "Proíbe a reutilização de números de telefone móvel por empresas de telecomunicações e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2530441",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5197/2025",
+   "ementa": "Altera a Lei nº 12.009, de 29 de julho de 2009, para obrigar as empresas operadoras de aplicação de internet voltadas para o serviço de entrega de mercadorias a limitar o peso das cargas a serem transportadas.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2572401",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
+ "votos_chave": [
+  {
+   "proposicao": "PL 2630/2020",
+   "tema": "plataformas",
+   "nota": "PL das Fake News / regulação de plataformas",
+   "data": "2023-04-25",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2256735",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 4675/2025",
+   "tema": "plataformas",
+   "nota": "Mercados digitais (CADE)",
+   "data": "2026-03-18",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2562481",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 189; Não: 140; Total: 329.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 206; Não: 70; Total: 276.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 118; Abstenção: 4; Total: 415.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitado o Requerimento. Sim: 118; Não: 289; Total: 407.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-16",
+   "descricao": "Rejeitado o Requerimento. Sim: 46; Não: 232; Total: 278.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 104. Sim: 155; não: 316; abstenção: 2; total: 473.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 115; não: 239; abstenção: 3; total: 357.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 137; abstenção: 3; total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 441; Não: 3; Total: 444.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Rejeitado o Requerimento. Sim: 81; Não: 289; Total: 370.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Rejeitada a Emenda de Plenário n° 8. Sim: 136; Não: 262; Total: 398.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Mantido o texto. Sim: 292; Não: 106; Total: 398.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Rejeitado o Requerimento. Sim: 71; Não: 221; Total: 292.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-12",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 278/2026",
+   "tema": "infra_digital",
+   "nota": "REDATA",
+   "data": "2026-02-25",
+   "descricao": "Rejeitada a Emenda de Plenário nº 68. Sim: 105; Não: 232; Total: 337.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2600838",
+   "voto": "Não"
+  }
+ ],
+ "orgaos": [
+  "CCOM — Titular (Câmara): Comissão de Comunicação",
+  "PL233823 — Titular (Câmara): Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre ",
+  "CCOM — Suplente (Câmara): Comissão de Comunicação"
+ ],
+ "frentes": [
+  "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+  "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+  "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+ ],
+ "limitacoes": []
+}

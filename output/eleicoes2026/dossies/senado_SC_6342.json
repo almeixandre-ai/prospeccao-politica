@@ -1,0 +1,82 @@
+{
+ "parlamentar_chave": "senado_SC_6342",
+ "nome_urna": "Jorge Seif",
+ "nome_completo": "Jorge Seif Júnior",
+ "casa_2027": "senado",
+ "uf": "SC",
+ "partido": "PL",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "6342",
+ "data_coleta": "2026-11-19",
+ "iip": 34.1,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PEC 26/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+   "autor_principal": "Senador Astronauta Marcos Pontes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2026/2025",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 4752/2025",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "ementa": "Institui o Marco Legal da Cibersegurança, cria o Programa Nacional de Segurança e Resiliência Digital e altera a Lei nº 13.756, de 12 de dezembro de 2018.",
+   "autor_principal": "Senador Esperidião Amin ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%204752/2025",
+   "casa": "senado"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 731/2025",
+   "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir a inteligência artificial como componente curricular do ensino fundamental e do ensino médio.",
+   "colegiado": "CCT",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20731/2025"
+  },
+  {
+   "identificacao": "PL 4752/2025",
+   "ementa": "Institui o Marco Legal da Cibersegurança, cria o Programa Nacional de Segurança e Resiliência Digital e altera a Lei nº 13.756, de 12 de dezembro de 2018.",
+   "colegiado": "CCT",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%204752/2025"
+  },
+  {
+   "identificacao": "PL 1227/2024",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei nº 11.343, de 23 de agosto de 2006 (Lei Antidrogas), para responsabilizar penalmente quem utiliza as redes sociais para fazer propaganda enganosa, propalar a venda de droga ou mercadoria proibidas ou incentivar sua aquisição.",
+   "colegiado": "CCT",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%201227/2024"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+ ],
+ "frentes": [
+  "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+ ],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

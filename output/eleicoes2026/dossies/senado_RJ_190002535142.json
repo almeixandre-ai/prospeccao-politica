@@ -1,0 +1,74 @@
+{
+ "parlamentar_chave": "senado_RJ_190002535142",
+ "nome_urna": "CARLOS PORTINHO",
+ "nome_completo": "CARLOS FRANCISCO PORTINHO",
+ "casa_2027": "senado",
+ "uf": "RJ",
+ "partido": "PL",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "5936",
+ "data_coleta": "2026-11-19",
+ "iip": 33.7,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PEC 45/2022",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Altera o art. 53 da Constituição Federal, para atribuir ao Senado Federal e à Câmara dos Deputados a competência para suspender ou excluir as páginas, os canais e as contas de seus membros na rede mundial de computadores, nas plataformas de compartilhamento e nas redes sociais.",
+   "autor_principal": "Senador Eduardo Girão ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2045/2022",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PEC 26/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+   "autor_principal": "Senador Astronauta Marcos Pontes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2026/2025",
+   "casa": "senado"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 86/2023",
+   "ementa": "Altera o Código Penal para prever o crime de sequestro de dados pessoais.",
+   "colegiado": "CCT",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%2086/2023"
+  },
+  {
+   "identificacao": "PL 2451/2023",
+   "ementa": "Altera a Lei no 4.478, de 28 de dezembro de 2022, que dispõe sobre a prestação de serviços de ativos virtuais, para prevenir fraudes contra seus investidores e possibilitar a imediata recuperação desses ativos, no caso de desvios e fraudes, com a criação de novos mecanismos de rastreio e identificação dos atores envolvidos e dos valores investidos e responsabilização dos sócios das empresas corretoras e plataformas digitais de investimento (exchanges).",
+   "colegiado": "CCDD",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202451/2023"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+  "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+  "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+ ],
+ "frentes": [
+  "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+ ],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

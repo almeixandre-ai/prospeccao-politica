@@ -1,0 +1,18 @@
+{
+  "observacao": "Proposições cujas votações nominais no Plenário da Câmara servem de evidência de posição. Edite livremente; o coletor resolve os IDs pela API da Câmara e ignora o que não tiver votação nominal.",
+  "camara": [
+    {"sigla": "PL",  "numero": 2630, "ano": 2020, "tema": "plataformas",   "nota": "PL das Fake News / regulação de plataformas"},
+    {"sigla": "PL",  "numero": 2628, "ano": 2022, "tema": "plataformas",   "nota": "ECA Digital — proteção de crianças em ambientes digitais"},
+    {"sigla": "PL",  "numero": 2338, "ano": 2023, "tema": "ia",            "nota": "Marco legal da IA"},
+    {"sigla": "PL",  "numero": 2768, "ano": 2022, "tema": "plataformas",   "nota": "Mercados digitais (Anatel)"},
+    {"sigla": "PL",  "numero": 4675, "ano": 2025, "tema": "plataformas",   "nota": "Mercados digitais (CADE)"},
+    {"sigla": "PL",  "numero": 4752, "ano": 2025, "tema": "ciberseguranca","nota": "Marco legal de cibersegurança"},
+    {"sigla": "PL",  "numero": 334,  "ano": 2023, "tema": "tributacao",    "nota": "Prorrogação da desoneração da folha (inclui TI)"},
+    {"sigla": "PL",  "numero": 1847, "ano": 2024, "tema": "tributacao",    "nota": "Reoneração gradual da folha"},
+    {"sigla": "PLP", "numero": 68,   "ano": 2024, "tema": "tributacao",    "nota": "Regulamentação do IBS/CBS"},
+    {"sigla": "PLP", "numero": 108,  "ano": 2024, "tema": "tributacao",    "nota": "Comitê Gestor do IBS"},
+    {"sigla": "MPV", "numero": 1318, "ano": 2025, "tema": "infra_digital", "nota": "REDATA (data centers)"},
+    {"sigla": "PL",  "numero": 278,  "ano": 2026, "tema": "infra_digital", "nota": "REDATA"},
+    {"sigla": "PL",  "numero": 5960, "ano": 2025, "tema": "incentivos_pd", "nota": "Marco de Fomento à Economia Digital"}
+  ]
+}

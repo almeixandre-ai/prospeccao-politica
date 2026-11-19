@@ -1,0 +1,304 @@
+{
+ "parlamentar_chave": "camara_PB_150002533578",
+ "nome_urna": "RUY CARNEIRO",
+ "nome_completo": "RUY MANUEL CARNEIRO BARBOSA DE AÇA BELCHIOR",
+ "casa_2027": "camara",
+ "uf": "PB",
+ "partido": "PODE",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": 160635,
+ "codigo_senado": null,
+ "data_coleta": "2026-11-19",
+ "iip": 38.1,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PL 841/2024",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para tornar obrigatória a exibição de aviso ao consumidor sobre imagem ou vídeo publicitário produzido com o uso de inteligência artificial.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Código de Defesa do Consumidor (1990), obrigatoriedade, Aviso de alerta, Publicidade promocional, utilização, Inteligência artificial.",
+   "autor_principal": "Ruy Carneiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2024-03-19",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2421854",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2396787",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 842/2024",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera a Lei no 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para dispor sobre a obrigatoriedade de que aplicações de internet que se utilizem de mecanismos de inteligência artificial para a geração de conteúdos audiovisuais insiram sinalização nos conteúdos produzidos.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Civil da Internet (2014), obrigatoriedade, Aviso de alerta, Aplicação de internet, utilização, Inteligência artificial, Conteúdo audiovisual, Crime cibernético, Rede social digital",
+   "autor_principal": "Ruy Carneiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2024-03-19",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2421855",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2396789",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2462/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Veda o uso de ferramentas de inteligência artificial para a realização de dublagem de obras audiovisuais ofertadas comercialmente em salas de cinema, nas programações de televisão aberta e por assinatura e nos serviços de vídeo sob demanda e outras plataformas de distribuição de conteúdos audiovisuais pela internet.",
+   "ementa_detalhada": "",
+   "keywords": "Proibição, Inteligência artificial, dublagem, Obra audiovisual, cinema, televisão, Vídeo sob demanda, Plataforma de streaming.",
+   "autor_principal": "Ruy Carneiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-05-21",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2515281",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2915975",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3890/2025",
+   "temas": [
+    "ia",
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a proibição da monetização e inclusão em algoritmos de conteúdos produzidos por crianças e adolescentes em plataformas digitais, regulamenta as hipóteses autorizadas de atuação artística profissional de menores em ambiente digital, altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), e a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do dolescente), e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Civil da Internet (2014), Estatuto da Criança e do Adolescente (ECA) (1990), obrigatoriedade, plataforma digital, restrição, monetização, Algoritmo, conta digital, criança, adolescente, exigência, comunicação prévia, conselho tutelar, autorização judicial, Contrato especial, Atividade artística, menor de idade, Influenciador digital mirim. _ Proibição, sexualização precoce, Adultização de crianças e adolescentes,  Internet. _ Enfrentamento, pedofilia.",
+   "autor_principal": "Ruy Carneiro",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Análise)",
+   "data_apresentacao": "2025-08-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2542392",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2970422",
+   "casa": "camara"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 10106/2018",
+   "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre a obrigatoriedade de publicação na internet de listas de pacientes que serão submetidos a procedimentos cirúrgicos eletivos no âmbito do Sistema Único de Saúde (SUS), e a Lei nº 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa), para caracterizar o descumprimento dessa disposição como ato de improbidade administrativa.\r\n\r\nNOVA EMENTA: Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre a obrigatoriedade de publicação na internet de informações aos usuários do Sistema Único de Saúde (SUS).",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2173222",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4863/2024",
+   "ementa": "Dispõe sobre a proteção dos dados dos segurados do INSS e estabelece critérios para a autorização de empréstimos consignados no âmbito do Regime Geral de Previdência Social.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2479688",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4697/2025",
+   "ementa": "Modifica a Lei nº 8.009, de 29 de março de 1990, para corrigir distorções e desvios na aplicabilidade do instituto da Impenhorabilidade do Bem de Família em imóveis de valor vultoso para possibilitar a penhora parcial.",
+   "colegiado": "CPASF",
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2563199",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
+ "votos_chave": [
+  {
+   "proposicao": "PL 2630/2020",
+   "tema": "plataformas",
+   "nota": "PL das Fake News / regulação de plataformas",
+   "data": "2023-04-25",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2256735",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 4675/2025",
+   "tema": "plataformas",
+   "nota": "Mercados digitais (CADE)",
+   "data": "2026-03-18",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2562481",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição. Sim: 18; Não: 328; Abstenção: 7; Total: 353.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitado o Requerimento. Sim: 118; Não: 289; Total: 407.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-16",
+   "descricao": "Rejeitado o Requerimento. Sim: 46; Não: 232; Total: 278.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 15; Não: 334; Total: 349.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 441; Não: 3; Total: 444.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Rejeitado o Requerimento. Sim: 81; Não: 289; Total: 370.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, com parecer pela rejeição, indicados no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 77; Não: 252; Total: 329.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Mantido o texto. Sim: 292; Não: 106; Total: 398.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  }
+ ],
+ "orgaos": [
+  "CCOM — Suplente (Câmara): Comissão de Comunicação",
+  "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+ ],
+ "frentes": [
+  "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+  "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação",
+  "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+ ],
+ "limitacoes": []
+}

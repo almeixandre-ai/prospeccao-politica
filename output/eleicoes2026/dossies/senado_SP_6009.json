@@ -1,0 +1,167 @@
+{
+ "parlamentar_chave": "senado_SP_6009",
+ "nome_urna": "Astronauta Marcos Pontes",
+ "nome_completo": "Marcos Cesar Pontes",
+ "casa_2027": "senado",
+ "uf": "SP",
+ "partido": "PL",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "6009",
+ "data_coleta": "2026-11-19",
+ "iip": 56.9,
+ "prioridade": "A — Prioridade alta",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PL 3168/2023",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT, para determinar que 10% (dez por cento) dos recursos do FNDCT sejam destinados para popularização da Ciência, Tecnologia e Inovação – C,T&I.",
+   "autor_principal": "Senador Astronauta Marcos Pontes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%203168/2023",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 3218/2023",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT, para determinar que 10% (dez por cento) dos recursos do FNDCT sejam destinados para popularização da Ciência, Tecnologia e Inovação – C,T&I.",
+   "autor_principal": "Senador Astronauta Marcos Pontes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%203218/2023",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 441/2025",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para estabelecer o sigilo da qualificação, dados pessoais, telefone e endereço da vítima.",
+   "autor_principal": "Senador Astronauta Marcos Pontes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20441/2025",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PEC 26/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+   "autor_principal": "Senador Astronauta Marcos Pontes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2026/2025",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PLP 172/2025",
+   "temas": [
+    "ia",
+    "tributacao",
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei Complementar nº 214, de 30 de janeiro de 2025, para instituir medida de fomento à inovação tecnológica mediante dedução de valores investidos em sistemas de inteligência artificial do montante devido a título da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS).",
+   "autor_principal": "Senador Astronauta Marcos Pontes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PLP%20172/2025",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 4752/2025",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "ementa": "Institui o Marco Legal da Cibersegurança, cria o Programa Nacional de Segurança e Resiliência Digital e altera a Lei nº 13.756, de 12 de dezembro de 2018.",
+   "autor_principal": "Senador Esperidião Amin ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%204752/2025",
+   "casa": "senado"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PLP 6/2026",
+   "ementa": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para que a redução de incentivos e benefícios de natureza tributária, financeira ou creditícia não se aplique sobre os incentivos previstos nos arts. 17 a 26 da Lei nº 11.196, de 21 de novembro de 2005 – Lei do Bem.",
+   "colegiado": "CCT",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PLP%206/2026"
+  },
+  {
+   "identificacao": "PL 5823/2025",
+   "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT, para viabilizar a destinação de recursos do Fundo à pesquisa em oncologia.",
+   "colegiado": "CAS",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%205823/2025"
+  },
+  {
+   "identificacao": "PL 1153/2025",
+   "ementa": "Cria o Programa Transformação Digital para Ribeirinhos, Quilombolas e Comunidades Indígenas e dá outras providências.",
+   "colegiado": "CCT",
+   "temas": [
+    "governo_digital"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%201153/2025"
+  },
+  {
+   "identificacao": "PLP 117/2024",
+   "ementa": "Altera a Lei Complementar n.º 182, de 1º de junho de 2021, para a definição e o enquadramento de empresas startups verdes e dá outras providências.",
+   "colegiado": "CCT",
+   "temas": [
+    "startups"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PLP%20117/2024"
+  },
+  {
+   "identificacao": "PL 1833/2024",
+   "ementa": "Acrescenta o art. 88-A à Lei no 9.610, de 19 de fevereiro de 1998 (Lei dos Direitos Autorais), para proibir a utilização da inteligência artificial nos casos em que especifica.",
+   "colegiado": "CCT",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%201833/2024"
+  },
+  {
+   "identificacao": "PL 4097/2023",
+   "ementa": "Altera as leis 12.965, de 23 de abril de 2014, (Marco Civil da Internet) e 13.709, de 14 de agosto de 2018, (Lei Geral de Proteção de Dados) para dispor sobre a soberania digital e dar outras providências.",
+   "colegiado": "CCT",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%204097/2023"
+  },
+  {
+   "identificacao": "PL 2838/2020",
+   "ementa": "Altera a Lei nº 11.196, de 21 de Novembro de 2005 – Lei do Bem.",
+   "colegiado": "CCT",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202838/2020"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CTIA — Titular (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil",
+  "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+ ],
+ "frentes": [
+  "Frente Parlamentar Mista das Startups e do Empreendedorismo Inovador",
+  "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+ ],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

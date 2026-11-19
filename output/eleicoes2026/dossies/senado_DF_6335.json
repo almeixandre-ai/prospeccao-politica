@@ -1,0 +1,104 @@
+{
+ "parlamentar_chave": "senado_DF_6335",
+ "nome_urna": "Damares Alves",
+ "nome_completo": "Damares Regina Alves",
+ "casa_2027": "senado",
+ "uf": "DF",
+ "partido": "REPUBLICANOS",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "6335",
+ "data_coleta": "2026-11-19",
+ "iip": 40.7,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PEC 26/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+   "autor_principal": "Senador Astronauta Marcos Pontes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2026/2025",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 2877/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, que dispõe sobre a organização dos serviços de telecomunicações, a criação e funcionamento de um órgão regulador e outros aspectos institucionais, nos termos da Emenda Constitucional nº 8, de 1995; e a Lei nº 12.965, de 23 de abril de 2014, que estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, para dispor sobre as competências da Agência Nacional de Telecomunicações e a responsabilização dos provedores de conexão à internet e dos prestadores dos demais serviços habilitadores de conectividade pelo acesso a provedores de aplicações que disponibilizam conteúdos apontados como infringentes.",
+   "autor_principal": "Senadora Soraya Thronicke ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202877/2025",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 5535/2025",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, para permitir o tratamento de dados pessoais por autoridades de segurança pública em casos de desaparecimento de pessoas.",
+   "autor_principal": "Senadora Damares Alves ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%205535/2025",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 5726/2026",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Acrescenta o art. 88-A à Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência – Estatuto da Pessoa com Deficiência), para tipificar a produção, a divulgação e a manutenção de conteúdo sexual degradante, gerado ou alterado por inteligência artificial ou outro meio de simulação, que retrate pessoa com deficiência.",
+   "autor_principal": "Senadora Damares Alves ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%205726/2026",
+   "casa": "senado"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 3066/2025",
+   "ementa": "Institui medidas de enfrentamento e repressão ao crime de violência sexual contra criança ou adolescente, inclusive no ambiente digital e com uso de inteligência artificial; e altera os Decretos-Leis nºs 2.848, de 7 de dezembro de 1940 (Código Penal), e 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e as Leis nºs 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), e 12.850, de 2 de agosto de 2013, para recrudescer o tratamento penal aos criminosos sexuais.",
+   "colegiado": "CDH",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%203066/2025"
+  },
+  {
+   "identificacao": "PL 931/2026",
+   "ementa": "Dispõe sobre os princípios éticos, diretrizes de governança, requisitos de transparência e mecanismos de controle aplicáveis ao uso de sistemas de Inteligência Artificial (IA) na área da saúde, e dá outras providências.",
+   "colegiado": "CAS",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20931/2026"
+  },
+  {
+   "identificacao": "PL 1227/2024",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei nº 11.343, de 23 de agosto de 2006 (Lei Antidrogas), para responsabilizar penalmente quem utiliza as redes sociais para fazer propaganda enganosa, propalar a venda de droga ou mercadoria proibidas ou incentivar sua aquisição.",
+   "colegiado": "CCT",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%201227/2024"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+  "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital"
+ ],
+ "frentes": [
+  "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+ ],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

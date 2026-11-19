@@ -1,0 +1,1675 @@
+{
+ "parlamentar_chave": "camara_RR_230002538187",
+ "nome_urna": "DUDA RAMOS",
+ "nome_completo": "DUDA BRITO RAMOS",
+ "casa_2027": "camara",
+ "uf": "RR",
+ "partido": "PODE",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": 220540,
+ "codigo_senado": null,
+ "data_coleta": "2026-11-19",
+ "iip": 81.7,
+ "prioridade": "A — Prioridade alta",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PL 6192/2023",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, para destinar recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT para a promoção de projetos que estimulem empreendedorismo.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Federal, critério, aplicação, recursos, Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), Empreendedorismo.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2023-12-21",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2416436",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2381947",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 996/2024",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, com o objetivo de impor aos provedores de aplicações de redes sociais a obrigatoriedade da sistemática de segurança e identificação dos usuários nos termos que especifica.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Civil da Internet (2014), obrigatoriedade, Provedor de aplicações, rede social, identificação, autenticação, usuário, colaboração, Autoridade policial, Autoridade judiciária, prevenção, Atividade criminosa, ambiente virtual, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2024-03-26",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2423749",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2400863",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1287/2024",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei no 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais, para determinar aos controladores de bancos de dados públicos a implementação de medidas para coibir a coleta ilícita de dados pessoais.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), controle, Banco de dados, Serviços públicos, Dados pessoais, Dados pessoais sensíveis, Compartilhamento de dados, coleta, Ilícito, Tratamento de dados.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2024-04-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2427267",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2408364",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3837/2024",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei nº 11.540, de 27 de novembro de 2007, para dispor sobre a destinação de recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) para o fomento de corredores tecnológicos e ambientes de desenvolvimento tecnológico nos estados da Região Norte do Brasil.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Federal, critério, destinação, recursos, Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), investimento, pesquisa e desenvolvimento, inovação tecnológica, desenvolvimento regional, Sustentabilidade ambiental, região Norte, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2024-10-08",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2461361",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2482955",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4705/2024",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei n° 10.973, de 2 de dezembro de 2004, e a Lei n° 11.540, de 12 de novembro de 2007, para possibilitar a designação de servidores, militares e empregados públicos de Instituição Científica, Tecnológica e de Inovação (ICT) pública no respectivo Núcleo de Inovação Tecnológica (NIT), e o pagamento de bolsas de estímulo à inovação.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei de Inovação Tecnológica (2004), lei federal, autorização, designação, servidor público, militar, empregado público, atuação, Instituição Científica, Tecnológica e de Inovação (ICT), bolsa de estímulo à inovação, critério.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2024-12-05",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2476336",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2834787",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3211/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Estabelece incentivos e prioridades para provedores regionais de internet no acesso a políticas públicas de conectividade e linhas de financiamento, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Incentivo, provedor de acesso, internet, pequena empresa, média empresa, âmbito regional, acesso, política pública, criação, Programa Nacional de Incentivo aos Provedores Regionais (PNIPR).",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-07-02",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2531512",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2948252",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3212/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Conectividade Universal e torna a internet um direito essencial à cidadania em áreas remotas e de alta vulnerabilidade.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Política Nacional de Conectividade Universal, Fundo Nacional de Universalização da Conectividade, garantia, acesso gratuito, acesso irrestrito, internet, área rural, área remota, indígenas, quilombolas, comunidade ribeirinha, vulnerabilidade social, município, Região Norte, Brasil, inferioridade, Índice de Desenvolvimento Humano (IDH).",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2025-07-02",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2531514",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2948254",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3213/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Dispõe sobre a obrigatoriedade de conectividade pública em espaços essenciais, estabelece metas específicas para a Região Norte e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, garantia, disponibilização, infraestrutura de conectividade, internet, rede sem fio, acesso gratuito, área pública, Região Norte, Brasil, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2025-07-02",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2531515",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2948256",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3224/2025",
+   "temas": [
+    "incentivos_pd",
+    "infra_digital"
+   ],
+   "ementa": "Dispõe sobre a destinação mínima de recursos de fundos públicos federais de conectividade e inovação tecnológica à Região Norte do Brasil e estabelece diretrizes para sua aplicação prioritária, com metas, critérios de transparência e controle social.",
+   "ementa_detalhada": "",
+   "keywords": "Destinação, percentual, Fundo de Universalização dos Serviços de Telecomunicações (Fust), Fundo para o Desenvolvimento Tecnológico das Telecomunicações (FUNTTEL), Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), Fundo de Fiscalização das Telecomunicações (Fistel), infraestrutura tecnológica, infraestrutura de conectividade, diretrizes, inclusão digital, Região Norte, Brasil.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-07-02",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2531637",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2948550",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3751/2025",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "ementa": "Estabelece a prioridade na destinação de recursos para ações de informação e inteligência no combate aos crimes financeiros virtuais, com ênfase no estelionato digital, phishing, roubo de identidade, fraudes financeiras online e outros crimes cibernéticos, além de implementar a capacitação de profissionais, a utilização de tecnologias avançadas e a criação de um ambiente mais seguro no espaço digital.",
+   "ementa_detalhada": "",
+   "keywords": "Prioridade, União, destinação, recursos públicos, Atividade de inteligência, Educação e formação profissional, Segurança cibernética, combate, Crime cibernético, Estelionato virtual, Fraude eletrônica, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-08-06",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2540796",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2967452",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3804/2025",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Proíbe cláusulas de fidelização contratual na prestação de serviços de telecomunicações e serviços digitais agregados, estabelece regras de transparência contratual, reforça a atuação regulatória da Anatel e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Proibição, cláusula de fidelização, contrato, empresa, serviços de telecomunicações, diretrizes, telefonia, internet, televisão, serviços digitais, Agência Nacional de Telecomunicações (Anatel), Defesa do consumidor.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-08-07",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2541285",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2968460",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5389/2025",
+   "temas": [
+    "propriedade_intelectual"
+   ],
+   "ementa": "Institui a Política Nacional de Fitoterapia e Biotecnologia Amazônica, voltada à pesquisa, desenvolvimento e inovação em medicamentos, suplementos e cosméticos derivados da biodiversidade da Amazônia, estabelece incentivos fiscais e creditícios, cria regime especial de propriedade intelectual e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Política Nacional de Fitoterapia e Biotecnologia Amazônica, diretrizes, garantia, propriedade intelectual, indústria nacional, conhecimento tradicional, benefício fiscal, tributação, Imposto de Renda das Pessoas Jurídicas (IRPJ), Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (Contribuição PIS-Pasep), Contribuição para Financiamento da Seguridade Social (Cofins), Imposto de Importação, linha de crédito, bônus, empresa, coproprietário, comunidade tradicional, indígenas, comunidade ribeirinha, bioeconomia, biodiversidade, desenvolvimento sustentável, enfrentamento, biopirataria.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2025-10-23",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2575672",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3028751",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PEC 38/2025",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+   "ementa_detalhada": "",
+   "keywords": "Constituição Federal (1988), Reforma Administrativa (2025). _Direitos fundamentais, garantias fundamentais, inclusão, meio eletrônico, certidão, Órgão público. _Direitos sociais, inclusão digital. _Governança, gestão estratégica, Gestão por resultados, Administração de pessoal, Transformação digital, Estratégia Nacional de Governo Digital, Política Nacional de Dados Abertos, Plano Nacional de Governo Digital, diretrizes.  \r\nDisciplinamento, Plano de cargos, carreiras e salários, processo seletivo, cargo em comissão, concurso público, estágio probatório, carreira pública transversal, Estabilidade no serviço público, férias, Adicional (vantagem pecuniária), Verba indenizatória, Educação e formação profissional, servidor público, Serviço terceirizado, Administração Pública. _ Extinção, adicional por tempo de serviço, Licença-prêmio. _ Criação, Bônus de resultado por desempenho. _ Proibição, Aposentadoria compulsória, Penalidade disciplinar, magistrado, membro, Ministério Público. _ Limitação, Despesa pública, remuneração, Poder Executivo, Poder Legislativo, Poder Judiciário.",
+   "autor_principal": "Zé Trovão",
+   "e_autor_principal": false,
+   "n_coautores": 171,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2025-10-24",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2576168",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3029805",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5836/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a proteção da liberdade de expressão e manifestação de agentes políticos no exercício do mandato, vedando práticas de censura em plataformas digitais e assegurando a prevalência da imunidade parlamentar material no ambiente digital.",
+   "ementa_detalhada": "",
+   "keywords": "Proibição, censura, desmonetização, exclusão, Conta de usuário, agente político, plataforma digital, provedor de aplicações, rede social digital, imunidade parlamentar, ambiente virtual.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-11-12",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2584701",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3045633",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6724/2025",
+   "temas": [
+    "infra_digital",
+    "governo_digital"
+   ],
+   "ementa": "Institui o Marco da Internet Funcional para Serviços Públicos, estabelece parâmetros mínimos de funcionalidade da conectividade para fins de prestação de serviços públicos digitais, condiciona o uso da internet ao atendimento desses parâmetros e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, ação governamental, marco regulatório, internet, eficiência, infraestrutura de conectividade, prestação de serviços à comunidade, serviços públicos, direito do consumidor, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599317",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072112",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6743/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), e a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para responsabilizar plataformas digitais e de comércio eletrônico por golpes e pela comercialização de produtos falsificados em seus ambientes virtuais.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Código de Defesa do Consumidor (1990), Marco Civil da Internet (2014), responsabilização, plataforma digital, comércio eletrônico, golpe financeiro, comercialização, produto falsificado, fraude, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599346",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072258",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6762/2025",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Comercialização e Redução de Custos de Produtos Agroecológicos e Orgânicos da Agricultura Familiar; estabelece metas, certificação acessível, hubs logísticos, compras públicas com subcota, facilitação sanitária e monitoramento; e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, ação governamental, comercialização, redução, custo, produto agroalimentar, produto orgânico, produto agroecológico, incentivo, agricultura familiar, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599365",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072277",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6801/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Tipifica a exploração de vulnerabilidade social mediante falsas promessas de enriquecimento e estabelece agravantes quando praticada por influenciadores digitais ou em redes sociais.",
+   "ementa_detalhada": "Altera o Decreto-lei n. 2.848, de 7 de dezembro de 1940.",
+   "keywords": "Alteração, Código Penal (1940), tipificação de conduta, exploração, vulnerabilidade social, influenciador digital, criador de conteúdo digital, plataforma digital, rede social digital, enriquecimento.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599404",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072317",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6854/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de atendimento telefônico ininterrupto pelas plataformas digitais de transporte remunerado privado individual de passageiros, e estabelece padrões mínimos de segurança, qualidade e rastreabilidade, bem como sanções aplicáveis em caso de descumprimento.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, disponibilização, Atendimento ao consumidor, Atendimento telefônico, Plataforma digital, Transporte por aplicativo, Aplicativo de transporte, Transporte de passageiro.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599457",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072372",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6858/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a obrigação de plataformas digitais de identificar, remover e banir perfis que promovam discurso de ódio, discriminação ou violência contra crianças e adolescentes, estabelece deveres de transparência e integridade, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, Plataforma digital, identificação, exclusão, Perfil de usuário, divulgação, Discurso de ódio, Discriminação, Violência contra a criança e o adolescente.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599461",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072376",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6894/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a obrigatoriedade de fornecimento célere de dados por provedores de aplicações e redes sociais à autoridade policial, com o objetivo de desburocratizar e acelerar as investigações criminais, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, agilização, fornecimento, Dados digitais, Perfil de usuário, Provedor de aplicações, Provedor de conteúdo, Rede social digital, facilitação, Investigação criminal.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599497",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072413",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6905/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Dispõe sobre o fornecimento de banda larga e de dispositivos necessários ao acesso à educação às comunidades indígenas e quilombolas localizadas na Amazônia Legal, estabelece metas obrigatórias, define padrões mínimos de conectividade e tecnologia, cria mecanismos de fiscalização e controle social e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, acesso, Velocidade de conexão, Banda larga, Provedor de acesso, Internet, Educação, Grupo indígena, Quilombolas, Amazônia Legal.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599508",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072424",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6918/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de mecanismos de gravação, monitoramento, câmeras certificadas e proteção avançada ao passageiro nas plataformas digitais de transporte remunerado privado individual, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, Empresa operadora de aplicativo, disponibilização, monitoramento, Câmera de segurança, Passageiro, Transporte por aplicativo, Transporte de passageiro.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599521",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072437",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6920/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui normas obrigatórias de segurança para plataformas digitais de transporte remunerado privado individual de passageiros, cria categorias exclusivas para mulheres, estabelece critérios de verificação de antecedentes criminais dos motoristas, e determina a instalação de alarme sonoro de risco nos veículos, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, diretrizes, Segurança, Plataforma digital, Aplicativo de transporte, Transporte por aplicativo, Transporte de passageiro, verificação, Antecedente criminal, Motorista de aplicativo, proteção, Mulher, Alarme sonoro.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599523",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072439",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6946/2025",
+   "temas": [
+    "incentivos_pd",
+    "startups"
+   ],
+   "ementa": "Institui o Programa Nacional de Apoio ao Empreendedorismo Inovador na Amazônia Legal, cria mecanismos obrigatórios de fomento à inovação sustentável, tecnológica, científica, social e territorial na região, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Ação governamental, incentivo, Empreendedorismo, Inovação tecnológica, Desenvolvimento sustentável, Desenvolvimento tecnológico, Desenvolvimento científico, Desenvolvimento socioeconômico, Amazônia Legal.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599550",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072466",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6971/2025",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de vazamento ou uso indevido de dados pessoais por agente público, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Código Penal (1940), Tipificação de conduta, vazamento, Compartilhamento de dados, Acesso ilícito (informática), disponibilização, Dados pessoais, Informação sigilosa, Agente público.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599575",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072494",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6975/2025",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Estabelece diretrizes para o tratamento de dados pessoais em plataformas tecnológicas de ensino à distância e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, Tratamento de dados, Processamento de dados, Compartilhamento de dados, Dados pessoais, Plataforma digital, Educação a distância.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599579",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072499",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6980/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente), obrigando os provedores de redes sociais na internet a disponibilizarem ferramenta gratuita de supervisão parental que permita aos pais e responsáveis monitorar as atividades de crianças e adolescentes no ambiente digital.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Felca (2025), Estatuto Digital da Criança e do Adolescente (2025), obrigatoriedade, Provedor de conteúdo, Provedor de aplicações, Rede social digital, disponibilização, Controle parental, monitoramento, Criança, Adolescente, Plataforma digital.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599584",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072504",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6984/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para determinar a remoção de conteúdos nas plataformas digitais que incitem a discriminação de pessoas com deficiência ou as exponha de forma humilhante ou vexatória, nos termos em que especifica.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Civil da Internet (2014), Remoção de conteúdo, Conteúdo digital, Provedor de conteúdo, Plataforma digital, Discriminação, Pessoa com deficiência, Exposição pública, Situação vexatória.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599588",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072508",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6989/2025",
+   "temas": [
+    "talentos"
+   ],
+   "ementa": "Altera a Lei nº 12.232, de 2010, que dispõe sobre as normas gerais para licitação e contratação de serviços de publicidade pela administração pública, e a Lei nº 12.965, de 2014, que institui o Marco Civil da Internet, para estabelecer vedações à veiculação de publicidade oficial em canais que difundam desinformação, instituir o Cadastro Nacional de Disseminadores Contumazes de Desinformação e de Discursos de Ódio e implementar ações de educação digital e combate às notícias falsas e aos discursos de ódio.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei de Licitações e Contratos de Publicidade (2010), Marco Civil da Internet (2014), proibição, veiculação, Publicidade institucional, Mídia digital, divulgação, Desinformação, combate, Notícia falsa (fake news), Discurso de ódio.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599593",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072514",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7056/2025",
+   "temas": [
+    "incentivos_pd",
+    "governo_digital"
+   ],
+   "ementa": "Institui a Lei de Compras Públicas Inovadoras do Norte, estabelece diretrizes, metas e instrumentos para a realização de encomendas tecnológicas e compras públicas de inovação com foco territorial na Região Norte, priorizando soluções amazônicas, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, administração federal, licitação, aquisição, equipamento, desenvolvimento tecnológico, inovação tecnológica, Região Norte, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599660",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072587",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7062/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui o Plano de Conectividade Municipal e Segurança Viária da BR-431, estabelece diretrizes para pavimento funcional, drenagem adequada, manutenção orientada por indicadores simples e integração com políticas públicas locais, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, ação governamental, rodovia federal, mobilidade populacional, segurança viária, mobilidade urbana, infraestrutura rodoviária, desenvolvimento regional, Região Norte, Roraima, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599666",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072593",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7068/2025",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Redução do Custo de Alimentos em Fronteira e Áreas Isoladas, estabelece instrumentos federais de logística, armazenagem, compras públicas e incentivo ao abastecimento regional, define metas e mecanismos de monitoramento de preços, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, política pública, redução, custo, alimento, logística, transporte, área remota, faixa de fronteira, segurança alimentar, agricultura familiar, desenvolvimento regional, Região Norte, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599672",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072599",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7070/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui o Programa Federal de Conectividade de Precisão para Municípios Remotos, estabelece metas anuais obrigatórias de cobertura e qualidade dos serviços de telecomunicações móveis e de transporte de dados, define indicadores de desempenho, contrapartidas e mecanismos de indução, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Programa (administração), Infraestrutura de conectividade, garantia, inclusão digital, Serviços de telecomunicações, Desenvolvimento socioeconômico, Área remota, Região Norte, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599674",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072601",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7087/2025",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Compras Públicas Sustentáveis de Vestuário e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, política pública, âmbito nacional, compra, licitação, órgão público, sustentabilidade, vestuário, indústria têxtil, produção nacional, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599696",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072623",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7089/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Institui a Política Nacional de Substituição de Químicos Perigosos, estabelece instrumentos de incentivo à química verde e à inovação tecnológica, cria lista negativa progressiva de substâncias e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, política pública, substituição, substância química, substância tóxica, redução, risco ambiental, proteção ambiental, desenvolvimento sustentável, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599698",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072625",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7098/2025",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui o Programa Federal de Indução e Competitividade da Indústria Têxtil e de Confecção na Região Norte (PROTÊXTIL NORTE), estabelece instrumentos de atração e expansão produtiva, metas, indicadores de desempenho, compras públicas indutoras e rito prioritário para autorizações e licenças relacionadas a projetos habilitados, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, ação governamental, incentivo, expansão, fortalecimento, cadeia produtiva, indústria têxtil, confecção, sustentabilidade ambiental, geração de emprego, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599707",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072634",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 490/2026",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Autoriza a União a adotar instrumentos de estímulo ao suprimento de energia limpa e competitiva para data centers localizados nas Regiões Norte e Nordeste, institui o Selo “Data Center Verde Regional” e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Critério, incentivo, utilização, Fonte alternativa de energia, suprimento, Centro de dados (data center), Região Norte, Região Nordeste, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-02-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2602594",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3081956",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 491/2026",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Estabelece diretrizes para a expansão da infraestrutura digital e da conectividade de alta capacidade, com prioridade para as Regiões Norte e Nordeste, visando garantir condições técnicas mínimas para a implantação e operação de data centers e fortalecer a soberania e a integração digital do País.",
+   "ementa_detalhada": "",
+   "keywords": "Critério, expansão, Infraestrutura de conectividade, Tecnologia digital, Centro de dados (data center), prioridade, Região Norte, Região Nordeste, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-02-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2602595",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3081957",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 704/2026",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Estabelece as prioridades estruturantes para o desenvolvimento, a implementação e o uso da inteligência artificial no Brasil, define o combate à corrupção e a redução das desigualdades sociais como núcleo orientador da tecnologia, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, Sistema de inteligência artificial, âmbito nacional, prioridade, tecnologia, enfrentamento, Corrupção, Desigualdade regional, Desigualdade social, transparência, justiça social, inclusão, igualdade de oportunidade, Desenvolvimento econômico, Responsabilidade social.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-02-24",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2604146",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3086962",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1263/2026",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui o Sistema Nacional de Competitividade Econômica das Cadeias Produtivas Estratégicas da Amazônia Legal, cria mecanismos de garantia de renda, crédito, agregação de valor, compras públicas, incentivo logístico e acesso a mercados, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, ação governamental, selo de certificação, incentivo, competitividade, renda, industrialização, desenvolvimento regional, inserção, economia doméstica, logística, exportação, cadeia produtiva, produtos, Amazônia Legal, diretrizes.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-03-18",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2610393",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3100552",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1296/2026",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Produção Energética Renovável da Amazônia Legal – AMAZÔNIA COMBUSTÍVEL DO FUTURO, cria o Sistema Nacional de Competitividade dos Combustíveis Renováveis Estratégicos da Amazônia Legal, estabelece instrumentos de incentivo à produção, agroindustrialização, certificação, comercialização, financiamento, garantia de crédito, compras públicas e acesso a mercados, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, política, âmbito nacional, Fonte alternativa de energia, Amazônia Legal, diretrizes, biogás, biometano, diesel verde, combustível sustentável de aviação, etanol, biocombustível, insumo, hidrogênio de baixo carbono, hidrogênio verde, Região Norte, Brasil, Transição energética.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-03-19",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2610862",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3101526",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PLP 79/2026",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para conceder crédito presumido da Contribuição sobre Bens e Serviços (CBS) para equalização do preço dos combustíveis na Região Norte aplicável à gasolina e ao óleo diesel, com mecanismos de repasse obrigatório ao consumidor, controle fiscal, avaliação periódica e limitação da renúncia fiscal.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Complementar, concessão, crédito presumido, Contribuição Social sobre Bens e Serviços (CBS), equalização de preços, abastecimento, gasolina, óleo diesel, Região Norte, critério, obrigatoriedade, repasse, consumidor, benefício fiscal, tributação.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "data_apresentacao": "2026-03-25",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2611961",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3104674",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1408/2026",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Conectividade Aérea da Amazônia Legal, estabelece mecanismos de compensação dos impactos da transição tributária sobre o transporte aéreo regional, cria instrumentos de equalização tarifária, garantia de oferta e incentivo à operação de rotas estratégicas, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, política, âmbito nacional, conexão, Transporte aéreo, Amazônia Legal, preço, passagem aérea, proteção, tarifa aérea, incentivo, rota aérea, benefício fiscal, tributação, monitoramento, diretrizes, Região Norte, Brasil.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-03-25",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2611963",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3104676",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2917/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui o Marco Legal da Soberania Financeira Digital Brasileira e da Proteção das Infraestruturas Estratégicas Nacionais de Pagamentos, estabelece a Política Nacional de Soberania Financeira Digital, dispõe sobre a proteção dos sistemas nacionais de pagamentos digitais, a defesa dos usuários, a prevenção de fraudes financeiras digitais, a inclusão financeira territorial, a proteção de dados financeiros estratégicos e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, Autonomia financeira, autonomia tecnológica, proteção, Sistema de Pagamentos Brasileiro (SBP), Pagamento Instantâneo (PIX), Sistema financeiro aberto, livre iniciativa, livre concorrência, inclusão digital, educação financeira, segurança, consumidor, soberania nacional.",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-06-08",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2630308",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3142668",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4349/2026",
+   "temas": [
+    "incentivos_pd",
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Federal Boa Vista Cidade Inteligente, destinada a promover a cooperação da União para a transformação digital, a inovação tecnológica, a modernização urbana e o desenvolvimento sustentável do Município de Boa Vista, Estado de Roraima, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "política pública; Cidade inteligente; Boa Vista (RR); Roraima; Cooperação federativa; Transformação digital; Desenvolvimento urbano sustentável; tecnologia; Amazônia Legal; diretrizes",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641033",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164801",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4350/2026",
+   "temas": [
+    "incentivos_pd",
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Federal Boa Vista Referência em Inovação Pública, Governo Aberto e Transparência, destinada a estimular, em regime de cooperação federativa, o desenvolvimento de soluções inovadoras, o fortalecimento da governança pública, da transformação digital, da transparência e da participação cidadã no Município de Boa Vista, Estado de Roraima.",
+   "ementa_detalhada": "",
+   "keywords": "Política pública; Governo aberto; Inovação tecnológica; Governança pública; Transformação digital; Participação popular; Cooperação federativa; Transparência ativa; tecnologia; Boa Vista (RR); Roraima",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641034",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164802",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4363/2026",
+   "temas": [
+    "ia",
+    "incentivos_pd",
+    "infra_digital",
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Computação em Nuvem Soberana da Região Norte, estabelece diretrizes para incentivo à instalação de infraestrutura de armazenamento, processamento e segurança de dados na Região Norte, fortalece a soberania digital, a conectividade estratégica e o desenvolvimento tecnológico regional, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "Ação governamental; Computação em nuvem; Centro de dados (data center); Armazenamento de dados; Processamento de dados; Região Norte; Infraestrutura tecnológica; Infraestrutura computacional; Polo tecnológico; Desenvolvimento regional; Transformação digital; Inteligência artificial; Interoperabilidade; Inovação tecnológica; Tecnologia da informação e comunicação (TIC); Programa de capacitação profissional; Nuvem privada; Nuvem pública; Soberania nacional; Princípio da redução das desigualdades regionais",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641047",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164817",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4364/2026",
+   "temas": [
+    "incentivos_pd",
+    "ciberseguranca",
+    "infra_digital"
+   ],
+   "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para estabelecer diretrizes aplicáveis às contratações de serviços de computação em nuvem pela administração pública federal, fortalecer a soberania digital brasileira, incentivar o desenvolvimento da infraestrutura tecnológica nacional e utilizar o poder de compra do Estado como instrumento de desenvolvimento científico, tecnológico e industrial.",
+   "ementa_detalhada": null,
+   "keywords": "Alteração; Lei de Licitações e Contratos Administrativos (2021); diretrizes; Contratação pública; Administração federal; Computação em nuvem; Soberania nacional; Segurança cibernética; Infraestruturas críticas; Desenvolvimento tecnológico; Inovação tecnológica; Infraestrutura tecnológica; Armazenamento de dados; Interoperabilidade",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641048",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164818",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4371/2026",
+   "temas": [
+    "ia",
+    "tributacao",
+    "incentivos_pd"
+   ],
+   "ementa": "Institui normas gerais para promover a igualdade de oportunidades econômicas no ambiente digital, prevenir práticas digitais que produzam discriminações socioeconômicas injustificadas e estabelecer deveres proporcionais de diligência e governança para serviços digitais de relevância econômica.",
+   "ementa_detalhada": null,
+   "keywords": "Igualdade de oportunidade; Transparência algorítmica; Serviços digitais; Inovação tecnológica; Defesa do consumidor; Decisão automatizada; Algoritmo; Inteligência artificial; enfrentamento; Discriminação social; Relações de consumo",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641055",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164861",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4372/2026",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui o Marco Legal do Empreendedorismo Inclusivo, cria a Política Nacional de Empreendedorismo Inclusivo, estabelece instrumentos permanentes de inclusão produtiva, inovação, acesso ao crédito, compras públicas e desenvolvimento regional, institui o princípio da Equidade Territorial e do Fator Amazônico e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "Empreendedorismo sustentável; Desenvolvimento regional; enfrentamento; Desigualdade regional; Desigualdade social; Custo amazônico; Igualdade de oportunidade; Inclusão produtiva",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641056",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164862",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4373/2026",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui o Marco Nacional do Desenvolvimento Produtivo do Pequeno Empreendedor, estabelece diretrizes para as políticas públicas federais de desenvolvimento empresarial, fortalece os instrumentos de inclusão produtiva, inovação, transformação digital, acesso a mercados e desenvolvimento regional, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "Desenvolvimento produtivo; Microempreendedor; Pequena empresa; Desenvolvimento regional; Política pública; Inclusão produtiva; Custo amazônico; Amazônia Legal; Incubação de empresas",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641057",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164863",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4380/2026",
+   "temas": [
+    "incentivos_pd",
+    "startups"
+   ],
+   "ementa": "Institui a Lei da Licença Tecnológica Expresso e estabelece normas para a tramitação prioritária e simplificada de autorizações, licenças e atos administrativos destinados a empreendimentos, produtos, serviços, pesquisas e ambientes de inovação tecnológica.",
+   "ementa_detalhada": null,
+   "keywords": "Licença (administração pública); autorização; Inovação tecnológica; Empresa startup; Sandbox regulatório; redução; Prazo máximo; Plataforma digital; tramitação; Procedimento administrativo; simplificação; Desburocratização",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641064",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164870",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4382/2026",
+   "temas": [
+    "incentivos_pd",
+    "governo_digital",
+    "startups"
+   ],
+   "ementa": "Institui o Fundo Norte Tech, destinado ao fortalecimento da inovação, da pesquisa científica, do empreendedorismo tecnológico e da transformação digital nos Estados da Amazônia Legal, e estabelece diretrizes para o desenvolvimento do ecossistema regional de ciência, tecnologia e inovação.",
+   "ementa_detalhada": null,
+   "keywords": "Fundos; Amazônia Legal; fomento; financiamento; Pesquisa científica; Empreendedorismo; Inovação tecnológica; Transformação digital; Desenvolvimento regional; Universidade; Instituto federal; Empresa startup; Incubadora de empresas; Parque tecnológico; enfrentamento; Desigualdade regional",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Definição Encaminhamento",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641066",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164872",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4383/2026",
+   "temas": [
+    "incentivos_pd",
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Crédito Tecnológico, estabelece diretrizes para ampliar o acesso ao financiamento destinado à inovação, à transformação digital e ao desenvolvimento tecnológico, e assegura tratamento prioritário aos Estados da Amazônia Legal.",
+   "ementa_detalhada": null,
+   "keywords": "Financiamento; Amazônia Legal; Política de crédito; Tecnologia; pesquisa e desenvolvimento; Transformação digital; Empresa de inovação; prioridade; Região Norte; Região Nordeste; Desenvolvimento tecnológico; Empreendedorismo",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641067",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164873",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4384/2026",
+   "temas": [
+    "incentivos_pd",
+    "startups"
+   ],
+   "ementa": "Institui a Política Nacional de Incentivo ao Investimento em Startups da Região Norte, cria o Programa Investe Norte Startups e estabelece diretrizes para estimular o investimento privado, o empreendedorismo inovador e o desenvolvimento do ecossistema de inovação na Amazônia Legal.",
+   "ementa_detalhada": null,
+   "keywords": "Região Norte; Amazônia Legal; Empreendedorismo; Investimento privado; Empresa; Inovação tecnológica; enfrentamento; Desigualdade regional; acesso; Capital (economia)",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641068",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164874",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4386/2026",
+   "temas": [
+    "ia",
+    "incentivos_pd"
+   ],
+   "ementa": "Institui a Política Nacional dos Centros de Inteligência Artificial, cria a Rede Norte de Centros de Inteligência Artificial e estabelece diretrizes para o desenvolvimento da pesquisa, da inovação, da formação de talentos e da aplicação da inteligência artificial, com prioridade para a Região Norte e a Amazônia Legal.",
+   "ementa_detalhada": null,
+   "keywords": "Sistema de inteligência artificial; pesquisa e desenvolvimento; inovação; Região Norte; Amazônia Legal; Desenvolvimento tecnológico; Desigualdade regional; Desenvolvimento regional",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641070",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164876",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4395/2026",
+   "temas": [
+    "tributacao",
+    "ciberseguranca"
+   ],
+   "ementa": "Institui o Marco Legal da Governança dos Riscos Digitais Extremos para Proteção da Vida, estabelece a Política Nacional de Governança dos Riscos Digitais Extremos, dispõe sobre o regime jurídico aplicável aos Prestadores de Serviços Digitais Estratégicos, cria instrumentos de prevenção, gestão, cooperação institucional e resposta a riscos digitais extremos capazes de comprometer a vida e a integridade física das pessoas, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "Gerenciamento de risco; Prestador de serviço; Serviços digitais; Segurança cibernética; Crime contra a vida; Ambiente virtual",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641082",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164967",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4400/2026",
+   "temas": [
+    "ia",
+    "dados",
+    "ciberseguranca"
+   ],
+   "ementa": "Institui a Política Nacional de Governança de Dados para Inteligência Artificial e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "criação; Política pública; Governança de dados; Inteligência artificial generativa; proteção; Dados pessoais; Segurança da informação; Segurança cibernética; Saúde pública; Compartilhamento de dados; Amazônia Legal; Semiárido",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641087",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164972",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4414/2026",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Institui a Lei de Transparência nas Assinaturas Híbridas Digitais e estabelece direitos dos consumidores em contratos de serviços digitais que combinem pagamento periódico e exposição à publicidade.",
+   "ementa_detalhada": null,
+   "keywords": "regulamentação; contratação; Serviços digitais; Plataforma de streaming; Transparência; Publicidade enganosa; Publicidade abusiva; Publicidade digital; Conteúdo patrocinado; Consumidor vulnerável; Direito do consumidor",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641101",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164986",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4415/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui a Lei da Moderação Comercial Ética em Plataformas Digitais e estabelece regras mínimas de transparência sobre priorização comercial de conteúdos, impulsionamentos pagos e favorecimento algorítmico vinculado à publicidade.",
+   "ementa_detalhada": null,
+   "keywords": "regulamentação; Impulsionamento de conteúdo; Moderação de conteúdo; Publicidade digital; Conteúdo patrocinado; Plataforma digital; Rede social digital; Transparência algorítmica",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641102",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164987",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4468/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui o Marco Legal da Soberania Financeira Digital Brasileira e da Proteção das Infraestruturas Estratégicas Nacionais de Pagamentos, estabelece a Política Nacional de Soberania Financeira Digital, dispõe sobre a proteção dos sistemas nacionais de pagamentos digitais, a defesa dos usuários, a prevenção de fraudes financeiras digitais, a inclusão financeira territorial, a proteção de dados financeiros estratégicos e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "criação; Ação governamental; Marco regulatório; Soberania nacional; Sistema de Pagamentos Brasileiro (SBP); Pagamento Instantâneo (Pix); Ecossistema de Pagamentos Instantâneos - Pix; monitoramento; Instituição financeira; inovação; Desenvolvimento tecnológico; Meio de pagamento",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641155",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165046",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4474/2026",
+   "temas": [
+    "talentos"
+   ],
+   "ementa": "Institui o Marco Nacional de Prevenção e Combate às Fraudes Digitais, estabelece a Política Nacional de Prevenção e Combate às Fraudes Digitais, cria mecanismos de prevenção, proteção, resposta rápida, recuperação patrimonial das vítimas, cooperação institucional e educação digital, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "criação; Ação governamental; Marco regulatório; prevenção; combate; Fraude eletrônica; Crime cibernético; Cooperação institucional; Instituição financeira; Recuperação econômica; rastreamento digital",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641161",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165052",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4476/2026",
+   "temas": [
+    "ia",
+    "ciberseguranca"
+   ],
+   "ementa": "Institui a Política Nacional de Proteção dos Ativos Informacionais Estratégicos do Brasil, estabelece princípios, diretrizes e instrumentos para a proteção, governança e utilização estratégica de dados econômicos, financeiros e tecnológicos de interesse nacional, promove o desenvolvimento da inteligência artificial nacional e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "criação; Ação governamental; Política pública; Segurança da informação; Dados; Soberania nacional; Desenvolvimento nacional; Desenvolvimento tecnológico; Segurança cibernética; Infraestrutura tecnológica; Tratamento de dados; Infraestrutura econômica",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641163",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165056",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4479/2026",
+   "temas": [
+    "ia",
+    "incentivos_pd",
+    "ciberseguranca",
+    "infra_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Proteção da Autonomia Tecnológica Brasileira, estabelece diretrizes para a soberania tecnológica nacional, a proteção das infraestruturas digitais estratégicas, a resiliência computacional, a inteligência artificial estratégica, a soberania dos dados críticos, a computação em nuvem de interesse nacional, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "criação; Ação governamental; Política Nacional de Soberania Digital (PNSD); Soberania nacional; Autonomia tecnológica; Segurança de infraestruturas críticas; Infraestrutura computacional; Segurança cibernética; Segurança da informação; Sistema de inteligência artificial; Inovação tecnológica",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641166",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165060",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4511/2026",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Nacional do Combo Alimentar Regional da Agricultura Familiar, destinada à integração entre compras públicas, segurança alimentar e fornecimento de cestas alimentares compostas por produtos regionais produzidos localmente.",
+   "ementa_detalhada": null,
+   "keywords": "criação; Ação governamental; Segurança alimentar e nutricional; Agricultura familiar; Cesta básica; Produção regional; Alimento agroecológico; Desenvolvimento regional; Agricultor familiar; Comunidade isolada; Desenvolvimento sustentável",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641199",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165094",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4526/2026",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Compras Públicas da Produção Indígena e das Comunidades Tradicionais e estabelece diretrizes para aquisição de alimentos, artesanato, produtos da bioeconomia e insumos locais pela administração pública.",
+   "ementa_detalhada": null,
+   "keywords": "Política pública; Compra; Administração pública; Licitação; produção; Indígenas; Comunidade tradicional; Inclusão produtiva; Desenvolvimento regional; diretrizes",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641214",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165112",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4527/2026",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Conectividade de Emergência para Polos Base e Escolas Indígenas – CONEXÃO ESSENCIAL, e estabelece diretrizes para garantia de comunicação mínima operacional em áreas indígenas remotas e de difícil acesso.",
+   "ementa_detalhada": null,
+   "keywords": "Política pública; garantia; conexão; Internet; Terras indígenas; Escola indígena; Situação de emergência; Saúde indígena; Infraestrutura de conectividade; Área remota; diretrizes",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641215",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165113",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4531/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui a Lei de Transparência sobre Monetização da Atenção Digital, estabelece normas de divulgação simplificada sobre mecanismos de monetização baseados em retenção comportamental, tempo de tela e exposição publicitária em plataformas digitais, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "diretrizes; Plataforma digital; Aplicação de internet; Monetização; Transparência algorítmica; Consumidor; uso excessivo; Economia digital; comportamento; Usuário; Relações de consumo",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641219",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165117",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4532/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui a Política Nacional de Proteção ao Ambiente Digital Menos Invasivo, estabelece parâmetros de transparência, proporcionalidade e limitação da publicidade digital excessivamente intrusiva em plataformas digitais, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "criação; Política pública; proteção; Usuário; Prática abusiva; Publicidade digital; Publicidade abusiva; Plataforma digital; Economia digital; Anúncio publicitário; Ambiente virtual; Direito do consumidor",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641220",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165118",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4533/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Institui a Lei de Proteção de Crianças e Adolescentes contra Hiperpublicidade Digital, estabelece limites à publicidade direcionada e às técnicas agressivas de retenção e impulsionamento comercial voltadas ao público infantojuvenil em plataformas digitais, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "diretrizes; Proteção; Usuário; Criança; Adolescente; Prática abusiva; Publicidade digital; Publicidade abusiva; Impulsionamento de conteúdo; Monetização; Plataforma digital; Economia digital; Direito do consumidor; Anúncio publicitário; Ambiente virtual; Direitos da criança e do adolescente",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641221",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165119",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4534/2026",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Institui a Lei de Proteção do Consumidor em Plataformas Gratuitas Digitais, estabelece regras mínimas de transparência sobre monetização publicitária, coleta de dados, perfilamento comercial e funcionamento algorítmico em serviços digitais gratuitos, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "diretrizes; Plataforma digital; Aplicação de internet; Monetização; Transparência algorítmica; Consumidor; Economia digital; comportamento; Usuário; Relações de consumo; Publicidade abusiva",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641222",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165120",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4535/2026",
+   "temas": [
+    "dados",
+    "plataformas"
+   ],
+   "ementa": "Institui a Lei da Transparência Algorítmica Publicitária, estabelece regras de informação simplificada ao consumidor sobre utilização de dados pessoais para publicidade comportamental, perfilamento comercial e direcionamento algorítmico de anúncios em plataformas digitais, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "diretrizes; Plataforma digital; Aplicação de internet; Monetização; Publicidade digital; Transparência algorítmica; Consumidor; Economia digital; comportamento; Usuário; Relações de consumo; Publicidade",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641223",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165121",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4546/2026",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Institui a Política Nacional de Humanização dos Serviços Digitais, estabelece direitos dos usuários em ambientes digitais, cria mecanismos de proteção contra barreiras tecnológicas excessivas, assegura a possibilidade de escalonamento para atendimento humano e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "Política; humanização; Serviços digitais; proteção; Barreira tecnológica; direitos; Usuário de serviços; Ambiente virtual; Meio eletrônico; Consumidor vulnerável; possibilidade; Atendimento com interação humana",
+   "autor_principal": "Duda Ramos",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2641234",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165132",
+   "casa": "camara"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PLP 462/2017",
+   "ementa": "Cria o INOVA SIMPLES, procedimento de apoio à inovação das empresas simples de inovação.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "startups"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2166835",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 10970/2018",
+   "ementa": "Inclui programas de informática de código aberto na lista de preferência nas aquisições de bens e serviços de informática e automação.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "tributacao",
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2186124",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 759/2023",
+   "ementa": "Regulamenta os sistemas de Inteligência Artificial, e dá outras providências.",
+   "colegiado": "CCTI",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "ia",
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2349685",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 33/2023",
+   "ementa": "Altera o art. 49 da Lei Complementar nº 101, de 4 de maio de 2000, para modificar a forma de acesso da população a prestações de contas efetuadas por administradores públicos, assim como o alcance da obrigação de prestar contas, e dá outras providências.",
+   "colegiado": "CASP",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2349747",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3685/2023",
+   "ementa": "Estabelece normas de transparência, controle e auditoria sobre a contratação de serviços relacionados ao desenvolvimento, manutenção e licenciamento de softwares por órgãos públicos federais, estaduais e municipais.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2375078",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1465/2024",
+   "ementa": "Estabelece princípios, garantias, direitos e deveres para o desenvolvimento, a implementação e a aplicação da inteligência artificial no Brasil, visando promover sua utilização segura, ética e responsável.",
+   "colegiado": "CE",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430325",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 236/2024",
+   "ementa": "Acrescenta o art. 9-A à Lei Complementar nº 182, de 1º de junho de 2021, para conceder isenção do Imposto de Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) às startups que reinvestirem seus lucros em atividades de pesquisa, desenvolvimento e inovação tecnológica.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "incentivos_pd",
+    "startups"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2481406",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1672/2025",
+   "ementa": "Institui o Plano de Reindustrialização e Soberania Nacional – PRSN.",
+   "colegiado": "CICS",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2497412",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3705/2025",
+   "ementa": "Altera a Lei nº 14.509, de 27 de dezembro de 2022, para dispor sobre a confirmação biométrica de operações com desconto automático em folha de pagamento.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2539440",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6706/2025",
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), para dispor sobre a Auditoria Algorítmica Preventiva em sistemas de Inteligência Artificial que afetam decisões de alto impacto social.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599299",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 7135/2025",
+   "ementa": "Altera a Lei nº 8.248, de 23 de outubro de 1991 (Lei de Informática), para estabelecer critérios de inclusão social e digital em Inteligência Artificial como contrapartida obrigatória para a fruição de incentivos fiscais.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "ia",
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599744",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1348/2026",
+   "ementa": "Institui a Lei Nacional de Financiamento da Pesquisa e Inovação em Oncologia, cria o Fundo Nacional de Pesquisa e Inovação em Oncologia – FUNPIO estabelece mecanismos permanentes de financiamento científico para prevenção, diagnóstico e tratamento do câncer, e dá outras providências.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2611427",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1386/2026",
+   "ementa": "Altera a Lei n° 10.973, de 2 de dezembro de 2004, a Lei n° 8.958, de 20 de dezembro de 1994, e a Lei nº 8.032, de 12 de abril de 1990, para aprimorar a definição e a atuação das ICTs nas atividades de ciência, tecnologia e inovação, e dá outras providências.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2611720",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1387/2026",
+   "ementa": "Altera a Lei n° 10.973, de 2 de dezembro de 2004, a Lei n° 8.958, de 20 de dezembro de 1994, e a Lei nº 8.032, de 12 de abril de 1990, para dispor sobre o acesso a recursos públicos pelas ICTs nas atividades de ciência, tecnologia e inovação, o aperfeiçoamento o regime de concessão de bolsas, e dá outras providências.",
+   "colegiado": "CCTI",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2611725",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
+ "votos_chave": [
+  {
+   "proposicao": "PL 2630/2020",
+   "tema": "plataformas",
+   "nota": "PL das Fake News / regulação de plataformas",
+   "data": "2023-04-25",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2256735",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 189; Não: 140; Total: 329.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 206; Não: 70; Total: 276.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.  Sim: 253; Não: 67; Abstenção: 4; Total: 324.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 118; Abstenção: 4; Total: 415.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-16",
+   "descricao": "Rejeitado o Requerimento. Sim: 46; Não: 232; Total: 278.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 104. Sim: 155; não: 316; abstenção: 2; total: 473.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 137; abstenção: 3; total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, com parecer pela rejeição, indicados no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 77; Não: 252; Total: 329.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-12",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  }
+ ],
+ "orgaos": [
+  "CCOM — Titular (Câmara): Comissão de Comunicação",
+  "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+ ],
+ "frentes": [
+  "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+  "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+  "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+ ],
+ "limitacoes": []
+}
