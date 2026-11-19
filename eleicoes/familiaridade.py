@@ -18,7 +18,7 @@ Lê os dossiês de output/eleicoes2026/dossies/ e aplica regras explícitas e au
     frente             frente parlamentar do eixo
 
   Nota
-    3  protagonismo: ≥2 relatorias; ou relatoria + (colegiado específico titular ou ≥2 autorias);
+    3  protagonismo: ≥3 relatorias; ou relatoria + (colegiado específico titular ou ≥2 autorias);
        ou liderança em colegiado do eixo; ou colegiado específico titular + ≥2 autorias
     2  atuação consistente: 1 relatoria; ou titular de colegiado específico; ou ≥2 autorias principais;
        ou titular de colegiado permanente + ≥1 autoria
@@ -103,7 +103,9 @@ FAVORAVEL = [
     (r"(data ?center|centros? de dados|redata).*(incentiv|atracao|fomento|regime)", "Atração de data centers"),
 ]
 ATENCAO = [
-    (r"responsabilidade (civil )?(objetiva|solidaria)", "Responsabilidade objetiva/solidária"),
+    (r"(plataforma|provedor|inteligencia artificial|desenvolvedor|software|aplicac).{0,120}responsabilidade (civil )?(objetiva|solidaria)"
+     r"|responsabilidade (civil )?(objetiva|solidaria).{0,120}(plataforma|provedor|inteligencia artificial|desenvolvedor|software|aplicac)",
+     "Responsabilidade objetiva/solidária de provedores/IA"),
     (r"(proib|vedad|veda ).{0,60}(uso|utilizacao).{0,30}inteligencia artificial", "Proibição de uso de IA"),
     (r"(armazenamento|localizacao|servidores?).{0,60}(territorio nacional|no brasil|no pais)", "Localização de dados"),
     (r"(contribuicao|cide|tributo|taxa).{0,60}servicos digitais", "Tributo sobre serviços digitais"),
@@ -173,7 +175,7 @@ def calcular(d: dict, ajustes: dict) -> dict:
         esp_tit = any("titular" in _papel(x) or "presidente" in _papel(x) for x in s["colegiado_esp"] if isinstance(x, str))
         esp_tit = esp_tit or any(isinstance(x, dict) for x in s["colegiado_esp"])
         lider = bool(s["lideranca"])
-        if n_rel >= 2 or (n_rel >= 1 and (esp_tit or n_pri >= 2)) or lider or (esp_tit and n_pri >= 2):
+        if n_rel >= 3 or (n_rel >= 1 and (esp_tit or n_pri >= 2)) or lider or (esp_tit and n_pri >= 2):
             nota = 3
         elif n_rel >= 1 or esp_tit or n_pri >= 2 or (s["colegiado_ger"] and n_pri >= 1):
             nota = 2

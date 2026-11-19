@@ -1,0 +1,80 @@
+﻿posicao;nome_urna;casa_2027;uf;partido;E1 IA e inovação;E2 Proteção de dados e privacidade;E3 Plataformas, concorrência e mercados digitais;E4 Telecom, cibersegurança e direitos digitais;total;faixa;sinal_alinhamento_abes;indicios;iip;alertas;chave
+1;AUREO RIBEIRO;camara;RJ;SOLIDARIEDADE;3;3;3;3;12;Referência (9–12);favorável (indícios);+ PLP 226/2024: Fomento a startups | + PLP 236/2024: Fomento a startups;58.3;;camara_RJ_190002534839
+2;MÁRCIO MARINHO;camara;BA;REPUBLICANOS;3;2;3;3;11;Referência (9–12);atenção (indícios);! PL 4635/2023: Responsabilidade objetiva/solidária de provedores/IA;41.4;;camara_BA_50002531452
+3;JULIO CESAR;camara;DF;REPUBLICANOS;3;2;3;3;11;Referência (9–12);indeterminado;;33.1;;camara_DF_70002538527
+4;MARCOS TAVARES;camara;RJ;PDT;2;2;3;3;10;Referência (9–12);indeterminado;;82.0;Alto volume de autoria — verificar substância antes de tratar como especialista;camara_RJ_190002539658
+5;DUDA RAMOS;camara;RR;PODE;3;3;2;2;10;Referência (9–12);favorável (indícios);+ PL 6192/2023: Fortalece incentivos/fundos de P&D | + PL 3837/2024: Fortalece incentivos/fundos de P&D | + PL 4384/2026: Fomento a startups | + PL 6706/2025: Como relator, evitou incluir na LGPD obrigações administrativas específicas sobre algoritmos de IA;81.7;Liderou o ranking de PLs apresentados em 2025 — volume de autoria não indica, sozinho, especialização | Alto volume de autoria — verificar substância antes de tratar como especialista;camara_RR_230002538187
+6;AMOM MANDEL;camara;AM;REPUBLICANOS;3;2;2;3;10;Referência (9–12);favorável (indícios);+ PLP 124/2024: Fomento a startups;63.4;Protocolou mais de 300 PLs em um único dia (17/07/2026) — o volume infla IIP e contagem de autorias | Alto volume de autoria — verificar substância antes de tratar como especialista;camara_AM_40002533207
+7;RUBENS PEREIRA JR;camara;MA;PT;2;3;2;3;10;Referência (9–12);favorável (indícios);+ PL 1476/2026: Avaliação de impacto regulatório | + PL 1476/2026: Sandbox regulatório | + PL 3385/2026: Sandbox regulatório | + PL 3388/2026: Sandbox regulatório;59.8;;camara_MA_100002546922
+8;JADYEL;camara;PI;REPUBLICANOS;3;2;2;3;10;Referência (9–12);indeterminado;;46.4;;camara_PI_180002544106
+9;AMANDA GENTIL;camara;MA;PP;3;3;2;2;10;Referência (9–12);indeterminado;;41.4;;camara_MA_100002542869
+10;NELY AQUINO;camara;MG;PODE;3;2;2;3;10;Referência (9–12);indeterminado;;37.2;"Nota sustentada sobretudo pelo cargo de presidente da CCTI; na posse do cargo (2024) não tinha proposições na área";camara_MG_130002548795
+11;VENEZIANO;senado;PB;MDB;3;3;2;2;10;Referência (9–12);indeterminado;;36.7;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_PB_150002544905
+12;RENATA ABREU;camara;SP;PODE;2;3;3;1;9;Referência (9–12);favorável (indícios);+ PLP 32/2026: Fortalece incentivos/fundos de P&D;52.4;;camara_SP_250002544340
+13;EDUARDO GOMES;senado;TO;PL;3;3;1;2;9;Referência (9–12);indeterminado;;46.4;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_TO_270002546333
+14;GILSON MARQUES;camara;SC;NOVO;2;2;3;2;9;Referência (9–12);indeterminado;;41.0;;camara_SC_240002535434
+15;BIA KICIS;senado;DF;PL;2;2;2;3;9;Referência (9–12);indeterminado;;39.8;;senado_DF_70002552934
+16;KIM KATAGUIRI;camara;SP;MISSÃO;3;1;3;2;9;Referência (9–12);indeterminado;;38.4;;camara_SP_250002546642
+17;SILVYE ALVES;camara;GO;UNIÃO;1;2;3;3;9;Referência (9–12);indeterminado;;37.8;;camara_GO_90002543243
+18;GUSTAVO GAYER;senado;GO;PL;2;1;3;3;9;Referência (9–12);indeterminado;;37.4;;senado_GO_90002543556
+19;DORINALDO MALAFAIA;camara;AP;PDT;3;1;2;3;9;Referência (9–12);indeterminado;;35.4;;camara_AP_30002532842
+20;AGUINALDO RIBEIRO;camara;PB;PP;3;2;2;2;9;Referência (9–12);favorável (indícios);+ PL 2338/2023: Declarou buscar texto 'amigável' ao setor de tecnologia e pesquisa | + PL 2338/2023: Defendeu parecer flexível e cautela com medidas restritivas ao uso de IA em campanhas;34.4;;camara_PB_150002549636
+21;JANDIRA FEGHALI;camara;RJ;PCDOB;3;2;2;2;9;Referência (9–12);indeterminado;;30.9;;camara_RJ_190002543096
+22;CABO GILBERTO SILVA;camara;PB;PL;3;1;2;2;8;Familiarizado (6–8);favorável (indícios);+ PL 2662/2026: Desoneração da folha;58.3;;camara_PB_150002538457
+23;Astronauta Marcos Pontes;senado;SP;PL;3;2;1;2;8;Familiarizado (6–8);indeterminado;;56.9;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_SP_6009
+24;ADRIANA VENTURA;camara;SP;NOVO;3;2;1;2;8;Familiarizado (6–8);favorável (indícios);+ PL 2338/2023: Defendeu menos restrições ao uso de IA em audiência da comissão especial;51.4;;camara_SP_250002530167
+25;BIBO NUNES;camara;RS;PL;1;2;2;3;8;Familiarizado (6–8);indeterminado;;46.4;;camara_RS_210002534656
+26;PROFESSOR PEDRO UCZAI;camara;SC;PT;3;1;2;2;8;Familiarizado (6–8);indeterminado;;36.2;;camara_SC_240002533833
+27;LAFAYETTE ANDRADA;camara;MG;PL;3;2;1;2;8;Familiarizado (6–8);indeterminado;;33.2;;camara_MG_130002542003
+28;LUIZ LIMA;camara;RJ;NOVO;2;2;2;2;8;Familiarizado (6–8);indeterminado;;33.1;;camara_RJ_190002534633
+29;LUIZ PHILIPPE DE O E BRAGANÇA;camara;SP;PL;2;2;2;2;8;Familiarizado (6–8);indeterminado;;32.4;;camara_SP_250002535958
+30;MARIA ROSAS;camara;SP;REPUBLICANOS;2;0;3;3;8;Familiarizado (6–8);indeterminado;;31.9;;camara_SP_250002537943
+31;Hamilton Mourão;senado;RS;REPUBLICANOS;2;1;1;3;7;Familiarizado (6–8);indeterminado;;43.3;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_RS_6341
+32;DELEGADO ALESSANDRO;senado;SE;MDB;1;3;2;1;7;Familiarizado (6–8);indeterminado;;42.5;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_SE_260002533084
+33;MARCEL VAN HATTEM;senado;RS;NOVO;2;2;2;1;7;Familiarizado (6–8);indeterminado;;42.2;;senado_RS_210002547819
+34;CAMILA JARA;camara;MS;PT;3;1;2;1;7;Familiarizado (6–8);indeterminado;;41.0;;camara_MS_120002537465
+35;Efraim Filho;senado;PB;PL;3;1;1;2;7;Familiarizado (6–8);indeterminado;;40.0;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_PB_4642
+36;FLÁVIA MORAIS;camara;GO;MDB;1;1;3;2;7;Familiarizado (6–8);indeterminado;;39.5;;camara_GO_90002543218
+37;POMPEO DE MATTOS;camara;RS;PDT;1;2;3;1;7;Familiarizado (6–8);indeterminado;;38.9;;camara_RS_210002537066
+38;RUY CARNEIRO;camara;PB;PODE;2;1;1;3;7;Familiarizado (6–8);atenção (indícios);! PL 2462/2025: Proibição de uso de IA;38.1;;camara_PB_150002533578
+39;ANY ORTIZ;camara;RS;PP;1;1;3;2;7;Familiarizado (6–8);indeterminado;;36.4;;camara_RS_210002537714
+40;TABATA AMARAL;camara;SP;PSB;1;2;2;2;7;Familiarizado (6–8);indeterminado;;35.9;;camara_SP_250002539435
+41;CELSO RUSSOMANNO;camara;SP;REPUBLICANOS;2;2;1;2;7;Familiarizado (6–8);indeterminado;;35.4;;camara_SP_250002537969
+42;PROFESSORA LUCIENE CAVALCANTE;camara;SP;PSOL;2;2;2;1;7;Familiarizado (6–8);indeterminado;;35.1;;camara_SP_250002539622
+43;MAURÍCIO CARVALHO;camara;RO;UNIÃO;3;1;1;2;7;Familiarizado (6–8);indeterminado;;34.4;;camara_RO_220002542943
+44;DR. FREDERICO;camara;MG;PL;2;2;2;1;7;Familiarizado (6–8);indeterminado;;32.7;;camara_MG_130002542036
+45;LUCAS REDECKER;camara;RS;PSD;1;2;2;2;7;Familiarizado (6–8);indeterminado;;31.2;;camara_RS_210002538541
+46;IZALCI LUCAS;camara;DF;PL;3;1;1;1;6;Familiarizado (6–8);favorável (indícios);+ PLP 135/2020: Fortalece incentivos/fundos de P&D | + PLP 2/2022: Fomento a startups;50.1;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;camara_DF_70002550316
+47;ROGERIO CARVALHO;senado;SE;PT;2;2;1;1;6;Familiarizado (6–8);indeterminado;;48.0;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_SE_260002547285
+48;Damares Alves;senado;DF;REPUBLICANOS;2;1;2;1;6;Familiarizado (6–8);indeterminado;;40.7;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_DF_6335
+49;AUGUSTO COUTINHO;camara;PE;REPUBLICANOS;1;1;3;1;6;Familiarizado (6–8);indeterminado;;39.5;;camara_PE_170002532733
+50;RODRIGO GAMBALE;camara;SP;PODE;1;1;1;3;6;Familiarizado (6–8);indeterminado;;39.1;;camara_SP_250002544355
+51;MARCELO QUEIROZ;camara;RJ;PSDB;3;0;1;2;6;Familiarizado (6–8);indeterminado;;36.8;;camara_RJ_190002550489
+52;DOMINGOS NETO;camara;CE;PSD;1;1;2;2;6;Familiarizado (6–8);indeterminado;;35.4;;camara_CE_60002537018
+53;DOMINGOS SÁVIO;senado;MG;PL;1;1;2;2;6;Familiarizado (6–8);indeterminado;;34.4;;senado_MG_130002551786
+54;FELIX MENDONÇA;camara;BA;PDT;1;2;2;1;6;Familiarizado (6–8);indeterminado;;34.2;;camara_BA_50002531399
+55;Jorge Seif;senado;SC;PL;2;0;2;2;6;Familiarizado (6–8);indeterminado;;34.1;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_SC_6342
+56;TIÃO MEDEIROS;camara;PR;PP;2;1;1;2;6;Familiarizado (6–8);indeterminado;;33.9;;camara_PR_160002532858
+57;CARLOS PORTINHO;senado;RJ;PL;1;2;2;1;6;Familiarizado (6–8);indeterminado;;33.7;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_RJ_190002535142
+58;SORAYA SANTOS;camara;RJ;PL;1;2;2;1;6;Familiarizado (6–8);indeterminado;;33.2;;camara_RJ_190002532807
+59;OSMAR TERRA;camara;RS;PL;1;2;2;1;6;Familiarizado (6–8);indeterminado;;31.3;;camara_RS_210002534668
+60;EROS BIONDINI;camara;MG;PL;2;1;1;2;6;Familiarizado (6–8);indeterminado;;30.1;;camara_MG_130002542007
+61;GILSON DANIEL;camara;ES;PODE;1;1;1;2;5;Interesse pontual (3–5);indeterminado;;41.4;;camara_ES_80002536278
+62;MAURÍCIO MARCON;camara;RS;PL;1;1;2;1;5;Interesse pontual (3–5);indeterminado;;38.2;;camara_RS_210002534654
+63;RAIMUNDO SANTOS;camara;PA;PSD;1;1;1;2;5;Interesse pontual (3–5);indeterminado;;36.2;;camara_PA_140002537040
+64;CAROL DARTORA;camara;PR;PT;1;1;2;1;5;Interesse pontual (3–5);indeterminado;;36.2;;camara_PR_160002536512
+65;PEZENTI;camara;SC;MDB;2;1;1;1;5;Interesse pontual (3–5);indeterminado;;35.2;;camara_SC_240002541406
+66;MARIO FRIAS;camara;SP;PL;2;1;1;1;5;Interesse pontual (3–5);indeterminado;;34.2;;camara_SP_250002535959
+67;DANIEL AGROBOM;camara;GO;PSD;2;0;2;1;5;Interesse pontual (3–5);indeterminado;;32.2;;camara_GO_90002543473
+68;GREYCE ELIAS;camara;MG;PL;1;1;2;1;5;Interesse pontual (3–5);indeterminado;;32.2;;camara_MG_130002542019
+69;DANIEL FREITAS;camara;SC;PL;1;1;1;2;5;Interesse pontual (3–5);indeterminado;;30.1;;camara_SC_240002539376
+70;CID GOMES;senado;CE;PSB;2;1;1;1;5;Interesse pontual (3–5);indeterminado;;30.0;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_CE_60002542479
+71;PEDRO CAMPOS;camara;PE;PSB;1;1;1;1;4;Interesse pontual (3–5);indeterminado;;44.1;;camara_PE_170002540301
+72;JOAQUIM PASSARINHO;camara;PA;PL;1;1;1;1;4;Interesse pontual (3–5);indeterminado;;42.4;;camara_PA_140002546710
+73;LINDBERGH;camara;RJ;PT;1;1;1;1;4;Interesse pontual (3–5);indeterminado;;32.2;;camara_RJ_190002543101
+74;LUIZIANNE;senado;CE;REDE;1;0;1;2;4;Interesse pontual (3–5);indeterminado;;31.6;;senado_CE_60002542476
+75;FERNANDO FILHO;camara;PE;UNIÃO;1;1;1;1;4;Interesse pontual (3–5);indeterminado;;31.2;;camara_PE_170002544066
+76;REGINALDO LOPES;camara;MG;PT;2;0;0;2;4;Interesse pontual (3–5);indeterminado;;30.9;;camara_MG_130002535317
+77;Teresa Leitão;senado;PE;PT;2;0;0;2;4;Interesse pontual (3–5);indeterminado;;30.0;Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados | Votos nominais do Senado não coletados nesta versão;senado_PE_6338
+78;JEFFERSON CAMPOS;camara;SP;PL;2;0;0;1;3;Interesse pontual (3–5);indeterminado;;33.2;;camara_SP_250002535955
+79;CARLOS VERAS;camara;PE;PT;1;0;1;1;3;Interesse pontual (3–5);indeterminado;;31.2;;camara_PE_170002533326

@@ -1,0 +1,50 @@
+{
+  "observacao": "Ajustes manuais ao índice de familiaridade. Cada entrada precisa de fonte verificável. 'sinais' acrescenta evidências que as APIs não captam (ex.: relatorias e cargos); 'nota' sobrescreve a nota de um eixo com justificativa; 'alinhamento_*' registra indícios de posição com fonte. Revisado em 19/11/2026.",
+  "parlamentares": {
+    "camara_PB_150002549636": {
+      "perfil_resumo": "Relator do Marco Legal da IA (PL 2.338/2023) na Comissão Especial da Câmara; também foi relator da reforma tributária.",
+      "sinais": [
+        {"eixo": "E1", "tipo": "relatoria", "id": "PL 2338/2023", "descricao": "Relator na Comissão Especial sobre IA (instalada em 20/05/2025)",
+         "fonte": "https://www.cnnbrasil.com.br/politica/comissao-especial-sobre-inteligencia-artificial-e-instalada-na-camara/"}
+      ],
+      "alinhamento_favoravel": [
+        {"id": "PL 2338/2023", "indicio": "Declarou buscar texto 'amigável' ao setor de tecnologia e pesquisa", "url": "https://www.mobiletime.com.br/?p=832953"},
+        {"id": "PL 2338/2023", "indicio": "Defendeu parecer flexível e cautela com medidas restritivas ao uso de IA em campanhas", "url": "https://www.congressoemfoco.com.br/noticia/119344/relator-quer-marco-da-ia-atemporal-para-acompanhar-inovacao"}
+      ]
+    },
+    "camara_SP_250002530167": {
+      "perfil_resumo": "1ª vice-presidente da Comissão Especial do PL 2.338/2023 (IA); relatora do PL 303/2024 (patentes e IA).",
+      "alinhamento_favoravel": [
+        {"id": "PL 2338/2023", "indicio": "Defendeu menos restrições ao uso de IA em audiência da comissão especial", "url": "https://www.aosfatos.org/noticias/deputados-da-comissao-da-ia-atuaram-em-prol-de-big-techs-apos-visitas-de-lobistas/"}
+      ]
+    },
+    "camara_MG_130002548795": {
+      "perfil_resumo": "Presidiu a Comissão de Ciência, Tecnologia e Inovação (CCTI) da Câmara em 2024.",
+      "alertas": ["Nota sustentada sobretudo pelo cargo de presidente da CCTI; na posse do cargo (2024) não tinha proposições na área"],
+      "sinais": [
+        {"eixo": "E1", "tipo": "lideranca", "id": "CCTI 2024", "descricao": "Presidente da CCTI (eleita em 13/03/2024)",
+         "fonte": "https://www.itatiaia.com.br/politica/nely-aquino-e-eleita-presidente-da-comissao-de-ciencia-tecnologia-e-inovacao-da-camara/"}
+      ]
+    },
+    "camara_RR_230002538187": {
+      "perfil_resumo": "Relator na CCTI de projetos de IA (PL 759/2023 e apensados; PL 6706/2025, IA e dados) e na Comissão de Educação (PL 1465/2024).",
+      "alertas": ["Liderou o ranking de PLs apresentados em 2025 — volume de autoria não indica, sozinho, especialização"],
+      "sinais": [
+        {"eixo": "E1", "tipo": "relatoria", "id": "PL 759/2023", "descricao": "Relator na CCTI, parecer com substitutivo (11/08/2026)",
+         "fonte": "https://www.camara.leg.br/propostas-legislativas/2349685"},
+        {"eixo": "E2", "tipo": "relatoria", "id": "PL 6706/2025", "descricao": "Relator na CCTI: normas de proteção de dados aplicadas a sistemas de IA (aprovado 17/08/2026)",
+         "fonte": "https://www.camara.leg.br/noticias/1297801-comissao-aprova-regra-sobre-uso-de-dados-por-inteligencia-artificial"}
+      ],
+      "alinhamento_favoravel": [
+        {"id": "PL 6706/2025", "indicio": "Como relator, evitou incluir na LGPD obrigações administrativas específicas sobre algoritmos de IA", "url": "https://www.camara.leg.br/noticias/1297801-comissao-aprova-regra-sobre-uso-de-dados-por-inteligencia-artificial"}
+      ]
+    },
+    "camara_AM_40002533207": {
+      "alertas": ["Protocolou mais de 300 PLs em um único dia (17/07/2026) — o volume infla IIP e contagem de autorias"],
+      "perfil_resumo": "Autor de grande volume de proposições sobre IA, conectividade na Amazônia e proteção de crianças online."
+    },
+    "camara_MA_100002546922": {
+      "perfil_resumo": "Autor de proposições recentes sobre IA (deepfakes, IA em eleições, avaliação de impacto regulatório para normas de IA); relatou o GT da minirreforma eleitoral."
+    }
+  }
+}
