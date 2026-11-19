@@ -1,0 +1,49 @@
+{
+ "parlamentar_chave": "senado_CE_60002542479",
+ "nome_urna": "CID GOMES",
+ "nome_completo": "CID FERREIRA GOMES",
+ "casa_2027": "senado",
+ "uf": "CE",
+ "partido": "PSB",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "5973",
+ "data_coleta": "2026-11-19",
+ "iip": 30.0,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PLP 117/2024",
+   "ementa": "Altera a Lei Complementar n.º 182, de 1º de junho de 2021, para a definição e o enquadramento de empresas startups verdes e dá outras providências.",
+   "colegiado": "CMA",
+   "temas": [
+    "startups"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PLP%20117/2024"
+  },
+  {
+   "identificacao": "PL 1505/2022",
+   "ementa": "Estabelece os mecanismos de estímulo ao desenvolvimento e fortalecimento do Complexo Econômico e Industrial da Saúde brasileiro no âmbito da Política Nacional de Inovação Tecnológica em Saúde e dá outras providências.",
+   "colegiado": "CAE",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%201505/2022"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+ ],
+ "frentes": [],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

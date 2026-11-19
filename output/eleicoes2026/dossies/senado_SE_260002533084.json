@@ -1,0 +1,78 @@
+{
+ "parlamentar_chave": "senado_SE_260002533084",
+ "nome_urna": "DELEGADO ALESSANDRO",
+ "nome_completo": "ALESSANDRO VIEIRA",
+ "casa_2027": "senado",
+ "uf": "SE",
+ "partido": "MDB",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "5982",
+ "data_coleta": "2026-11-19",
+ "iip": 42.5,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 870/2021",
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a comercialização, o fornecimento e o compartilhamento de informações de usuários de redes sociais por seus provedores.",
+   "colegiado": "CCT",
+   "temas": [
+    "dados",
+    "plataformas"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20870/2021"
+  },
+  {
+   "identificacao": "PL 871/2021",
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a elaboração de código de ética entre as regras de boas práticas e de governança dos agentes de tratamento.",
+   "colegiado": "CCT",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20871/2021"
+  },
+  {
+   "identificacao": "PL 1126/2024",
+   "ementa": "Altera a Lei nº 13.709, de 2018, para majorar a sanção administrativa de multa incidente sobre o faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil, em razão do vazamento de dados e dispõe sobre as funções punitiva e preventiva da indenização por danos morais em decorrência da aplicação de sanções por descumprimento da Lei Geral de Proteção de Dados Pessoais.",
+   "colegiado": "CCT",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%201126/2024"
+  },
+  {
+   "identificacao": "PL 3844/2025",
+   "ementa": "Altera a Lei nº 14.533, de 11 de janeiro de 2023, que institui a Política Nacional de Educação Digital e dá outras providências, para dispor sobre a Cidadania Digital.",
+   "colegiado": "CCT",
+   "temas": [
+    "talentos"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%203844/2025"
+  },
+  {
+   "identificacao": "MPV 1317/2025",
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, para tratar da Agência Nacional de Proteção de Dados, a Lei nº 10.871, de 20 de maio de 2004, para criar a Carreira de Regulação e Fiscalização de Proteção de Dados, transforma cargos no âmbito do Poder Executivo federal, e dá outras providências.",
+   "colegiado": "CMMPV 1317/2025",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=MPV%201317/2025"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+  "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+ ],
+ "frentes": [
+  "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+ ],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

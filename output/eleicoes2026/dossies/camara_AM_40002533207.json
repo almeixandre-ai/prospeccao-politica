@@ -1,0 +1,1164 @@
+{
+ "parlamentar_chave": "camara_AM_40002533207",
+ "nome_urna": "AMOM MANDEL",
+ "nome_completo": "AMOM MANDEL LINS FILHO",
+ "casa_2027": "camara",
+ "uf": "AM",
+ "partido": "REPUBLICANOS",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": 220715,
+ "codigo_senado": null,
+ "data_coleta": "2026-11-19",
+ "iip": 63.4,
+ "prioridade": "A — Prioridade alta",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PL 2479/2023",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Conectividade da Agricultura Familiar.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Política Nacional de Conectividade da Agricultura Familiar (PNCAF), garantia, beneficiário, meios, acesso, utilização, Tecnologia da informação e comunicação (TIC). _Beneficiário, agricultor familiar, associação representativa, instituição. _Finalidade, disponibilização, manutenção, meios, acesso, Tecnologia da informação e comunicação (TIC), fonte de recursos, execução, plano de trabalho. _Alteração, Lei do Fundo de Universalização dos Serviços de Telecomunicações, recursos, Fundo de Universalização dos Serviços de Telecomunicações (Fust), destinação, programa (administração), projeto (administração), atividade governamental, ampliação, acesso, sociedade, população rural, Serviços de telecomunicações.",
+   "autor_principal": "Da Vitoria",
+   "e_autor_principal": false,
+   "n_coautores": 4,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2023-05-10",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2361481",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2270732",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4102/2023",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a proibição da veiculação de conteúdo sexual ou adulto nas plataformas digitais que possa expor crianças e adolescentes à sexualização precoce, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Proibição, Plataforma digital, Plataforma de streaming, rede social, veiculação, conteúdo sexual, conteúdo adulto, prevenção, Sexualização precoce, criança, adolescente, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2023-08-24",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2382525",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2317817",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4275/2023",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para incluir as redes sociais e os serviços de mensageria privada na modalidade de citação por meio eletrônico.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Código de Processo Civil (2015), possibilidade, Citação (direito processual), Meio eletrônico, rede social, Mensagem privada, Pessoa citanda.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2023-09-01",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2385001",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2322646",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2517/2024",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Estabelece diretrizes para a proteção da privacidade dos cidadãos em meio virtual, reforçando a Lei Geral de Proteção de Dados Pessoais (LGPD) e ampliando as competências da Autoridade Nacional de Proteção de Dados (ANPD).",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, proteção, privacidade, cidadão, Ambiente virtual, ampliação, competência, Autoridade Nacional de Proteção de Dados (ANPD), Segurança de dados, dados pessoais.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "data_apresentacao": "2024-06-20",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2442707",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2440997",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2911/2024",
+   "temas": [
+    "talentos"
+   ],
+   "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para acrescentar o  §º 12 no art. 26, que inclui  o ensino de ética online na educação digital como componente curricular do ensino fundamental e do ensino médio.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei de Diretrizes e Bases da Educação Nacional (1996), educação básica, inclusão, componente curricular, ética digital, disciplina (educação), ensino, tecnologia digital, uso responsável, ensino fundamental, ensino médio.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Apensação",
+   "data_apresentacao": "2024-07-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2449592",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2455585",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PLP 124/2024",
+   "temas": [
+    "startups"
+   ],
+   "ementa": "Altera a Lei Complementar nº 182, de 1º de junho de 2021, que institui o Marco Legal das Startups e do Empreendedorismo Inovador, para incluir medidas de inclusão de pessoas com deficiência, autistas e neurodivergentes, incentivar a inovação no setor de saúde pública e valorizar a região amazônica.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Legal das Startups e do Empreendedorismo Inovador (2021), inclusão, pessoa com deficiência, pessoa com transtorno do espectro autista, pessoa neuroatípica, inovação, saúde pública, valorização, Região Amazônica, incentivo fiscal, empresa.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2024-07-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2449678",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2455674",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3402/2024",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre o direito à livre escolha e utilização dos meios de comunicação virtuais e redes sociais, nacionais ou estrangeiras.",
+   "ementa_detalhada": "",
+   "keywords": "Garantia, Livre escolha, Acesso à informação, Mídia social, Plataforma de comunicação, Internet. _ Proibição, punição, usuário, decisão judicial, suspensão, rede social.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2024-08-30",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2456275",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2471986",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4879/2024",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui o Programa Nacional de Manutenção de Infraestrutura de Conectividade para Áreas Remotas, com o objetivo de garantir a sustentabilidade e a manutenção das redes digitais instaladas em regiões de difícil acesso, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Ação governamental, implementação, melhoria, Infraestrutura de telecomunicação, Região Amazônica.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2024-12-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2479962",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2842123",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4884/2024",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Altera a Lei nº 13.116, de 20 de abril de 2015, que estabelece normas gerais para implantação e compartilhamento da infraestrutura de telecomunicações, para promover a harmonização da legislação municipal com as diretrizes federais e agilizar a instalação de infraestrutura para a tecnologia 5G, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral das Antenas (2015), Compartilhamento, Infraestrutura de telecomunicação, adequação, Legislação municipal, Legislação federal, instalação, Tecnologia 5G.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2024-12-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2479985",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2842148",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4885/2024",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Altera a Lei nº 13.116, de 20 de abril de 2015, que estabelece normas gerais para implantação e compartilhamento da infraestrutura de telecomunicações, para instituir incentivos fiscais para municípios que atualizem suas legislações para facilitar a instalação de infraestrutura para a tecnologia 5G, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral das Antenas (2015), compartilhamento, Infraestrutura de telecomunicação, criação, Incentivo fiscal, Município, alteração, Legislação municipal, Tecnologia 5G.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2024-12-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2479989",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2842152",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4886/2024",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Altera a Lei nº 13.116, de 20 de abril de 2015, que estabelece normas gerais para implantação e compartilhamento da infraestrutura de telecomunicações, para promover a cobertura eficiente do 5G em áreas urbanas e rurais, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral das Antenas (2015), compartilhamento, Infraestrutura de telecomunicação, Serviços de telecomunicações, Área geográfica de atuação, Tecnologia 5G, Área urbana, Área rural.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2024-12-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2479991",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2842154",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4892/2024",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Dispõe sobre a priorização da infraestrutura de pequeno porte para a instalação de redes de telecomunicações de quinta geração (5G) e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Priorização, instalação, Rede de telecomunicações, Infraestrutura tecnológica, expansão, Tecnologia 5G.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2024-12-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2480010",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2842174",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4895/2024",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui incentivos fiscais para empresas que investirem em soluções tecnológicas sustentáveis para a expansão da conectividade na região amazônica, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, incentivo fiscal, empresa, investimento, tecnologia, sustentabilidade, expansão, infraestrutura de conectividade, região amazônica, redução, Imposto de renda, lucro real, dedução tributária, Contribuição Social sobre o Lucro Líquido (CSLL), benefício fiscal, tributação.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2024-12-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2480023",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2842188",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4898/2024",
+   "temas": [
+    "talentos"
+   ],
+   "ementa": "Institui o Programa de Educação Digital na Amazônia, com o objetivo de garantir o acesso universal e equitativo às tecnologias digitais nas escolas da região amazônica, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Programa de Educação Digital na Amazônia, promoção, inclusão digital, instituição de ensino, região amazônica, acesso, tecnologia digital, educação digital, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2024-12-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2480031",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2842197",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4899/2024",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Conectividade Sustentável para Comunidades Remotas (PNCS-CR), com o objetivo de garantir o acesso universal e equitativo às tecnologias da informação e comunicação em comunidades remotas, especialmente na Amazônia, promovendo a inclusão social, a proteção ambiental e o desenvolvimento local, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Política Nacional de Conectividade Sustentável para Comunidades Remotas (PNCS-CR), promoção, inclusão digital, comunidade isolada, acesso, Tecnologia da informação e comunicação (TIC), incentivo, pesquisa, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2024-12-16",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2480033",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2842199",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4950/2024",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei nº 14.026, de 15 de julho de 2020, para criar um programa de incentivos à inovação tecnológica no setor de saneamento básico.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei de Saneamento Básico (2020), criação, Ação governamental, incentivo, fomento, Inovação tecnológica, Saneamento básico, Resíduo sólido, Esgoto sanitário.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2024-12-18",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2480949",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2844594",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3416/2025",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Dispõe sobre a contratação de licenças de software pela Administração Pública, estabelecendo procedimentos e critérios para a contratação direta com base na inexigibilidade de licitação, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, Contratação pública, Contratação direta, Inexigibilidade de licitação, Licença de uso de software, Administração pública.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-07-15",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2536695",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2957670",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5354/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre medidas para prevenção e combate a fraudes em plataformas digitais.",
+   "ementa_detalhada": "",
+   "keywords": "Regulamentação, publicidade digital, anúncio online, propaganda online, impulsionamento de conteúdo, segurança de dados, ambiente virtual, prevenção, fraude eletrônica, regulação, internet, direito do consumidor, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-10-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2574760",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3027120",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 5356/2025",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "ementa": "Dispõe sobre incentivos à instituição e às operações de delegacias especializadas em crimes cibernéticos nas Unidades da Federação; e altera a Lei nº 13.756, de 12 de dezembro de 2018, que institui o Fundo Nacional de Segurança Pública (FNSP).",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Federal, concessão, recursos públicos, Fundo Nacional de Segurança Pública (FNSP), criação, funcionamento, delegacia especializada, crime cibernético, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-10-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2574766",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3027131",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6105/2025",
+   "temas": [
+    "dados",
+    "governo_digital"
+   ],
+   "ementa": "Altera a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), e a Lei nº 14.129, de 29 de março de 2021 (Lei de Governo Digital), para aprimorar os mecanismos de transparência pública por meio da inovação e do uso de tecnologia da informação.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei de Acesso à Informação (2011), Lei do Governo Digital (2021), aprimoramento, meios, transparência pública, acesso à informação, proteção, dados pessoais, governança, dados abertos, sistema integrado de dados, criação, Selo Transparência e Inovação Pública, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-12-02",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2591102",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3057210",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6209/2025",
+   "temas": [
+    "incentivos_pd",
+    "startups"
+   ],
+   "ementa": "Institui o Programa Nacional de Fomento a Startups de Bioeconomia, Sustentabilidade e Inovação Tecnológica na Amazônia, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Programa Nacional de Fomento a Startups da Amazônia (PNFSA), incentivo, bioeconomia, sustentabilidade, inovação tecnológica, Amazônia Legal, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-08",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2593650",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3062452",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6270/2025",
+   "temas": [
+    "ia",
+    "incentivos_pd"
+   ],
+   "ementa": "Dispõe sobre o aprimoramento das ações de fomento à escrita humana, ao pensamento crítico e à utilização ética da inteligência artificial no território nacional, e estabelece diretrizes para a educação, a pesquisa e a regulamentação tecnológica.",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, ente federado, educação, pesquisa e desenvolvimento, incentivo, escrita, pensamento, análise, utilização, inteligência artificial, ética digital.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-09",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2594540",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3063960",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6302/2025",
+   "temas": [
+    "incentivos_pd",
+    "infra_digital"
+   ],
+   "ementa": "Institui o Programa “Conecta Amazônia”, destinado à expansão da conectividade digital sustentável em comunidades isoladas da Amazônia Legal, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Programa Conecta Amazônia, garantia, Infraestrutura de conectividade, inclusão digital, acesso, serviços públicos, educação, saúde, inovação tecnológica, comunidade tradicional, Amazônia Legal, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-09",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2594590",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3064015",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6378/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet) para determinar a elaboração e publicação de relatórios estatísticos sobre decisões judiciais que determinem bloqueio, suspensão ou exclusão de contas em redes sociais ou plataformas digitais.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Civil da Internet (2014), obrigatoriedade, Conselho Nacional de Justiça (CNJ), publicação, relatório (documento administrativo), estatística oficial, decisão judicial, bloqueio, cancelamento, exclusão, conta de usuário, rede social digital, transparência pública.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-12-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2596085",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3066324",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6379/2025",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Institui a Política Nacional de Incentivo à Produção de Insumos Hospitalares Críticos, com medidas de fomento à indústria nacional, incentivos fiscais, critérios de qualidade e mecanismos de compras públicas, visando à redução da dependência de importações e à garantia da soberania sanitária em situações de crise.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, Política Nacional de Incentivo à Produção de Insumos Hospitalares Críticos (PNIPIH), estímulo, produção nacional, insumo, produto essencial, funcionamento, serviços de saúde, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-12-11",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2596086",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3066358",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6634/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Institui a Bolsa Conectividade para Estudantes de Baixa Renda, destinada ao custeio de acesso à internet e dispositivos digitais para fins educacionais, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, ação governamental, benefício assistencial, estudante, população de baixa renda, educação básica, educação superior, ensino público, vulnerabilidade social, custeio, acesso, internet, aquisição, equipamento eletrônico, inclusão digital, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599010",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071652",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6663/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Cria o Selo Empresa Transparente em Inteligência Artificial, certificando organizações que adotem práticas claras, éticas e auditáveis no uso de algoritmos.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, incentivo, Governança, Ética digital, Ética profissional, Selo de certificação, Empresa, utilização, Inteligência artificial, Algoritmo, Transparência algorítmica, Decisão automatizada, Tecnologia, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599040",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071689",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6687/2025",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 13.709/2018 para incluir os dados neurais no rol de dados pessoais sensíveis, definir parâmetros técnicos para seu tratamento, estabelecer regras especiais para coleta, uso, armazenamento e descarte, vedar usos abusivos no trabalho e na educação, criar exceções médicas, científicas e de acessibilidade, atribuir competência regulatória à ANPD e dar outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), inclusão, Tratamento de dados, proteção, Dados neurais, Dados pessoais sensíveis.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599280",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071952",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6704/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Estabelece a obrigatoriedade de aviso prévio e claro sobre a gravação de dados de voz por centrais telefônicas, plataformas digitais e aplicativos, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, fornecimento, informação ao consumidor, anterioridade, central telefônica, plataforma digital, aplicação de internet, gravação, voz humana, dados, proteção, consumidor, direito do consumidor, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599297",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071969",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6706/2025",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), para dispor sobre a Auditoria Algorítmica Preventiva em sistemas de Inteligência Artificial que afetam decisões de alto impacto social.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), auditoria externa, algoritmo, inteligência artificial, relatório técnico, Agência Nacional de Proteção de Dados (ANPD), diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599299",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071971",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6707/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor - CDC), para dispor sobre a responsabilidade civil por danos causados pelo comportamento autônomo de sistemas de Inteligência Artificial.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Código de Defesa do Consumidor (1990), responsabilização, fornecedor, desenvolvedor de sistemas, inteligência artificial, problema técnico, forma autônoma, prejuízo ao consumidor, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599300",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071972",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6708/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional - LDB), para incluir o tema Inteligência Artificial, literacia digital e ética algorítmica como componente curricular transversal obrigatório.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei de Diretrizes e Bases da Educação Nacional (1996), inclusão, Inteligência artificial, Inteligência artificial generativa, Ética digital, Componente curricular, Currículo escolar, Tema transversal, Ensino transdisciplinar, Ensino fundamental, Ensino médio.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599301",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3071973",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6712/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Estabelece a obrigatoriedade de identificação prévia de chamadas telefônicas automatizadas e de ligações realizadas por sistemas de inteligência artificial, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, identificação, Ligação telefônica, Identificador de chamadas, Robocall, Telemarketing, Inteligência artificial.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599305",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072077",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7075/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Altera a Lei nº 13.146/2015 para assegurar acessibilidade obrigatória em espaços físicos e plataformas digitais de apoio ao empreendedorismo, garantindo condições plenas de participação a jovens com deficiência.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Estatuto da Pessoa com Deficiência (2015), garantia, pessoa com deficiência, acessibilidade arquitetônica, acessibilidade digital, tecnologia assistiva, inclusão produtiva, direitos do deficiente.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599684",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072611",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7129/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a obrigatoriedade de exibição periódica de avisos preventivos quanto aos riscos neuropsicológicos associados ao uso prolongado de plataformas digitais, com o objetivo de promover a saúde mental dos usuários e garantir o direito à informação, nos termos da legislação vigente.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, aviso, periodicidade, perigo, uso prolongado, plataforma digital, proteção, saúde mental, usuário, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599738",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072669",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7131/2025",
+   "temas": [
+    "incentivos_pd",
+    "infra_digital"
+   ],
+   "ementa": "Altera a Lei nº 9.998, de 17 de agosto de 2000, para instituir o eixo educacional do Fundo de Universalização dos Serviços de Telecomunicações, denominado Fundo de Conectividade Escolar (FCE), destinado à garantia de conectividade de alta velocidade e à infraestrutura tecnológica das escolas públicas.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei do Fundo de Universalização dos Serviços de Telecomunicações (2000), criação, fundo público, promoção, inovação tecnológica, infraestrutura de conectividade, inclusão tecnológica, instituição de ensino pública, educação básica, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599740",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072671",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7132/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para instituir a obrigatoriedade de auditoria de vieses em sistemas de Inteligência Artificial de alto risco.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Marco Civil da Internet (2014), obrigatoriedade, empresa, auditoria, influência, resultado, inteligência artificial generativa, utilização, prestação de serviços, serviços essenciais, erradicação, discriminação, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599741",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072672",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7135/2025",
+   "temas": [
+    "ia",
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei nº 8.248, de 23 de outubro de 1991 (Lei de Informática), para estabelecer critérios de inclusão social e digital em Inteligência Artificial como contrapartida obrigatória para a fruição de incentivos fiscais.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei de Informática (1991), concessão, incentivo fiscal, benefício fiscal, empresa, obrigatoriedade, investimento, percentual, limite mínimo, pesquisa, capacitação, disponibilização, inteligência artificial generativa, comunidade, população de baixa renda, instituição de ensino pública, área rural, local ermo, democratização, inclusão digital.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599744",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072675",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 7137/2025",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir a literacia e cidadania digital, com ênfase em Inteligência Artificial, como tema transversal na educação básica e superior da rede pública de ensino.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei de Diretrizes e Bases da Educação Nacional (1996), inclusão, currículo escolar, conteúdo educativo, Inteligência artificial generativa, inclusão digital.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2025-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599746",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3072678",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 998/2026",
+   "temas": [
+    "talentos"
+   ],
+   "ementa": "Institui a Política Nacional de Educação Digital e de Campanhas de Conscientização para Prevenção da Misoginia e do Discurso de Ódio contra Mulheres no ambiente virtual.",
+   "ementa_detalhada": "",
+   "keywords": "Criação, política pública, campanha educativa, conscientização, prevenção, misoginia, discurso de ódio, violência contra a mulher, ambiente virtual, diretrizes.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2026-03-06",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2607421",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3093874",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 999/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Estabelece diretrizes para cooperação entre plataformas digitais e autoridades públicas na identificação e remoção de conteúdos que promovam misoginia, ódio ou violência contra mulheres.",
+   "ementa_detalhada": "",
+   "keywords": "Diretrizes, colaboração, plataforma digital, aplicação de internet, autoridade pública, identificação, análise, conteúdo digital, remoção de conteúdo, misoginia, discurso de ódio, violência contra a mulher, discriminação de gênero.",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2026-03-06",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2607422",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3093875",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3859/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Estabelece normas gerais de transparência concorrencial, promoção da concorrência leal e fomento ao desenvolvimento tecnológico regional nos mercados digitais intermediados por plataformas eletrônicas; altera a Lei nº 12.529, de 30 de novembro de 2011; e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "Diretrizes; Mercado digital; Plataforma intermediadora; transparência; Concorrência econômica; Economia digital; criação; Programa (administração); incentivo; Empreendedorismo; Meio eletrônico; Desenvolvimento tecnológico; Empresa nacional; alteração; Lei de Defesa da Concorrência (2011); critério; Infração contra a ordem econômica",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2640534",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164288",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3899/2026",
+   "temas": [
+    "governo_digital"
+   ],
+   "ementa": "Altera a Lei nº 15.263, de 14 de novembro de 2025, que institui a Política Nacional de Linguagem Simples, e a Lei nº 13.146, de 6 de julho de 2015, para dispor sobre acessibilidade cognitiva, leitura fácil, usabilidade cognitiva e atendimento acessível em documentos, editais, formulários, canais de atendimento e serviços públicos digitais.",
+   "ementa_detalhada": null,
+   "keywords": "Alteração; Estatuto da Pessoa com Deficiência (2015); Lei federal; Política Nacional de Linguagem Simples; Acessibilidade cognitiva; Acessibilidade digital; Pessoa com deficiência; idoso; Analfabetismo funcional; Serviços públicos; Canal de atendimento; Vulnerabilidade; Informação",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2640574",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164328",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3921/2026",
+   "temas": [
+    "infra_digital",
+    "talentos"
+   ],
+   "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para estabelecer diretrizes de oferta híbrida, conectividade assistida e inclusão digital na educação de jovens e adultos, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "Alteração; Lei de Diretrizes e Bases da Educação Nacional (1996); Educação de jovens e adultos; Comunidade ribeirinha; Indígenas; Quilombolas; Educação semipresencial; Inclusão digital; Acessibilidade; Letramento digital; Vulnerabilidade social; Educação do campo; prevenção; Abandono escolar; Amazônia Legal",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2640596",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164350",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3936/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), para dispor sobre salvaguardas no tratamento de dados pessoais sensíveis de estudantes no âmbito de instituições de ensino.",
+   "ementa_detalhada": null,
+   "keywords": "Alteração; Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018); critério; Tratamento de dados; Dados pessoais sensíveis; proibição; Instituição de ensino; identificação; Diagnóstico médico; Laudo psicológico; necessidade; Acessibilidade; Estudante",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2640611",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164365",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3966/2026",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, para regular as condições de fruição de recursos públicos e de cumprimento de obrigações de veiculação por obras audiovisuais que utilizem sistemas de inteligência artificial generativa, e dá outras providências.",
+   "ementa_detalhada": null,
+   "keywords": "alteração; Lei da Agência Nacional do Cinema (2001); utilização; Recursos públicos; Fundo Setorial do Audiovisual (FSA); Obra cinematográfica brasileira; Pessoa humana; proibição; Incentivo fiscal; Produção cultural; Sistema de inteligência artificial; fiscalização; Agência Nacional do Cinema (ANCINE)",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2640641",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164395",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3982/2026",
+   "temas": [
+    "ia",
+    "propriedade_intelectual"
+   ],
+   "ementa": "Altera a Lei nº 9.610, de 19 de fevereiro de 1998 (Lei de Direitos Autorais), para regular a exploração econômica de obras intelectuais no âmbito do treinamento de sistemas de inteligência artificial, instituir o direito de remuneração proporcional e aperfeiçoar os direitos morais de atribuição.",
+   "ementa_detalhada": null,
+   "keywords": "alteração; Lei dos Direitos Autorais (1998); Direito autoral; Obra intelectual; Inteligência artificial; Sistema de inteligência artificial; Exploração econômica; Transparência algorítmica; Direito moral do autor; Propriedade intelectual",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2640657",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164411",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 4017/2026",
+   "temas": [
+    "incentivos_pd",
+    "propriedade_intelectual"
+   ],
+   "ementa": "Altera a Lei nº 10.973, de 2 de dezembro de 2004, para estabelecer diretrizes de proteção, manutenção e gestão de ativos estratégicos de propriedade intelectual desenvolvidos com recursos públicos.",
+   "ementa_detalhada": null,
+   "keywords": "alteração; Lei de Inovação Tecnológica (2004); diretrizes; Propriedade intelectual; Recursos públicos; Instituição Científica, Tecnológica e de Inovação (ICT); Gestão da inovação; Autonomia tecnológica; Defesa nacional; Soberania nacional; Pesquisa científica; Direito de propriedade intelectual",
+   "autor_principal": "Amom Mandel",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": null,
+   "data_apresentacao": "2026-07-17",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2640692",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164446",
+   "casa": "camara"
+  }
+ ],
+ "relatorias_agenda": [],
+ "votos_chave": [
+  {
+   "proposicao": "PL 2630/2020",
+   "tema": "plataformas",
+   "nota": "PL das Fake News / regulação de plataformas",
+   "data": "2023-04-25",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2256735",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 4675/2025",
+   "tema": "plataformas",
+   "nota": "Mercados digitais (CADE)",
+   "data": "2026-03-18",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2562481",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 189; Não: 140; Total: 329.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Mantido o texto. Sim: 206; Não: 70; Total: 276.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-12",
+   "descricao": "Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.  Sim: 253; Não: 67; Abstenção: 4; Total: 324.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 118; Abstenção: 4; Total: 415.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição. Sim: 18; Não: 328; Abstenção: 7; Total: 353.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-17",
+   "descricao": "Rejeitado o Requerimento. Sim: 118; Não: 289; Total: 407.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-10",
+   "descricao": "Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-07-09",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 137; abstenção: 3; total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 15; Não: 334; Total: 349.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 441; Não: 3; Total: 444.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Rejeitada a Emenda de Plenário n° 8. Sim: 136; Não: 262; Total: 398.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-10-30",
+   "descricao": "Mantido o texto. Sim: 292; Não: 106; Total: 398.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-13",
+   "descricao": "Rejeitado o Requerimento. Sim: 108; não: 241; total: 349.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2024-08-12",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 278/2026",
+   "tema": "infra_digital",
+   "nota": "REDATA",
+   "data": "2026-02-25",
+   "descricao": "Rejeitada a Emenda de Plenário nº 68. Sim: 105; Não: 232; Total: 337.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2600838",
+   "voto": "Sim"
+  }
+ ],
+ "orgaos": [
+  "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação"
+ ],
+ "frentes": [
+  "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+  "Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação"
+ ],
+ "limitacoes": []
+}

@@ -1,0 +1,280 @@
+{
+ "parlamentar_chave": "camara_SP_250002544340",
+ "nome_urna": "RENATA ABREU",
+ "nome_completo": "RENATA HELLMEISTER DE ABREU MELO",
+ "casa_2027": "camara",
+ "uf": "SP",
+ "partido": "PODE",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": 178989,
+ "codigo_senado": null,
+ "data_coleta": "2026-11-19",
+ "iip": 52.4,
+ "prioridade": "A — Prioridade alta",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PL 5303/2023",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Dispõe sobre a prestação de serviços mediante o uso de inteligência artificial.",
+   "ementa_detalhada": "",
+   "keywords": "Requisito, utilização, inteligência artificial, prestação de serviços, pessoa física, pessoa jurídica, diretrizes.",
+   "autor_principal": "Renata Abreu",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2023-11-01",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2400917",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2354386",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 6211/2023",
+   "temas": [
+    "ia"
+   ],
+   "ementa": "Altera a Lei no 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, para criminalizar a criação de conteúdo erótico e pornográfico, a partir do rosto de crianças e adolescentes, por meio de sistemas de inteligência artificial e altera o Decreto-Lei no 2.848, de 7 de dezembro de 1940 – Código Penal, para criminalizar a criação de conteúdo erótico e pornográfico por meio de sistemas de inteligência artificial, a partir do resto da vítima, e sem o seu consentimento.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Estatuto da Criança e do Adolescente (ECA), Código Penal (1940), criminalização, criação, comercialização, Produto audiovisual, cena de sexo, nudez, pornografia, geração, Inteligência artificial, utilização, criança, adolescente, enfrentamento, pedofilia.",
+   "autor_principal": "Renata Abreu",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2023-12-22",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2416533",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2382124",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2553/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Acrescenta os arts. 1º-B a 1º-D à Lei nº 6.321, de 14 de abril de 1976, para dispor sobre a modernização, inovação tecnológica e redução dos custos de operação do Programa de Alimentação do Trabalhador (PAT) ampliando a disponibilidade do benefício alimentação e refeição a favor dos beneficiários.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei do Programa de Alimentação do Trabalhador (1976), modernização, pagamento, benefício, Programa de Alimentação do Trabalhador (PAT), limitação, taxa de administração, Vale-alimentação, reembolso, estabelecimento comercial, Rede credenciada, proteção, consumidor.",
+   "autor_principal": "Renata Abreu",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Parecer",
+   "data_apresentacao": "2025-05-26",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2516686",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2918461",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3900/2025",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a prevenção, proibição e punição da adultização e erotização de crianças e adolescentes em ambientes digitais e audiovisuais, estabelece obrigações às plataformas digitais e demais responsáveis, e dá outras providências.",
+   "ementa_detalhada": "",
+   "keywords": "Infração penal, Sexualização precoce, Adultização de crianças e adolescentes, internet, rede social digital, obrigatoriedade, Plataforma digital, detecção, bloqueio, remoção de conteúdo, conteúdo impróprio, menor de idade. _ Enfrentamento, pedofilia.",
+   "autor_principal": "Renata Abreu",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Análise)",
+   "data_apresentacao": "2025-08-12",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2542423",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2970498",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PLP 32/2026",
+   "temas": [
+    "propriedade_intelectual"
+   ],
+   "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Instituto Nacional da Propriedade Industrial – INPI e das despesas indispensáveis à manutenção e proteção internacional de ativos estratégicos de propriedade intelectual de Instituições Científicas, Tecnológicas e de Inovação públicas; institui o Fundo Nacional de Manutenção de Patentes Estratégicas; e altera a Lei nº 9.279, de 14 de maio de 1996 (Lei de Propriedade Industrial), para instituir mecanismo de ajuste do prazo de vigência de patentes em caso de atraso administrativo não imputável ao titular.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei de Responsabilidade Fiscal (2000), proibição, limitação de empenho, movimentação financeira, despesa, Instituto Nacional da Propriedade Industrial (INPI), proteção, propriedade intelectual. _Alteração, Lei de Propriedade Industrial (1996), aumento, prazo, vigência, patente, hipótese, atraso, tramitação, procedimento administrativo, Instituto Nacional da Propriedade Industrial (INPI), ausência, responsabilidade, titular, diretrizes.",
+   "autor_principal": "Renata Abreu",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Pronta para Pauta",
+   "data_apresentacao": "2026-02-20",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2603677",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3085775",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 1696/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei nº 11.419, de 19 de dezembro de 2006, com o objetivo de garantir maior segurança àqueles que participam de processos judiciais eletrônicos, mediante a limitação de acesso a seus dados pessoais.",
+   "ementa_detalhada": "",
+   "keywords": "Alteração, Lei do Processo Judicial Eletrônico (2006), critério, tratamento da informação, restrição, acesso, dados pessoais, parte (processo civil), parte (processo penal), processo judicial eletrônico, diretrizes.",
+   "autor_principal": "Renata Abreu",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Aguardando Encaminhamento",
+   "data_apresentacao": "2026-04-08",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2614617",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3110527",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 2373/2026",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Dispõe sobre a responsabilidade civil e administrativa de plataformas digitais pela omissão no combate a crimes de crueldade animal transmitidos ao vivo, estabelece obrigações de cooperação com autoridades policiais e cria o Fundo Nacional de Proteção Animal Digital – FNPAD.",
+   "ementa_detalhada": "",
+   "keywords": "Obrigatoriedade, plataforma digital, provedor de aplicações, fornecimento, dados, usuário, transmissão ao vivo, acesso, requisição, autoridade competente, prazo, hora, suspensão legal, representante legal, canal, denúncia, detecção, conteúdo infringente, crime, maus-tratos, crueldade, violência extrema, morte de animal, responsabilização, criação, financiamento, diretrizes.",
+   "autor_principal": "Renata Abreu",
+   "e_autor_principal": true,
+   "n_coautores": 2,
+   "situacao": "Aguardando Designação de Relator(a)",
+   "data_apresentacao": "2026-05-13",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2624460",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3128837",
+   "casa": "camara"
+  },
+  {
+   "identificacao": "PL 3093/2026",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Lei no 10.406, de 10 de janeiro de 2002 (Código Civil), e a Lei no 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), dispondo sobre proteções adicionais aos dados biométricos.",
+   "ementa_detalhada": null,
+   "keywords": "Alteração, Código Civil (2002), Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), regulamentação, tratamento de dados, compartilhamento, dados biométricos, aparência física, diretrizes.",
+   "autor_principal": "Renata Abreu",
+   "e_autor_principal": true,
+   "n_coautores": 1,
+   "situacao": "Tramitando em Conjunto",
+   "data_apresentacao": "2026-06-12",
+   "url": "https://www.camara.leg.br/propostas-legislativas/2632304",
+   "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3146557",
+   "casa": "camara"
+  }
+ ],
+ "relatorias_agenda": [],
+ "votos_chave": [
+  {
+   "proposicao": "PL 2630/2020",
+   "tema": "plataformas",
+   "nota": "PL das Fake News / regulação de plataformas",
+   "data": "2023-04-25",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2256735",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 4675/2025",
+   "tema": "plataformas",
+   "nota": "Mercados digitais (CADE)",
+   "data": "2026-03-18",
+   "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2562481",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 68/2024",
+   "tema": "tributacao",
+   "nota": "Regulamentação do IBS/CBS",
+   "data": "2024-12-16",
+   "descricao": "Rejeitado o Requerimento. Sim: 46; Não: 232; Total: 278.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Mantido o texto. Sim: 441; Não: 3; Total: 444.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437.",
+   "aprovacao": null,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Rejeitado o Requerimento. Sim: 81; Não: 289; Total: 370.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, com parecer pela rejeição, indicados no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 77; Não: 252; Total: 329.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PLP 108/2024",
+   "tema": "tributacao",
+   "nota": "Comitê Gestor do IBS",
+   "data": "2025-12-16",
+   "descricao": "Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434.",
+   "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438459",
+   "voto": "Sim"
+  }
+ ],
+ "orgaos": [
+  "CCOM — Suplente (Câmara): Comissão de Comunicação",
+  "CCTI — Suplente (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+  "CCOM — Titular (Câmara): Comissão de Comunicação",
+  "CCTI — Titular (Câmara): Comissão de Ciência, Tecnologia e Inovação",
+  "GTAMBDIG — Titular (Câmara): Grupo de Trabalho destinado a estudar e propor soluções legislativas acerca da proteção de\ncrianças e adolescentes em am"
+ ],
+ "frentes": [
+  "Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)",
+  "Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.",
+  "Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria",
+  "Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes"
+ ],
+ "limitacoes": []
+}

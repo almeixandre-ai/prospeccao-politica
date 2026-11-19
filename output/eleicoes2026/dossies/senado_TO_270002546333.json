@@ -1,0 +1,140 @@
+{
+ "parlamentar_chave": "senado_TO_270002546333",
+ "nome_urna": "EDUARDO GOMES",
+ "nome_completo": "CARLOS EDUARDO TORRES GOMES",
+ "casa_2027": "senado",
+ "uf": "TO",
+ "partido": "PL",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "3777",
+ "data_coleta": "2026-11-19",
+ "iip": 46.4,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PEC 17/2019",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Acrescenta o inciso XII-A, ao art. 5º, e o inciso XXX, ao art. 22, da Constituição Federal para incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão e fixar a competência privativa da União para legislar sobre a matéria.",
+   "autor_principal": "Autoria não registrada.",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2017/2019",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PEC 3/2020",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "ementa": "Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fixar a competência comum dos entes federados para zelar pela segurança cibernética dos serviços públicos.",
+   "autor_principal": "Senador Eduardo Gomes ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%203/2020",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PEC 17/2019 (fase 2)",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais.",
+   "autor_principal": "Câmara dos Deputados",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2017/2019%20%28fase%202%29",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 1505/2022",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Estabelece os mecanismos de estímulo ao desenvolvimento e fortalecimento do Complexo Econômico e Industrial da Saúde brasileiro no âmbito da Política Nacional de Inovação Tecnológica em Saúde e dá outras providências.",
+   "autor_principal": "Senador Eduardo Gomes ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%201505/2022",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 2076/2022",
+   "temas": [
+    "dados"
+   ],
+   "ementa": "Institui o “Dia Nacional da Proteção de Dados”.",
+   "autor_principal": "Senador Eduardo Gomes ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202076/2022",
+   "casa": "senado"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 2335/2024",
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), para dispor sobre a segurança de dados.",
+   "colegiado": "CCDD",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202335/2024"
+  },
+  {
+   "identificacao": "PL 1197/2024",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), e a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), a fim de criar hipóteses delitivas, explicitar a possibilidade de responsabilização civil para o caso de uso abusivo de inteligência artificial e regular o uso dessa ferramenta nas campanhas eleitorais.",
+   "colegiado": "CCDD",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%201197/2024"
+  },
+  {
+   "identificacao": "PL 871/2021",
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para dispor sobre a elaboração de código de ética entre as regras de boas práticas e de governança dos agentes de tratamento.",
+   "colegiado": "CCDD",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20871/2021"
+  },
+  {
+   "identificacao": "PL 145/2024",
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para regular o uso de ferramentas de inteligência artificial para fins publicitários e coibir a publicidade enganosa com uso dessas ferramentas.",
+   "colegiado": "CTIA",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20145/2024"
+  },
+  {
+   "identificacao": "PL 2338/2023",
+   "ementa": "Dispõe sobre o uso da Inteligência Artificial.",
+   "colegiado": "CTIA",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202338/2023"
+  },
+  {
+   "identificacao": "PL 4496/2019",
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), para definir a expressão “decisão automatizada”.",
+   "colegiado": "CCDD",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%204496/2019"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CTIA — Titular (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+ ],
+ "frentes": [],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

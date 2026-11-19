@@ -1,0 +1,56 @@
+{
+ "parlamentar_chave": "senado_PE_6338",
+ "nome_urna": "Teresa Leitão",
+ "nome_completo": "Maria Teresa Leitão de Melo",
+ "casa_2027": "senado",
+ "uf": "PE",
+ "partido": "PT",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "6338",
+ "data_coleta": "2026-11-19",
+ "iip": 30.0,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 4294/2025",
+   "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, e a Lei nº 13.756, de 12 de dezembro de 2018, para dispor sobre a obrigatoriedade de utilização de ferramentas de inteligência artificial (IA), pelos agentes operadores de apostas de quota fixa, para a identificação e a prevenção de comportamentos abusivos ou viciantes.",
+   "colegiado": "CCT",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%204294/2025"
+  },
+  {
+   "identificacao": "PL 262/2024",
+   "ementa": "Altera o Decreto Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal –, para prever causa de aumento de pena para o crime de violação de direito autoral, quando houver uso de inteligência artificial, e criar o crime de falsidade científica ou acadêmica.",
+   "colegiado": "CCT",
+   "temas": [
+    "ia",
+    "propriedade_intelectual"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20262/2024"
+  },
+  {
+   "identificacao": "PL 2600/2021",
+   "ementa": "Altera a Lei nº 9.998, de 17 de agosto de 2000, para garantir que os recursos do Fundo de Universalização dos Serviços de Telecomunicações poderão ser utilizados para promover a conectividade das famílias que estão inscritas em programas sociais.",
+   "colegiado": "CAS",
+   "temas": [
+    "infra_digital"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202600/2021"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+ ],
+ "frentes": [],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

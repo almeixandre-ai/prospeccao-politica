@@ -1,0 +1,181 @@
+{
+ "parlamentar_chave": "camara_DF_70002550316",
+ "nome_urna": "IZALCI LUCAS",
+ "nome_completo": "IZALCI LUCAS FERREIRA",
+ "casa_2027": "camara",
+ "uf": "DF",
+ "partido": "PL",
+ "federacao": null,
+ "incumbente": false,
+ "id_camara": null,
+ "codigo_senado": "4770",
+ "data_coleta": "2026-11-19",
+ "iip": 50.1,
+ "prioridade": "A — Prioridade alta",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PEC 3/2020",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "ementa": "Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fixar a competência comum dos entes federados para zelar pela segurança cibernética dos serviços públicos.",
+   "autor_principal": "Senador Eduardo Gomes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%203/2020",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PLP 135/2020",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar a limitação de empenho e movimentação financeira das despesas relativas à inovação e ao desenvolvimento científico e tecnológico custeadas por fundo criado para tal finalidade, bem como altera a Lei nº 11.540, de 12 de novembro de 2007, para modificar a natureza e as fontes de receitas do Fundo Nacional de Desenvolvimento Cientifico e Tecnológico – FNDCT.",
+   "autor_principal": "Senador Izalci Lucas ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PLP%20135/2020",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 2838/2020",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei nº 11.196, de 21 de Novembro de 2005 – Lei do Bem.",
+   "autor_principal": "Senador Izalci Lucas ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202838/2020",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PLP 2/2022",
+   "temas": [
+    "startups"
+   ],
+   "ementa": "Altera a Lei Complementar nº 182, de 1º de junho de 2021, para dispor sobre o enquadramento dos startups, mecanismos de fomento à inovação e de estímulo à performance em startups, e dá outras providências.",
+   "autor_principal": "Senador Izalci Lucas ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PLP%202/2022",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PEC 45/2022",
+   "temas": [
+    "plataformas"
+   ],
+   "ementa": "Altera o art. 53 da Constituição Federal, para atribuir ao Senado Federal e à Câmara dos Deputados a competência para suspender ou excluir as páginas, os canais e as contas de seus membros na rede mundial de computadores, nas plataformas de compartilhamento e nas redes sociais.",
+   "autor_principal": "Senador Eduardo Girão ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2045/2022",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 81/2023",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, para dispor sobre a instituição da Taxa Referencial de Juros (TR) em substituição à Taxa de Juros de Longo Prazo (TJLP) no âmbito dos empréstimos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) à FINEP.",
+   "autor_principal": "Senador Izalci Lucas ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%2081/2023",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PEC 26/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+   "autor_principal": "Senador Astronauta Marcos Pontes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2026/2025",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PL 2877/2025",
+   "temas": [
+    "infra_digital"
+   ],
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, que dispõe sobre a organização dos serviços de telecomunicações, a criação e funcionamento de um órgão regulador e outros aspectos institucionais, nos termos da Emenda Constitucional nº 8, de 1995; e a Lei nº 12.965, de 23 de abril de 2014, que estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, para dispor sobre as competências da Agência Nacional de Telecomunicações e a responsabilização dos provedores de conexão à internet e dos prestadores dos demais serviços habilitadores de conectividade pelo acesso a provedores de aplicações que disponibilizam conteúdos apontados como infringentes.",
+   "autor_principal": "Senadora Soraya Thronicke ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202877/2025",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PLP 6/2026",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para que a redução de incentivos e benefícios de natureza tributária, financeira ou creditícia não se aplique sobre os incentivos previstos nos arts. 17 a 26 da Lei nº 11.196, de 21 de novembro de 2005 – Lei do Bem.",
+   "autor_principal": "Senador Izalci Lucas ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PLP%206/2026",
+   "casa": "senado"
+  },
+  {
+   "identificacao": "PLP 282/2026",
+   "temas": [
+    "tributacao"
+   ],
+   "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir a verificação anual de excesso de arrecadação da Contribuição sobre Bens e Serviços (CBS) e assegurar a transparência do cálculo das alíquotas de referência.",
+   "autor_principal": "Senador Izalci Lucas ",
+   "e_autor_principal": true,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PLP%20282/2026",
+   "casa": "senado"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 3218/2023",
+   "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT, para determinar que 10% (dez por cento) dos recursos do FNDCT sejam destinados para popularização da Ciência, Tecnologia e Inovação – C,T&I.",
+   "colegiado": "CCT",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%203218/2023"
+  },
+  {
+   "identificacao": "PLP 131/2020",
+   "ementa": "Altera a Lei nº 10.833, de 29 de dezembro de 2003, para estabelecer regime diferenciado da Contribuição para o Financiamento da Seguridade Social (COFINS) incidente sobre a receita bruta auferida pelas pessoas jurídicas com elevada receita que utilizam plataformas digitais.",
+   "colegiado": "CCDD",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PLP%20131/2020"
+  },
+  {
+   "identificacao": "PL 5078/2019",
+   "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, para garantir a execução orçamentária e financeira das programações do Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT.",
+   "colegiado": "CAE",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%205078/2019"
+  },
+  {
+   "identificacao": "PL 2831/2019",
+   "ementa": "Altera a Lei nº 10.973, de 2 de dezembro de 2004, que dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências; a Lei nº 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências”; a Lei nº 6.019, de 3 de janeiro de 1974, que dispõe sobre o Trabalho Temporário nas Empresas Urbanas, e dá outras Providências; a Lei nº 9.250, de 26 de dezembro de 1995, que altera a legislação do imposto de renda das pessoas físicas e dá outras providências; a Lei nº 7.827, de 27 de setembro de 1989, que regulamenta o art. 159, inciso I, alínea c, da Constituição Federal, institui o Fundo Constitucional de Financiamento do Norte - FNO, o Fundo Constitucional de Financiamento do Nordeste - FNE e o Fundo Constitucional de Financiamento do Centro-Oeste - FCO, e dá outras providências; e acrescenta o art. 42-C a Lei nº 10.257, de 10 de julho de 2001, que regulamenta os arts. 182 e 183 da Constituição Federal, estabelece diretrizes gerais da política urbana e dá outras providências, para favorecer o fortalecimento e desenvolvimento de startups.",
+   "colegiado": "CCT",
+   "temas": [
+    "startups"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%202831/2019"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CCDD — Suplente (Senado): Comissão de Comunicação e Direito Digital",
+  "CTIA — Suplente (Senado): Comissão Temporária Interna sobre Inteligência Artificial no Brasil"
+ ],
+ "frentes": [
+  "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+ ],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "parlamentar_chave": "senado_RS_6341",
+ "nome_urna": "Hamilton Mourão",
+ "nome_completo": "Antonio Hamilton Martins Mourão",
+ "casa_2027": "senado",
+ "uf": "RS",
+ "partido": "REPUBLICANOS",
+ "federacao": null,
+ "incumbente": true,
+ "id_camara": null,
+ "codigo_senado": "6341",
+ "data_coleta": "2026-11-19",
+ "iip": 43.3,
+ "prioridade": "B — Prioridade média",
+ "proposicoes_agenda": [
+  {
+   "identificacao": "PEC 26/2025",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "ementa": "Altera os arts. 167 e 218, da Constituição Federal, para prever a vedação a medidas de limitação de empenho de despesas financiadas pelo Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT.",
+   "autor_principal": "Senador Astronauta Marcos Pontes ",
+   "e_autor_principal": false,
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%2026/2025",
+   "casa": "senado"
+  }
+ ],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 4752/2025",
+   "ementa": "Institui o Marco Legal da Cibersegurança, cria o Programa Nacional de Segurança e Resiliência Digital e altera a Lei nº 13.756, de 12 de dezembro de 2018.",
+   "colegiado": "CCJ",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%204752/2025"
+  },
+  {
+   "identificacao": "PEC 3/2020",
+   "ementa": "Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fixar a competência comum dos entes federados para zelar pela segurança cibernética dos serviços públicos.",
+   "colegiado": "CCJ",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PEC%203/2020"
+  },
+  {
+   "identificacao": "PL 777/2022",
+   "ementa": "Altera o art. 287 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para prever que a apologia de crime ou criminoso pode ser perpetrada por meio da internet, inclusive redes sociais.",
+   "colegiado": "CCDD",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20777/2022"
+  },
+  {
+   "identificacao": "PL 830/2022",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para aumentar as penas dos crimes previstos nos arts. 240, 241, 241-A a 241-D; bem como incluir a internet entre os possíveis meios de aliciamento, assédio, instigação ou constrangimento e, nesses casos, prever causa de aumento de pena para quem se vale de perfil em redes sociais para interagir com criança ou pratica abuso psicológico.",
+   "colegiado": "CCDD",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%20830/2022"
+  },
+  {
+   "identificacao": "PL 81/2023",
+   "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, para dispor sobre a instituição da Taxa Referencial de Juros (TR) em substituição à Taxa de Juros de Longo Prazo (TJLP) no âmbito dos empréstimos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) à FINEP.",
+   "colegiado": "CCT",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia?q=PL%2081/2023"
+  }
+ ],
+ "votos_chave": [],
+ "orgaos": [
+  "CCT — Titular (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CCDD — Titular (Senado): Comissão de Comunicação e Direito Digital",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática",
+  "CCT — Suplente (Senado): Comissão de Ciência, Tecnologia, Inovação e Informática"
+ ],
+ "frentes": [
+  "Frente Parlamentar de Apoio à Cibersegurança e à Defesa Cibernética"
+ ],
+ "limitacoes": [
+  "Sem passagem pela Câmara na legislatura 2023-2027: sem votos nominais coletados",
+  "Votos nominais do Senado não coletados nesta versão"
+ ]
+}
