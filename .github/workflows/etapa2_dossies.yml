@@ -1,0 +1,52 @@
+name: Etapa 2 — dossiês legislativos
+
+# Coleta nas APIs da Câmara e do Senado o dossiê de cada parlamentar priorizado
+# (proposições com ementa completa, relatorias e votos nominais em proposições-chave)
+# e grava output/eleicoes2026/dossies/. É o insumo da avaliação qualitativa de afinidade.
+
+on:
+  push:
+    branches: [feat/etapa2-dossies]   # execução de teste antes do merge
+    paths: ["eleicoes/dossie.py", "eleicoes/votacoes_chave.json", ".github/workflows/etapa2_dossies.yml"]
+  workflow_dispatch:
+    inputs:
+      prioridades:
+        description: "Faixas do IIP a coletar (ex.: A B ou A B C)"
+        default: "A B"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: etapa2-dossies
+  cancel-in-progress: false
+
+jobs:
+  dossies:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependências
+        run: pip install requests pydantic
+
+      - name: Coletar dossiês
+        run: python -m eleicoes.dossie --prioridades ${{ inputs.prioridades || 'A B' }}
+
+      - name: Commit dos resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/eleicoes2026/dossies
+          if git diff --cached --quiet; then
+            echo "Sem alterações."
+          else
+            git commit -m "dados(etapa2): dossiês legislativos atualizados em $(date -u +%F)"
+            git pull --rebase -q
+            git push
+          fi
