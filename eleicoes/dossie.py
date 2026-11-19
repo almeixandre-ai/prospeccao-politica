@@ -66,6 +66,8 @@ def temas_da_ementa(texto: str, agenda: dict) -> list[str]:
 def proposicoes_camara(id_dep: int, agenda: dict) -> list[dict]:
     saida = []
     for p in hc.proposicoes_autoria(id_dep):
+        if not temas_da_ementa(p.get("ementa") or "", agenda):
+            continue  # filtro barato antes de buscar o detalhe (evita milhares de chamadas)
         detalhe = (_get(f"{hc.BASE}/proposicoes/{p['id']}") or {}).get("dados", {})
         ementa = detalhe.get("ementa") or p.get("ementa") or ""
         texto = f"{ementa} {detalhe.get('keywords') or ''} {detalhe.get('ementaDetalhada') or ''}"
