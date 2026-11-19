@@ -119,7 +119,44 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PLP 47/2024",
+   "ementa": "Dispõe sobre o Fundo de Sustentabilidade e Diversificação Econômica do Estado do Amazonas (FUNDSAM) e do Fundo de Desenvolvimento Sustentável dos Estados da Amazônia Ocidental e do Amapá.",
+   "colegiado": "CPOVOS",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2426512",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4895/2024",
+   "ementa": "Institui incentivos fiscais para empresas que investirem em soluções tecnológicas sustentáveis para a expansão da conectividade na região amazônica, e dá outras providências.",
+   "colegiado": "CPOVOS",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "infra_digital"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2480023",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4845/2025",
+   "ementa": "Dispõe sobre a aplicação progressiva de recursos em projetos de pesquisa, desenvolvimento e inovação voltados à bioeconomia na Amazônia Ocidental e no Estado do Amapá, por empresas beneficiárias de incentivos fiscais da Zona Franca de Manaus, e dá outras providências.",
+   "colegiado": "CPOVOS",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2565670",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -196,7 +233,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Não"

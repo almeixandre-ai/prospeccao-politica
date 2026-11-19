@@ -65,7 +65,178 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 2390/2015",
+   "ementa": "Altera a Lei nº 8.069, de 12 de julho de 1990, criando o Cadastro Nacional de Acesso à Internet, com a finalidade de proibir o acesso de crianças e adolescentes a sítios eletrônicos com conteúdo inadequado.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1584972",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2514/2015",
+   "ementa": "Disciplina a forma, os prazos e os meios de preservação e de transferência de dados informáticos mantidos por fornecedor de serviço a autoridades públicas, para fins de investigação criminal envolvendo delito contra criança ou adolescente, e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1594908",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6449/2016",
+   "ementa": "Obriga as  operadoras que disponibilizam o acesso à rede mundial de computadores, criarem sistema que   filtra e interrompe automaticamente na internet  todos os conteúdos de sexo virtual,  prostituição, sites pornográficos.",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2116534",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 7689/2017",
+   "ementa": "Inclui no Marco Civil da Internet, Lei no 12.965, de 23 de abril de 2014, dispositivos relativos à educação digital de crianças e adolescentes",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [
+    "talentos"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2138727",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5191/2019",
+   "ementa": "obrigando os provedores de aplicações de internet que disponibilizarem conteúdos de cunho pornográfico a implantar mecanismo de controle de acesso a esses conteúdos.",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2221551",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5211/2019",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para estabelecer a obrigatoriedade de disponibilização de aplicativo de bloqueio do acesso de crianças e adolescentes conteúdo impróprio em equipamentos eletrônicos de uso pessoal comercializados no País.",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2221695",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2617/2020",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, limitando o acesso aos portais na internet que disponibilizam conteúdos de cunho pornográfico a pessoas maiores de 18 anos previamente cadastradas junto ao provedor de aplicações.",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2252566",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2004/2023",
+   "ementa": "Estabelece normas, procedimentos e mecanismos de uso e de transparência para provedores de aplicação de Internet do tipo plataforma digital de conteúdo de terceiros para proteção de crianças e adolescentes.",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2357381",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2747/2023",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, para estabelecer que os registros de contas de usuários menores de doze anos em redes sociais somente poderão ser efetuados com autorização expressa de um dos pais ou do responsável.",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2364463",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3666/2023",
+   "ementa": "Obriga provedores de aplicações a impedir o acesso a conteúdos impróprios na internet por crianças e adolescentes, por meio de filtros ou outros mecanismos.",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2374914",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4102/2023",
+   "ementa": "Dispõe sobre a proibição da veiculação de conteúdo sexual ou adulto nas plataformas digitais que possa expor crianças e adolescentes à sexualização precoce, e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2382525",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4999/2023",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 – Marco Civil da Internet, para dispor sobre obrigatoriedade de sistemas de verificação de idade em sites de apostas esportivas e de venda de conteúdos adultos, nos termos que especifica.",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2395981",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5667/2023",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para restringir o acesso de crianças e adolescentes a conteúdos impróprios ou inadequados em aplicações de internet.",
+   "colegiado": "CCOM",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2406225",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1587/2024",
+   "ementa": "Institui a obrigatoriedade de as empresas prestadoras de serviços e concessionárias de água, luz, telefone e internet, inserirem, nas faturas de consumo, no âmbito de sua publicidade institucional, as fotos de foragidos da Justiça, condenados definitivamente, por crimes de violência contra a mulher.",
+   "colegiado": "CMULHER",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2431159",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3090/2025",
+   "ementa": "Altera a Lei no 9.472, de 16 de julho de 1997 (Lei Geral de Telecomunicações), para determinar que na venda de aparelhos telefônicos sejam incluídos todos os componentes necessários para sua fruição.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2528660",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4281/2025",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer que campanhas educativas de prevenção da violência doméstica e familiar contra a mulher abranjam a veiculação de conteúdos em aplicações de internet.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2554427",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",

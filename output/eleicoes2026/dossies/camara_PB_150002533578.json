@@ -83,7 +83,42 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 10106/2018",
+   "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre a obrigatoriedade de publicação na internet de listas de pacientes que serão submetidos a procedimentos cirúrgicos eletivos no âmbito do Sistema Único de Saúde (SUS), e a Lei nº 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa), para caracterizar o descumprimento dessa disposição como ato de improbidade administrativa.\r\n\r\nNOVA EMENTA: Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre a obrigatoriedade de publicação na internet de informações aos usuários do Sistema Único de Saúde (SUS).",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2173222",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4863/2024",
+   "ementa": "Dispõe sobre a proteção dos dados dos segurados do INSS e estabelece critérios para a autorização de empréstimos consignados no âmbito do Regime Geral de Previdência Social.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2479688",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4697/2025",
+   "ementa": "Modifica a Lei nº 8.009, de 29 de março de 1990, para corrigir distorções e desvios na aplicabilidade do instituto da Impenhorabilidade do Bem de Família em imóveis de valor vultoso para possibilitar a penhora parcial.",
+   "colegiado": "CPASF",
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2563199",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",

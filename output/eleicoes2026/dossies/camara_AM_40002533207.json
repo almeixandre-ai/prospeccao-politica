@@ -840,7 +840,44 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 5389/2025",
+   "ementa": "Institui a Política Nacional de Fitoterapia e Biotecnologia Amazônica, voltada à pesquisa, desenvolvimento e inovação em medicamentos, suplementos e cosméticos derivados da biodiversidade da Amazônia, estabelece incentivos fiscais e creditícios, cria regime especial de propriedade intelectual e dá outras providências.",
+   "colegiado": "CSAUDE",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2575672",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 7087/2025",
+   "ementa": "Institui a Política Nacional de Compras Públicas Sustentáveis de Vestuário e dá outras providências.",
+   "colegiado": "CMADS",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "governo_digital"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599696",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2092/2026",
+   "ementa": "Institui a Política Nacional de Centros Públicos de Inclusão Digital e Formação Tecnológica Cidadã, para ampliar o acesso gratuito à internet, à capacitação tecnológica e à qualificação digital da população em espaços públicos comunitários, e altera a Lei nº 9.998, de 17 de agosto de 2000.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "talentos"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2620131",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",

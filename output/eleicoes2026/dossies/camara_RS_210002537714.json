@@ -31,7 +31,18 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 469/2024",
+   "ementa": "Acrescenta o art. 9º-A à Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para proibir que provedores de conexão de internet instituam cobrança direcionada aos provedores de aplicações de internet por geração de tráfego de dados.",
+   "colegiado": "CICS",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2418780",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -82,6 +93,16 @@
    "aprovacao": 1,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
   },
   {
    "proposicao": "PL 1847/2024",

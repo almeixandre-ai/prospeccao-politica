@@ -117,7 +117,30 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 822/2024",
+   "ementa": "Altera o Decreto-Lei nº 2.848 de 07 de dezembro de 1940 – Código Penal Brasileiro, para dispor sobre a exposição da intimidade sexual.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2421654",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2517/2024",
+   "ementa": "Estabelece diretrizes para a proteção da privacidade dos cidadãos em meio virtual, reforçando a Lei Geral de Proteção de Dados Pessoais (LGPD) e ampliando as competências da Autoridade Nacional de Proteção de Dados (ANPD).",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2442707",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -156,6 +179,16 @@
    "data": "2024-09-11",
    "descricao": "Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.  Sim: 253; Não: 67; Abstenção: 4; Total: 324.",
    "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Obstrução"
   },

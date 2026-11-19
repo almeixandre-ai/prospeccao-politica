@@ -48,7 +48,50 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 3237/2015",
+   "ementa": "Altera o Marco Civil da Internet, Lei no 12.965, de 23 de abril de 2014, dispondo sobre a guarda dos registros de conexão à internet de sistema autônomo.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2016894",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 500/2021",
+   "ementa": "Altera o art. 65 da Lei nº 13.709, de 14 de agosto de 2018, para determinar a postergação, até o dia 1º de janeiro de 2022, das multas administrativas pecuniárias previstas na Lei Geral de Proteção de Dados Pessoais (LGPD).",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2270533",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1354/2021",
+   "ementa": "Altera o MCI, com a finalidade de criar estímulo à pluralidade e diversidade de notícias, assegurar medidas de proteção ao jornalismo nacional e combate às fake news, para  adotar política de tratamento não discriminatório das empresas de mídia de jornais, revistas, rádio e televisão legalmente instituídas bem como para criar mecanismos de equanimidade, pluralidade e diversidade de conteúdo na internet.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2277800",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 22/2024",
+   "ementa": "Disciplina a remuneração mínima devida pelas empresas operadoras de aplicativos de transporte remunerado privado individual de passageiros em veículos automotores de quatro rodas aos seus motoristas.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2421102",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -145,10 +188,30 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
   },
   {
    "proposicao": "PL 1847/2024",

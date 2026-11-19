@@ -134,7 +134,152 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 3513/2015",
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre o fornecimento de versão em áudio de manual de instruções de produto e de normas de prestação de serviço.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2052486",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3743/2015",
+   "ementa": "Dispõe sobre a obrigatoriedade das empresas do serviço de transporte coletivo disponibilizarem em seus carros, metrôs e trens, aparelhos sistema de Wi-Fi.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2056477",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5993/2016",
+   "ementa": "Obriga a prestação de informação digital, em tempo real, dos locais e horários dos meios de transportes coletivos.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2093746",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 10919/2018",
+   "ementa": "Acrescenta parágrafo ao art. 36, da Lei nº 8.078, de 11 de setembro de 1990 (Código de Proteção e Defesa do Consumidor), para obrigar a identificação publicitária na exibição e na divulgação patrocinadas de produtos e serviços, independentemente da forma ou meio de veiculação.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2184914",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2483/2019",
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para dispor sobre o prazo de vencimento para realização de compra em sites de compras coletivas.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2199109",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4365/2019",
+   "ementa": "Obriga o fornecedor que oferte serviço de entrega de refeições em domicílio a informar aos consumidores os respectivos preços cobrados nos estabelecimentos físicos.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2214320",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2984/2023",
+   "ementa": "Dispõe sobre a obrigação das empresas distribuidoras de energia elétrica ofertarem planos de consumo controlado aos clientes domiciliares.",
+   "colegiado": "CDC",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2368328",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 128/2024",
+   "ementa": "Veda a cobrança de valor adicional pelo uso de ar condicionado em veículos de aplicativos de transporte de passageiros.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2417173",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3001/2024",
+   "ementa": "Estabelece a responsabilidade solidária de plataformas de comércio eletrônico pela alienação de produtos falsificados e dá outras providências.",
+   "colegiado": "CDC",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2450489",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4131/2024",
+   "ementa": "Disciplina a oferta e comercialização de produtos e serviços por meio de plataformas de comércio eletrônico, estabelecendo medidas básicas de segurança e transparência voltadas à proteção dos direitos dos seus usuários.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2465431",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1841/2025",
+   "ementa": "Dispõe sobre a obrigatoriedade de implementação de mecanismos de resfriamento compulsório e de alerta sobre riscos psicológicos em plataformas de apostas e jogos de azar online.",
+   "colegiado": "CDC",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2500125",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3451/2025",
+   "ementa": "Dispõe sobre medidas de segurança e transparência para sites de comércio eletrônico, com o objetivo de prevenir fraudes e golpes por meio de páginas falsas de vendas online, e dá outras providências.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2536838",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5511/2025",
+   "ementa": "Institui a garantia de permanência de linha móvel sob a modalidade pré-pago em nome do consumidor e estabelece sanções administrativas para as prestadoras de serviços de telecomunicações em caso de cancelamento unilateral indevido.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2578993",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 391/2026",
+   "ementa": "Dispõe sobre a regulamentação da fabricação, da comercialização, da posse, do uso e da atualização de robôs humanoides no território nacional, estabelece requisitos de segurança, transparência algorítmica, responsabilidade civil e penal, altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), e dá outras providências.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2601492",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -223,6 +368,16 @@
    "data": "2024-09-11",
    "descricao": "Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.  Sim: 253; Não: 67; Abstenção: 4; Total: 324.",
    "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Obstrução"
   },

@@ -118,7 +118,53 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 9544/2018",
+   "ementa": "Altera o art. 13 da Lei n° 5.070, de 7 de julho de 1966, para isentar do pagamento das taxas do Fundo de Fiscalização das Telecomunicações (Fistel) os prestadores de serviços públicos de emergência e de segurança pública.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2167884",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5572/2019",
+   "ementa": "Altera a lei nº 10671, de 15 de maio de 2003, e dá outras providencias.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2225790",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4556/2020",
+   "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018 para promover treinamento e conscientização para servidores dos órgãos de segurança pública acerca do enfrentamento dos crimes cibernéticos.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2262834",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2225/2025",
+   "ementa": "Dispõe sobre a criação da Política Nacional de Formação e Capacitação de Professores da Educação Básica em Inteligência Artificial como Assistente Pedagógico para o Desenvolvimento do Ensino e Aprendizagem e dá outras providências.",
+   "colegiado": "CE",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia",
+    "talentos"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2507228",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -215,7 +261,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Obstrução"

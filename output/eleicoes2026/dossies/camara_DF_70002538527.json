@@ -66,7 +66,512 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 1351/2019",
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, que dispõe sobre a organização dos serviços de telecomunicações, a criação e funcionamento de um órgão regulador e outros aspectos institucionais, nos termos da Emenda Constitucional nº 8, de 1995, para estabelecer o direito de os usuários dos serviços de telecomunicações acessarem gratuitamente os conteúdos, aplicações e serviços disponibilizados na internet pela União e órgãos da administração pública federal.",
+   "colegiado": "MESA",
+   "situacao": "Retirado pelo(a) Autor(a)",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2193596",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3389/2019",
+   "ementa": "Acrescenta os §§ 5º e 6º ao art. 10 da Lei nº 12.965, de 23 de abril de 2014, para estabelecer a obrigatoriedade de fornecimento do número de inscrição no Cadastro de Pessoas Físicas (CPF) ou Cadastro Nacional de Pessoa Jurídica (CNPJ) para cadastro em aplicações de internet.",
+   "colegiado": "PLEN",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2207075",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6191/2019",
+   "ementa": "Dispõe sobre a instalação de equipamentos de infraestrutura de telecomunicações e altera a Lei no 13.116, de 20 de abril de 2015.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2230899",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3627/2020",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, para criar mecanismos de verificação de identidade dos perfis ativos em aplicações de internet que atuem como redes sociais e plataforma de registro de ocorrência policial na hipótese de crimes contra a honra cometidos ou divulgados em quaisquer modalidades das redes sociais da rede mundial de computadores e dá outras providências.",
+   "colegiado": "PLEN",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2256710",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2482/2023",
+   "ementa": "Altera a destinação e contribuições aos Fundos que especifica visando à implementação de diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, bem como altera a Lei no 10.052, de 28 de novembro de 2000, e a Lei no 9.998, de 17 de agosto de 2000.",
+   "colegiado": "CE",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "infra_digital"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2361486",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3902/2023",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, para coibir o uso, criação, distribuição e comercialização de aplicativos e programas destinados à criação de imagens ou vídeos pornográficos ou obscenos falsos.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "ia",
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2379020",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4025/2023",
+   "ementa": "Esta lei altera a Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, e a Lei nº 9.610, de 19 de fevereiro de 1998, dispondo sobre a utilização da imagem de uma pessoa, viva ou falecida, e dos direitos autorais, decorrentes da utilização de inteligência artificial.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia",
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2380982",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4944/2023",
+   "ementa": "Altera a Lei nº 5.070, de 7 de julho de 1966, que cria o Fundo de Fiscalização das Telecomunicações e dá outras providências, para determinar a não incidência da Taxa de Fiscalização de Funcionamento (TFF) e Taxa de Fiscalização de Instalação (TFI) sobre terminais móveis de uso individual.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2395474",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 123/2024",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de  2014 (o Marco Civil da Internet), para  subordinar as relações de consumo  mediadas por provedores de aplicações de  internet às normas do Código de Defesa do  Consumidor (CDC), especificamente nos  artigos relacionados à publicidade, com a  adoção de medidas de responsabilização  para as plataformas que veiculam publicidade  enganosa",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2417168",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1503/2024",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), ampliando o conjunto de informações a serem armazenadas pelos provedores de conexão e de aplicação de internet para fins de apuração de ilícitos.",
+   "colegiado": "MESA",
+   "situacao": "Retirado pelo(a) Autor(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430586",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1845/2024",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), ampliando o conjunto de informações a serem armazenadas pelos provedores de conexão e de aplicação de internet para fins de apuração de ilícitos.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2434055",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2807/2024",
+   "ementa": "Dispõe sobre a proteção da imagem de crianças, proibindo a utilização de suas fotos para alimentar ferramentas de inteligência artificial sem o consentimento expresso de seus pais ou representantes legais.",
+   "colegiado": "CPASF",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2448043",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4540/2024",
+   "ementa": "Dispõe sobre advertências obrigatórias em conteúdo adulto disponibilizado pela internet.",
+   "colegiado": "CSAUDE",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2472058",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4887/2024",
+   "ementa": "Dispõe sobre a capacitação de gestores públicos municipais para regulamentação de instalação de antenas e dá outras providências.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2479995",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 695/2025",
+   "ementa": "Altera a Lei nº 13.640, de 26 de março de 2018, para dispor sobre a responsabilidade solidária das operadoras de transporte por aplicativo em casos de crimes contra a vida e a implementação de mecanismos de prevenção a tais delitos.",
+   "colegiado": "CCJC",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2485506",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1690/2025",
+   "ementa": "Institui medidas de prevenção, responsabilização e repressão a conteúdos digitais que incentivem desafios perigosos a menores de idade, e dá outras providências.",
+   "colegiado": "CPASF",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "talentos"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2497761",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2140/2025",
+   "ementa": "Dispõe sobre o bloqueio de linhas telefônicas utilizadas em práticas ilícitas, autoriza a instituição de delegacias especializadas no combate a crimes por meio de telecomunicações e acrescenta o art. 308-A ao Código Penal para tipificar a falsificação de identificador em comunicação telefônica.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2504751",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2238/2025",
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, para dispor sobre deveres das prestadoras de serviços de telecomunicações e sobre a regulação aplicável às prestadoras de acordo com o seu porte.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "infra_digital"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2507283",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2257/2025",
+   "ementa": "Dispõe sobre a proibição da publicidade de apostas e jogos de azar, inclusive em plataformas digitais, nos mesmos moldes da restrição aplicada à publicidade de produtos fumígenos, conforme estabelece a Lei nº 9.294, de 15 de julho de 1996.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2508005",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2258/2025",
+   "ementa": "Proíbe ações de telemarketing via ligação telefônica realizada por bots, robôs ou qualquer programa de software que execute tarefas automatizadas, repetitivas e pré-definida em todo território nacional.",
+   "colegiado": "",
+   "situacao": "",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2508006",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2294/2025",
+   "ementa": "Estabelece medidas para permitir o bloqueio e o rastreamento, e facilitar a investigação de crimes cibernéticos praticados mediante a utilização de linha telefônica de serviço fixo comutado ou móvel celular, e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2508585",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2453/2025",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para estabelecer a privacidade como configuração padrão em navegadores e aplicativos de internet, visando proteger os dados e a privacidade dos usuários.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2515240",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3282/2025",
+   "ementa": "Dispõe sobre a obrigatoriedade de mecanismos preventivos de filtragem algorítmica por plataformas digitais para restringir a disseminação de conteúdos que incentivem automutilação, crimes ou práticas violentas, e dá outras providências.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2532963",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3776/2025",
+   "ementa": "Institui o Programa Nacional de Oficinas Digitais para a Terceira Idade – 60digital.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Redação Final",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2541071",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4041/2025",
+   "ementa": "Dispõe sobre a proteção da atividade de dublagem no Brasil, estabelece regras para contratação de profissionais e empresas nacionais, regulamenta o uso de inteligência artificial na dublagem e dá outras providências.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia",
+    "dados",
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2547251",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4055/2025",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, para dispor sobre a oferta de canais de denúncia de crimes de intimidação sistemática virtual (cyberbullying).",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2548459",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4348/2025",
+   "ementa": "Altera a Lei nº 13.819, de 26 de abril de 2019, para incluir a obrigatoriedade de emissão de alertas preventivos por chatbots e sistemas de inteligência artificial em interações relacionadas à saúde mental, automutilação ou suicídio.",
+   "colegiado": "CCOM",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2555351",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4823/2025",
+   "ementa": "Institui, em âmbito nacional, o Sistema de Alerta Infantil Imediato (SAII) para difusão célere de informações sobre crianças e adolescentes desaparecidos em risco, e para recebimento e encaminhamento de denúncias de aliciamento infantil em ambientes digitais, por meio das redes de telefonia celular, plataformas digitais e meios oficiais, e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2565464",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6768/2025",
+   "ementa": "Altera a Lei nº 4.117/1962, para instituir campanhas publicitárias no rádio e na televisão contra o bullying e o cyberbullying.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599371",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6858/2025",
+   "ementa": "Dispõe sobre a obrigação de plataformas digitais de identificar, remover e banir perfis que promovam discurso de ódio, discriminação ou violência contra crianças e adolescentes, estabelece deveres de transparência e integridade, e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599461",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6984/2025",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para determinar a remoção de conteúdos nas plataformas digitais que incitem a discriminação de pessoas com deficiência ou as exponha de forma humilhante ou vexatória, nos termos em que especifica.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599588",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6989/2025",
+   "ementa": "Altera a Lei nº 12.232, de 2010, que dispõe sobre as normas gerais para licitação e contratação de serviços de publicidade pela administração pública, e a Lei nº 12.965, de 2014, que institui o Marco Civil da Internet, para estabelecer vedações à veiculação de publicidade oficial em canais que difundam desinformação, instituir o Cadastro Nacional de Disseminadores Contumazes de Desinformação e de Discursos de Ódio e implementar ações de educação digital e combate às notícias falsas e aos discursos de ódio.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "talentos"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599593",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 7131/2025",
+   "ementa": "Altera a Lei nº 9.998, de 17 de agosto de 2000, para instituir o eixo educacional do Fundo de Universalização dos Serviços de Telecomunicações, denominado Fundo de Conectividade Escolar (FCE), destinado à garantia de conectividade de alta velocidade e à infraestrutura tecnológica das escolas públicas.",
+   "colegiado": "CCOM",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "incentivos_pd",
+    "infra_digital"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599740",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 180/2026",
+   "ementa": "Dispõe sobre a obrigatoriedade de remoção de conteúdos que contenham maus-tratos contra animais nas redes sociais, estabelece a responsabilidade das plataformas e altera a Lei nº 12.965, de 23 de abril de 2014.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2600442",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 212/2026",
+   "ementa": "Criminaliza a produção e a disseminação de conteúdo audiovisual, sonoro ou visual gerado ou manipulado por inteligência artificial (deepfakes) e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2600618",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 251/2026",
+   "ementa": "Dispõe sobre a publicidade nos meios de comunicação.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2600743",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 802/2026",
+   "ementa": "Estabelece normas para a padronização da nomenclatura dos veículos de comunicação e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2605134",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 829/2026",
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997 (Lei Geral de Telecomunicações), e a Lei nº 12.608, de 10 de abril de 2012 (Política Nacional de Proteção e Defesa Civil), para estabelecer o fornecimento célere de dados de localização de terminais móveis em situações de desastre, com a finalidade de apoiar operações de busca, salvamento e resposta a emergências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2605498",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1043/2026",
+   "ementa": "Institui a Política de Prevenção e Repressão a Crimes Cibernéticos contra Animais, dispondo sobre a prevenção, tipificação, investigação e repressão de crimes cometidos por meio eletrônico ou digital, e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "ciberseguranca"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2607592",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2629/2026",
+   "ementa": "Dispõe sobre a possibilidade de restrição judicial de acesso a estádios, arenas e eventos esportivos por pessoas condenadas por violência contra a mulher, crimes sexuais, maus-tratos aos animais e devedores de obrigação alimentar em situação de inadimplência reiterada, voluntária e injustificada, institui medidas socioeducativas de responsabilização, prevenção e reparação cívica, estabelece diretrizes de controle de acesso, proteção de dados pessoais e cooperação institucional, em consonância com a Lei Geral do Esporte, e dá outras providências.",
+   "colegiado": "CESPO",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2627971",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2869/2026",
+   "ementa": "Institui o Estatuto da Acessibilidade Digital da Pessoa Idosa, estabelece direitos, garantias e padrões mínimos de acessibilidade em ambientes digitais públicos e privados, e dá outras providências.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2630037",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4037/2026",
+   "ementa": "Institui diretrizes para o Programa Cientista Empreendedor e aperfeiçoa a Lei nº 10.973, de 2 de dezembro de 2004, para estimular o empreendedorismo científico e tecnológico no âmbito das Instituições Científicas, Tecnológicas e de Inovação.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "incentivos_pd",
+    "propriedade_intelectual",
+    "startups"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2640712",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4039/2026",
+   "ementa": "Altera a Lei nº 10.973, de 2 de dezembro de 2004, para estabelecer diretrizes de valorização e atualização periódica das bolsas de pesquisa no âmbito das políticas de ciência, tecnologia e inovação.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2640714",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PDL 938/2026",
+   "ementa": "Aprova o ato que renova a permissão outorgada à  Portugal Telecomunicações Ltda. para executar serviço de radiodifusão sonora em frequência modulada no Município de Britânia, Estado de Goiás",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2644145",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",

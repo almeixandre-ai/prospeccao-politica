@@ -32,7 +32,60 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 1776/2019",
+   "ementa": "Dá nova redação ao artigo 289, §§ 1º e 2º acrescenta artigo 290-A, ambos da Lei nº 6.404, de 15 de dezembro de 1976, e o artigo 1º da Lei nº 8.639, de 31 de março de 1993.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2195525",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5069/2019",
+   "ementa": "Altera o Decreto-Lei nº 5.452, de 1º de maio de 1943 - Consolidação das Leis do Trabalho - CLT, com as modificações introduzidas pela Lei nº 13.467, de 13 de julho de 2017, para inclusão da Seção IV-B, no Título III, Capítulo I, para dispor sobre a relação de emprego entre empresas e empregados que exercem atividades através da plataforma de aplicativos de transporte terrestre e dá outras providências.",
+   "colegiado": "CICS",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2220389",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1677/2020",
+   "ementa": "Dispõe sobre medidas a serem adotadas pelas empresas titulares de plataformas digitais para entrega de produtos e serviços no sentido evitar o contágio de coronavírus pelos profissionais de transporte de produtos e passageiros, enquanto durar o estado de calamidade pública decretado pelo Congresso Nacional.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2244914",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 12/2024",
+   "ementa": "Dispõe sobre a relação de trabalho intermediado por empresas operadoras de aplicativos de transporte remunerado privado individual de passageiros em veículos automotores de quatro rodas e estabelece mecanismos de inclusão previdenciária e outros direitos para melhoria das condições de trabalho.",
+   "colegiado": "CICS",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2419243",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 152/2025",
+   "ementa": "Regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital.",
+   "colegiado": "PLP15225",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2537739",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -129,7 +182,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Não"

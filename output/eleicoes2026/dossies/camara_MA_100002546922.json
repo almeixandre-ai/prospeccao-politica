@@ -714,7 +714,74 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 786/2015",
+   "ementa": "Regulamenta o art. 3º, inciso IV, da Lei Nº 12.527, de 18 de novembro de 2011, institui normas para dar transparência à publicidade dos atos da Administração Publica Estadual e Municipal e da outras providências.",
+   "colegiado": "CCJC",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1049049",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2387/2015",
+   "ementa": "Disciplina a responsabilidade civil por violação dos deveres conjugais; acrescenta o parágrafo único do artigo 1.566, da Lei n.º 10.406, de 10 de janeiro de 2002 - Código Civil.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1580226",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 7124/2017",
+   "ementa": "Altera a Lei n° 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para facilitar o atendimento do consumidor pelos PROCONS por meio da internet.",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2125623",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PEC 347/2017",
+   "ementa": "Acresce inciso IV ao artigo 102 da Constituição Federal para conferir apenas ao Supremo Tribunal Federal a suspensão de aplicativos de troca de informações via internet.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2145182",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4015/2023",
+   "ementa": "Altera o art. 121 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940- Código Penal -  para prever como homicídio qualificado aquele praticado contra membros do Ministério Público e Magistratura, no exercício de sua função ou por causa dela e dá outras providências.\r\n\r\nNOVA EMENTA: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e as Leis nºs 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), 12.694, de 24 julho de 2012, e 13.709, de 14 agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), para reconhecer como atividade de risco permanente as atribuições inerentes ao Poder Judiciário e ao Ministério Público e garantir aos seus membros medidas de proteção, bem como recrudescer o tratamento penal destinado aos crimes de homicídio e de lesão corporal dolosa contra eles, desde que no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente, inclusive por afinidade, até o terceiro grau, em razão dessa condição.",
+   "colegiado": "MESA",
+   "situacao": "Transformado em Norma Jurídica",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1197773",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4438/2023",
+   "ementa": "Altera a Lei nº 4.737, de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos) e a Lei nº 9.504, de 30 de setembro de 1997 (Lei as Eleições), com o fim de promover reforma no ordenamento político-eleitoral (Minirreforma Eleitoral de 2023).",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2387066",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -811,7 +878,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Não"

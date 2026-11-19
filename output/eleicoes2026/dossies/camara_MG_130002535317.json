@@ -49,7 +49,30 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PLP 68/2024",
+   "ementa": "Institui o Imposto sobre Bens e Serviços - IBS, a Contribuição Social sobre Bens e Serviços - CBS e o Imposto Seletivo - IS e dá outras providências.",
+   "colegiado": "MESA",
+   "situacao": "Transformado em Norma Jurídica",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430143",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PDL 945/2025",
+   "ementa": "Aprova o ato que renova a permissão outorgada à Cachoeira Alta Telecomunicações Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Paraopeba, Estado de Minas Gerais.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2583463",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",

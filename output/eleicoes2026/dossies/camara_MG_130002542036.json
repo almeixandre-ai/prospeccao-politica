@@ -49,7 +49,32 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 4977/2024",
+   "ementa": "Estabelece critérios específicos para a requisição de prontuários médicos pelo Conselho Federal e pelos Conselhos Regionais de Medicina.",
+   "colegiado": "CSAUDE",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2481120",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1291/2025",
+   "ementa": "Dispõe sobre a modernização do Sistema Único de Saúde (SUS) por meio da implementação da Fila Única Nacional, do Aplicativo Nacional da Fila do SUS, do estabelecimento de metas de tempo máximo de espera, da remuneração por desempenho, do atendimento prioritário baseado em inteligência artificial e da obrigatoriedade de transparência nos dados da fila, bem como estabelece sanções para inserção de informações fraudulentas, alterando a Lei nº 8.080, de 19 de setembro de 1990.",
+   "colegiado": "CSAUDE",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2490661",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",

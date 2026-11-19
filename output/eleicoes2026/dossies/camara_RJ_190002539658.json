@@ -798,7 +798,7 @@
    "autor_principal": "Marcos Tavares",
    "e_autor_principal": true,
    "n_coautores": 1,
-   "situacao": null,
+   "situacao": "Aguardando Encaminhamento",
    "data_apresentacao": "2026-07-25",
    "url": "https://www.camara.leg.br/propostas-legislativas/2641604",
    "url_inteiro_teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3166273",
@@ -907,7 +907,45 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PDL 552/2020",
+   "ementa": "Susta o Decreto nº 10.578, de 15 de dezembro de 2020, que \"Dispõe sobre a dissolução societária do Centro Nacional de Tecnologia Eletrônica Avançada S.A. e a publicização das atividades direcionadas à pesquisa científica, ao desenvolvimento tecnológico e à inovação no setor de microeletrônica\".",
+   "colegiado": "CDE",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2267201",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2911/2025",
+   "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de pontos de apoio para trabalhadores de plataformas digitais de entrega e de transporte individual privado de passageiros",
+   "colegiado": "CTRAB",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2525925",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 446/2026",
+   "ementa": "Institui a Lei Nacional de Proteção Digital da Pessoa Idosa contra golpes e fraudes eletrônicas, cria o Sistema Nacional Integrado de Prevenção e Resposta a Fraudes contra a Pessoa Idosa, institui o “Alerta Prata Digital”, estabelece deveres de segurança, cooperação e resposta rápida para instituições financeiras, instituições de pagamento, operadoras de telecomunicações e plataformas digitais, disciplina bloqueio preventivo de transações de alto risco, prevê restituição prioritária com crédito provisório em prazo máximo de 48 (quarenta e oito) horas para a pessoa idosa vítima de fraude, cria cadastro nacional de tentativas de fraude e altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), e a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados",
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2602193",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 1847/2024",
@@ -974,7 +1012,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Não"

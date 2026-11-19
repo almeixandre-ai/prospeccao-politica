@@ -188,7 +188,97 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 2661/2015",
+   "ementa": "Acresce artigo à Lei nº 8.078, de 11 de setembro de 1990, para disciplinar as relações entre empresas que utilizam serviços de telecomunicações ou de mensageria para difusão de mensagens publicitárias, de cobrança ou de divulgação e os consumidores em geral.",
+   "colegiado": "CCJC",
+   "situacao": "Tramitando em Conjunto",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1671887",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3272/2015",
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, obrigando as operadoras de telefonia celular que prestem serviço na modalidade pré-paga a enviar a seus assinantes informações sobre os serviços contratados.",
+   "colegiado": "CCJC",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2017255",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1507/2023",
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 para prever a publicidade de produtos e serviços ilícitos em “sites” hospedados em servidores localizados fora do Brasil como crime contra o consumidor.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2354111",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2721/2024",
+   "ementa": "Altera o art. 11 da Lei n° 9.610, de 1998, para deixar expresso que autor é apenas a pessoa física, independentemente do grau de autonomia do sistema de inteligência artificial utilizado na elaboração da obra.",
+   "colegiado": "CCULT",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia",
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2445849",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PDL 612/2025",
+   "ementa": "Susta os efeitos da decisão do Conselho Diretor da Agência Nacional de Telecomunicações – Anatel que revoga a obrigatoriedade do uso do prefixo 0303 em chamadas de telemarketing ativo.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2547381",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6704/2025",
+   "ementa": "Estabelece a obrigatoriedade de aviso prévio e claro sobre a gravação de dados de voz por centrais telefônicas, plataformas digitais e aplicativos, e dá outras providências.",
+   "colegiado": "CDC",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599297",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1943/2026",
+   "ementa": "Dispõe sobre a integração dos sistemas de cobrança automática de pedágio eletrônico (free flow) à Carteira Digital de Trânsito – CDT, estabelece regras de notificação ao usuário, amplia a transparência na cobrança tarifária e dá outras providências.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2618038",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PEC 13/2026",
+   "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+   "colegiado": "CCJC",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2631190",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -225,7 +315,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Abstenção"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Não"

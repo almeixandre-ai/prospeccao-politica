@@ -118,7 +118,64 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 1745/2019",
+   "ementa": "Altera a Lei nº 12.527, de 18 novembro de 2011 - Lei de Acesso à Informação, para ampliar as hipóteses de acesso a dados públicos pelos administrados.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2195396",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3477/2020",
+   "ementa": "Dispõe sobre a garantia de acesso à internet, com fins educacionais, aos alunos e professores da educação básica pública.",
+   "colegiado": "MESA",
+   "situacao": "Transformado em Norma Jurídica",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2256081",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4238/2021",
+   "ementa": "Inaugura penas administrativas quanto ao não cumprimento de acessibilidade eletrônica, institui obrigatoriedade de acessibilidade eletrônica na Administração Pública e dispõe sobre recomendação para inclusão de disciplina obrigatória nos cursos de direito, jornalismo, publicidade, desenvolvimento de sistemas e sítios eletrônicos ou correlatos.",
+   "colegiado": "CASP",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2309865",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 933/2024",
+   "ementa": "Dispõe sobre a inclusão digital e acessibilidade na telemedicina e dá outras providências.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2423066",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 329/2025",
+   "ementa": "Institui a Política Nacional de Promoção de Fatores de Proteção da Saúde Mental de Meninas.",
+   "colegiado": "CPASF",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "talentos"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2483184",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -169,6 +226,16 @@
    "aprovacao": 1,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
   },
   {
    "proposicao": "PL 1847/2024",

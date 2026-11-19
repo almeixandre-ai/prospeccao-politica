@@ -65,7 +65,118 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PEC 7/2020",
+   "ementa": "Altera o Sistema Tributário Nacional e dá outras providências.",
+   "colegiado": "PLEN",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2238473",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PDL 1112/2021",
+   "ementa": "Susta os § 3.º e 4º do artigo 8º da Resolução nº 721, de 11 de fevereiro 2020, da ANATEL, que Destina faixas de radiofrequência e aprova o Regulamento sobre Canalização e Condições de Uso de Radiofrequências para os Serviços de Radiodifusão e seus Ancilares.",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2310620",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4432/2023",
+   "ementa": "Dispões sobre a criação do Cadastro de Invasores de Propriedades e da outras previdências.",
+   "colegiado": "",
+   "situacao": "",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2387055",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3140/2024",
+   "ementa": "Altera o Decreto-lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) para tornar mais grave os crimes com o uso de dados pessoais, redes sociais, e-mails e contas online de pessoas falecidas.",
+   "colegiado": "CCJC",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "dados",
+    "tributacao",
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2452397",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4655/2024",
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, para vedada a nomeação ou designação para os cargos de presidência, direção ou gerência da ANATEL de pessoa que, nos últimos 10 (dez) anos, tenha exercido, direta ou indiretamente, funções ou atividades ligadas a empresas ou entidades sob regulação da ANATEL e estabelece impedimentos, pelo mesmo período, após o término do vínculo com a agência reguladora.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2474846",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 769/2025",
+   "ementa": "Veda a censura prévia em ambientes virtuais e na imprensa, assegurando o exercício pleno da liberdade de expressão, nos termos da Constituição Federal e legislação vigente.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2485940",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2304/2025",
+   "ementa": "Dispõe sobre a criminalização da divulgação de desafios perigosos na internet que incentivem crianças, adolescentes e jovens à prática de atos nocivos ou autolesivos.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2508867",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2594/2025",
+   "ementa": "Dispõe sobre diretrizes de proteção psicológica, emocional e moral aos usuários de redes sociais, com foco na prevenção de danos decorrentes do uso excessivo e inadequado dessas plataformas, e estabelece mecanismos de identificação, limitação de uso e promoção de inteligência emocional.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2517538",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3182/2025",
+   "ementa": "Proíbe a reutilização de números de telefone móvel por empresas de telecomunicações e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2530441",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5197/2025",
+   "ementa": "Altera a Lei nº 12.009, de 29 de julho de 2009, para obrigar as empresas operadoras de aplicação de internet voltadas para o serviço de entrega de mercadorias a limitar o peso das cargas a serem transportadas.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2572401",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -152,7 +263,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Obstrução"

@@ -65,7 +65,170 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 1461/2021",
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, para dispor sobre o direito ao restabelecimento de serviço de telecomunicações suspenso.",
+   "colegiado": "CDC",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2278550",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 159/2023",
+   "ementa": "Altera o parágrafo único do art. 3º-B do Decreto Lei nº 719, de 31 de julho de 1969, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico.",
+   "colegiado": "CCTI",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2346870",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1473/2023",
+   "ementa": "Esta Lei torna obrigatória a disponibilização, por parte das empresas que operam sistemas de inteligência artificial, de ferramentas que garantam aos autores de conteúdo na internet a possibilidade de restringir o uso de seus materiais pelos algoritmos de inteligência artificial, com o objetivo de preservar os direitos autorais.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia",
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2353916",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3873/2023",
+   "ementa": "Dispõe sobre medidas de incentivo ao mercado imobiliário, altera a Lei nº 10.169, de 29 de dezembro de 2000, e a Lei nº 10.416, de 10 de janeiro de 2002 (Código Civil).",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2377545",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 453/2024",
+   "ementa": "Dispõe sobre a modificação da Lei nº 9.472, de 16 de julho de 1997, para declarar os serviços de telecomunicações como essenciais e estipular a validade mínima de 1 ano para os créditos adquiridos pelos consumidores.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2418727",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2967/2024",
+   "ementa": "Dispõe sobre o apoio a startups e empresas de tecnologia através de incentivos fiscais e financiamentos.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "incentivos_pd",
+    "startups"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2450210",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3630/2024",
+   "ementa": "Institui obrigação de ressarcimento ao usuárioproporcional ao tempo de interrupção no fornecimento dos serviços de telecomunicações ao consumidor.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2458664",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1290/2025",
+   "ementa": "Altera a Lei nº 9.784, de 29 de janeiro de 1999, para regulamentar o uso da inteligência artificial nos processos administrativos, no âmbito da Administração Pública Federal.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2490659",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1921/2025",
+   "ementa": "Modifica o Código Penal Brasileiro e o Código de Defesa do Consumidor criando artigo específico sobre a prática de chamadas telefônicas indesejadas e o uso não autorizado de dados de contato, com penalidades agravadas.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2501324",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3091/2025",
+   "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para vedar, no âmbito das relações de consumo, o uso de conteúdos gerados por inteligência artificial que simulem, de forma realista, profissionais da saúde, autoridades públicas ou especialistas, com o objetivo de influenciar decisões de compra, adesão ou consumo.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2528688",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3224/2025",
+   "ementa": "Dispõe sobre a destinação mínima de recursos de fundos públicos federais de conectividade e inovação tecnológica à Região Norte do Brasil e estabelece diretrizes para sua aplicação prioritária, com metas, critérios de transparência e controle social.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "incentivos_pd",
+    "infra_digital"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2531637",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4558/2025",
+   "ementa": "Aprimora o arcabouço de prevenção e combate aos crimes de fraude eletrônica.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2560783",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6472/2025",
+   "ementa": "Estabelece normas de proteção aos direitos dos consumidores e usuários de serviços de comunicação eletrônica contra práticas abusivas de cobrança automatizada, incluindo chamadas repetitivas, contatos fora dos horários permitidos, falsas representações, uso indevido de voz sintética (deepvoice), spoofing e outras formas de constrangimento digital, impõe obrigações de transparência, consentimento e mecanismos efetivos de recusa de contato, institui regime sancionatório administrativo e civil para infratores, cria mecanismos de indenização direta por abuso e determina diretrizes de governança de dados pessoais aplicáveis, garantindo a compatibilidade com a Lei Geral de Proteção de Dados Pessoais – LGPD (Lei nº 13.709/2018) e demais normas consumeristas e de telecomunicações.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2597384",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2630/2026",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para estabelecer medidas de proteção da infância e da adolescência contra a publicidade, promoção comercial e oferta de alimentos ultraprocessados.",
+   "colegiado": "CDC",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2627973",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 4675/2025",
@@ -152,7 +315,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Não"

@@ -1299,7 +1299,177 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PLP 462/2017",
+   "ementa": "Cria o INOVA SIMPLES, procedimento de apoio à inovação das empresas simples de inovação.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "startups"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2166835",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 10970/2018",
+   "ementa": "Inclui programas de informática de código aberto na lista de preferência nas aquisições de bens e serviços de informática e automação.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "tributacao",
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2186124",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 759/2023",
+   "ementa": "Regulamenta os sistemas de Inteligência Artificial, e dá outras providências.",
+   "colegiado": "CCTI",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "ia",
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2349685",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 33/2023",
+   "ementa": "Altera o art. 49 da Lei Complementar nº 101, de 4 de maio de 2000, para modificar a forma de acesso da população a prestações de contas efetuadas por administradores públicos, assim como o alcance da obrigação de prestar contas, e dá outras providências.",
+   "colegiado": "CASP",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2349747",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3685/2023",
+   "ementa": "Estabelece normas de transparência, controle e auditoria sobre a contratação de serviços relacionados ao desenvolvimento, manutenção e licenciamento de softwares por órgãos públicos federais, estaduais e municipais.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2375078",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1465/2024",
+   "ementa": "Estabelece princípios, garantias, direitos e deveres para o desenvolvimento, a implementação e a aplicação da inteligência artificial no Brasil, visando promover sua utilização segura, ética e responsável.",
+   "colegiado": "CE",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430325",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 236/2024",
+   "ementa": "Acrescenta o art. 9-A à Lei Complementar nº 182, de 1º de junho de 2021, para conceder isenção do Imposto de Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) às startups que reinvestirem seus lucros em atividades de pesquisa, desenvolvimento e inovação tecnológica.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "incentivos_pd",
+    "startups"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2481406",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1672/2025",
+   "ementa": "Institui o Plano de Reindustrialização e Soberania Nacional – PRSN.",
+   "colegiado": "CICS",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2497412",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3705/2025",
+   "ementa": "Altera a Lei nº 14.509, de 27 de dezembro de 2022, para dispor sobre a confirmação biométrica de operações com desconto automático em folha de pagamento.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2539440",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6706/2025",
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), para dispor sobre a Auditoria Algorítmica Preventiva em sistemas de Inteligência Artificial que afetam decisões de alto impacto social.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599299",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 7135/2025",
+   "ementa": "Altera a Lei nº 8.248, de 23 de outubro de 1991 (Lei de Informática), para estabelecer critérios de inclusão social e digital em Inteligência Artificial como contrapartida obrigatória para a fruição de incentivos fiscais.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "ia",
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599744",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1348/2026",
+   "ementa": "Institui a Lei Nacional de Financiamento da Pesquisa e Inovação em Oncologia, cria o Fundo Nacional de Pesquisa e Inovação em Oncologia – FUNPIO estabelece mecanismos permanentes de financiamento científico para prevenção, diagnóstico e tratamento do câncer, e dá outras providências.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2611427",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1386/2026",
+   "ementa": "Altera a Lei n° 10.973, de 2 de dezembro de 2004, a Lei n° 8.958, de 20 de dezembro de 1994, e a Lei nº 8.032, de 12 de abril de 1990, para aprimorar a definição e a atuação das ICTs nas atividades de ciência, tecnologia e inovação, e dá outras providências.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2611720",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1387/2026",
+   "ementa": "Altera a Lei n° 10.973, de 2 de dezembro de 2004, a Lei n° 8.958, de 20 de dezembro de 1994, e a Lei nº 8.032, de 12 de abril de 1990, para dispor sobre o acesso a recursos públicos pelas ICTs nas atividades de ciência, tecnologia e inovação, o aperfeiçoamento o regime de concessão de bolsas, e dá outras providências.",
+   "colegiado": "CCTI",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2611725",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -1358,6 +1528,26 @@
    "data": "2024-09-11",
    "descricao": "Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.  Sim: 253; Não: 67; Abstenção: 4; Total: 324.",
    "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
+   "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Não"
   },

@@ -83,7 +83,86 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 723/2019",
+   "ementa": "Altera as Leis nº 6.437, de 20 de agosto de 1977, que “configura infrações à legislação sanitária federal, estabelece as sanções respectivas e dá outras providências”, e nº 9.782, de 26 de janeiro de 1999, que “define o Sistema Nacional de Vigilância Sanitária, cria a Agência Nacional de Vigilância Sanitária, e dá outras providências”, para tipificar como infração sanitária a publicação de informação sobre a saúde que possa induzir ou estimular a automedicação.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2387433",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 781/2023",
+   "ementa": "Altera dispositivos da Lei nº 9.472, de 16 de julho de 1997, Lei Geral de Telecomunicações - LGT, do Decreto-Lei nº 2.848, de 7 de dezembro de 1940, Código Penal, e do Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal, para instituir o Programa “Meu cantinho da Aprovação”, cujo objetivo é disponibilizar cabines de estudo gratuitas para estudantes.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2349771",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2356/2023",
+   "ementa": "Altera as Leis nºs 9.998, de 17 de agosto de 2000; 14.351, de 25 de maio de 2022 e 8.629, de 25 de fevereiro de 1993, e dá outras providências",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "infra_digital"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2360003",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2867/2023",
+   "ementa": "Estabelece garantias de privacidade\nquanto ao uso não autorizado de câmeras e microfones por aplicativos em\ndispositivos móveis e cria penalidades\npara sua violação",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2366495",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2937/2023",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, para estabelecer mecanismo de verificação de identidade, para pessoas jurídicas, dos perfis registrados em aplicações de internet que atuem como redes sociais.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2367535",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3903/2023",
+   "ementa": "Dispõe sobre a garantia de acesso à internet às comunidades indígenas e às comunidades remanescentes de quilombos.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2379031",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4718/2023",
+   "ementa": "Altera a Lei n.º 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para vedar, aos provedores de aplicações de redes sociais, a remoção de reclamações sobre produtos e serviços ofertados ou comercializados por meio da plataforma.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2391433",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -180,10 +259,30 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
   },
   {
    "proposicao": "PL 1847/2024",

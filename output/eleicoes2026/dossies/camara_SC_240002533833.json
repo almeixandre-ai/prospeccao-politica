@@ -83,7 +83,100 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 8810/2017",
+   "ementa": "Confere ao Município de Florianópolis (SC) o título de Capital Nacional da Inovação Tecnológica.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2155281",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 101/2023",
+   "ementa": "Modifica a Lei nº 8.248, de 23 de outubro de 1991 (Lei de Informática), estabelecendo prazo para que os bens de informática comercializados no País atendam a requisitos ambientais e de eficiência energética.",
+   "colegiado": "MESA",
+   "situacao": "Retirado pelo(a) Autor(a)",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2346771",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5297/2023",
+   "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para obrigar a disponibilização de informações acerca das faltas ao trabalho dos profissionais da educação.",
+   "colegiado": "CE",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2400886",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1559/2024",
+   "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para vedar o uso de inteligência artificial como parâmetro de referência e de métrica para o desenvolvimento de material pedagógico, bem como ferramenta de avaliação de desempenho escolar, a ser utilizado pela rede pública de ensino das unidades da Federação, e dá outras providências correlatas.",
+   "colegiado": "CE",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2430998",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2901/2024",
+   "ementa": "Altera a Lei nº 8.387, de 1991, para definir a destinação dos recursos aportados no Fundo Nacional de Ciência e Tecnologia (FNDCT) oriundos do cumprimento da contrapartida de investimento em pesquisa, desenvolvimento e inovação.",
+   "colegiado": "CCTI",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2449347",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1204/2025",
+   "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, para autorizar a destinação do FNDCT ao Programa Conhecimento Brasil - Atração e Fixação de Talentos.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2488830",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2963/2025",
+   "ementa": "Institui o Auxílio Nacional de Inclusão Digital Estudantil, destinado aos estudantes da rede pública de educação básica e superior, e dá outras providências.",
+   "colegiado": "CE",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2526903",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3377/2025",
+   "ementa": "Dispõe sobre o incentivo à valorização econômica dos saberes e dos produtos dos povos e das comunidades tradicionais.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2535617",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",

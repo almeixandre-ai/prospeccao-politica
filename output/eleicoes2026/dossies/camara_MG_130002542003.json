@@ -32,7 +32,62 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 10372/2018",
+   "ementa": "Introduz modificações na legislação penal e processual penal para aperfeiçoar o combate ao crime organizado, aos delitos de tráfico de drogas, tráfico de armas e milícia privada, aos crimes cometidos com violência ou grave ameaça e crimes hediondos, bem como para agilizar e modernizar a investigação criminal e a persecução penal.",
+   "colegiado": "MESA",
+   "situacao": "Transformado em Norma Jurídica",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2178170",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PDL 107/2024",
+   "ementa": "Susta os efeitos da Resolução Resolução GECEX nº 573/2024, do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), que revoga Ex-tarifários para Bens de Capital e Bens de Informática e Telecomunicação.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2424361",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1884/2025",
+   "ementa": "Dispõe sobre a regulação do uso de deepfakes, estabelece penalidades para usos prejudiciais e incentiva o desenvolvimento ético e responsável da tecnologia.",
+   "colegiado": "CDE",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2500594",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2302/2025",
+   "ementa": "Institui o sistema de estatísticas sobre operações aduaneiras como instrumento de fornecimento de dados relativos a operações de comércio exterior.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2508836",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4212/2025",
+   "ementa": "Dispõe sobre a proteção da liberdade econômica, da privacidade e da segurança dos cidadãos em relação à emissão e circulação de moedas digitais oficiais pelo Banco Central do Brasil, e dá outras providências.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2552299",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",

@@ -48,7 +48,137 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 2349/2023",
+   "ementa": "Altera a Lei n º 9.503, de 23 de setembro de 1997, para dispor sobre as sanções por divulgação, por parte do infrator, de condutas infracionais de risco praticadas por ele, nas redes sociais e outros meios de divulgação digitais, eletrônicos ou impressos.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2359926",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1861/2025",
+   "ementa": "Institui a Lei de Proteção aos Usuários de Telecomunicações.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2500291",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2247/2025",
+   "ementa": "Dispõe sobre a responsabilidade tributária das plataformas digitais e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2507861",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2387/2025",
+   "ementa": "\"Dispõe sobre a proibição do acesso de menores de 16 anos a redes sociais e plataformas digitais e dá outras providências.\"",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2511795",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3144/2025",
+   "ementa": "Esta lei proíbe a utilização de quaisquer tipos de redes sociais baseadas na internet, aplicativos via internet, inclusive de tráfego e navegação por “GPS” e quaisquer outros recursos via internet, para divulgação de locais de realização de “blitzes”, operações policiais, operações da Lei Seca e afins e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "tributacao",
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2529549",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3286/2025",
+   "ementa": "Institui o Sistema de Autocontrole Regulado das Plataformas Digitais, altera as Leis nº 12.965, de 23 de abril de 2014 – Marco Civil da Internet – para aperfeiçoar o regime jurídico da responsabilidade civil das plataformas em decorrência de conteúdo gerado por terceiros, e nº 8.389, de 30 de dezembro de 1991 – que institui o Conselho de Comunicação Social, e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2533062",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3410/2025",
+   "ementa": "Acrescenta o art. 130-B à Lei nº 9.472, de 16 de julho de 1997, para dispor sobre o cancelamento de contrato do Serviço Móvel Pessoal em casos de furto, roubo ou extravio de aparelho telefônico",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2536613",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4241/2025",
+   "ementa": "Institui o Cadastro Nacional de Migrantes e Refugiados (CNMR) e dispõe sobre a coleta, o tratamento e a integração de dados para formulação de políticas públicas de acolhimento humanitário, interiorização e inclusão social e produtiva no território nacional.",
+   "colegiado": "CREDN",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2552676",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5836/2025",
+   "ementa": "Dispõe sobre a proteção da liberdade de expressão e manifestação de agentes políticos no exercício do mandato, vedando práticas de censura em plataformas digitais e assegurando a prevalência da imunidade parlamentar material no ambiente digital.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2584701",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6560/2025",
+   "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para autorizar a divulgação de imagem e dados de adolescentes envolvidos em atos infracionais violentos ou quando necessária para sua identificação e localização.",
+   "colegiado": "CSPCCO",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2598563",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1010/2026",
+   "ementa": "Estabelece a integração obrigatória de dados entre os mecanismos de notificação de plataformas digitais e os órgãos de segurança pública para a prevenção da violência de gênero, do feminicídio e do discurso de ódio, e dá outras providências",
+   "colegiado": "CSPCCO",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2607445",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -135,7 +265,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Obstrução"

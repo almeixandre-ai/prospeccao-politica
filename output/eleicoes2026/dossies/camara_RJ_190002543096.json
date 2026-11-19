@@ -50,7 +50,135 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 1841/2015",
+   "ementa": "Altera os arts. 46, 68 e 98 da Lei nº 9.610, de 19 de fevereiro de 1998, que dispõe sobre direitos autorais, para proibir a cobrança de direitos autorais quando o autor e o intérprete ou executante são a mesma pessoa.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1302594",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5675/2019",
+   "ementa": "Altera a Lei n.º 9.610, de 19 de fevereiro de 1998, para caracterizar o aperfeiçoamento dos sistemas de apuração",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2226944",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3311/2020",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, para tornar crime o registro fotográfico ou cinematográfico não autorizado em estabelecimento de saúde e o art. 7º da Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências, para vedar o registro fotográfico ou cinematográfico não autorizado em estabelecimento de saúde.",
+   "colegiado": "CSAUDE",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2255176",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3431/2021",
+   "ementa": "Institui a Contribuição para o Desenvolvimento da Indústria Musical Brasileira - Condemúsica, com o objetivo de propiciar meios para fomentar o desenvolvimento da indústria fonográfica nacional e a composição, produção, distribuição e execução de obras musicais e lítero-musicais brasileiras e em língua portuguesa",
+   "colegiado": "CCULT",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2301505",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3545/2021",
+   "ementa": "Estabelece que a obra intelectual produzida em cumprimento a dever funcional, contrato de trabalho ou de prestação de serviços pertencerá a ambas as partes.",
+   "colegiado": "PLEN",
+   "situacao": "Arquivada",
+   "temas": [
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2302848",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 626/2024",
+   "ementa": "Destina 10% (dez por cento) dos recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT para o fomento de produtos, estratégias e tecnologias voltados para a telessaúde, a teleassistência e a educação à distância.",
+   "colegiado": "CSAUDE",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2419795",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4400/2024",
+   "ementa": "Altera a Lei n° 9.610, de 1998, Lei de Direito Autoral, de modo a regular os direitos conexos relativos a conteúdo multimídia, gerado por algoritmo, altamente realista, da voz ou imagem de intérprete ou executante identificável e que simule sua participação em obra audiovisual ou fonograma.",
+   "colegiado": "MESA",
+   "situacao": "Retirado pelo(a) Autor(a)",
+   "temas": [
+    "ia",
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2469586",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2013/2025",
+   "ementa": "Dispõe sobre as competências da Agência Nacional do Cinema-ANCINE, a incidência da Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional (CONDECINE), serviços de vídeo sobre demanda e as obrigações dos seus provedores em relação à divulgação de produções nacionais.",
+   "colegiado": "CCULT",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2503154",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2462/2025",
+   "ementa": "Veda o uso de ferramentas de inteligência artificial para a realização de dublagem de obras audiovisuais ofertadas comercialmente em salas de cinema, nas programações de televisão aberta e por assinatura e nos serviços de vídeo sob demanda e outras plataformas de distribuição de conteúdos audiovisuais pela internet.",
+   "colegiado": "CCULT",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2515281",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3395/2025",
+   "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para dispor sobre o cumprimento das finalidades culturais de emissoras de radiodifusão.",
+   "colegiado": "CCULT",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2536110",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6883/2025",
+   "ementa": "Dispõe sobre a dispensa do recolhimento de direitos autorais ao escritório central de arrecadação e distribuição de que trata o art. 99 da Lei nº 9.610, de 19 de fevereiro de 1998, nas execuções de obras em eventos sem fins lucrativos promovidos por entidades declaradas de utilidade pública, e dá outras providências.",
+   "colegiado": "CCULT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599486",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -147,7 +275,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Não"

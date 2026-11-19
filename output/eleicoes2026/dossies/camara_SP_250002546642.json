@@ -116,7 +116,198 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 1333/2015",
+   "ementa": "Dispõe sobre a transparência das informações criminais.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/1228082",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3531/2015",
+   "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, obrigando as prestadoras de telefonia móvel a garantir a cobertura do sinal de seus serviços em 100% dos trechos de rodovias federais e estaduais circunscritos na área geográfica objeto de sua outorga, e dá outras providências.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "temas": [
+    "infra_digital"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2052975",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 7316/2017",
+   "ementa": "Altera a Lei nº 12.468, de 26 de agosto de 2011, que regulamenta a profissão de taxista.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2128373",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 9348/2017",
+   "ementa": "Acrescenta dispositivo à Lei no 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente (ECA), para determinar ALERTA IMEDIATO em caso de desaparecimento de criança ou adolescente pelas empresas de telefonia e sites de redes sociais (Âmber Brasileiro).",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2166236",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 9663/2018",
+   "ementa": "Altera a Lei nº 9.659, de 27 de maio de 1998, para determinar que os conselhos de fiscalização de profissões regulamentadas mantenham listagem dos profissionais credenciados, contendo as informações que especifica.",
+   "colegiado": "CASP",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2168602",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 10481/2018",
+   "ementa": "Acrescenta o art. 45-A à Lei nº 12.527, de 18 de novembro de 2011, para estabelecer normas gerais de padronização a serem seguidas na publicação dos Diários Oficiais da União, dos Estados e dos Municípios.",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2180078",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 703/2020",
+   "ementa": "Acrescenta os parágrafos 1º e 2º artigo 10 da lei 7.783/ 1983 que \"Dispõe sobre o exercício do direito de greve, define as atividades essenciais, regula o atendimento das necessidades inadiáveis da comunidade\" para impossibilitar a suspensão de serviços essenciais por inadimplemento durante crises sanitárias nacionais e autoriza que o Executivo reduza por Decreto a alíquota de tributos incidentes sobre esses serviços enquanto perdurar a crise.",
+   "colegiado": "CTRAB",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2239476",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3968/2020",
+   "ementa": "Institui contribuição de intervenção no domínio econômico destinada à redistribuição dos riscos relativos aos serviços de transporte prestados por condutores rodoviários autônomos profissionais por meio de plataformas de comunicação em rede.",
+   "colegiado": "CTRAB",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2258793",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 331/2021",
+   "ementa": "“Dispõe sobre a obrigatoriedade de filmar, gravar e transmitir ao vivo, via internet em redes sociais as sessões públicas das licitações e facilitar o acesso ao sistema eletrônico ativo em cada licitação eletrônica do Poder Público e dá outras providências”.",
+   "colegiado": "CASP",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2269754",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 43/2023",
+   "ementa": "Extingue a bitributação sobre valores pagos a plataformas digitais que operem por aplicativos e concede remissão nos casos em que especifica.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2350932",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3539/2023",
+   "ementa": "Dispõe sobre medidas de proteção contra violência física, psicológica, patrimonial e moral ao entregador de aplicativo em serviço.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2373904",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 33/2024",
+   "ementa": "Estabelece instrumentos de ajustes nos contratos administrativos firmados antes da entrada em vigor das leis instituidoras dos tributos de que tratam o art. 156-A e o art. 195, V, da Constituição Federal, inclusive concessões públicas",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2422711",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 147/2024",
+   "ementa": "Dispõe sobre o enquadramento de startups no Simples Nacional.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "startups"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2458377",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PLP 226/2024",
+   "ementa": "Altera a Lei Complementar nº 182, de 1º de junho de 2021, para ampliar o valor da receita bruta para empresas enquadradas como startups.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "startups"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2479054",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4950/2024",
+   "ementa": "Altera a Lei nº 14.026, de 15 de julho de 2020, para criar um programa de incentivos à inovação tecnológica no setor de saneamento básico.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2480949",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4623/2025",
+   "ementa": "Altera a Lei no 10.820, de 17 de dezembro de 2003, para dispor sobre medidas para assegurar a identificação e a vontade inequívoca do tomador de crédito por meio digital, e dá outras providências.",
+   "colegiado": "CFT",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2561408",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 227/2026",
+   "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para prever meios tecnológicos como instrumentos de prevenção e combate à violência doméstica e familiar, e cria obrigação de as instituições financeiras e de pagamento disponibilizarem funcionalidade destinada ao acionamento de emergência.",
+   "colegiado": "CMULHER",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "tributacao"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2600647",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -193,7 +384,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Sim"

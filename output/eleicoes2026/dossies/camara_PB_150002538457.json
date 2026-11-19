@@ -171,7 +171,54 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 2175/2023",
+   "ementa": "Dispõe sobre o marco regulatório do metaverso e estabelece princípios, diretrizes e normas para o uso e a realização de negócios jurídicos nesse ambiente virtual.",
+   "colegiado": "CCTI",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "propriedade_intelectual"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2358606",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2923/2023",
+   "ementa": "Regulamenta o art. 8º, da Emenda Constitucional nº 126, de 21 de dezembro de 2022, com o objetivo de dar transparência à execução orçamentária e financeira dos recursos alocados pelo relator-geral do Projeto de Lei Orçamentária de 2023.",
+   "colegiado": "CASP",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2367088",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 714/2025",
+   "ementa": "Dispõe sobre a limitação do sigilo de informações pessoais na administração pública e altera a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação - LAI).",
+   "colegiado": "CASP",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2485604",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1243/2025",
+   "ementa": "Altera as Leis n° 9.279, de 1996, e 9.610, de 1998, de modo a permitir o registro de pseudônimo ou apelido notoriamente conhecidos de menores de dezoito anos, representados ou assistidos pelos pais ou representante legal bem como a fim de regular direitos conexos relativos a conteúdo multimídia gerado por inteligência artificial",
+   "colegiado": "CPASF",
+   "situacao": "Aguardando Designação - Aguardando Devolução de Relator(a) que deixou de ser Membro",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2490199",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -268,10 +315,30 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Sim"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
   },
   {
    "proposicao": "PL 1847/2024",

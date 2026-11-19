@@ -66,7 +66,40 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 6194/2025",
+   "ementa": "Dispõe sobre normas de prevenção, proteção, responsabilização civil e educação digital para o enfrentamento à misoginia em aplicações de internet.",
+   "colegiado": "CE",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "talentos"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2593228",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1181/2026",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer causa de aumento de pena no crime de feminicídio quando praticado após perseguição reiterada da vítima, por qualquer meio, inclusive digital, que evidencie contexto de vigilância, monitoramento, controle ou intimidação.",
+   "colegiado": "",
+   "situacao": "",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2609056",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1284/2026",
+   "ementa": "Dispõe sobre diretrizes para o exercício econômico-profissional da criação de conteúdo digital e da influência digital; estabelece deveres de transparência publicitária e parâmetros mínimos contratuais; dispõe sobre salvaguardas para crianças e adolescentes em atividade econômica digital; institui diretriz para criação do cadastro facultativo para fins de políticas públicas; e dá outras providências.",
+   "colegiado": "CPASF",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2610666",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",

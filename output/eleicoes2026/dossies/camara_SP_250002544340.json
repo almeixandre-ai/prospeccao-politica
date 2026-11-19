@@ -150,7 +150,20 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 117/2015",
+   "ementa": "Institui a Política Nacional de Pesquisa e Desenvolvimento Tecnológico do Setor Farmacêutico.",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Criação de Comissão Temporária",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/945506",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",

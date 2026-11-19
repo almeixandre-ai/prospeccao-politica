@@ -85,7 +85,193 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 3420/2019",
+   "ementa": "Altera o a Lei nº 13.709, de 14 de agosto de 2018, a fim de alterar o critério da multa aplicada às entidades de direito privado em caso de vazamento de dados pessoais.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2207337",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1799/2021",
+   "ementa": "Altera a Lei nº 14.129, de 29 de março de 2021, para incentivar a afixação, em vias e locais públicos, de QR Codes para acesso à prestação digital dos serviços públicos.",
+   "colegiado": "CASP",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "tributacao",
+    "governo_digital"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2282715",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3698/2023",
+   "ementa": "Altera a Lei nº 5.070, de 7 de julho de 1966, para dispor sobre identificação de ameaças e repressão de ilícitos contra a infraestrutura de telecomunicações, e dá outras providências.",
+   "colegiado": "CFT",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2375345",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4133/2023",
+   "ementa": "Dispõe sobre diretrizes para a formulação da política industrial, tecnológica e de comércio exterior brasileira.",
+   "colegiado": "MESA",
+   "situacao": "Aguardando Apreciação pelo Senado Federal",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2382675",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2051/2024",
+   "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para criminalizar a produção, divulgação ou compartilhamento de notícia falsa (fake news) que objetive alterar, distorcer ou corromper gravemente a verdade sobre tema relacionado à saúde, à educação, ao meio ambiente, à segurança pública, à economia nacional ou a outro interesse público relevante.",
+   "colegiado": "CINDRE",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2436470",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4308/2024",
+   "ementa": "Disciplina as stablecoins",
+   "colegiado": "CDE",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2467716",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4883/2024",
+   "ementa": "Altera a Lei nº 13.116, de 20 de abril de 2015, que estabelece normas gerais para implantação e compartilhamento da infraestrutura de telecomunicações, para estabelecer prazo máximo para a análise e emissão de licenças municipais, e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2479982",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2575/2025",
+   "ementa": "Dispõe sobre a obrigatoriedade de provedores de aplicações de internet manterem representação legal no território nacional.",
+   "colegiado": "NAJUR(SGM)",
+   "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2516979",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4032/2025",
+   "ementa": "Acrescenta dispositivos à Lei nº 9.472, de 16 de julho de 1997 (Lei Geral de Telecomunicações), para dispor sobre a identificação obrigatória de chamadas de telemarketing e estabelecer medidas de proteção ao consumidor contra práticas abusivas.",
+   "colegiado": "CCOM",
+   "situacao": "Pronta para Pauta",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2547158",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6826/2025",
+   "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para prever medidas de prevenção e remoção de conteúdos que explorem vulnerabilidades sociais com falsas promessas de enriquecimento.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599429",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6965/2025",
+   "ementa": "Cria o crime de sabotagem de infraestrutura de telecomunicações, estabelece medidas de rastreamento e controle de intervenções técnicas em redes e cabos, dispõe sobre cooperação obrigatória entre órgãos de fiscalização e concorrência e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599569",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6988/2025",
+   "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025, que dispõe sobre a proteção de crianças e adolescentes em ambientes digitais (Estatuto Digital da Criança e do Adolescente), para disciplinar o funcionamento de servidores online e de ambientes virtuais interativos, com vistas à proteção de crianças e adolescentes.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599592",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 7019/2025",
+   "ementa": "Cria o Fundo Nacional de Substituição de Infraestrutura Aérea por Redes Subterrâneas – FNSRAS, estabelece suas finalidades, fontes de recursos e regras de aplicação, e dá outras providências.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599623",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 323/2026",
+   "ementa": "Cria o Fundo Nacional de Inovação, Desenvolvimento, Massificação e Universalização em Educação Digital e Inteligência Artificial (FinEducaDigital).",
+   "colegiado": "CCOM",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "ia",
+    "incentivos_pd",
+    "talentos"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2601059",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 687/2026",
+   "ementa": "Altera a Lei nº 15.211, de 2025 (ECA Digital), para instituir mecanismos de integridade algorítmica, limites ao design persuasivo e sistema de alerta parental em ambientes de mensageria.",
+   "colegiado": "CCOM",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2604036",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1406/2026",
+   "ementa": "Altera a Lei nº 8.894, de 21 de junho de 1994, para estabelecer princípios aplicáveis à alteração das alíquotas do IOF e para isentar do imposto as operações financeiras relativas aos ativos incentivados que especifica.",
+   "colegiado": "CDE",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2611958",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2917/2026",
+   "ementa": "Institui o Marco Legal da Soberania Financeira Digital Brasileira e da Proteção das Infraestruturas Estratégicas Nacionais de Pagamentos, estabelece a Política Nacional de Soberania Financeira Digital, dispõe sobre a proteção dos sistemas nacionais de pagamentos digitais, a defesa dos usuários, a prevenção de fraudes financeiras digitais, a inclusão financeira territorial, a proteção de dados financeiros estratégicos e dá outras providências.",
+   "colegiado": "CDE",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2630308",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -182,7 +368,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Não"

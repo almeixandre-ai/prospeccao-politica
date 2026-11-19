@@ -32,7 +32,50 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 4595/2023",
+   "ementa": "Dispõe sobre a criação do selo Empresa Amiga da Saúde no Brasil.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2389549",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2240/2024",
+   "ementa": "Estabelece o fornecimento gratuito de acesso à internet para residências com crianças e adolescentes matriculados em escolas públicas e para cidadãos de baixa renda participantes do Bolsa Família, auxílio emergencial e outros programas sociais vinculados ao Cadastro Único do Governo Federal. Inclui mecanismos de compensação para as empresas de telecomunicações por meio de abatimentos em contribuições ao Fundo de Universalização das Telecomunicações (Fust) e ao Fundo de Fiscalização das Telecomunicações (Fistel).",
+   "colegiado": "CPASF",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2438835",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 3749/2024",
+   "ementa": "Altera o Código Civil (Lei nº 10.406, de 10 de janeiro de 2002) para dispor sobre a nulidade de contratos de apostas e jogos de azar firmados por menores de 18 anos, estabelece a responsabilidade civil das empresas operadoras de jogos de azar, e torna ilícita a promoção de publicidade de apostas e jogos de azar destinada a menores de 18 anos.",
+   "colegiado": "CPASF",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2459447",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 2310/2025",
+   "ementa": "Regulamenta a participação de crianças e adolescentes como influenciadores digitais e criadores de conteúdo monetizado em plataformas digitais e dá outras providências.",
+   "colegiado": "MESA",
+   "situacao": "Arquivada",
+   "temas": [
+    "plataformas"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2508900",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 4675/2025",
@@ -79,7 +122,27 @@
    "tema": "tributacao",
    "nota": "Reoneração gradual da folha",
    "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
    "descricao": "Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330.",
+   "aprovacao": 0,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Não"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 43; Não: 243; Total: 286.",
    "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Não"

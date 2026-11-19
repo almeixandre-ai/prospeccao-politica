@@ -151,7 +151,91 @@
    "casa": "camara"
   }
  ],
- "relatorias_agenda": [],
+ "relatorias_agenda": [
+  {
+   "identificacao": "PL 303/2024",
+   "ementa": "Altera o art. 6º da Lei nº 9.279, de 14 de maio de 1996, para dispor sobre a titularidade de invenções geradas de forma autônoma por sistemas de inteligência artificial.",
+   "colegiado": "CCJC",
+   "situacao": "Aguardando Designação de Relator(a)",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2418048",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 330/2024",
+   "ementa": "Altera a Lei no 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para determinar a obrigatoriedade de obtenção de consentimento do médico e do paciente para o tratamento de dados constantes em documentos emitidos em decorrência de atividades privativas de médico.",
+   "colegiado": "CSAUDE",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2418221",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 4587/2024",
+   "ementa": "Altera a Lei nº 9.998, de 17 de agosto de 2000, para permitir o uso dos recursos do Fundo de Universalização dos Serviços de Telecomunicações para financiamento de programas, projetos, planos, atividades, iniciativas e ações relativas à telessaúde.",
+   "colegiado": "CSAUDE",
+   "situacao": "Aguardando Parecer",
+   "temas": [],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2473132",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5548/2025",
+   "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Dados Pessoais – LGPD), disciplinando o tratamento de dados preditivos de saúde por sistemas de inteligência artificial e congêneres.",
+   "colegiado": "CSAUDE",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia",
+    "dados"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2579218",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 5810/2025",
+   "ementa": "Altera a Lei nº 9.279, de 14 de maio de 1996 (Lei de Propriedade Industrial), para instituir mecanismo de ajuste do prazo de vigência de patentes em casos de atraso na tramitação não imputável ao titular, e dá outras providências.",
+   "colegiado": "CICS",
+   "situacao": "Pronta para Pauta",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2584295",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 6663/2025",
+   "ementa": "Cria o Selo Empresa Transparente em Inteligência Artificial, certificando organizações que adotem práticas claras, éticas e auditáveis no uso de algoritmos.",
+   "colegiado": "CICS",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "ia"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2599040",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  },
+  {
+   "identificacao": "PL 1632/2026",
+   "ementa": "Institui o Programa Nacional de Retenção de Talentos Científicos e Incentivo à Inovação Industrial - (Programa de Valorização do Capital Intelectual Brasileiro - PVCIB) e dá outras providências.",
+   "colegiado": "CICS",
+   "situacao": "Aguardando Parecer",
+   "temas": [
+    "incentivos_pd"
+   ],
+   "url": "https://www.camara.leg.br/propostas-legislativas/2613804",
+   "casa": "camara",
+   "fonte": "último relator (arquivo anual da Câmara)"
+  }
+ ],
  "votos_chave": [
   {
    "proposicao": "PL 2630/2020",
@@ -230,6 +314,16 @@
    "data": "2024-09-11",
    "descricao": "Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.  Sim: 253; Não: 67; Abstenção: 4; Total: 324.",
    "aprovacao": 1,
+   "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
+   "voto": "Obstrução"
+  },
+  {
+   "proposicao": "PL 1847/2024",
+   "tema": "tributacao",
+   "nota": "Reoneração gradual da folha",
+   "data": "2024-09-11",
+   "descricao": "Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295.",
+   "aprovacao": 0,
    "url": "https://www.camara.leg.br/propostas-legislativas/2454704",
    "voto": "Obstrução"
   },
