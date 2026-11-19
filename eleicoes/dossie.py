@@ -124,6 +124,57 @@ def resolver_votacoes_chave(cfg: list[dict]) -> list[dict]:
     return votacoes
 
 
+URL_BULK = "https://dadosabertos.camara.leg.br/arquivos/proposicoes/csv/proposicoes-{ano}.csv"
+ANOS_BULK = range(2015, date.today().year + 1)
+SIGLAS_REL_CAMARA = {"PL", "PLP", "PEC", "MPV", "PDL"}
+
+
+def relatorias_camara(agenda: dict, anos=ANOS_BULK) -> dict[str, list[dict]]:
+    """Último relator designado de cada proposição (arquivos anuais da Câmara) → id do deputado.
+
+    A API REST não filtra por relator; os arquivos em lote trazem `ultimoStatus_uriRelator`.
+    Limitação: só o relator mais recente de cada matéria.
+    """
+    import csv as _csv
+    import io as _io
+    from .familiaridade import eixos_da_ementa
+
+    por_dep: dict[str, list[dict]] = {}
+    for ano in anos:
+        try:
+            r = requests.get(URL_BULK.format(ano=ano), timeout=300)
+            r.raise_for_status()
+        except requests.RequestException as e:
+            log.warning("Arquivo de proposições %s indisponível: %s", ano, e)
+            continue
+        texto = r.content.decode("utf-8-sig", errors="replace")
+        leitor = _csv.DictReader(_io.StringIO(texto), delimiter=";")
+        col_rel = next((c for c in (leitor.fieldnames or []) if "urirelator" in c.lower().replace("_", "")), None)
+        if not col_rel:
+            log.warning("proposicoes-%s.csv sem coluna de relator: %s", ano, leitor.fieldnames)
+            continue
+        n = 0
+        for row in leitor:
+            uri = (row.get(col_rel) or "").strip()
+            if not uri or row.get("siglaTipo") not in SIGLAS_REL_CAMARA:
+                continue
+            ementa = row.get("ementa") or ""
+            texto_tema = f"{ementa} {row.get('keywords') or ''}"
+            if not (temas_da_ementa(texto_tema, agenda) or eixos_da_ementa(texto_tema)):
+                continue
+            dep = uri.rstrip("/").rsplit("/", 1)[-1]
+            por_dep.setdefault(dep, []).append({
+                "identificacao": f"{row['siglaTipo']} {row['numero']}/{row['ano']}", "ementa": ementa,
+                "colegiado": row.get("ultimoStatus_siglaOrgao"), "situacao": row.get("ultimoStatus_descricaoSituacao"),
+                "temas": temas_da_ementa(texto_tema, agenda),
+                "url": f"https://www.camara.leg.br/propostas-legislativas/{row['id']}", "casa": "camara",
+                "fonte": "último relator (arquivo anual da Câmara)",
+            })
+            n += 1
+        log.info("proposicoes-%s.csv: %d relatorias aderentes", ano, n)
+    return por_dep
+
+
 # ── Senado ───────────────────────────────────────────────────────────────────
 
 def _url_senado(ident: str) -> str:
@@ -162,12 +213,13 @@ def selecionar(prioridades: list[str], chaves: list[str] | None) -> list[dict]:
     return sel
 
 
-def montar(p: dict, agenda: dict, votacoes: list[dict]) -> dict:
+def montar(p: dict, agenda: dict, votacoes: list[dict], rel_camara: dict | None = None) -> dict:
     interesse_arq = DIR_INTERESSE / f"{p['chave']}.json"
     interesse = json.loads(interesse_arq.read_text(encoding="utf-8")) if interesse_arq.exists() else {}
     props, rels, votos = [], [], []
     if p.get("id_camara"):
         props += proposicoes_camara(p["id_camara"], agenda)
+        rels += (rel_camara or {}).get(str(p["id_camara"]), [])
         for v in votacoes:
             if (voto := v["votos"].get(str(p["id_camara"]))):
                 votos.append({k: v[k] for k in ("proposicao", "tema", "nota", "data", "descricao", "aprovacao", "url")}
@@ -205,9 +257,11 @@ def main(argv: list[str] | None = None) -> int:
     (DIR_DOSSIES / "_votacoes_chave.json").write_text(
         json.dumps([{k: v for k, v in x.items() if k != "votos"} | {"n_votos": len(x["votos"])} for x in votacoes],
                    ensure_ascii=False, indent=1), encoding="utf-8")
+    rel_camara = relatorias_camara(agenda)
+    log.info("Relatorias Câmara: %d deputados com relatoria aderente", len(rel_camara))
     resumo = []
     for i, p in enumerate(sel, 1):
-        d = montar(p, agenda, votacoes)
+        d = montar(p, agenda, votacoes, rel_camara)
         (DIR_DOSSIES / f"{p['chave']}.json").write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
         resumo.append((p["chave"], len(d["proposicoes_agenda"]), len(d["relatorias_agenda"]), len(d["votos_chave"])))
         log.info("[%d/%d] %s: %d proposições, %d relatorias, %d votos-chave", i, len(sel), p["nome_urna"], *resumo[-1][1:])
